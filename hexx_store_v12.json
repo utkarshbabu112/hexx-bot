@@ -782,20 +782,40 @@
     "8447532330": {
       "id": 8447532330,
       "firstName": "Sharef",
-      "credits": 1,
+      "credits": 0,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
-      "dailyLookupsUsed": 1,
-      "totalLookups": 1,
+      "dailyLookupsUsed": 2,
+      "totalLookups": 2,
       "referralCode": "HEX532330",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-20T11:36:23.167Z",
-      "lastActiveAt": "2026-10-20T11:37:14.561Z",
+      "lastActiveAt": "2026-10-20T11:42:30.567Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "c54dcf2d-b1fe-468f-957b-2fce917e2c23",
+          "queryNumber": "7354838377",
+          "timestamp": "2026-10-20T11:41:49.574Z",
+          "source": "bot",
+          "userId": 8447532330,
+          "userName": "Sharef",
+          "resultSummary": {
+            "name": "Tarnnum Bano",
+            "truecallerName": "Salu",
+            "fatherName": "MOHAMMAD YUNUS",
+            "mobile": "7354838377",
+            "altMobile": "9589909140",
+            "circle": "JIO MP",
+            "idNumber": "880480239436",
+            "email": "Not found",
+            "address": "D/O Ajimuddin, 117/KH, motitalab para ramaiya ward 17, jagdalpur, JAGDALPUR, Bastar, Bastar, Chhattisgarh, 494001",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "f74766a4-3e87-4ddf-b37a-f766e4bf783c",
           "queryNumber": "9303340905",
@@ -817,9 +837,113 @@
           }
         }
       ],
-      "lastBotMessageId": 7643,
+      "lastBotMessageId": 7647,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-20"
+    },
+    "8935237963": {
+      "id": 8935237963,
+      "firstName": "Arnav",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 2,
+      "totalLookups": 2,
+      "referralCode": "HEX237963",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-20T11:42:49.895Z",
+      "lastActiveAt": "2026-10-20T11:43:38.334Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "491108cb-e1ad-48b6-b178-2c702fa7f372",
+          "queryNumber": "9723340040",
+          "timestamp": "2026-10-20T11:43:40.026Z",
+          "source": "bot",
+          "userId": 8935237963,
+          "userName": "Arnav",
+          "resultSummary": {
+            "name": "SABBIR RAHIMBHAI PARMAR",
+            "truecallerName": "Sabbir Hussain",
+            "fatherName": "RAHIMBHAI",
+            "mobile": "9723340040",
+            "altMobile": "Not found",
+            "circle": "AIRTEL GUJARAT",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "44 DHORAPA SUDANI PANE LAGI NE VASAVAD 1 TA GONDAL RAJKOT",
+            "totalRecords": 3
+          }
+        },
+        {
+          "id": "8a41deec-3a1e-4466-87f5-04b0f849c3a2",
+          "queryNumber": "6352915638",
+          "timestamp": "2026-10-20T11:43:06.529Z",
+          "source": "bot",
+          "userId": 8935237963,
+          "userName": "Arnav",
+          "resultSummary": {
+            "name": "Parmar Sabbir Rahimbhai",
+            "truecallerName": "Sabbir Parmar",
+            "fatherName": "Parmar Rahimbhai Ganibhai",
+            "mobile": "6352915638",
+            "altMobile": "9723340040",
+            "circle": "JIO GUJARAT",
+            "idNumber": "866015062359",
+            "email": "Not found",
+            "address": "S/O Parmar Rahimbhai Ganibhai Vasavad main bazar road Vasavad Gondal Rajkot Gujarat 364490",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastBotMessageId": 7655,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-20"
+    },
+    "6415125910": {
+      "id": 6415125910,
+      "firstName": "𝐀𝐃𝐌𝐈𝐍 𝐁𝐀𝐁𝐔",
+      "username": "online442756",
+      "credits": 2,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 0,
+      "totalLookups": 0,
+      "referralCode": "HEX125910",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-20T11:43:30.138Z",
+      "lastActiveAt": "2026-10-20T11:43:55.792Z",
+      "isBanned": false,
+      "history": [],
+      "lastBotMessageId": 7657,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-20"
+    },
+    "8675079758": {
+      "id": 8675079758,
+      "firstName": ".",
+      "credits": 2,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 0,
+      "totalLookups": 0,
+      "referralCode": "HEX079758",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-20T11:45:37.359Z",
+      "lastActiveAt": "2026-10-20T11:45:37.359Z",
+      "isBanned": false,
+      "history": [],
+      "lastBotMessageId": 7659,
+      "lastBotMessageHasPhoto": false
     }
   },
   "orders": {
@@ -1588,6 +1712,66 @@
   },
   "globalHistory": [
     {
+      "id": "491108cb-e1ad-48b6-b178-2c702fa7f372",
+      "queryNumber": "9723340040",
+      "timestamp": "2026-10-20T11:43:40.026Z",
+      "source": "bot",
+      "userId": 8935237963,
+      "userName": "Arnav",
+      "resultSummary": {
+        "name": "SABBIR RAHIMBHAI PARMAR",
+        "truecallerName": "Sabbir Hussain",
+        "fatherName": "RAHIMBHAI",
+        "mobile": "9723340040",
+        "altMobile": "Not found",
+        "circle": "AIRTEL GUJARAT",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "44 DHORAPA SUDANI PANE LAGI NE VASAVAD 1 TA GONDAL RAJKOT",
+        "totalRecords": 3
+      }
+    },
+    {
+      "id": "8a41deec-3a1e-4466-87f5-04b0f849c3a2",
+      "queryNumber": "6352915638",
+      "timestamp": "2026-10-20T11:43:06.529Z",
+      "source": "bot",
+      "userId": 8935237963,
+      "userName": "Arnav",
+      "resultSummary": {
+        "name": "Parmar Sabbir Rahimbhai",
+        "truecallerName": "Sabbir Parmar",
+        "fatherName": "Parmar Rahimbhai Ganibhai",
+        "mobile": "6352915638",
+        "altMobile": "9723340040",
+        "circle": "JIO GUJARAT",
+        "idNumber": "866015062359",
+        "email": "Not found",
+        "address": "S/O Parmar Rahimbhai Ganibhai Vasavad main bazar road Vasavad Gondal Rajkot Gujarat 364490",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "c54dcf2d-b1fe-468f-957b-2fce917e2c23",
+      "queryNumber": "7354838377",
+      "timestamp": "2026-10-20T11:41:49.574Z",
+      "source": "bot",
+      "userId": 8447532330,
+      "userName": "Sharef",
+      "resultSummary": {
+        "name": "Tarnnum Bano",
+        "truecallerName": "Salu",
+        "fatherName": "MOHAMMAD YUNUS",
+        "mobile": "7354838377",
+        "altMobile": "9589909140",
+        "circle": "JIO MP",
+        "idNumber": "880480239436",
+        "email": "Not found",
+        "address": "D/O Ajimuddin, 117/KH, motitalab para ramaiya ward 17, jagdalpur, JAGDALPUR, Bastar, Bastar, Chhattisgarh, 494001",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "f74766a4-3e87-4ddf-b37a-f766e4bf783c",
       "queryNumber": "9303340905",
       "timestamp": "2026-10-20T11:36:38.257Z",
@@ -2142,6 +2326,54 @@
     }
   ],
   "logs": [
+    {
+      "id": "c36b50e6-7d37-4c5b-8239-ddaca7586a71",
+      "timestamp": "2026-10-20T11:45:37.640Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8675079758,
+      "userName": ".",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "a5b780e4-a2c0-43b1-ac7a-b393e9b13e81",
+      "timestamp": "2026-10-20T11:43:40.026Z",
+      "type": "LOOKUP",
+      "userId": 8935237963,
+      "userName": "Arnav",
+      "summary": "Looked up 9723340040 (SABBIR RAHIMBHAI PARMAR)"
+    },
+    {
+      "id": "ca37ba6d-6160-4f82-8a70-02eb71508f3e",
+      "timestamp": "2026-10-20T11:43:30.435Z",
+      "type": "BOT_MESSAGE",
+      "userId": 6415125910,
+      "userName": "𝐀𝐃𝐌𝐈𝐍 𝐁𝐀𝐁𝐔",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "9239f87f-29aa-4804-b053-5198d5572194",
+      "timestamp": "2026-10-20T11:43:06.529Z",
+      "type": "LOOKUP",
+      "userId": 8935237963,
+      "userName": "Arnav",
+      "summary": "Looked up 6352915638 (Parmar Sabbir Rahimbhai)"
+    },
+    {
+      "id": "f624f3cf-532c-47dd-8571-84f5867f2b2d",
+      "timestamp": "2026-10-20T11:42:50.224Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8935237963,
+      "userName": "Arnav",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "fcd9ea58-eef5-4829-b0d1-e23e6b02fc75",
+      "timestamp": "2026-10-20T11:41:49.574Z",
+      "type": "LOOKUP",
+      "userId": 8447532330,
+      "userName": "Sharef",
+      "summary": "Looked up 7354838377 (Tarnnum Bano)"
+    },
     {
       "id": "23a69da9-614b-4615-891c-2566d21e484f",
       "timestamp": "2026-10-20T11:36:38.257Z",
@@ -3293,57 +3525,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "ed83f10e-4106-4f1c-8414-f9e345b20a73",
-      "timestamp": "2026-10-19T12:33:52.056Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "eff35008-fa0d-4e85-881b-81e743a256c4",
-      "timestamp": "2026-10-19T12:33:51.695Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "091473d6-135c-4609-99eb-4f968dc658fc",
-      "timestamp": "2026-10-19T12:33:51.438Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "6dbdd2a4-b3bd-4f20-b693-bb2b57b6b630",
-      "timestamp": "2026-10-19T12:33:51.144Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "fd8d3fb0-e927-4767-8858-9f42f96205aa",
-      "timestamp": "2026-10-19T12:33:50.957Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "1d2672a7-29d0-46d5-b6b7-40ea8d1022db",
-      "timestamp": "2026-10-19T12:33:50.939Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168808891,
+  "lastTelegramUpdateId": 168808903,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
