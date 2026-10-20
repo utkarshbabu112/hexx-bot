@@ -700,20 +700,40 @@
     "8929566190": {
       "id": 8929566190,
       "firstName": "Rohan",
-      "credits": 1,
+      "credits": 0,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
-      "dailyLookupsUsed": 1,
-      "totalLookups": 1,
+      "dailyLookupsUsed": 2,
+      "totalLookups": 2,
       "referralCode": "HEX566190",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-20T11:23:00.549Z",
-      "lastActiveAt": "2026-10-20T11:23:11.689Z",
+      "lastActiveAt": "2026-10-20T11:29:10.160Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "3834d939-dc06-4eca-8795-17fcf2fe1d5c",
+          "queryNumber": "9691404892",
+          "timestamp": "2026-10-20T11:29:11.745Z",
+          "source": "bot",
+          "userId": 8929566190,
+          "userName": "Rohan",
+          "resultSummary": {
+            "name": "Firoj Khan",
+            "truecallerName": "Arshi",
+            "fatherName": "Shri Jameel Khan",
+            "mobile": "9691404892",
+            "altMobile": "8878282500",
+            "circle": "JIO MP",
+            "idNumber": "376935472875",
+            "email": "Not found",
+            "address": "S/O Shri Jameel Khan, ward no.35, Shankarpur Danda Jheengura Kamlaganj, Shankarpur Danda Jheengura Kamlaganj, Shivpuri, Shivpuri, Madhya Pradesh, 473551",
+            "totalRecords": 2
+          }
+        },
         {
           "id": "3806f742-d2e2-4f06-948d-5a26cb7fe972",
           "queryNumber": "8574131059",
@@ -735,7 +755,7 @@
           }
         }
       ],
-      "lastBotMessageId": 7630,
+      "lastBotMessageId": 7632,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-20"
     }
@@ -1482,6 +1502,26 @@
   },
   "globalHistory": [
     {
+      "id": "3834d939-dc06-4eca-8795-17fcf2fe1d5c",
+      "queryNumber": "9691404892",
+      "timestamp": "2026-10-20T11:29:11.745Z",
+      "source": "bot",
+      "userId": 8929566190,
+      "userName": "Rohan",
+      "resultSummary": {
+        "name": "Firoj Khan",
+        "truecallerName": "Arshi",
+        "fatherName": "Shri Jameel Khan",
+        "mobile": "9691404892",
+        "altMobile": "8878282500",
+        "circle": "JIO MP",
+        "idNumber": "376935472875",
+        "email": "Not found",
+        "address": "S/O Shri Jameel Khan, ward no.35, Shankarpur Danda Jheengura Kamlaganj, Shankarpur Danda Jheengura Kamlaganj, Shivpuri, Shivpuri, Madhya Pradesh, 473551",
+        "totalRecords": 2
+      }
+    },
+    {
       "id": "3806f742-d2e2-4f06-948d-5a26cb7fe972",
       "queryNumber": "8574131059",
       "timestamp": "2026-10-20T11:23:13.422Z",
@@ -1977,6 +2017,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "b984f698-6a20-4f8e-98e4-61c362eef3ca",
+      "timestamp": "2026-10-20T11:29:11.745Z",
+      "type": "LOOKUP",
+      "userId": 8929566190,
+      "userName": "Rohan",
+      "summary": "Looked up 9691404892 (Firoj Khan)"
+    },
     {
       "id": "70379140-a171-4319-ad14-955680d30c04",
       "timestamp": "2026-10-20T11:23:13.422Z",
@@ -3168,17 +3216,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "973a4379-c169-4c93-b9fb-b06edbf5de60",
-      "timestamp": "2026-10-19T12:33:49.314Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168808874,
+  "lastTelegramUpdateId": 168808875,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
