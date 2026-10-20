@@ -170,6 +170,67 @@
     "telegramFileId": "AgACAgQAAxkDAAIMqWrV7unlWST0C6awAS6YD4s4uoq1AAJmD2sb3iGsUuvpp_StfsSaAQADAgADdwADPQQ"
   },
   "users": {
+    "994758970": {
+      "id": 994758970,
+      "firstName": "DEEPAK SINGH",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 2,
+      "totalLookups": 2,
+      "referralCode": "HEX758970",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-20T14:03:36.555Z",
+      "lastActiveAt": "2026-10-20T14:04:56.363Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "3fe2f8af-67ff-43f8-a5e7-f21108d96684",
+          "queryNumber": "7210060007",
+          "timestamp": "2026-10-20T14:04:37.101Z",
+          "source": "bot",
+          "userId": 994758970,
+          "userName": "DEEPAK SINGH",
+          "resultSummary": {
+            "name": "Akhilesh Kumar",
+            "fatherName": "Vijay Kishor Singh",
+            "mobile": "7210060007",
+            "altMobile": "9899995993",
+            "circle": "AIRTEL DELHI",
+            "idNumber": "xxxxxxxx3945",
+            "email": "Not found",
+            "address": "S/O Vijay Kishor Singh, House N0-6 G-Block, Gali N0-9, Sangam Vihar New Delhi , South DelhiSouth Delhi, Delhi, 110062",
+            "totalRecords": 3
+          }
+        },
+        {
+          "id": "1319d54b-9ca5-4885-913a-d23cefd923ea",
+          "queryNumber": "9213175217",
+          "timestamp": "2026-10-20T14:04:03.384Z",
+          "source": "bot",
+          "userId": 994758970,
+          "userName": "DEEPAK SINGH",
+          "resultSummary": {
+            "name": "Ankit Sagar",
+            "truecallerName": "Ankit v",
+            "fatherName": "Prahlad  Singh",
+            "mobile": "9213175217",
+            "altMobile": "7210050007",
+            "circle": "AIRTEL DELHI",
+            "idNumber": "842980877447",
+            "email": "Not found",
+            "address": "S/O Prahlad Singh, House N0 2 Block G , GAli N0 9, Sangam vihar New Delhi , South DelhiSouth Delhi, Delhi, 110062",
+            "totalRecords": 4
+          }
+        }
+      ],
+      "lastBotMessageId": 7681,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-20"
+    },
     "6672896116": {
       "id": 6672896116,
       "firstName": "UHTKARSH",
@@ -1049,6 +1110,26 @@
       "lastBotMessageId": 7673,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-20"
+    },
+    "7639119817": {
+      "id": 7639119817,
+      "firstName": "Yadav ji",
+      "credits": 2,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 0,
+      "totalLookups": 0,
+      "referralCode": "HEX119817",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-20T14:01:59.585Z",
+      "lastActiveAt": "2026-10-20T14:02:54.028Z",
+      "isBanned": false,
+      "history": [],
+      "lastBotMessageId": 1111,
+      "lastBotMessageHasPhoto": true
     }
   },
   "orders": {
@@ -1840,6 +1921,45 @@
   },
   "globalHistory": [
     {
+      "id": "3fe2f8af-67ff-43f8-a5e7-f21108d96684",
+      "queryNumber": "7210060007",
+      "timestamp": "2026-10-20T14:04:37.101Z",
+      "source": "bot",
+      "userId": 994758970,
+      "userName": "DEEPAK SINGH",
+      "resultSummary": {
+        "name": "Akhilesh Kumar",
+        "fatherName": "Vijay Kishor Singh",
+        "mobile": "7210060007",
+        "altMobile": "9899995993",
+        "circle": "AIRTEL DELHI",
+        "idNumber": "xxxxxxxx3945",
+        "email": "Not found",
+        "address": "S/O Vijay Kishor Singh, House N0-6 G-Block, Gali N0-9, Sangam Vihar New Delhi , South DelhiSouth Delhi, Delhi, 110062",
+        "totalRecords": 3
+      }
+    },
+    {
+      "id": "1319d54b-9ca5-4885-913a-d23cefd923ea",
+      "queryNumber": "9213175217",
+      "timestamp": "2026-10-20T14:04:03.384Z",
+      "source": "bot",
+      "userId": 994758970,
+      "userName": "DEEPAK SINGH",
+      "resultSummary": {
+        "name": "Ankit Sagar",
+        "truecallerName": "Ankit v",
+        "fatherName": "Prahlad  Singh",
+        "mobile": "9213175217",
+        "altMobile": "7210050007",
+        "circle": "AIRTEL DELHI",
+        "idNumber": "842980877447",
+        "email": "Not found",
+        "address": "S/O Prahlad Singh, House N0 2 Block G , GAli N0 9, Sangam vihar New Delhi , South DelhiSouth Delhi, Delhi, 110062",
+        "totalRecords": 4
+      }
+    },
+    {
       "id": "83ff8cd6-513e-42cb-8405-b3a0fc43690b",
       "queryNumber": "8000796117",
       "timestamp": "2026-10-20T12:44:18.854Z",
@@ -2513,6 +2633,30 @@
     }
   ],
   "logs": [
+    {
+      "id": "42fe926d-1ed5-446b-acd7-eb3cfa29ec31",
+      "timestamp": "2026-10-20T14:04:37.101Z",
+      "type": "LOOKUP",
+      "userId": 994758970,
+      "userName": "DEEPAK SINGH",
+      "summary": "Looked up 7210060007 (Akhilesh Kumar)"
+    },
+    {
+      "id": "fb0e1b45-ce1b-4fc5-a400-7b303c7df32b",
+      "timestamp": "2026-10-20T14:04:03.384Z",
+      "type": "LOOKUP",
+      "userId": 994758970,
+      "userName": "DEEPAK SINGH",
+      "summary": "Looked up 9213175217 (Ankit Sagar)"
+    },
+    {
+      "id": "6d1ea812-1be2-4f4d-8e95-991119abc157",
+      "timestamp": "2026-10-20T14:03:36.868Z",
+      "type": "BOT_MESSAGE",
+      "userId": 994758970,
+      "userName": "DEEPAK SINGH",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "08096ac4-fbf4-43ed-9bbc-9c0ab55c9439",
       "timestamp": "2026-10-20T13:19:04.364Z",
@@ -3688,33 +3832,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "4f2c21cb-bb22-4562-a6ac-a86007228983",
-      "timestamp": "2026-10-19T12:33:54.478Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "a1ff60ca-1cf2-4f7b-b7f2-205517c7311a",
-      "timestamp": "2026-10-19T12:33:54.212Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "d686b7e6-1822-4dd9-b1c0-57bf4d94ff96",
-      "timestamp": "2026-10-19T12:33:53.915Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168808927,
+  "lastTelegramUpdateId": 168808939,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
