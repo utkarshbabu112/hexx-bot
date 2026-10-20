@@ -969,20 +969,40 @@
     "8499830773": {
       "id": 8499830773,
       "firstName": "𝒪𝓂𝓀𝒶𝓇_𝒫𝒶𝓉𝒾𝓁.",
-      "credits": 1,
+      "credits": 0,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
-      "dailyLookupsUsed": 1,
-      "totalLookups": 1,
+      "dailyLookupsUsed": 2,
+      "totalLookups": 2,
       "referralCode": "HEX830773",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-20T12:39:34.877Z",
-      "lastActiveAt": "2026-10-20T12:39:57.797Z",
+      "lastActiveAt": "2026-10-20T12:44:29.274Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "83ff8cd6-513e-42cb-8405-b3a0fc43690b",
+          "queryNumber": "8000796117",
+          "timestamp": "2026-10-20T12:44:18.854Z",
+          "source": "bot",
+          "userId": 8499830773,
+          "userName": "𝒪𝓂𝓀𝒶𝓇_𝒫𝒶𝓉𝒾𝓁.",
+          "resultSummary": {
+            "name": "Jay Jayantibhai Patel",
+            "truecallerName": "vad nagar amul dilicious",
+            "fatherName": "Jayantibhai  Patel",
+            "mobile": "8000796117",
+            "altMobile": "8000796117",
+            "circle": "AIRTEL GUJARAT",
+            "idNumber": "929492514939",
+            "email": "Not found",
+            "address": "00 shrii nilkath timber mart sipor road mahesana Vadnagar",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "0ff796a1-2b54-499a-b8a6-7a463b127330",
           "queryNumber": "6003632030",
@@ -1004,7 +1024,7 @@
           }
         }
       ],
-      "lastBotMessageId": 7663,
+      "lastBotMessageId": 7669,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-20"
     }
@@ -1771,9 +1791,52 @@
       "createdAt": "2026-10-20T11:35:59.260Z",
       "expiresAt": "2026-10-20T11:45:59.260Z",
       "botQrMessageId": 7639
+    },
+    "HEXDLIB0773": {
+      "orderId": "HEXDLIB0773",
+      "famOrderId": "HEXDLIB0773",
+      "userId": 8499830773,
+      "userName": "𝒪𝓂𝓀𝒶𝓇_𝒫𝒶𝓉𝒾𝓁.",
+      "planId": "plan_7d",
+      "planName": "1 MONTHS PASS",
+      "amount": 49,
+      "payableAmount": "49",
+      "qrImageUrl": "https://famgateway.in/api/qr/HEXDLIB0773",
+      "qrDataUrl": "data:image/png;base64,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",
+      "lastImapScanAt": 0,
+      "credits": 0,
+      "days": 30,
+      "status": "PENDING",
+      "paymentUrl": "https://famgateway.in/?order=HEXDLIB0773",
+      "upiIntentUrl": "upi://pay?pa=8252464080%40fam&pn=Hexx%20Info%20Bot&am=49&cu=INR&tn=HEXDLIB0773&tr=HEXDLIB0773",
+      "qrPayload": "upi://pay?pa=8252464080%40fam&pn=Hexx%20Info%20Bot&am=49&cu=INR&tn=HEXDLIB0773&tr=HEXDLIB0773",
+      "gatewaySource": "direct_gmail",
+      "createdAt": "2026-10-20T12:44:26.531Z",
+      "expiresAt": "2026-10-20T12:54:26.531Z",
+      "botQrMessageId": 7668
     }
   },
   "globalHistory": [
+    {
+      "id": "83ff8cd6-513e-42cb-8405-b3a0fc43690b",
+      "queryNumber": "8000796117",
+      "timestamp": "2026-10-20T12:44:18.854Z",
+      "source": "bot",
+      "userId": 8499830773,
+      "userName": "𝒪𝓂𝓀𝒶𝓇_𝒫𝒶𝓉𝒾𝓁.",
+      "resultSummary": {
+        "name": "Jay Jayantibhai Patel",
+        "truecallerName": "vad nagar amul dilicious",
+        "fatherName": "Jayantibhai  Patel",
+        "mobile": "8000796117",
+        "altMobile": "8000796117",
+        "circle": "AIRTEL GUJARAT",
+        "idNumber": "929492514939",
+        "email": "Not found",
+        "address": "00 shrii nilkath timber mart sipor road mahesana Vadnagar",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "0ff796a1-2b54-499a-b8a6-7a463b127330",
       "queryNumber": "6003632030",
@@ -2428,6 +2491,22 @@
     }
   ],
   "logs": [
+    {
+      "id": "6660733e-4668-4196-879f-b09c30e9f5f4",
+      "timestamp": "2026-10-20T12:44:26.555Z",
+      "type": "PAYMENT",
+      "userId": 8499830773,
+      "userName": "𝒪𝓂𝓀𝒶𝓇_𝒫𝒶𝓉𝒾𝓁.",
+      "summary": "Created Auto-QR Order HEXDLIB0773 (₹49 for 30 Days VIP)"
+    },
+    {
+      "id": "556b9735-9f66-4f79-a77c-4ea990ee3e5f",
+      "timestamp": "2026-10-20T12:44:18.854Z",
+      "type": "LOOKUP",
+      "userId": 8499830773,
+      "userName": "𝒪𝓂𝓀𝒶𝓇_𝒫𝒶𝓉𝒾𝓁.",
+      "summary": "Looked up 8000796117 (Jay Jayantibhai Patel)"
+    },
     {
       "id": "6ec352ca-8ca6-4b97-8b27-54189c04fbc4",
       "timestamp": "2026-10-20T12:39:47.921Z",
@@ -3611,25 +3690,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "21c4a540-1a6b-40c1-93af-bb7472f07265",
-      "timestamp": "2026-10-19T12:33:53.329Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "ab632e18-2024-4b89-b6f1-034a9fa66562",
-      "timestamp": "2026-10-19T12:33:53.073Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168808910,
+  "lastTelegramUpdateId": 168808921,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
