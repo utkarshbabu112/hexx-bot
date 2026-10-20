@@ -1277,6 +1277,49 @@
       "lastBotMessageId": 7731,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-20"
+    },
+    "6783862138": {
+      "id": 6783862138,
+      "firstName": "Rakesh",
+      "username": "uttamshk",
+      "credits": 1,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX862138",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-20T17:36:01.767Z",
+      "lastActiveAt": "2026-10-20T17:36:01.767Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "1df562dc-5451-448e-a06a-494dc60939bb",
+          "queryNumber": "7906627011",
+          "timestamp": "2026-10-20T17:36:03.391Z",
+          "source": "bot",
+          "userId": 6783862138,
+          "userName": "Rakesh",
+          "resultSummary": {
+            "name": "Vaseem",
+            "truecallerName": "My Life❤️💋💋",
+            "fatherName": "hameed",
+            "mobile": "7906627011",
+            "altMobile": "9720908080",
+            "circle": "JIO UPW",
+            "idNumber": "457530797542",
+            "email": "Not found",
+            "address": "s/o hameed, 0, Chausana, chausana, chausana vishat aht, shamli, Uttar Pradesh, 247778",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastLookupDate": "2026-10-20",
+      "lastBotMessageId": 7733,
+      "lastBotMessageHasPhoto": false
     }
   },
   "orders": {
@@ -2067,6 +2110,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "1df562dc-5451-448e-a06a-494dc60939bb",
+      "queryNumber": "7906627011",
+      "timestamp": "2026-10-20T17:36:03.391Z",
+      "source": "bot",
+      "userId": 6783862138,
+      "userName": "Rakesh",
+      "resultSummary": {
+        "name": "Vaseem",
+        "truecallerName": "My Life❤️💋💋",
+        "fatherName": "hameed",
+        "mobile": "7906627011",
+        "altMobile": "9720908080",
+        "circle": "JIO UPW",
+        "idNumber": "457530797542",
+        "email": "Not found",
+        "address": "s/o hameed, 0, Chausana, chausana, chausana vishat aht, shamli, Uttar Pradesh, 247778",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "72727c3d-b056-43ef-87b5-17d6c2815c28",
       "queryNumber": "7869930139",
@@ -2901,6 +2964,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "759e88c9-ee04-4fcb-b5c6-5be8aa625928",
+      "timestamp": "2026-10-20T17:36:03.391Z",
+      "type": "LOOKUP",
+      "userId": 6783862138,
+      "userName": "Rakesh",
+      "summary": "Looked up 7906627011 (Vaseem)"
+    },
     {
       "id": "436e2205-86b7-46b1-8ada-75a0f538f617",
       "timestamp": "2026-10-20T16:38:05.747Z",
@@ -4092,17 +4163,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "973cba67-8240-408f-86b2-8405d01aa61e",
-      "timestamp": "2026-10-19T12:33:58.853Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168808981,
+  "lastTelegramUpdateId": 168808982,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
