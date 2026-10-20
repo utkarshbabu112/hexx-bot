@@ -1219,20 +1219,40 @@
       "id": 7183197265,
       "firstName": "OG",
       "username": "OGxMANSURI",
-      "credits": 1,
+      "credits": 0,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
-      "dailyLookupsUsed": 1,
-      "totalLookups": 1,
+      "dailyLookupsUsed": 2,
+      "totalLookups": 2,
       "referralCode": "HEX197265",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-20T16:25:36.008Z",
-      "lastActiveAt": "2026-10-20T16:27:00.022Z",
+      "lastActiveAt": "2026-10-20T16:38:03.702Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "72727c3d-b056-43ef-87b5-17d6c2815c28",
+          "queryNumber": "7869930139",
+          "timestamp": "2026-10-20T16:38:05.747Z",
+          "source": "bot",
+          "userId": 7183197265,
+          "userName": "OG",
+          "resultSummary": {
+            "name": "Kaleem Shaha",
+            "truecallerName": "Murly bilaspur",
+            "fatherName": "gareeb shah",
+            "mobile": "7869930139",
+            "altMobile": "8889993054",
+            "circle": "JIO MP",
+            "idNumber": "514631977893",
+            "email": "Not found",
+            "address": "S/O gareeb shah, house no, ward no 06 Chakaldi, graam chakldi rampura, graam post chakldi, Chakla Vangram Budni, Sehore, Madhya Pradesh, 466446",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "a939491d-5711-405c-8458-c7110bc8aba9",
           "queryNumber": "9303335775",
@@ -1254,7 +1274,7 @@
           }
         }
       ],
-      "lastBotMessageId": 7727,
+      "lastBotMessageId": 7729,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-20"
     }
@@ -2047,6 +2067,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "72727c3d-b056-43ef-87b5-17d6c2815c28",
+      "queryNumber": "7869930139",
+      "timestamp": "2026-10-20T16:38:05.747Z",
+      "source": "bot",
+      "userId": 7183197265,
+      "userName": "OG",
+      "resultSummary": {
+        "name": "Kaleem Shaha",
+        "truecallerName": "Murly bilaspur",
+        "fatherName": "gareeb shah",
+        "mobile": "7869930139",
+        "altMobile": "8889993054",
+        "circle": "JIO MP",
+        "idNumber": "514631977893",
+        "email": "Not found",
+        "address": "S/O gareeb shah, house no, ward no 06 Chakaldi, graam chakldi rampura, graam post chakldi, Chakla Vangram Budni, Sehore, Madhya Pradesh, 466446",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "a939491d-5711-405c-8458-c7110bc8aba9",
       "queryNumber": "9303335775",
@@ -2861,6 +2901,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "436e2205-86b7-46b1-8ada-75a0f538f617",
+      "timestamp": "2026-10-20T16:38:05.747Z",
+      "type": "LOOKUP",
+      "userId": 7183197265,
+      "userName": "OG",
+      "summary": "Looked up 7869930139 (Kaleem Shaha)"
+    },
     {
       "id": "a795682b-ff75-4469-9e15-134d038503aa",
       "timestamp": "2026-10-20T16:25:55.586Z",
@@ -4052,17 +4100,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "79eb8df2-133d-4a3a-8cea-fe3889a53f0a",
-      "timestamp": "2026-10-19T12:33:58.590Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168808976,
+  "lastTelegramUpdateId": 168808977,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
