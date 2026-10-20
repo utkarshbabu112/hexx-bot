@@ -1027,6 +1027,28 @@
       "lastBotMessageId": 7669,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-20"
+    },
+    "8066965283": {
+      "id": 8066965283,
+      "firstName": "Tʀᴜsᴛᴇᴅ Sᴇʟʟᴇʀ",
+      "username": "socialxym",
+      "credits": 2,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 0,
+      "totalLookups": 0,
+      "referralCode": "HEX965283",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-20T13:19:04.066Z",
+      "lastActiveAt": "2026-10-20T13:19:19.848Z",
+      "isBanned": false,
+      "history": [],
+      "lastBotMessageId": 7673,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-20"
     }
   },
   "orders": {
@@ -2492,6 +2514,14 @@
   ],
   "logs": [
     {
+      "id": "08096ac4-fbf4-43ed-9bbc-9c0ab55c9439",
+      "timestamp": "2026-10-20T13:19:04.364Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8066965283,
+      "userName": "Tʀᴜsᴛᴇᴅ Sᴇʟʟᴇʀ",
+      "summary": "Started bot (/start)"
+    },
+    {
       "id": "6660733e-4668-4196-879f-b09c30e9f5f4",
       "timestamp": "2026-10-20T12:44:26.555Z",
       "type": "PAYMENT",
@@ -3682,17 +3712,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "020ce264-3130-4a5a-8285-983b32b83c9d",
-      "timestamp": "2026-10-19T12:33:53.696Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168808924,
+  "lastTelegramUpdateId": 168808927,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
