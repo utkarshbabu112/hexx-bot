@@ -696,6 +696,48 @@
       "lastBotMessageId": 7626,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-20"
+    },
+    "8929566190": {
+      "id": 8929566190,
+      "firstName": "Rohan",
+      "credits": 1,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX566190",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-20T11:23:00.549Z",
+      "lastActiveAt": "2026-10-20T11:23:11.689Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "3806f742-d2e2-4f06-948d-5a26cb7fe972",
+          "queryNumber": "8574131059",
+          "timestamp": "2026-10-20T11:23:13.422Z",
+          "source": "bot",
+          "userId": 8929566190,
+          "userName": "Rohan",
+          "resultSummary": {
+            "name": "Rajendra Yadav",
+            "truecallerName": "Sahjindar Yadav",
+            "fatherName": "ram nayan",
+            "mobile": "8574131059",
+            "altMobile": "7054595859",
+            "circle": "JIO UPE",
+            "idNumber": "210302442620",
+            "email": "Not found",
+            "address": "s/o ram nayan, Barhalganj, Mohal Jalkar, mohal jalkar satyanarayan ki madi kharesari gola, barhalganj Gola, gorakhpur, Uttar Pradesh, 273402",
+            "totalRecords": 3
+          }
+        }
+      ],
+      "lastBotMessageId": 7630,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-20"
     }
   },
   "orders": {
@@ -1440,6 +1482,26 @@
   },
   "globalHistory": [
     {
+      "id": "3806f742-d2e2-4f06-948d-5a26cb7fe972",
+      "queryNumber": "8574131059",
+      "timestamp": "2026-10-20T11:23:13.422Z",
+      "source": "bot",
+      "userId": 8929566190,
+      "userName": "Rohan",
+      "resultSummary": {
+        "name": "Rajendra Yadav",
+        "truecallerName": "Sahjindar Yadav",
+        "fatherName": "ram nayan",
+        "mobile": "8574131059",
+        "altMobile": "7054595859",
+        "circle": "JIO UPE",
+        "idNumber": "210302442620",
+        "email": "Not found",
+        "address": "s/o ram nayan, Barhalganj, Mohal Jalkar, mohal jalkar satyanarayan ki madi kharesari gola, barhalganj Gola, gorakhpur, Uttar Pradesh, 273402",
+        "totalRecords": 3
+      }
+    },
+    {
       "id": "08ac9005-03a3-445b-b8e3-f2a722a51169",
       "queryNumber": "8139426154",
       "timestamp": "2026-10-20T10:57:29.462Z",
@@ -1915,6 +1977,22 @@
     }
   ],
   "logs": [
+    {
+      "id": "70379140-a171-4319-ad14-955680d30c04",
+      "timestamp": "2026-10-20T11:23:13.422Z",
+      "type": "LOOKUP",
+      "userId": 8929566190,
+      "userName": "Rohan",
+      "summary": "Looked up 8574131059 (Rajendra Yadav)"
+    },
+    {
+      "id": "0b2e11fd-4c35-4df2-aa33-bdb33f734f60",
+      "timestamp": "2026-10-20T11:23:00.843Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8929566190,
+      "userName": "Rohan",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "b135f36f-3f2c-4fe0-bcee-19867942bc36",
       "timestamp": "2026-10-20T10:57:29.463Z",
@@ -3098,25 +3176,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "94643996-ce9c-457c-b4c8-ede09cf724ee",
-      "timestamp": "2026-10-19T12:33:48.975Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "5816cf97-d808-4955-b7c5-89da3e85f220",
-      "timestamp": "2026-10-19T12:33:48.647Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168808871,
+  "lastTelegramUpdateId": 168808874,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
