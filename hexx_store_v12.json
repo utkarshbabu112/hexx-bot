@@ -1130,6 +1130,68 @@
       "history": [],
       "lastBotMessageId": 1111,
       "lastBotMessageHasPhoto": true
+    },
+    "7294896326": {
+      "id": 7294896326,
+      "firstName": "𝐔𝐍𝐊𝐍𝐖𝐎𝐍 | 𝐗𝐑 ⚡",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 2,
+      "totalLookups": 2,
+      "referralCode": "HEX896326",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-20T14:48:17.220Z",
+      "lastActiveAt": "2026-10-20T14:49:31.721Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "fc7ff8a2-5f75-4977-8d0f-301dbbb35afc",
+          "queryNumber": "9050322333",
+          "timestamp": "2026-10-20T14:49:31.862Z",
+          "source": "bot",
+          "userId": 7294896326,
+          "userName": "𝐔𝐍𝐊𝐍𝐖𝐎𝐍 | 𝐗𝐑 ⚡",
+          "resultSummary": {
+            "name": "Ankur Keshwar",
+            "truecallerName": "king haryana",
+            "fatherName": "Subhash Chand",
+            "mobile": "9050322333",
+            "altMobile": "8950322333",
+            "circle": "JIO HR",
+            "idNumber": "560913024055",
+            "email": "Not found",
+            "address": "S/O Subhash Chand, Bhaini Khrud, PO Bhaini Khurd Nilokheri, Dadupur 83 Karnal, Haryana, 132116",
+            "totalRecords": 4
+          }
+        },
+        {
+          "id": "4928b8b2-dfb7-486c-9aeb-0d354fddb1cc",
+          "queryNumber": "6283174418",
+          "timestamp": "2026-10-20T14:48:32.623Z",
+          "source": "bot",
+          "userId": 7294896326,
+          "userName": "𝐔𝐍𝐊𝐍𝐖𝐎𝐍 | 𝐗𝐑 ⚡",
+          "resultSummary": {
+            "name": "RAJWINDER KAUR",
+            "truecallerName": "SUKHRAJ",
+            "fatherName": "SUKHDEEP SINGH",
+            "mobile": "6283174418",
+            "altMobile": "Not found",
+            "circle": "PUNJAB",
+            "idNumber": "580705130192",
+            "email": "Not found",
+            "address": "NA, C/O SUKHDEEP SINGH, CHANU PATTI BUKANWALA, BUKAN WALA, MOGA, MOGA, MOGA, PUNJAB, 142048",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastBotMessageId": 7687,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-20"
     }
   },
   "orders": {
@@ -1921,6 +1983,46 @@
   },
   "globalHistory": [
     {
+      "id": "fc7ff8a2-5f75-4977-8d0f-301dbbb35afc",
+      "queryNumber": "9050322333",
+      "timestamp": "2026-10-20T14:49:31.862Z",
+      "source": "bot",
+      "userId": 7294896326,
+      "userName": "𝐔𝐍𝐊𝐍𝐖𝐎𝐍 | 𝐗𝐑 ⚡",
+      "resultSummary": {
+        "name": "Ankur Keshwar",
+        "truecallerName": "king haryana",
+        "fatherName": "Subhash Chand",
+        "mobile": "9050322333",
+        "altMobile": "8950322333",
+        "circle": "JIO HR",
+        "idNumber": "560913024055",
+        "email": "Not found",
+        "address": "S/O Subhash Chand, Bhaini Khrud, PO Bhaini Khurd Nilokheri, Dadupur 83 Karnal, Haryana, 132116",
+        "totalRecords": 4
+      }
+    },
+    {
+      "id": "4928b8b2-dfb7-486c-9aeb-0d354fddb1cc",
+      "queryNumber": "6283174418",
+      "timestamp": "2026-10-20T14:48:32.623Z",
+      "source": "bot",
+      "userId": 7294896326,
+      "userName": "𝐔𝐍𝐊𝐍𝐖𝐎𝐍 | 𝐗𝐑 ⚡",
+      "resultSummary": {
+        "name": "RAJWINDER KAUR",
+        "truecallerName": "SUKHRAJ",
+        "fatherName": "SUKHDEEP SINGH",
+        "mobile": "6283174418",
+        "altMobile": "Not found",
+        "circle": "PUNJAB",
+        "idNumber": "580705130192",
+        "email": "Not found",
+        "address": "NA, C/O SUKHDEEP SINGH, CHANU PATTI BUKANWALA, BUKAN WALA, MOGA, MOGA, MOGA, PUNJAB, 142048",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "3fe2f8af-67ff-43f8-a5e7-f21108d96684",
       "queryNumber": "7210060007",
       "timestamp": "2026-10-20T14:04:37.101Z",
@@ -2633,6 +2735,30 @@
     }
   ],
   "logs": [
+    {
+      "id": "299cc0fc-725d-4f5a-a618-9d8e02472157",
+      "timestamp": "2026-10-20T14:49:31.862Z",
+      "type": "LOOKUP",
+      "userId": 7294896326,
+      "userName": "𝐔𝐍𝐊𝐍𝐖𝐎𝐍 | 𝐗𝐑 ⚡",
+      "summary": "Looked up 9050322333 (Ankur Keshwar)"
+    },
+    {
+      "id": "0ae15c8d-1cc1-42ca-8513-923df7d71fb1",
+      "timestamp": "2026-10-20T14:48:32.623Z",
+      "type": "LOOKUP",
+      "userId": 7294896326,
+      "userName": "𝐔𝐍𝐊𝐍𝐖𝐎𝐍 | 𝐗𝐑 ⚡",
+      "summary": "Looked up 6283174418 (RAJWINDER KAUR)"
+    },
+    {
+      "id": "d80f10ac-160c-4821-b455-bc66417ae219",
+      "timestamp": "2026-10-20T14:48:17.542Z",
+      "type": "BOT_MESSAGE",
+      "userId": 7294896326,
+      "userName": "𝐔𝐍𝐊𝐍𝐖𝐎𝐍 | 𝐗𝐑 ⚡",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "42fe926d-1ed5-446b-acd7-eb3cfa29ec31",
       "timestamp": "2026-10-20T14:04:37.101Z",
@@ -3808,33 +3934,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "fe5ee853-0ca7-40e4-83f6-145f43567bc3",
-      "timestamp": "2026-10-19T12:33:55.277Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "a8958d4d-be3e-431c-bd5d-243ecbc1b4fb",
-      "timestamp": "2026-10-19T12:33:54.984Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "9bd3d927-f992-439e-8f49-55d0bd87e1a7",
-      "timestamp": "2026-10-19T12:33:54.766Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168808939,
+  "lastTelegramUpdateId": 168808942,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
