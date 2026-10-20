@@ -1,0 +1,89 @@
+name: Run Hexx Telegram Bot 24/7
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main, master ]
+    paths-ignore:
+      - 'hexx_store_v12.json'
+  schedule:
+    - cron: '30 */5 * * *'
+
+concurrency:
+  group: hexx-telegram-bot-24x7
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install Bot Dependencies
+        run: |
+          if [ -f package.json ]; then
+            npm install --no-audit --no-fund
+          else
+            npm init -y
+            npm install express qrcode dotenv tsx --no-audit --no-fund
+          fi
+
+      - name: Run Bot with Auto-Save (5.5 Hours Cycle)
+        env:
+          NODE_ENV: production
+          PORT: 3000
+        run: |
+          git config user.name "HexxBot-AutoSave"
+          git config user.email "bot@users.noreply.github.com"
+
+          # Har 5 minute me user credits/referrals (hexx_store_v12.json) GitHub me auto-save karega
+          (
+            while true; do
+              sleep 300
+              if [ -f hexx_store_v12.json ] && ! git diff --quiet hexx_store_v12.json 2>/dev/null; then
+                git add hexx_store_v12.json
+                git commit -m "chore: auto-save bot database [skip ci]" || true
+                git pull --rebase origin "${GITHUB_REF_NAME}" || true
+                git push origin "HEAD:${GITHUB_REF_NAME}" || true
+              fi
+            done
+          ) &
+          AUTOSAVE_PID=$!
+
+          # Bot ko 5 ghante 35 minute (20100 seconds) lagatar chalao
+          timeout 20100s npx tsx server.ts || true
+
+          kill $AUTOSAVE_PID 2>/dev/null || true
+
+      - name: Final Save Database Before Restart
+        if: always()
+        run: |
+          git config user.name "HexxBot-AutoSave"
+          git config user.email "bot@users.noreply.github.com"
+          if [ -f hexx_store_v12.json ] && ! git diff --quiet hexx_store_v12.json 2>/dev/null; then
+            git add hexx_store_v12.json
+            git commit -m "chore: save bot database before cycle restart [skip ci]" || true
+            git pull --rebase origin "${GITHUB_REF_NAME}" || true
+            git push origin "HEAD:${GITHUB_REF_NAME}" || true
+          fi
+
+      - name: Auto-Restart Next 24/7 Cycle
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh workflow run "bot.yml" --ref "${GITHUB_REF_NAME}" || true
