@@ -240,20 +240,20 @@
       "premiumUntil": "2026-10-22T12:32:32.051Z",
       "lastPlanName": "1 Day Pass",
       "totalSpent": 4,
-      "dailyLookupsUsed": 7,
-      "totalLookups": 26,
+      "dailyLookupsUsed": 8,
+      "totalLookups": 27,
       "referralCode": "HEX667289",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-20T15:23:39.753Z",
+      "lastActiveAt": "2026-10-20T15:30:47.992Z",
       "isBanned": false,
       "history": [
         {
-          "id": "ec403247-88b4-4ef5-98da-729bd91558b7",
+          "id": "35ff55f7-6b32-40b8-8a77-d20a1065abe3",
           "queryNumber": "9876543210",
-          "timestamp": "2026-10-20T10:29:15.820Z",
+          "timestamp": "2026-10-20T15:30:48.569Z",
           "source": "bot",
           "userId": 6672896116,
           "userName": "UHTKARSH",
@@ -389,7 +389,7 @@
           }
         }
       ],
-      "lastBotMessageId": 7703,
+      "lastBotMessageId": 7715,
       "lastBotMessageHasPhoto": false,
       "isAdminUnlocked": true,
       "lastLookupDate": "2026-10-20",
@@ -412,27 +412,7 @@
       "joinedAt": "2026-10-18T12:59:58.309Z",
       "lastActiveAt": "2026-10-20T11:35:59.260Z",
       "isBanned": false,
-      "history": [
-        {
-          "id": "0fefee4d-460d-4778-b506-5be7e8d13d54",
-          "queryNumber": "8252464080",
-          "timestamp": "2026-10-20T11:35:50.603Z",
-          "source": "bot",
-          "userId": 7995520431,
-          "userName": "Vashu",
-          "resultSummary": {
-            "name": "Not found",
-            "fatherName": "Not found",
-            "mobile": "8252464080",
-            "altMobile": "Not found",
-            "circle": "India",
-            "idNumber": "Not found",
-            "email": "Not found",
-            "address": "Not found",
-            "totalRecords": 1
-          }
-        }
-      ],
+      "history": [],
       "lastBotMessageId": 7639,
       "lastBotMessageHasPhoto": true,
       "isAdminUnlocked": true,
@@ -1924,7 +1904,7 @@
       "lastImapScanAt": 0,
       "credits": 0,
       "days": 7,
-      "status": "PENDING",
+      "status": "EXPIRED",
       "paymentUrl": "https://famgateway.in/?order=HEXQ01R6116",
       "upiIntentUrl": "upi://pay?pa=8252464080%40fam&pn=Hexx%20Info%20Bot&am=19&cu=INR&tn=HEXQ01R6116&tr=HEXQ01R6116",
       "qrPayload": "upi://pay?pa=8252464080%40fam&pn=Hexx%20Info%20Bot&am=19&cu=INR&tn=HEXQ01R6116&tr=HEXQ01R6116",
@@ -1948,7 +1928,7 @@
       "lastImapScanAt": 0,
       "credits": 0,
       "days": 365,
-      "status": "PENDING",
+      "status": "EXPIRED",
       "paymentUrl": "https://famgateway.in/?order=HEXXKBG0431",
       "upiIntentUrl": "upi://pay?pa=8252464080%40fam&pn=Hexx%20Info%20Bot&am=99&cu=INR&tn=HEXXKBG0431&tr=HEXXKBG0431",
       "qrPayload": "upi://pay?pa=8252464080%40fam&pn=Hexx%20Info%20Bot&am=99&cu=INR&tn=HEXXKBG0431&tr=HEXXKBG0431",
@@ -1971,7 +1951,7 @@
       "lastImapScanAt": 0,
       "credits": 0,
       "days": 30,
-      "status": "PENDING",
+      "status": "EXPIRED",
       "paymentUrl": "https://famgateway.in/?order=HEXDLIB0773",
       "upiIntentUrl": "upi://pay?pa=8252464080%40fam&pn=Hexx%20Info%20Bot&am=49&cu=INR&tn=HEXDLIB0773&tr=HEXDLIB0773",
       "qrPayload": "upi://pay?pa=8252464080%40fam&pn=Hexx%20Info%20Bot&am=49&cu=INR&tn=HEXDLIB0773&tr=HEXDLIB0773",
@@ -1982,6 +1962,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "35ff55f7-6b32-40b8-8a77-d20a1065abe3",
+      "queryNumber": "9876543210",
+      "timestamp": "2026-10-20T15:30:48.569Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "Dev Jyoti Roy",
+        "truecallerName": "Sohel Khan",
+        "fatherName": "Salil Kumar Roy",
+        "mobile": "9876543210",
+        "altMobile": "Not found",
+        "circle": "AIRTEL DELHI",
+        "idNumber": "Not found",
+        "email": "devjroy@gmail com",
+        "address": "Tower 9 Flat 1506, Lotus Boulevard, NoidaSector 100, NoidaGautam Buddha Nagar, Uttar Pradesh, 201301",
+        "totalRecords": 99
+      }
+    },
     {
       "id": "fc7ff8a2-5f75-4977-8d0f-301dbbb35afc",
       "queryNumber": "9050322333",
@@ -2197,25 +2197,6 @@
         "idNumber": "Not found",
         "email": "Not found",
         "address": "S/O Manohar Bamore, Makan N0 76 Ward N0 10, Post-somganw, gehal ganw East Nimar, Madhya Pradesh, 450114",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "0fefee4d-460d-4778-b506-5be7e8d13d54",
-      "queryNumber": "8252464080",
-      "timestamp": "2026-10-20T11:35:50.603Z",
-      "source": "bot",
-      "userId": 7995520431,
-      "userName": "Vashu",
-      "resultSummary": {
-        "name": "Not found",
-        "fatherName": "Not found",
-        "mobile": "8252464080",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
         "totalRecords": 1
       }
     },
@@ -2735,6 +2716,22 @@
     }
   ],
   "logs": [
+    {
+      "id": "2b8a4eee-45b0-4884-aec4-ff4969c73fb2",
+      "timestamp": "2026-10-20T15:30:48.569Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 9876543210 (Dev Jyoti Roy)"
+    },
+    {
+      "id": "ee29d581-76b2-4428-acab-cec381a7a3e9",
+      "timestamp": "2026-10-20T15:30:30.633Z",
+      "type": "BOT_MESSAGE",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "c1a44d3f-58b5-474f-ad23-a1f7b77e8802",
       "timestamp": "2026-10-20T15:23:40.087Z",
@@ -3918,25 +3915,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "a431f269-b403-4d1f-8b48-4cf2da4e858e",
-      "timestamp": "2026-10-19T12:33:57.173Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "c56d6cd3-2fbb-49af-88c5-b88b485da7b5",
-      "timestamp": "2026-10-19T12:33:56.921Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168808958,
+  "lastTelegramUpdateId": 168808966,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
