@@ -965,6 +965,48 @@
       "lastBotMessageId": 7661,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-20"
+    },
+    "8499830773": {
+      "id": 8499830773,
+      "firstName": "𝒪𝓂𝓀𝒶𝓇_𝒫𝒶𝓉𝒾𝓁.",
+      "credits": 1,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX830773",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-20T12:39:34.877Z",
+      "lastActiveAt": "2026-10-20T12:39:57.797Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "0ff796a1-2b54-499a-b8a6-7a463b127330",
+          "queryNumber": "6003632030",
+          "timestamp": "2026-10-20T12:39:47.921Z",
+          "source": "bot",
+          "userId": 8499830773,
+          "userName": "𝒪𝓂𝓀𝒶𝓇_𝒫𝒶𝓉𝒾𝓁.",
+          "resultSummary": {
+            "name": "Ankaj Bhai",
+            "truecallerName": "Ankaj Bhai",
+            "fatherName": "Not found",
+            "mobile": "6003632030",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastBotMessageId": 7663,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-20"
     }
   },
   "orders": {
@@ -1733,6 +1775,26 @@
   },
   "globalHistory": [
     {
+      "id": "0ff796a1-2b54-499a-b8a6-7a463b127330",
+      "queryNumber": "6003632030",
+      "timestamp": "2026-10-20T12:39:47.921Z",
+      "source": "bot",
+      "userId": 8499830773,
+      "userName": "𝒪𝓂𝓀𝒶𝓇_𝒫𝒶𝓉𝒾𝓁.",
+      "resultSummary": {
+        "name": "Ankaj Bhai",
+        "truecallerName": "Ankaj Bhai",
+        "fatherName": "Not found",
+        "mobile": "6003632030",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "e51e5b7d-116b-4289-a135-8202e67cf8d7",
       "queryNumber": "8306130700",
       "timestamp": "2026-10-20T11:46:11.422Z",
@@ -2366,6 +2428,22 @@
     }
   ],
   "logs": [
+    {
+      "id": "6ec352ca-8ca6-4b97-8b27-54189c04fbc4",
+      "timestamp": "2026-10-20T12:39:47.921Z",
+      "type": "LOOKUP",
+      "userId": 8499830773,
+      "userName": "𝒪𝓂𝓀𝒶𝓇_𝒫𝒶𝓉𝒾𝓁.",
+      "summary": "Looked up 6003632030 (Ankaj Bhai)"
+    },
+    {
+      "id": "14b54c78-64de-4817-9252-078707967c0b",
+      "timestamp": "2026-10-20T12:39:35.167Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8499830773,
+      "userName": "𝒪𝓂𝓀𝒶𝓇_𝒫𝒶𝓉𝒾𝓁.",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "3c3c5325-96e7-456c-bc3f-9c789f5c47c4",
       "timestamp": "2026-10-20T11:46:11.422Z",
@@ -3549,25 +3627,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "a98bfc20-5266-45e6-bb4a-100a18febc39",
-      "timestamp": "2026-10-19T12:33:52.806Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "49e559a4-45c3-4432-b0b1-35bd5a8c1103",
-      "timestamp": "2026-10-19T12:33:52.528Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168808906,
+  "lastTelegramUpdateId": 168808910,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
