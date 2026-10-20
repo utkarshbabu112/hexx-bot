@@ -1320,6 +1320,68 @@
       "lastLookupDate": "2026-10-20",
       "lastBotMessageId": 7733,
       "lastBotMessageHasPhoto": false
+    },
+    "8624451243": {
+      "id": 8624451243,
+      "firstName": "Sam",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 2,
+      "totalLookups": 2,
+      "referralCode": "HEX451243",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-20T18:35:34.734Z",
+      "lastActiveAt": "2026-10-20T18:38:32.889Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "5a20cc5c-a1b0-47df-b045-850b83443785",
+          "queryNumber": "8876542924",
+          "timestamp": "2026-10-20T18:36:51.884Z",
+          "source": "bot",
+          "userId": 8624451243,
+          "userName": "Sam",
+          "resultSummary": {
+            "name": "Libiya Aktar Laskar",
+            "truecallerName": "Libiya Aktar Laskar",
+            "fatherName": "Not found",
+            "mobile": "8876542924",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "d32f5cdc-8ff9-405b-833b-04b19aefb01e",
+          "queryNumber": "8876541914",
+          "timestamp": "2026-10-20T18:36:29.047Z",
+          "source": "bot",
+          "userId": 8624451243,
+          "userName": "Sam",
+          "resultSummary": {
+            "name": "Bikram",
+            "truecallerName": "Bikram",
+            "fatherName": "Not found",
+            "mobile": "8876541914",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastBotMessageId": 7741,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-20"
     }
   },
   "orders": {
@@ -2110,6 +2172,46 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "5a20cc5c-a1b0-47df-b045-850b83443785",
+      "queryNumber": "8876542924",
+      "timestamp": "2026-10-20T18:36:51.884Z",
+      "source": "bot",
+      "userId": 8624451243,
+      "userName": "Sam",
+      "resultSummary": {
+        "name": "Libiya Aktar Laskar",
+        "truecallerName": "Libiya Aktar Laskar",
+        "fatherName": "Not found",
+        "mobile": "8876542924",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "d32f5cdc-8ff9-405b-833b-04b19aefb01e",
+      "queryNumber": "8876541914",
+      "timestamp": "2026-10-20T18:36:29.047Z",
+      "source": "bot",
+      "userId": 8624451243,
+      "userName": "Sam",
+      "resultSummary": {
+        "name": "Bikram",
+        "truecallerName": "Bikram",
+        "fatherName": "Not found",
+        "mobile": "8876541914",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "1df562dc-5451-448e-a06a-494dc60939bb",
       "queryNumber": "7906627011",
@@ -2964,6 +3066,30 @@
     }
   ],
   "logs": [
+    {
+      "id": "1a4341a5-80d0-49a6-98d4-0ea68b50525f",
+      "timestamp": "2026-10-20T18:36:51.884Z",
+      "type": "LOOKUP",
+      "userId": 8624451243,
+      "userName": "Sam",
+      "summary": "Looked up 8876542924 (Libiya Aktar Laskar)"
+    },
+    {
+      "id": "87ed689d-3eea-49d3-8a97-02299a84d77a",
+      "timestamp": "2026-10-20T18:36:29.047Z",
+      "type": "LOOKUP",
+      "userId": 8624451243,
+      "userName": "Sam",
+      "summary": "Looked up 8876541914 (Bikram)"
+    },
+    {
+      "id": "15843241-7d30-496d-a109-9bbbcf12d4c4",
+      "timestamp": "2026-10-20T18:35:35.016Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8624451243,
+      "userName": "Sam",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "759e88c9-ee04-4fcb-b5c6-5be8aa625928",
       "timestamp": "2026-10-20T17:36:03.391Z",
@@ -4139,33 +4265,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "6b6307be-bae7-4f44-b6f2-e885c9fb0bd3",
-      "timestamp": "2026-10-19T12:33:59.737Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "347aa212-646a-490b-82b8-d93bf73a4cbb",
-      "timestamp": "2026-10-19T12:33:59.446Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "4f20d252-fc9a-44a3-ab6b-405a11266a2b",
-      "timestamp": "2026-10-19T12:33:59.147Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168808982,
+  "lastTelegramUpdateId": 168808986,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
