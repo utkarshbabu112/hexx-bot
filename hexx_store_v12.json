@@ -1214,6 +1214,49 @@
       "lastLookupDate": "2026-10-20",
       "lastBotMessageId": 7721,
       "lastBotMessageHasPhoto": false
+    },
+    "7183197265": {
+      "id": 7183197265,
+      "firstName": "OG",
+      "username": "OGxMANSURI",
+      "credits": 1,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX197265",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-20T16:25:36.008Z",
+      "lastActiveAt": "2026-10-20T16:27:00.022Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "a939491d-5711-405c-8458-c7110bc8aba9",
+          "queryNumber": "9303335775",
+          "timestamp": "2026-10-20T16:25:55.586Z",
+          "source": "bot",
+          "userId": 7183197265,
+          "userName": "OG",
+          "resultSummary": {
+            "name": "Karim Shah",
+            "truecallerName": "Ubed",
+            "fatherName": "mohmmad",
+            "mobile": "9303335775",
+            "altMobile": "9713097471",
+            "circle": "JIO MP",
+            "idNumber": "716667454726",
+            "email": "Not found",
+            "address": "s/o mohmmad, 30, Gopalpur, sehore, gopalpur, sehore, Madhya Pradesh, 466331",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastBotMessageId": 7727,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-20"
     }
   },
   "orders": {
@@ -2004,6 +2047,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "a939491d-5711-405c-8458-c7110bc8aba9",
+      "queryNumber": "9303335775",
+      "timestamp": "2026-10-20T16:25:55.586Z",
+      "source": "bot",
+      "userId": 7183197265,
+      "userName": "OG",
+      "resultSummary": {
+        "name": "Karim Shah",
+        "truecallerName": "Ubed",
+        "fatherName": "mohmmad",
+        "mobile": "9303335775",
+        "altMobile": "9713097471",
+        "circle": "JIO MP",
+        "idNumber": "716667454726",
+        "email": "Not found",
+        "address": "s/o mohmmad, 30, Gopalpur, sehore, gopalpur, sehore, Madhya Pradesh, 466331",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "4e7e747e-9603-4e4e-a807-5bf50a180bb7",
       "queryNumber": "9015317744",
@@ -2798,6 +2861,22 @@
     }
   ],
   "logs": [
+    {
+      "id": "a795682b-ff75-4469-9e15-134d038503aa",
+      "timestamp": "2026-10-20T16:25:55.586Z",
+      "type": "LOOKUP",
+      "userId": 7183197265,
+      "userName": "OG",
+      "summary": "Looked up 9303335775 (Karim Shah)"
+    },
+    {
+      "id": "50b20510-9c73-49b8-b691-29c519bf7334",
+      "timestamp": "2026-10-20T16:25:36.292Z",
+      "type": "BOT_MESSAGE",
+      "userId": 7183197265,
+      "userName": "OG",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "bd603ec2-98ed-4e06-ad84-749909772c51",
       "timestamp": "2026-10-20T15:47:17.357Z",
@@ -3981,25 +4060,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "b66758da-07b6-4f65-9c7f-86d051407276",
-      "timestamp": "2026-10-19T12:33:58.361Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "a4468788-1e62-4a8e-a5a0-e33841a0add0",
-      "timestamp": "2026-10-19T12:33:58.071Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168808969,
+  "lastTelegramUpdateId": 168808976,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
