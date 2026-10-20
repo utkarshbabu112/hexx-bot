@@ -247,7 +247,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-20T10:35:01.646Z",
+      "lastActiveAt": "2026-10-20T15:19:22.607Z",
       "isBanned": false,
       "history": [
         {
@@ -389,7 +389,7 @@
           }
         }
       ],
-      "lastBotMessageId": 7620,
+      "lastBotMessageId": 7689,
       "lastBotMessageHasPhoto": false,
       "isAdminUnlocked": true,
       "lastLookupDate": "2026-10-20",
@@ -2736,6 +2736,14 @@
   ],
   "logs": [
     {
+      "id": "3f8b37c5-d310-4ecd-ad14-25b04957294a",
+      "timestamp": "2026-10-20T15:19:23.502Z",
+      "type": "BOT_MESSAGE",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Started bot (/start)"
+    },
+    {
       "id": "299cc0fc-725d-4f5a-a618-9d8e02472157",
       "timestamp": "2026-10-20T14:49:31.862Z",
       "type": "LOOKUP",
@@ -3926,17 +3934,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "2ab1ef57-f095-4717-84c4-c8d5166c9eab",
-      "timestamp": "2026-10-19T12:33:55.526Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168808942,
+  "lastTelegramUpdateId": 168808943,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
