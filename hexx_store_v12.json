@@ -1113,7 +1113,7 @@
     },
     "7294896326": {
       "id": 7294896326,
-      "firstName": "𝐔𝐍𝐊𝐍𝐖𝐎𝐍 | 𝐗𝐑 ⚡",
+      "firstName": "𝐔𝐍𝐊𝐍𝐎𝐖𝐍 | 𝐗𝐑 ⚡",
       "credits": 0,
       "isPremium": false,
       "premiumUntil": null,
@@ -1125,7 +1125,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-20T14:48:17.220Z",
-      "lastActiveAt": "2026-10-20T14:49:31.721Z",
+      "lastActiveAt": "2026-10-20T15:46:26.808Z",
       "isBanned": false,
       "history": [
         {
@@ -1169,9 +1169,51 @@
           }
         }
       ],
-      "lastBotMessageId": 7687,
+      "lastBotMessageId": 7717,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-20"
+    },
+    "8898442254": {
+      "id": 8898442254,
+      "firstName": "𝐄𝐑𝐑𝐎𝐑 | 𝐗𝐑 🍂",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 2,
+      "totalLookups": 2,
+      "referralCode": "HEX442254",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-20T15:47:03.102Z",
+      "lastActiveAt": "2026-10-20T15:47:17.357Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "4e7e747e-9603-4e4e-a807-5bf50a180bb7",
+          "queryNumber": "9015317744",
+          "timestamp": "2026-10-20T15:47:17.357Z",
+          "source": "bot",
+          "userId": 8898442254,
+          "userName": "𝐄𝐑𝐑𝐎𝐑 | 𝐗𝐑 🍂",
+          "resultSummary": {
+            "name": "ALOKJAI",
+            "truecallerName": "ALOKJAI",
+            "fatherName": "Not found",
+            "mobile": "9015317744",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastLookupDate": "2026-10-20",
+      "lastBotMessageId": 7721,
+      "lastBotMessageHasPhoto": false
     }
   },
   "orders": {
@@ -1963,6 +2005,46 @@
   },
   "globalHistory": [
     {
+      "id": "4e7e747e-9603-4e4e-a807-5bf50a180bb7",
+      "queryNumber": "9015317744",
+      "timestamp": "2026-10-20T15:47:17.357Z",
+      "source": "bot",
+      "userId": 8898442254,
+      "userName": "𝐄𝐑𝐑𝐎𝐑 | 𝐗𝐑 🍂",
+      "resultSummary": {
+        "name": "ALOKJAI",
+        "truecallerName": "ALOKJAI",
+        "fatherName": "Not found",
+        "mobile": "9015317744",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "738662fc-a5cc-4a71-8472-9bde0f5d4bf4",
+      "queryNumber": "9015317744",
+      "timestamp": "2026-10-20T15:47:04.945Z",
+      "source": "bot",
+      "userId": 8898442254,
+      "userName": "𝐄𝐑𝐑𝐎𝐑 | 𝐗𝐑 🍂",
+      "resultSummary": {
+        "name": "ALOKJAI",
+        "truecallerName": "ALOKJAI",
+        "fatherName": "Not found",
+        "mobile": "9015317744",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "35ff55f7-6b32-40b8-8a77-d20a1065abe3",
       "queryNumber": "9876543210",
       "timestamp": "2026-10-20T15:30:48.569Z",
@@ -2716,6 +2798,22 @@
     }
   ],
   "logs": [
+    {
+      "id": "bd603ec2-98ed-4e06-ad84-749909772c51",
+      "timestamp": "2026-10-20T15:47:17.357Z",
+      "type": "LOOKUP",
+      "userId": 8898442254,
+      "userName": "𝐄𝐑𝐑𝐎𝐑 | 𝐗𝐑 🍂",
+      "summary": "Looked up 9015317744 (ALOKJAI)"
+    },
+    {
+      "id": "396b9e32-1900-42e5-b592-c1ae510f74ad",
+      "timestamp": "2026-10-20T15:47:04.945Z",
+      "type": "LOOKUP",
+      "userId": 8898442254,
+      "userName": "𝐄𝐑𝐑𝐎𝐑 | 𝐗𝐑 🍂",
+      "summary": "Looked up 9015317744 (ALOKJAI)"
+    },
     {
       "id": "2b8a4eee-45b0-4884-aec4-ff4969c73fb2",
       "timestamp": "2026-10-20T15:30:48.569Z",
@@ -3899,25 +3997,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "62143edc-d41d-41c9-bb84-dc710233c2f8",
-      "timestamp": "2026-10-19T12:33:57.782Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "967ee608-4f22-49a2-8ca9-6defa54c3b4c",
-      "timestamp": "2026-10-19T12:33:57.471Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168808966,
+  "lastTelegramUpdateId": 168808969,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
