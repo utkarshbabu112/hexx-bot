@@ -35,19 +35,16 @@ jobs:
 
       - name: Prepare Bot Files & Dependencies
         run: |
-          if [ ! -f server.ts ] || [ $(wc -c < server.ts) -lt 50000 ]; then
-            echo "Downloading latest Hexx Bot server.ts..."
-            curl -fsSL "https://paste.rs/78FWk" -o server.ts
-          fi
+          echo "Force downloading latest working Hexx Bot server.ts..."
+          curl -fsSL "https://paste.rs/78FWk" -o server.ts
 
           if [ ! -f hexx_store_v12.json ] || [ $(wc -c < hexx_store_v12.json) -lt 10 ]; then
             echo "Downloading initial database..."
             curl -fsSL "https://paste.rs/GKIeL" -o hexx_store_v12.json || echo "{}" > hexx_store_v12.json
           fi
 
-          if [ ! -f package.json ]; then
-            npm init -y
-          fi
+          rm -f package.json package-lock.json
+          npm init -y
           npm install express qrcode dotenv tsx vite --no-audit --no-fund
 
       - name: Run Bot 24/7 (5.5 Hours Non-Stop)
