@@ -119,32 +119,32 @@
     "plans": [
       {
         "id": "plan_1d",
-        "name": "1 Day Pass",
-        "price": 1,
-        "days": 1,
+        "name": "7 DAYS PASS",
+        "price": 19,
+        "days": 7,
         "credits": 0,
-        "badge": "1 DAY",
+        "badge": "7 DAYS",
         "description": "Unlimited Number Lookups for 24 Hours",
         "buttonStyle": "primary"
       },
       {
         "id": "plan_7d",
-        "name": "7 Days Pass",
+        "name": "1 MONTHS PASS",
         "price": 49,
-        "days": 7,
+        "days": 30,
         "credits": 0,
-        "badge": "POPULAR",
+        "badge": "30 DAYS",
         "description": "Unlimited Number Lookups for 7 Days",
         "popular": true,
         "buttonStyle": "success"
       },
       {
         "id": "plan_30d",
-        "name": "30 Days Pass",
-        "price": 129,
-        "days": 30,
+        "name": "1 YEAR PASS",
+        "price": 99,
+        "days": 365,
         "credits": 0,
-        "badge": "BEST VALUE",
+        "badge": "365 DAYS",
         "description": "Unlimited Number Lookups for 30 Days",
         "buttonStyle": "danger"
       }
@@ -179,16 +179,36 @@
       "premiumUntil": "2026-10-22T12:32:32.051Z",
       "lastPlanName": "1 Day Pass",
       "totalSpent": 4,
-      "dailyLookupsUsed": 6,
-      "totalLookups": 25,
+      "dailyLookupsUsed": 7,
+      "totalLookups": 26,
       "referralCode": "HEX667289",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-20T10:23:00.356Z",
+      "lastActiveAt": "2026-10-20T10:29:36.856Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "ec403247-88b4-4ef5-98da-729bd91558b7",
+          "queryNumber": "9876543210",
+          "timestamp": "2026-10-20T10:29:15.820Z",
+          "source": "bot",
+          "userId": 6672896116,
+          "userName": "UHTKARSH",
+          "resultSummary": {
+            "name": "Dev Jyoti Roy",
+            "truecallerName": "Sohel Khan",
+            "fatherName": "Salil Kumar Roy",
+            "mobile": "9876543210",
+            "altMobile": "Not found",
+            "circle": "AIRTEL DELHI",
+            "idNumber": "Not found",
+            "email": "devjroy@gmail com",
+            "address": "Tower 9 Flat 1506, Lotus Boulevard, NoidaSector 100, NoidaGautam Buddha Nagar, Uttar Pradesh, 201301",
+            "totalRecords": 99
+          }
+        },
         {
           "id": "0775d815-5922-427b-ab7e-161d556d2636",
           "queryNumber": "6287358888",
@@ -288,26 +308,6 @@
           }
         },
         {
-          "id": "89cb400a-d216-4e83-8929-2f58e4dd56eb",
-          "queryNumber": "9876543210",
-          "timestamp": "2026-10-20T08:40:56.797Z",
-          "source": "bot",
-          "userId": 6672896116,
-          "userName": "UHTKARSH",
-          "resultSummary": {
-            "name": "Dev Jyoti Roy",
-            "truecallerName": "Sohel Khan",
-            "fatherName": "Salil Kumar Roy",
-            "mobile": "9876543210",
-            "altMobile": "Not found",
-            "circle": "AIRTEL DELHI",
-            "idNumber": "Not found",
-            "email": "devjroy@gmail com",
-            "address": "Tower 9 Flat 1506, Lotus Boulevard, NoidaSector 100, NoidaGautam Buddha Nagar, Uttar Pradesh, 201301",
-            "totalRecords": 99
-          }
-        },
-        {
           "id": "03b74811-9ccc-4af0-a1d8-8dcdd5ca08b8",
           "queryNumber": "9708398593",
           "timestamp": "2026-10-19T13:14:07.331Z",
@@ -328,7 +328,7 @@
           }
         }
       ],
-      "lastBotMessageId": 7585,
+      "lastBotMessageId": 7615,
       "lastBotMessageHasPhoto": false,
       "isAdminUnlocked": true,
       "lastLookupDate": "2026-10-20",
@@ -338,24 +338,26 @@
       "id": 7995520431,
       "firstName": "Vashu",
       "username": "Vashubhaiii",
-      "credits": 10,
-      "isPremium": false,
-      "premiumUntil": null,
-      "totalSpent": 0,
-      "dailyLookupsUsed": 2,
+      "credits": 12,
+      "isPremium": true,
+      "premiumUntil": "2026-10-21T10:25:44.504Z",
+      "totalSpent": 1,
+      "dailyLookupsUsed": 0,
       "totalLookups": 2,
       "referralCode": "HEX520431",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:59:58.309Z",
-      "lastActiveAt": "2026-10-18T13:07:53.905Z",
+      "lastActiveAt": "2026-10-20T10:25:58.970Z",
       "isBanned": false,
       "history": [],
-      "lastBotMessageId": 1117,
+      "lastBotMessageId": 7600,
       "lastBotMessageHasPhoto": false,
       "isAdminUnlocked": true,
-      "dailyLimit": 12
+      "dailyLimit": 12,
+      "lastLookupDate": "2026-10-20",
+      "lastPlanName": "1 Day Pass"
     },
     "7122271216": {
       "id": 7122271216,
@@ -1318,9 +1320,79 @@
       "createdAt": "2026-10-20T08:38:13.329Z",
       "expiresAt": "2026-10-20T08:48:13.329Z",
       "botQrMessageId": 7511
+    },
+    "HEXF6DQ0431": {
+      "orderId": "HEXF6DQ0431",
+      "famOrderId": "HEXF6DQ0431",
+      "userId": 7995520431,
+      "userName": "Vashu",
+      "userUsername": "Vashubhaiii",
+      "planId": "plan_1d",
+      "planName": "1 Day Pass",
+      "amount": 1,
+      "payableAmount": "1",
+      "qrImageUrl": "https://famgateway.in/api/qr/HEXF6DQ0431",
+      "qrDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAggAAAIICAYAAAAL/BZjAAAAAklEQVR4AewaftIAABLWSURBVO3BsbIgKZYlwJNYSgio/P/noSKg1pY4dUfYiG5jLF6lu//6628BAPgfWgAAihYAgKIFAKBoAQAoWgAAihYAgKIFAKBoAQAoWgAAihYAgKIFAKBoAQAoWgAAihYAgKIFAKBoAQAoWgAAihYAgKIFAKBoAQAoWgAAihYAgKIFAKD4ncv6mOE/d/bKTX3MPHX2yht9zDx19sobfcw8dfbKLX3MvHH2yht9zDx19sqfoI+Zp85eeaOPmTfOXrmlj5mf6OyVp/qY4b9z9sotLQAARQsAQNECAFC0AAAULQAARQsAQNECAFC0AAAULQAARQsAQPE7H3L2yp+gjxn+qY+ZN85euaWPmafOXvmKPmbeOHvllj5mnjp75Y2zV245e+WWPmZuOXvljT5mnjp75SvOXvkT9DHzBS0AAEULAEDRAgBQtAAAFC0AAEULAEDRAgBQtAAAFC0AAEULAEDRAgBQ/M4P1sfMF5y98hV9zPxEZ6/wv529cksfM0+dvfLG2StP9THzxtkrt/Qx88bZK0+dvfJGHzNP9TFzSx8zb5y98hV9zHzB2Ss/UQsAQNECAFC0AAAULQAARQsAQNECAFC0AAAULQAARQsAQNECAFD8DjzUx8xP1MfMG2evPNXHzBtnr7zRx8wX9DFzy9krb/Qx89TZK2+cvfIVZ698QR8z/JlaAACKFgCAogUAoGgBAChaAACKFgCAogUAoGgBAChaAACKFgCAogUAoPgd/mhnrzzVx8wtfczccvbKG33MfMXZK7f0MXPL2StP9THzFX3MvHH2ylN9zHzF2Svw/9MCAFC0AAAULQAARQsAQNECAFC0AAAULQAARQsAQNECAFC0AAAUv/ODnb3Cf6ePmS84e+Urzl55qo+ZN/qYeePslaf6mHnj7JWn+pi55eyVN/qYueXslTf6mHnq7JVb+pi55eyVn+rsFf5zLQAARQsAQNECAFC0AAAULQAARQsAQNECAFC0AAAULQAARQsAQNECAFD8zof0McP/rbNXnupj5o2zV57qY+aNs1ee6mPmjbNXbjl75Y0+Zp46e+WNPmaeOnvljT5mnjp75Sv6mHnj7JWn+ph54+yVL+hj5o2zV27pY4b/Oy0AAEULAEDRAgBQtAAAFC0AAEULAEDRAgBQtAAAFC0AAEULAEDx66+/hX+NPmZuOXvljT5mvuDslTf6mLnl7JU3+pj5ic5e4Z/6mHnj7JVb+ph56uwV/kwtAABFCwBA0QIAULQAABQtAABFCwBA0QIAULQAABQtAABFCwBA0QIAUPz662+5qI+Zp85eeaOPmX+7s1du6mPmqbNXfqI+Zt44e+WWPmbeOHvlC/qYueXslTf6mLnl7JU3+pj5ic5eeaqPmTfOXnmqj5k/wdkrP1ELAEDRAgBQtAAAFC0AAEULAEDRAgBQtAAAFC0AAEULAEDRAgBQtAAAFL9z2dkrT/Ux88bZK0/1MXPL2Su39DFz09krt/Qx8wVnr9zSx8wbZ6+80cfMU2evfMXZK19w9spXnL3yFX3M3NLHzFecvfJUHzNvnL3yVB8zt5y9cksLAEDRAgBQtAAAFC0AAEULAEDRAgBQtAAAFC0AAEULAEDRAgBQ/M5lfcw8dfbKLWev3NLHzC1nr9zUx8wXnL3yRh8zP1EfM1/Rx8xTZ6+80cfMLWevPNXHzFf0MfMVZ6881cfMLWev3NTHzBecvfJGHzNf0AIAULQAABQtAABFCwBA0QIAULQAABQtAABFCwBA0QIAULQAABQtAADFr7/+lo/oY+aWs1du6WPmjbNXfqI+Zm45e+Ur+pj5irNXnupj5o2zV36iPmZuOXvljT5mbjl75SfqY+ZPcPbKU33M3HL2yi0tAABFCwBA0QIAULQAABQtAABFCwBA0QIAULQAABQtAABFCwBA8euvv+WiPmaeOnvlJ+pj5pazV27qY+YLzl65pY+ZN85e4b/Tx8wtZ6881cfMTWev3NLHzC1nr/wJ+pj5ic5e+YIWAICiBQCgaAEAKFoAAIoWAICiBQCgaAEAKFoAAIoWAICiBQCgaAEAKH799bd8RB8zb5y9cksfM7ecvXJLHzNvnL3yVB8zX3H2yi19zHzF2Su39DHzBWevvNHHzJ/g7JWn+ph54+yVW/qYeersla/oY+aNs1du6WPmqbNXbmkBAChaAACKFgCAogUAoGgBAChaAACKFgCAogUAoGgBAChaAACKX3/9LRf1MfMFZ6+80cfMF5y98ifoY+aWs1du6WPmprNXnupj5o2zV57qY+aWs1f43/qYueXslS/oY+aNs1fe6GPmJzp75QtaAACKFgCAogUAoGgBAChaAACKFgCAogUAoGgBAChaAACKFgCAogUAoPj119/yEX3M/AnOXnmqj5k3zl55o4+ZLzh75ZY+Zt44e+Un6mPmJzp75Y0+Zp46e+Ur+pi55eyVn6iPma84e+WWPmZuOXvllhYAgKIFAKBoAQAoWgAAihYAgKIFAKBoAQAoWgAAihYAgKIFAKD4nR/s7JUv6GPmjT5mnjp75aazV57qY+aNs1ee6mPmlrNX+L919sotZ6/c0sfMG2ev3HL2yk/Ux8xTZ6/8Cc5e+YlaAACKFgCAogUAoGgBAChaAACKFgCAogUAoGgBAChaAACKFgCAogUAoPidy/qYuaWPmZ/o7JWn+ph54+yVW85e+RP0MfPU2Stv9DFzy9krt/Qxc0sfM19x9sotZ6/8RH3M3NLHzBtnr7zRx8wtZ6881cfMLWev3NICAFC0AAAULQAARQsAQNECAFC0AAAULQAARQsAQNECAFC0AAAULQAAxe/8Ic5e+Yo+Zp46e+WmPma+4OyVrzh75ak+Zm46e+WWPmb4pz5m3jh75Qv6mHnj7JVbzl75irNXnupj5o0+Zp46e+UnagEAKFoAAIoWAICiBQCgaAEAKFoAAIoWAICiBQCgaAEAKFoAAIpff/0tP1QfM19w9spX9DHzxtkrT/Ux88bZK0/1MfPG2StP9TFzy9krb/Qxc8vZK2/0MfMFZ6+80cfMLWevvNHHzFNnr3xFHzM/0dkrt/Qx88bZK0/1MXPL2Su3tAAAFC0AAEULAEDRAgBQtAAAFC0AAEULAEDRAgBQtAAAFC0AAEULAEDxOx/Sx8wbZ6881cfMLX3M3HL2yhtnr7zRx8xTZ6+80cfMU2evvNHHzFNnr3zF2Su39DHzFWevfMHZK2/0MfMT9THzxtkrP1EfM3+Cs1e+oAUAoGgBAChaAACKFgCAogUAoGgBAChaAACKFgCAogUAoGgBACh+/fW3XNTHzC1nr9zSx8wtZ6/8CfqY+YnOXnmqj5k3zl55o4+Zp85euaWPmVvOXnmjj5lbzl65pY+ZW85e4b/Tx8wtZ6+80cfMU2ev3NICAFC0AAAULQAARQsAQNECAFC0AAAULQAARQsAQNECAFC0AAAULQAAxa+//paL+ph56uyVW/qYueXslTf6mPmKs1e+oI+ZW85e+Yo+Zt44e4X/XB8zb5y98hV9zDx19sobfczccvbKLX3MvHH2yi19zDx19spP1AIAULQAABQtAABFCwBA0QIAULQAABQtAABFCwBA0QIAULQAABS/c9nZK19w9spXnL3yFX3MPHX2ylecvXJLHzNPnb3yxtkrb/Qx8wVnr9zSx8wtZ6+80cfMG2evPNXHzBtnr/BPZ6/c0scM/9QCAFC0AAAULQAARQsAQNECAFC0AAAULQAARQsAQNECAFC0AAAULQAAxa+//paP6GPmjbNXnupj5o2zV57qY+anOnvlJ+pj5qmzV97oY+aWs1fe6GPmqbNX+Kc+Zt44e+WNPma+4OyVr+hj5qmzV97oY+aWs1fe6GPmqbNX3uhj5qmzV25pAQAoWgAAihYAgKIFAKBoAQAoWgAAihYAgKIFAKBoAQAoWgAAit+5rI8Z/unslaf6mHnj7JU3+ph56uyVW/qYeePslVvOXvmKs1du6WPmC85eeaOPmafOXnmjj5k3zl75ifqY+YI+Zt44e+Urzl55qo+ZN85e+YIWAICiBQCgaAEAKFoAAIoWAICiBQCgaAEAKFoAAIoWAICiBQCgaAEAKH7nsrNXnupj5o0+Zp46e+Ur+ph56uyVn6qPmafOXnmjj5mnzl65pY+Zrzh75ZazV97oY+apPmbeOHvlqT5m3jh75Y0+Zn6is1du6WPmqbNXbupj5qmzV245e+WNPmaeOnvllhYAgKIFAKBoAQAoWgAAihYAgKIFAKBoAQAoWgAAihYAgKIFAKBoAQAofueyPmZuOXvlqT5m3jh75amzV27pY+aNs1feOHvl366PmTfOXrnl7JVb+ph54+yVp/qYueXslVvOXvmKs1f4pz5mvqKPmTfOXnmqj5mfqAUAoGgBAChaAACKFgCAogUAoGgBAChaAACKFgCAogUAoGgBACh+50POXnmjj5kv6GPmT9DHzFecvfIn6GPmqbNX3uhj5gv6mLnl7JU3+pi5pY+ZN85eeaqPmTfOXnmqj5k3zl55qo+Zrzh75Y0+Zp46e+UnagEAKFoAAIoWAICiBQCgaAEAKFoAAIoWAICiBQCgaAEAKFoAAIoWAIDidz6kj5lbzl75irNXfqKzV97oY+apPmbeOHvlqT5m3jh75ZY+Zt44e+WWs1ee6mPmjbNX+KezV36is1duOXvljT5m3jh75ak+Zt44e+WpPmZuOXvllhYAgKIFAKBoAQAoWgAAihYAgKIFAKBoAQAoWgAAihYAgKIFAKD4nQ85e+WNPmZu6WPmqbNX3uhj5pazV27pY+aNs1f+7c5euamPmafOXnmjj5kv6GPmT9DHDP/Ux8xXnL3yRh8zT5298hO1AAAULQAARQsAQNECAFC0AAAULQAARQsAQNECAFC0AAAULQAARQsAQPE7P9jZK7ecvXLL2StP9THzRh8zt5y9cksfM/zfOnvlqT5m3uhj5pazV57qY+aNs1fe6GPmqbNXbulj5pY+Zt44e+WWs1fe6GPmC/qYueXslVtaAACKFgCAogUAoGgBAChaAACKFgCAogUAoGgBAChaAACKFgCA4nf4r/Uxc8vZK2/0McM/nb3C/9bHzC1nrzzVx8xX9DFzSx8zb5y9cksfM7f0MXNLHzO3nL3yRh8zt5y98gUtAABFCwBA0QIAULQAABQtAABFCwBA0QIAULQAABQtAABFCwBA0QIAUPz662/hX6OPmTfOXvmJ+pi55ewVvquPmafOXvmp+pi55eyVp/qYeePsla/oY+aps1f4pxYAgKIFAKBoAQAoWgAAihYAgKIFAKBoAQAoWgAAihYAgKIFAKD4ncv6mOE/d/bKG2evvNHHzFNnr7zRx8wXnL3yRh8zT529clMfM19w9sobfczwT33M3HL2yht9zHxBHzNvnL1ySx8zt5y98kYfM0+dvXJLCwBA0QIAULQAABQtAABFCwBA0QIAULQAABQtAABFCwBA0QIAULQAABS/8yFnr/wJ+pi5pY+ZW/qY+ROcvfJUHzNvnL3yxtkrP9HZKz9RHzM/UR8zP9HZK3+CPmZ+ohYAgKIFAKBoAQAoWgAAihYAgKIFAKBoAQAoWgAAihYAgKIFAKBoAQAofucH62PmC85e+anOXrmlj5kv6GPmjbNXnjp75aY+Zm45e+WpPmZuOXvljT5mnjp75Y2zV97oY+aWs1e+oI+ZN/qY+ROcvfJv1wIAULQAABQtAABFCwBA0QIAULQAABQtAABFCwBA0QIAULQAABS/Az/Q2Su39DHzFWevPNXHzBt9zNxy9spTfczc0sfMV5y9cksfM2+cvXLL2Su39DHzxtkrX9DHzBtnr3xBCwBA0QIAULQAABQtAABFCwBA0QIAULQAABQtAABFCwBA0QIAULQAABS/wx+tj5mnzl554+yVn+jslVv6mHmjj5mnzl75ic5e4bvOXrmlj5k3zl55o4+ZW85e+bdrAQAoWgAAihYAgKIFAKBoAQAoWgAAihYAgKIFAKBoAQAoWgAAit/5wc5e4Z/OXvmKPmZuOXvlC/qYeePslVv6mHnj7JWn+ph54+yVp/qYueXslTf6mPmKs1f+7c5eeaOPmVvOXuGfWgAAihYAgKIFAKBoAQAoWgAAihYAgKIFAKBoAQAoWgAAihYAgKIFAKD49dffclEfM/znzl55o4+ZN85e+Yn6mPmCs1du6mPmqbNX3uhj5gvOXrmlj5k3zl55o4+Zp85eeaOPmafOXrmlj5k3zl55qo+ZN85euaWPmTfOXvm3awEAKFoAAIoWAICiBQCgaAEAKFoAAIoWAICiBQCgaAEAKFoAAIpff/0tAAD/QwsAQNECAFC0AAAULQAARQsAQNECAFC0AAAULQAARQsAQNECAFC0AAAULQAARQsAQNECAFC0AAAULQAARQsAQNECAFC0AAAULQAARQsAQNECAFD8P9Qk7DBufhztAAAAAElFTkSuQmCC",
+      "lastImapScanAt": 0,
+      "credits": 0,
+      "days": 1,
+      "status": "EXPIRED",
+      "paymentUrl": "https://famgateway.in/?order=HEXF6DQ0431",
+      "upiIntentUrl": "upi://pay?pa=8252464080%40fam&pn=Hexx%20Info%20Bot&am=1&cu=INR&tn=HEXF6DQ0431&tr=HEXF6DQ0431",
+      "qrPayload": "upi://pay?pa=8252464080%40fam&pn=Hexx%20Info%20Bot&am=1&cu=INR&tn=HEXF6DQ0431&tr=HEXF6DQ0431",
+      "gatewaySource": "direct_gmail",
+      "createdAt": "2026-10-20T10:25:42.158Z",
+      "expiresAt": "2026-10-20T10:35:42.158Z",
+      "botQrMessageId": 7596
+    },
+    "HEXF6I50431": {
+      "orderId": "HEXF6I50431",
+      "famOrderId": "HEXF6I50431",
+      "userId": 7995520431,
+      "userName": "Vashu",
+      "userUsername": "Vashubhaiii",
+      "planId": "plan_1d",
+      "planName": "1 Day Pass",
+      "amount": 1,
+      "payableAmount": "1",
+      "qrImageUrl": "https://famgateway.in/api/qr/HEXF6I50431",
+      "qrDataUrl": "data:image/png;base64,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",
+      "lastImapScanAt": 0,
+      "credits": 0,
+      "days": 1,
+      "status": "PAID",
+      "paymentUrl": "https://famgateway.in/?order=HEXF6I50431",
+      "upiIntentUrl": "upi://pay?pa=8252464080%40fam&pn=Hexx%20Info%20Bot&am=1&cu=INR&tn=HEXF6I50431&tr=HEXF6I50431",
+      "qrPayload": "upi://pay?pa=8252464080%40fam&pn=Hexx%20Info%20Bot&am=1&cu=INR&tn=HEXF6I50431&tr=HEXF6I50431",
+      "gatewaySource": "direct_gmail",
+      "createdAt": "2026-10-20T10:25:42.317Z",
+      "expiresAt": "2026-10-20T10:35:42.317Z",
+      "botQrMessageId": 7597,
+      "utr": "GMAIL_645",
+      "paidAt": "2026-10-20T10:25:44.504Z"
     }
   },
   "globalHistory": [
+    {
+      "id": "ec403247-88b4-4ef5-98da-729bd91558b7",
+      "queryNumber": "9876543210",
+      "timestamp": "2026-10-20T10:29:15.820Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "Dev Jyoti Roy",
+        "truecallerName": "Sohel Khan",
+        "fatherName": "Salil Kumar Roy",
+        "mobile": "9876543210",
+        "altMobile": "Not found",
+        "circle": "AIRTEL DELHI",
+        "idNumber": "Not found",
+        "email": "devjroy@gmail com",
+        "address": "Tower 9 Flat 1506, Lotus Boulevard, NoidaSector 100, NoidaGautam Buddha Nagar, Uttar Pradesh, 201301",
+        "totalRecords": 99
+      }
+    },
     {
       "id": "0775d815-5922-427b-ab7e-161d556d2636",
       "queryNumber": "6287358888",
@@ -1758,6 +1830,62 @@
     }
   ],
   "logs": [
+    {
+      "id": "7eb55b55-7906-4ee2-b9f3-c0e807fb1c85",
+      "timestamp": "2026-10-20T10:29:15.820Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 9876543210 (Dev Jyoti Roy)"
+    },
+    {
+      "id": "ed32067f-3d4f-473a-9d39-0c33d4686239",
+      "timestamp": "2026-10-20T10:28:28.053Z",
+      "type": "BOT_MESSAGE",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "a2734146-033c-4d5b-bac3-1781eb010648",
+      "timestamp": "2026-10-20T10:25:54.279Z",
+      "type": "BOT_MESSAGE",
+      "userId": 7995520431,
+      "userName": "Vashu",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "9f8e81e7-bc15-4f4a-a933-155e4f677544",
+      "timestamp": "2026-10-20T10:25:44.504Z",
+      "type": "PAYMENT",
+      "userId": 7995520431,
+      "userName": "Vashu",
+      "summary": "Order HEXF6I50431 PAID (1 Days VIP, Rs.1)"
+    },
+    {
+      "id": "abfa0abb-16dc-4715-82ce-27f72584f596",
+      "timestamp": "2026-10-20T10:25:42.376Z",
+      "type": "PAYMENT",
+      "userId": 7995520431,
+      "userName": "Vashu",
+      "summary": "Created Auto-QR Order HEXF6I50431 (₹1 for 1 Days VIP)"
+    },
+    {
+      "id": "c8ccce60-fa19-4da2-a770-ccbed54d7f20",
+      "timestamp": "2026-10-20T10:25:42.223Z",
+      "type": "PAYMENT",
+      "userId": 7995520431,
+      "userName": "Vashu",
+      "summary": "Created Auto-QR Order HEXF6DQ0431 (₹1 for 1 Days VIP)"
+    },
+    {
+      "id": "0fadc24f-e995-4628-ad5d-70783d7c6af1",
+      "timestamp": "2026-10-20T10:25:38.937Z",
+      "type": "BOT_MESSAGE",
+      "userId": 7995520431,
+      "userName": "Vashu",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "e824c806-5fe3-4c94-8e46-330dcfc3938e",
       "timestamp": "2026-10-20T10:23:00.721Z",
@@ -2901,67 +3029,12 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "5f419d82-bed3-48ab-835a-fda1fffefa9f",
-      "timestamp": "2026-10-19T12:33:47.295Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "4a3f3f49-a84d-4d38-a98a-6c1fe1d2805d",
-      "timestamp": "2026-10-19T12:33:47.060Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "f9c912b1-2f07-439a-b342-fa31020d5cb9",
-      "timestamp": "2026-10-19T12:33:46.748Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "75fc01c7-3c92-4dc4-86a4-bde47d0735f0",
-      "timestamp": "2026-10-19T12:33:46.553Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "5799259f-a864-47f4-8f7c-cb23f0b6d607",
-      "timestamp": "2026-10-19T12:33:46.230Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "31ff33d1-1511-4237-a1cb-1c0653aed719",
-      "timestamp": "2026-10-19T12:33:45.942Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "ae087f31-f614-42d5-9deb-303b0d860371",
-      "timestamp": "2026-10-19T12:33:45.733Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168808774,
+  "lastTelegramUpdateId": 168808837,
   "usedEmailIds": [
     "gmail_628",
-    "gmail_629"
+    "gmail_629",
+    "gmail_645"
   ]
 }
