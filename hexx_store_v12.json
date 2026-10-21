@@ -2060,16 +2060,95 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T09:57:14.832Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 18,
-      "totalLookups": 18,
+      "dailyLookupsUsed": 22,
+      "totalLookups": 22,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-21T16:35:02.834Z",
+      "lastActiveAt": "2026-10-21T16:40:12.778Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "1af16f46-2056-4aca-8ffa-df831b04b459",
+          "queryNumber": "7634983477",
+          "timestamp": "2026-10-21T16:40:14.415Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Binu Mahato",
+            "truecallerName": "Vivek Bokaro 1",
+            "fatherName": "Mantu Prasad Mahato",
+            "mobile": "7634983477",
+            "altMobile": "Not found",
+            "circle": "AIRTEL BHR&JHR",
+            "idNumber": "530477732516",
+            "email": "Not found",
+            "address": "Vill-Harilagora Post-Dudhigazar P/S-Chas M Dudhigajar, Bokaro Dudhigajar Chas, Jharkhand, 827013",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "6c2ba1d1-ad83-4a2d-bc2b-d5b8ca39c03f",
+          "queryNumber": "9060505629",
+          "timestamp": "2026-10-21T16:39:15.542Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Raghavendra Hulakoppa",
+            "truecallerName": "Ragu Hulkopa Jcb",
+            "fatherName": "Hanumantappa",
+            "mobile": "9060505629",
+            "altMobile": "Not found",
+            "circle": "AIRTEL KARNATKA",
+            "idNumber": "659739432191",
+            "email": "Not found",
+            "address": "S/O: Hanumantappa Behind AyappaTEMPLE Gokul Gokul Gokul Hubli Dharwad Karnataka 580030",
+            "totalRecords": 2
+          }
+        },
+        {
+          "id": "1ee3cfd6-90ec-4c67-a0d2-5e5ecf2102c8",
+          "queryNumber": "9684658586",
+          "timestamp": "2026-10-21T16:37:48.466Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Not found",
+            "fatherName": "Not found",
+            "mobile": "9684658586",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "2d8d1a66-1c93-4536-b089-dd330c22a672",
+          "queryNumber": "9204294017",
+          "timestamp": "2026-10-21T16:36:05.141Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Fulchand Mahto",
+            "truecallerName": "Fulchand Mahto",
+            "fatherName": "Not found",
+            "mobile": "9204294017",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "7d5ab54e-51dd-4941-ad12-012cbf1e761e",
           "queryNumber": "9431129111",
@@ -2389,29 +2468,9 @@
             "address": "S/O Mahesh Pasvan, Bhela Simri gram bela simari, Khagaria, Bihar, 851204",
             "totalRecords": 1
           }
-        },
-        {
-          "id": "e7a37370-6852-41a1-8cb9-dcfb4155190c",
-          "queryNumber": "8102144230",
-          "timestamp": "2026-10-21T09:51:40.588Z",
-          "source": "bot",
-          "userId": 5316205408,
-          "userName": "Mukesh Kumar",
-          "resultSummary": {
-            "name": "Ful Kumari",
-            "truecallerName": "Manii Ji",
-            "fatherName": "Manoj Prasad",
-            "mobile": "8102144230",
-            "altMobile": "8271040235",
-            "circle": "JIO BHR&JHR",
-            "idNumber": "382852586735",
-            "email": "Not found",
-            "address": "W/O Manoj Prasad, Bagra, vill- piparadih po-bagra ps-simariya, Serandag Simaria, Chatra, Jharkhand, 825103",
-            "totalRecords": 1
-          }
         }
       ],
-      "lastBotMessageId": 8021,
+      "lastBotMessageId": 8029,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21",
       "lastPlanName": "7 DAYS PASS"
@@ -3544,6 +3603,85 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "1af16f46-2056-4aca-8ffa-df831b04b459",
+      "queryNumber": "7634983477",
+      "timestamp": "2026-10-21T16:40:14.415Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Binu Mahato",
+        "truecallerName": "Vivek Bokaro 1",
+        "fatherName": "Mantu Prasad Mahato",
+        "mobile": "7634983477",
+        "altMobile": "Not found",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "530477732516",
+        "email": "Not found",
+        "address": "Vill-Harilagora Post-Dudhigazar P/S-Chas M Dudhigajar, Bokaro Dudhigajar Chas, Jharkhand, 827013",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "6c2ba1d1-ad83-4a2d-bc2b-d5b8ca39c03f",
+      "queryNumber": "9060505629",
+      "timestamp": "2026-10-21T16:39:15.542Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Raghavendra Hulakoppa",
+        "truecallerName": "Ragu Hulkopa Jcb",
+        "fatherName": "Hanumantappa",
+        "mobile": "9060505629",
+        "altMobile": "Not found",
+        "circle": "AIRTEL KARNATKA",
+        "idNumber": "659739432191",
+        "email": "Not found",
+        "address": "S/O: Hanumantappa Behind AyappaTEMPLE Gokul Gokul Gokul Hubli Dharwad Karnataka 580030",
+        "totalRecords": 2
+      }
+    },
+    {
+      "id": "1ee3cfd6-90ec-4c67-a0d2-5e5ecf2102c8",
+      "queryNumber": "9684658586",
+      "timestamp": "2026-10-21T16:37:48.466Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Not found",
+        "fatherName": "Not found",
+        "mobile": "9684658586",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "2d8d1a66-1c93-4536-b089-dd330c22a672",
+      "queryNumber": "9204294017",
+      "timestamp": "2026-10-21T16:36:05.141Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Fulchand Mahto",
+        "truecallerName": "Fulchand Mahto",
+        "fatherName": "Not found",
+        "mobile": "9204294017",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "7d5ab54e-51dd-4941-ad12-012cbf1e761e",
       "queryNumber": "9431129111",
@@ -5454,87 +5592,41 @@
         "address": "Tower 9 Flat 1506, Lotus Boulevard, NoidaSector 100, NoidaGautam Buddha Nagar, Uttar Pradesh, 201301",
         "totalRecords": 99
       }
-    },
-    {
-      "id": "55552392-451d-449c-bce8-fe77f04a8958",
-      "queryNumber": "8840231690",
-      "timestamp": "2026-10-20T08:38:32.187Z",
-      "source": "bot",
-      "userId": 8900660455,
-      "userName": "Siddharth",
-      "resultSummary": {
-        "name": "Vibha",
-        "fatherName": "Abhay",
-        "mobile": "8840231690",
-        "altMobile": "Not found",
-        "circle": "JIO UPE",
-        "idNumber": "787320072531",
-        "email": "Not found",
-        "address": "W/O Abhay, Mirzapur, Pasrahatta, Mahuaria Chunar Mirzapur, Uttar Pradesh, 231001",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "66f07dd5-223e-4cec-b326-b21951364083",
-      "queryNumber": "9277384272",
-      "timestamp": "2026-10-20T08:38:03.453Z",
-      "source": "bot",
-      "userId": 8900660455,
-      "userName": "Siddharth",
-      "resultSummary": {
-        "name": "Not found",
-        "fatherName": "Not found",
-        "mobile": "9277384272",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "4f9f1b87-ea85-4fcf-a0b5-6e3e71801c4f",
-      "queryNumber": "8676972045",
-      "timestamp": "2026-10-19T13:14:14.133Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "Ranju Devi",
-        "truecallerName": "Asha Devi 16",
-        "fatherName": "Pankaj Kumar",
-        "mobile": "8676972045",
-        "altMobile": "9708250034",
-        "circle": "BIHAR JIO",
-        "idNumber": "794299567181",
-        "email": "Not found",
-        "address": "rajapakar Vaishali Bihar block rajapakar Thana rajapakar pos, west tola ward no 3 rajapakar Vaishali Bihar, Rajya pakshi Mandir, rajapakar Vaishali Bihar block rajapakar Thana rajapakar, Vaishali, Vaisha",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "03b74811-9ccc-4af0-a1d8-8dcdd5ca08b8",
-      "queryNumber": "9708398593",
-      "timestamp": "2026-10-19T13:14:07.331Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "PRAMILA DEVI",
-        "truecallerName": "Jaiveer cha",
-        "fatherName": "JAYVIR KUMAR",
-        "mobile": "9708398593",
-        "altMobile": "Not found",
-        "circle": "VODA BHR&JHR",
-        "idNumber": "365308179342",
-        "email": "Not found",
-        "address": "W/O Jayvir Kumar, W/O Jayvir Kumar ward no 02, Rajapakar kali mandir, Rajapakar Raja Pakar , RAJA PAKAR-VAISHALI, BR, 844124",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "32471b02-ddc3-4c91-b251-a5aaa54c503a",
+      "timestamp": "2026-10-21T16:40:14.415Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 7634983477 (Binu Mahato)"
+    },
+    {
+      "id": "3c4a5eb8-0a97-4f24-b838-755b5e29f986",
+      "timestamp": "2026-10-21T16:39:15.542Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 9060505629 (Raghavendra Hulakoppa)"
+    },
+    {
+      "id": "59f8e1b3-5b22-4066-994d-1c81d16a181c",
+      "timestamp": "2026-10-21T16:37:48.466Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 9684658586 (Not found)"
+    },
+    {
+      "id": "25ef7da1-3240-4cff-a24e-14d5d5805b18",
+      "timestamp": "2026-10-21T16:36:05.141Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 9204294017 (Fulchand Mahto)"
+    },
     {
       "id": "249ced72-f29e-4a7a-8b69-a560832daf17",
       "timestamp": "2026-10-21T16:35:03.904Z",
@@ -6702,41 +6794,9 @@
       "userId": 6352747905,
       "userName": ".",
       "summary": "Looked up 8139426154 (Not found)"
-    },
-    {
-      "id": "70a5d17d-240a-4fc0-b13d-12a6e3623163",
-      "timestamp": "2026-10-20T10:57:14.978Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6352747905,
-      "userName": ".",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "364e3f2e-caed-45ec-842a-4f483a001c96",
-      "timestamp": "2026-10-20T10:56:59.994Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6352747905,
-      "userName": ".",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "5d026a7c-bac5-4c3f-b013-3ee86f9600d4",
-      "timestamp": "2026-10-20T10:34:07.195Z",
-      "type": "PAYMENT",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Created Auto-QR Order HEXQ01R6116 (₹19 for 7 Days VIP)"
-    },
-    {
-      "id": "7eb55b55-7906-4ee2-b9f3-c0e807fb1c85",
-      "timestamp": "2026-10-20T10:29:15.820Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 9876543210 (Dev Jyoti Roy)"
     }
   ],
-  "lastTelegramUpdateId": 168809308,
+  "lastTelegramUpdateId": 168809312,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
