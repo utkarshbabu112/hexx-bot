@@ -1738,6 +1738,48 @@
       "history": [],
       "lastBotMessageId": 7840,
       "lastBotMessageHasPhoto": false
+    },
+    "7478449082": {
+      "id": 7478449082,
+      "firstName": "Imran Shah 143",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX449082",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-21T05:53:57.575Z",
+      "lastActiveAt": "2026-10-21T05:57:09.942Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "eefa58f4-5a41-4bbd-8735-a63f9c2c1d7e",
+          "queryNumber": "7489258553",
+          "timestamp": "2026-10-21T05:54:23.200Z",
+          "source": "bot",
+          "userId": 7478449082,
+          "userName": "Imran Shah 143",
+          "resultSummary": {
+            "name": "Ram Niwas Miree",
+            "truecallerName": "Irshad Khan",
+            "fatherName": "Kabir Das",
+            "mobile": "7489258553",
+            "altMobile": "9399721319",
+            "circle": "JIO MP",
+            "idNumber": "202611148903",
+            "email": "Not found",
+            "address": "Nawapara, Ward No. 12, Nawapara, Janjgir-champa, Chhattisgarh, 495691",
+            "totalRecords": 2
+          }
+        }
+      ],
+      "lastBotMessageId": 7846,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-21"
     }
   },
   "orders": {
@@ -2625,6 +2667,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "eefa58f4-5a41-4bbd-8735-a63f9c2c1d7e",
+      "queryNumber": "7489258553",
+      "timestamp": "2026-10-21T05:54:23.200Z",
+      "source": "bot",
+      "userId": 7478449082,
+      "userName": "Imran Shah 143",
+      "resultSummary": {
+        "name": "Ram Niwas Miree",
+        "truecallerName": "Irshad Khan",
+        "fatherName": "Kabir Das",
+        "mobile": "7489258553",
+        "altMobile": "9399721319",
+        "circle": "JIO MP",
+        "idNumber": "202611148903",
+        "email": "Not found",
+        "address": "Nawapara, Ward No. 12, Nawapara, Janjgir-champa, Chhattisgarh, 495691",
+        "totalRecords": 2
+      }
+    },
     {
       "id": "c44dc9b6-2e12-44bd-8c46-66029caa04bd",
       "queryNumber": "8872123634",
@@ -3979,6 +4041,22 @@
   ],
   "logs": [
     {
+      "id": "2549c287-8ae9-4034-b90d-d57b5631861b",
+      "timestamp": "2026-10-21T05:54:23.200Z",
+      "type": "LOOKUP",
+      "userId": 7478449082,
+      "userName": "Imran Shah 143",
+      "summary": "Looked up 7489258553 (Ram Niwas Miree)"
+    },
+    {
+      "id": "47ae5a85-e354-42ef-830c-595ecb08992e",
+      "timestamp": "2026-10-21T05:53:57.914Z",
+      "type": "BOT_MESSAGE",
+      "userId": 7478449082,
+      "userName": "Imran Shah 143",
+      "summary": "Started bot (/start)"
+    },
+    {
       "id": "2a3f34e9-43bd-498f-8631-76fa94954c0e",
       "timestamp": "2026-10-21T05:38:43.643Z",
       "type": "BOT_MESSAGE",
@@ -5161,25 +5239,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "ece676fa-98aa-4cd5-96ec-385921c14a6f",
-      "timestamp": "2026-10-19T12:34:11.954Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "dd79b691-0662-4f3e-97ef-b9249c8bd006",
-      "timestamp": "2026-10-19T12:34:11.639Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809121,
+  "lastTelegramUpdateId": 168809124,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
