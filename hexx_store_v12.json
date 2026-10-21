@@ -232,6 +232,48 @@
       "lastLookupDate": "2026-10-20",
       "dailyLimit": 1
     },
+    "1674577549": {
+      "id": 1674577549,
+      "firstName": "Shreeshank",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX577549",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-21T04:06:33.877Z",
+      "lastActiveAt": "2026-10-21T04:06:51.806Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "41a61295-93a1-4d9a-ae21-523aec4edebd",
+          "queryNumber": "8197580780",
+          "timestamp": "2026-10-21T04:06:53.635Z",
+          "source": "bot",
+          "userId": 1674577549,
+          "userName": "Shreeshank",
+          "resultSummary": {
+            "name": "Ashish Mishra",
+            "truecallerName": "vandana mishra didi",
+            "fatherName": "Krishna Murari Mishra",
+            "mobile": "8197580780",
+            "altMobile": "8858850863",
+            "circle": "AIRTEL DELHI",
+            "idNumber": "KA05 20140006006",
+            "email": "amishra6173@gmail.com",
+            "address": "H No Sra6c, Shipra Reviera , Indirapuram Ghaziabad, Ghaziabad, Uttar Pradesh, 201014",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastBotMessageId": 7829,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-21"
+    },
     "6672896116": {
       "id": 6672896116,
       "firstName": "UHTKARSH",
@@ -2681,6 +2723,26 @@
   },
   "globalHistory": [
     {
+      "id": "41a61295-93a1-4d9a-ae21-523aec4edebd",
+      "queryNumber": "8197580780",
+      "timestamp": "2026-10-21T04:06:53.635Z",
+      "source": "bot",
+      "userId": 1674577549,
+      "userName": "Shreeshank",
+      "resultSummary": {
+        "name": "Ashish Mishra",
+        "truecallerName": "vandana mishra didi",
+        "fatherName": "Krishna Murari Mishra",
+        "mobile": "8197580780",
+        "altMobile": "8858850863",
+        "circle": "AIRTEL DELHI",
+        "idNumber": "KA05 20140006006",
+        "email": "amishra6173@gmail.com",
+        "address": "H No Sra6c, Shipra Reviera , Indirapuram Ghaziabad, Ghaziabad, Uttar Pradesh, 201014",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "4d2949a0-5263-48ea-9336-3f7ce08f1c1f",
       "queryNumber": "7722865930",
       "timestamp": "2026-10-21T03:33:35.013Z",
@@ -3934,6 +3996,14 @@
   ],
   "logs": [
     {
+      "id": "380e85cb-53d2-4db5-978e-36299a9f0919",
+      "timestamp": "2026-10-21T04:06:53.635Z",
+      "type": "LOOKUP",
+      "userId": 1674577549,
+      "userName": "Shreeshank",
+      "summary": "Looked up 8197580780 (Ashish Mishra)"
+    },
+    {
       "id": "5d55f50c-6e8f-4d0e-8218-002b33a55aa4",
       "timestamp": "2026-10-21T03:33:35.013Z",
       "type": "LOOKUP",
@@ -5124,17 +5194,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "4d7a1670-d4de-4c0d-8985-10c471589a1d",
-      "timestamp": "2026-10-19T12:34:09.929Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809109,
+  "lastTelegramUpdateId": 168809112,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
