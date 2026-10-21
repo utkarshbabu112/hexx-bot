@@ -663,16 +663,36 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T02:51:11.808Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 16,
-      "totalLookups": 18,
+      "dailyLookupsUsed": 17,
+      "totalLookups": 19,
       "referralCode": "HEX490186",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-19T12:28:10.921Z",
-      "lastActiveAt": "2026-10-21T14:29:56.604Z",
+      "lastActiveAt": "2026-10-21T14:37:30.212Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "ad224574-cf5f-43f3-9080-98fe84fee6df",
+          "queryNumber": "8540961127",
+          "timestamp": "2026-10-21T14:37:31.209Z",
+          "source": "bot",
+          "userId": 8877490186,
+          "userName": "Ghb",
+          "resultSummary": {
+            "name": "Durga Prasad",
+            "truecallerName": "Govind Cf",
+            "fatherName": "Rohan Prasad",
+            "mobile": "8540961127",
+            "altMobile": "Not found",
+            "circle": "AIRTEL BHR&JHR",
+            "idNumber": "991129356738",
+            "email": "Not found",
+            "address": "Hosir paschimi Post-Hosir, vill-Naiya toli, Hasir Gomia, Bokaro, Bokaro, Jharkhand, 829111",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "ed8d787b-ff67-4747-aece-0e8460cd5b1a",
           "queryNumber": "8409428230",
@@ -774,7 +794,7 @@
         }
       ],
       "lastLookupDate": "2026-10-21",
-      "lastBotMessageId": 7979,
+      "lastBotMessageId": 7981,
       "lastBotMessageHasPhoto": false,
       "dailyLimit": 1,
       "lastPlanName": "7 DAYS PASS"
@@ -3239,6 +3259,26 @@
   },
   "globalHistory": [
     {
+      "id": "ad224574-cf5f-43f3-9080-98fe84fee6df",
+      "queryNumber": "8540961127",
+      "timestamp": "2026-10-21T14:37:31.209Z",
+      "source": "bot",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "resultSummary": {
+        "name": "Durga Prasad",
+        "truecallerName": "Govind Cf",
+        "fatherName": "Rohan Prasad",
+        "mobile": "8540961127",
+        "altMobile": "Not found",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "991129356738",
+        "email": "Not found",
+        "address": "Hosir paschimi Post-Hosir, vill-Naiya toli, Hasir Gomia, Bokaro, Bokaro, Jharkhand, 829111",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "ed8d787b-ff67-4747-aece-0e8460cd5b1a",
       "queryNumber": "8409428230",
       "timestamp": "2026-10-21T14:29:58.568Z",
@@ -5206,29 +5246,17 @@
         "address": "S/O Gannouri Choudhary S/O Gannouri Choudhary Barah Bikram . JANPARA-PATNA Bihar 801112",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "d981cd99-de76-4e37-ad0b-1f4a7989b1a6",
-      "queryNumber": "9876543210",
-      "timestamp": "2026-10-19T01:41:54.940Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "Dev Jyoti Roy",
-        "truecallerName": "Sohel Khan",
-        "fatherName": "Salil Kumar Roy",
-        "mobile": "9876543210",
-        "altMobile": "Not found",
-        "circle": "AIRTEL DELHI",
-        "idNumber": "Not found",
-        "email": "devjroy@gmail com",
-        "address": "Tower 9 Flat 1506, Lotus Boulevard, NoidaSector 100, NoidaGautam Buddha Nagar, Uttar Pradesh, 201301",
-        "totalRecords": 99
-      }
     }
   ],
   "logs": [
+    {
+      "id": "f792f652-31e1-4be6-885b-5bf81a43a95a",
+      "timestamp": "2026-10-21T14:37:31.209Z",
+      "type": "LOOKUP",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "summary": "Looked up 8540961127 (Durga Prasad)"
+    },
     {
       "id": "df0c25b0-74a3-41f7-b20a-2a08412fe99e",
       "timestamp": "2026-10-21T14:29:58.568Z",
@@ -6420,17 +6448,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "e2c3ffc3-b37b-43ce-913e-1022fa7124c5",
-      "timestamp": "2026-10-20T08:41:25.928Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 7766554433 (SAMSHAID ANSARI)"
     }
   ],
-  "lastTelegramUpdateId": 168809271,
+  "lastTelegramUpdateId": 168809272,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
