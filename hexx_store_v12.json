@@ -1862,6 +1862,26 @@
       "lastBotMessageId": 7862,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21"
+    },
+    "7010424526": {
+      "id": 7010424526,
+      "firstName": "Xyz",
+      "credits": 1,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 0,
+      "totalLookups": 0,
+      "referralCode": "HEX424526",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-21T08:57:26.702Z",
+      "lastActiveAt": "2026-10-21T08:57:26.702Z",
+      "isBanned": false,
+      "history": [],
+      "lastBotMessageId": 7866,
+      "lastBotMessageHasPhoto": false
     }
   },
   "orders": {
@@ -5362,7 +5382,7 @@
       "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809139,
+  "lastTelegramUpdateId": 168809140,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
