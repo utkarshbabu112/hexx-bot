@@ -248,7 +248,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-21T03:12:22.767Z",
+      "lastActiveAt": "2026-10-21T03:29:26.082Z",
       "isBanned": false,
       "history": [
         {
@@ -390,7 +390,7 @@
           }
         }
       ],
-      "lastBotMessageId": 7811,
+      "lastBotMessageId": 7819,
       "lastBotMessageHasPhoto": false,
       "isAdminUnlocked": true,
       "lastLookupDate": "2026-10-21",
@@ -1439,16 +1439,36 @@
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
-      "dailyLookupsUsed": 2,
-      "totalLookups": 2,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 3,
       "referralCode": "HEX197265",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-20T16:25:36.008Z",
-      "lastActiveAt": "2026-10-20T16:51:47.483Z",
+      "lastActiveAt": "2026-10-21T03:30:34.254Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "c54593f0-f881-4d53-b8cf-af2574549aaf",
+          "queryNumber": "6296927199",
+          "timestamp": "2026-10-21T03:28:52.102Z",
+          "source": "bot",
+          "userId": 7183197265,
+          "userName": "OG",
+          "resultSummary": {
+            "name": "Rupa Jha",
+            "truecallerName": "anu roy",
+            "fatherName": "Balid Jha",
+            "mobile": "6296927199",
+            "altMobile": "8388808224",
+            "circle": "JIO WB",
+            "idNumber": "741154498618",
+            "email": "Not found",
+            "address": "SHIVNAGAR, WARD NO. 46 Champasari, shivnagar ward no. 46 champasari, champasari Matigara, darjeeling, West Bengal, 734003",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "72727c3d-b056-43ef-87b5-17d6c2815c28",
           "queryNumber": "7869930139",
@@ -1490,9 +1510,9 @@
           }
         }
       ],
-      "lastBotMessageId": 7731,
+      "lastBotMessageId": 7821,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-20",
+      "lastLookupDate": "2026-10-21",
       "dailyLimit": 1
     },
     "6783862138": {
@@ -2591,9 +2611,53 @@
       "createdAt": "2026-10-21T02:47:10.369Z",
       "expiresAt": "2026-10-21T02:57:10.369Z",
       "botQrMessageId": 7789
+    },
+    "HEX0PEV7265": {
+      "orderId": "HEX0PEV7265",
+      "famOrderId": "HEX0PEV7265",
+      "userId": 7183197265,
+      "userName": "OG",
+      "userUsername": "OGxMANSURI",
+      "planId": "plan_1d",
+      "planName": "7 DAYS PASS",
+      "amount": 19,
+      "payableAmount": "19",
+      "qrImageUrl": "https://famgateway.in/api/qr/HEX0PEV7265",
+      "qrDataUrl": "data:image/png;base64,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",
+      "lastImapScanAt": 0,
+      "credits": 0,
+      "days": 7,
+      "status": "PENDING",
+      "paymentUrl": "https://famgateway.in/?order=HEX0PEV7265",
+      "upiIntentUrl": "upi://pay?pa=8252464080%40fam&pn=Hexx%20Info%20Bot&am=19&cu=INR&tn=HEX0PEV7265&tr=HEX0PEV7265",
+      "qrPayload": "upi://pay?pa=8252464080%40fam&pn=Hexx%20Info%20Bot&am=19&cu=INR&tn=HEX0PEV7265&tr=HEX0PEV7265",
+      "gatewaySource": "direct_gmail",
+      "createdAt": "2026-10-21T03:30:12.775Z",
+      "expiresAt": "2026-10-21T03:40:12.775Z",
+      "botQrMessageId": 7820
     }
   },
   "globalHistory": [
+    {
+      "id": "c54593f0-f881-4d53-b8cf-af2574549aaf",
+      "queryNumber": "6296927199",
+      "timestamp": "2026-10-21T03:28:52.102Z",
+      "source": "bot",
+      "userId": 7183197265,
+      "userName": "OG",
+      "resultSummary": {
+        "name": "Rupa Jha",
+        "truecallerName": "anu roy",
+        "fatherName": "Balid Jha",
+        "mobile": "6296927199",
+        "altMobile": "8388808224",
+        "circle": "JIO WB",
+        "idNumber": "741154498618",
+        "email": "Not found",
+        "address": "SHIVNAGAR, WARD NO. 46 Champasari, shivnagar ward no. 46 champasari, champasari Matigara, darjeeling, West Bengal, 734003",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "cf06e547-07a4-475e-892b-1509b60576df",
       "queryNumber": "9274988185",
@@ -3808,6 +3872,30 @@
   ],
   "logs": [
     {
+      "id": "5189340b-0804-49e3-8aca-35a9fa3ad20a",
+      "timestamp": "2026-10-21T03:30:12.788Z",
+      "type": "PAYMENT",
+      "userId": 7183197265,
+      "userName": "OG",
+      "summary": "Created Auto-QR Order HEX0PEV7265 (₹19 for 7 Days VIP)"
+    },
+    {
+      "id": "ef6d2561-2f3a-462a-b737-19bcf57a7bdd",
+      "timestamp": "2026-10-21T03:29:26.394Z",
+      "type": "BOT_MESSAGE",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "f32f4ee9-d80d-42f1-b8e5-6a2588f5b0a9",
+      "timestamp": "2026-10-21T03:28:52.102Z",
+      "type": "LOOKUP",
+      "userId": 7183197265,
+      "userName": "OG",
+      "summary": "Looked up 6296927199 (Rupa Jha)"
+    },
+    {
       "id": "5bd4879e-bcfb-470d-b845-98f4d0439902",
       "timestamp": "2026-10-21T03:25:29.222Z",
       "type": "LOOKUP",
@@ -4982,33 +5070,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "8972f50c-df0f-43a7-a64d-fd389e577eae",
-      "timestamp": "2026-10-19T12:34:09.317Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "f8ef7344-f879-41b8-81d2-5b83ce734564",
-      "timestamp": "2026-10-19T12:34:09.059Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "Hexx User",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "e28f7034-d7fc-4001-b7b5-79bc7d190e47",
-      "timestamp": "2026-10-19T12:34:08.739Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809097,
+  "lastTelegramUpdateId": 168809105,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
