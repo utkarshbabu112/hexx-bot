@@ -248,7 +248,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-21T03:12:04.929Z",
+      "lastActiveAt": "2026-10-21T03:12:22.767Z",
       "isBanned": false,
       "history": [
         {
@@ -1370,21 +1370,41 @@
     },
     "8898442254": {
       "id": 8898442254,
-      "firstName": "𝐄𝐑𝐑𝐎𝐑 | 𝐗𝐑 🍂",
+      "firstName": "𝐔𝐍𝐊𝐍𝐎𝐖𝐍 | 𝐗𝐑 ⚡",
       "credits": 0,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
-      "dailyLookupsUsed": 2,
-      "totalLookups": 2,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 3,
       "referralCode": "HEX442254",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-20T15:47:03.102Z",
-      "lastActiveAt": "2026-10-20T15:47:17.357Z",
+      "lastActiveAt": "2026-10-21T03:14:15.650Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "073f746f-af3d-47a5-b0de-a6a8d31ffc5c",
+          "queryNumber": "9211369728",
+          "timestamp": "2026-10-21T03:14:17.097Z",
+          "source": "bot",
+          "userId": 8898442254,
+          "userName": "𝐔𝐍𝐊𝐍𝐎𝐖𝐍 | 𝐗𝐑 ⚡",
+          "resultSummary": {
+            "name": "kamala kamwali",
+            "truecallerName": "kamala kamwali",
+            "fatherName": "Not found",
+            "mobile": "9211369728",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "4e7e747e-9603-4e4e-a807-5bf50a180bb7",
           "queryNumber": "9015317744",
@@ -1406,8 +1426,8 @@
           }
         }
       ],
-      "lastLookupDate": "2026-10-20",
-      "lastBotMessageId": 7721,
+      "lastLookupDate": "2026-10-21",
+      "lastBotMessageId": 7813,
       "lastBotMessageHasPhoto": false,
       "dailyLimit": 1
     },
@@ -2574,6 +2594,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "073f746f-af3d-47a5-b0de-a6a8d31ffc5c",
+      "queryNumber": "9211369728",
+      "timestamp": "2026-10-21T03:14:17.097Z",
+      "source": "bot",
+      "userId": 8898442254,
+      "userName": "𝐔𝐍𝐊𝐍𝐎𝐖𝐍 | 𝐗𝐑 ⚡",
+      "resultSummary": {
+        "name": "kamala kamwali",
+        "truecallerName": "kamala kamwali",
+        "fatherName": "Not found",
+        "mobile": "9211369728",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "b1a5c612-8327-4373-91b6-20544f1951a3",
       "queryNumber": "6359401667",
@@ -3747,6 +3787,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "8e74aea1-a834-406e-8094-3ecbeaeeb9ef",
+      "timestamp": "2026-10-21T03:14:17.097Z",
+      "type": "LOOKUP",
+      "userId": 8898442254,
+      "userName": "𝐔𝐍𝐊𝐍𝐎𝐖𝐍 | 𝐗𝐑 ⚡",
+      "summary": "Looked up 9211369728 (kamala kamwali)"
+    },
     {
       "id": "795b9973-4eaf-4b0a-bcfd-8df76faffc90",
       "timestamp": "2026-10-21T03:04:04.211Z",
@@ -4938,17 +4986,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "5bf71d16-68a2-4efe-9d48-33ee1be5f74d",
-      "timestamp": "2026-10-19T12:34:08.182Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809091,
+  "lastTelegramUpdateId": 168809096,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
