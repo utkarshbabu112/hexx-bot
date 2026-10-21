@@ -2060,16 +2060,76 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T09:57:14.832Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 11,
-      "totalLookups": 11,
+      "dailyLookupsUsed": 14,
+      "totalLookups": 14,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-21T16:18:05.933Z",
+      "lastActiveAt": "2026-10-21T16:22:49.018Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "e9926ff1-c178-49ac-ab49-2fa166c88568",
+          "queryNumber": "9006912539",
+          "timestamp": "2026-10-21T16:22:50.385Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Nourin Parween",
+            "truecallerName": "Khemna",
+            "fatherName": "Mohammad Parwej Khan",
+            "mobile": "9006912539",
+            "altMobile": "Not found",
+            "circle": "AIRTEL BHR&JHR",
+            "idNumber": "222237634451",
+            "email": "Not found",
+            "address": "MILLAT COLONY, Pathal Kudwa, PATHAL KUDWA Church Road, Ranchi, Ranchi, Jharkhand, 834001",
+            "totalRecords": 2
+          }
+        },
+        {
+          "id": "1b4f53bc-f2ac-4356-a7a7-a2301c650b7f",
+          "queryNumber": "8652651450",
+          "timestamp": "2026-10-21T16:22:21.891Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Kda Plstr Aniruddh",
+            "truecallerName": "Kda Plstr Aniruddh",
+            "fatherName": "Not found",
+            "mobile": "8652651450",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "5bcce63b-a037-4653-8871-caec632bb8da",
+          "queryNumber": "7503045011",
+          "timestamp": "2026-10-21T16:20:21.339Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "MR. SHIV PUJAN PRASAD",
+            "truecallerName": "Shiv Ias",
+            "fatherName": "Krishna",
+            "mobile": "7503045011",
+            "altMobile": "8929381185",
+            "circle": "Delhi Voda",
+            "idNumber": "399934622429",
+            "email": "Not found",
+            "address": "C/O , A-223 Nehru Bihar Timarpur , A-223 Nehru Vihar , Nehru ViharNORTH DELHI , DELHI , NORTH DELHI , Delhi , 110054",
+            "totalRecords": 5
+          }
+        },
         {
           "id": "a4dd729a-911f-481f-b716-165e46ca3ce7",
           "queryNumber": "8271040235",
@@ -2271,7 +2331,7 @@
           }
         }
       ],
-      "lastBotMessageId": 7999,
+      "lastBotMessageId": 8005,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21",
       "lastPlanName": "7 DAYS PASS"
@@ -3320,6 +3380,66 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "e9926ff1-c178-49ac-ab49-2fa166c88568",
+      "queryNumber": "9006912539",
+      "timestamp": "2026-10-21T16:22:50.385Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Nourin Parween",
+        "truecallerName": "Khemna",
+        "fatherName": "Mohammad Parwej Khan",
+        "mobile": "9006912539",
+        "altMobile": "Not found",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "222237634451",
+        "email": "Not found",
+        "address": "MILLAT COLONY, Pathal Kudwa, PATHAL KUDWA Church Road, Ranchi, Ranchi, Jharkhand, 834001",
+        "totalRecords": 2
+      }
+    },
+    {
+      "id": "1b4f53bc-f2ac-4356-a7a7-a2301c650b7f",
+      "queryNumber": "8652651450",
+      "timestamp": "2026-10-21T16:22:21.891Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Kda Plstr Aniruddh",
+        "truecallerName": "Kda Plstr Aniruddh",
+        "fatherName": "Not found",
+        "mobile": "8652651450",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "5bcce63b-a037-4653-8871-caec632bb8da",
+      "queryNumber": "7503045011",
+      "timestamp": "2026-10-21T16:20:21.339Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "MR. SHIV PUJAN PRASAD",
+        "truecallerName": "Shiv Ias",
+        "fatherName": "Krishna",
+        "mobile": "7503045011",
+        "altMobile": "8929381185",
+        "circle": "Delhi Voda",
+        "idNumber": "399934622429",
+        "email": "Not found",
+        "address": "C/O , A-223 Nehru Bihar Timarpur , A-223 Nehru Vihar , Nehru ViharNORTH DELHI , DELHI , NORTH DELHI , Delhi , 110054",
+        "totalRecords": 5
+      }
+    },
     {
       "id": "a4dd729a-911f-481f-b716-165e46ca3ce7",
       "queryNumber": "8271040235",
@@ -5249,69 +5369,33 @@
         "address": "Not found",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "ebdf6ad3-c355-49f3-9d97-077a486489b5",
-      "queryNumber": "9241560780",
-      "timestamp": "2026-10-19T12:28:12.652Z",
-      "source": "bot",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "resultSummary": {
-        "name": "karan",
-        "truecallerName": "karan",
-        "fatherName": "Not found",
-        "mobile": "9241560780",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "5099fb97-a185-4bbc-a757-82582839f6d8",
-      "queryNumber": "9241560780",
-      "timestamp": "2026-10-19T12:28:12.551Z",
-      "source": "bot",
-      "userId": 6247554367,
-      "userName": "Divya",
-      "resultSummary": {
-        "name": "karan",
-        "truecallerName": "karan",
-        "fatherName": "Not found",
-        "mobile": "9241560780",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "4e873769-d243-452a-9d95-adee3a3b1c91",
-      "queryNumber": "9708398593",
-      "timestamp": "2026-10-19T07:50:28.653Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "PRAMILA DEVI",
-        "truecallerName": "Jaiveer cha",
-        "fatherName": "JAYVIR KUMAR",
-        "mobile": "9708398593",
-        "altMobile": "Not found",
-        "circle": "VODA BHR&JHR",
-        "idNumber": "365308179342",
-        "email": "Not found",
-        "address": "W/O Jayvir Kumar, W/O Jayvir Kumar ward no 02, Rajapakar kali mandir, Rajapakar Raja Pakar , RAJA PAKAR-VAISHALI, BR, 844124",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "9f164ea9-52e0-4266-8350-f0d92b43782a",
+      "timestamp": "2026-10-21T16:22:50.385Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 9006912539 (Nourin Parween)"
+    },
+    {
+      "id": "32a3a4df-376b-4016-97cf-ddaea1f6b0a8",
+      "timestamp": "2026-10-21T16:22:21.891Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 8652651450 (Kda Plstr Aniruddh)"
+    },
+    {
+      "id": "acd7dde7-3ed4-4616-aedc-bfa9427a1003",
+      "timestamp": "2026-10-21T16:20:21.339Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 7503045011 (MR. SHIV PUJAN PRASAD)"
+    },
     {
       "id": "41134ddd-453c-4867-89ae-4254af57a664",
       "timestamp": "2026-10-21T16:18:07.001Z",
@@ -6487,33 +6571,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "aaaac056-389a-4605-a59f-c5b7ad330a2a",
-      "timestamp": "2026-10-20T10:05:37.568Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 6287358888 (Not found)"
-    },
-    {
-      "id": "05562f3f-e9bc-48d4-9bb1-a4202c0bfa99",
-      "timestamp": "2026-10-20T10:05:03.785Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 9153501816 (Vikram Birua)"
-    },
-    {
-      "id": "56abd0f6-3c72-4b97-af3f-1b9cf1686fb8",
-      "timestamp": "2026-10-20T10:04:36.144Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 8676972045 (Ranju Devi)"
     }
   ],
-  "lastTelegramUpdateId": 168809290,
+  "lastTelegramUpdateId": 168809293,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
