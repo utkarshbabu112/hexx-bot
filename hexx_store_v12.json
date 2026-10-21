@@ -290,7 +290,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-21T11:35:10.963Z",
+      "lastActiveAt": "2026-10-21T11:37:49.369Z",
       "isBanned": false,
       "history": [
         {
@@ -6082,7 +6082,7 @@
       "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809250,
+  "lastTelegramUpdateId": 168809259,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
