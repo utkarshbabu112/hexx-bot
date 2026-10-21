@@ -536,16 +536,116 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T02:51:11.808Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 3,
-      "totalLookups": 5,
+      "dailyLookupsUsed": 8,
+      "totalLookups": 10,
       "referralCode": "HEX490186",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-19T12:28:10.921Z",
-      "lastActiveAt": "2026-10-21T02:56:59.122Z",
+      "lastActiveAt": "2026-10-21T02:59:41.967Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "6339555a-cbb8-4221-9168-93f73db6e729",
+          "queryNumber": "6200463559",
+          "timestamp": "2026-10-21T02:59:43.339Z",
+          "source": "bot",
+          "userId": 8877490186,
+          "userName": "Ghb",
+          "resultSummary": {
+            "name": "Kavita Priyadarshini",
+            "truecallerName": "deshesh kumar",
+            "fatherName": "Lokesh Kumar",
+            "mobile": "6200463559",
+            "altMobile": "8578019555",
+            "circle": "BIHAR JIO",
+            "idNumber": "297378727345",
+            "email": "Not found",
+            "address": "W/O Lokesh Kumar, Gali No-01 Motihari, Azad Nagar Balua Tal, Motihari Motihari East Champaran, Bihar, 845401",
+            "totalRecords": 2
+          }
+        },
+        {
+          "id": "368151bc-f73c-4c41-8b5d-3b7eb859e897",
+          "queryNumber": "6202735641",
+          "timestamp": "2026-10-21T02:59:13.807Z",
+          "source": "bot",
+          "userId": 8877490186,
+          "userName": "Ghb",
+          "resultSummary": {
+            "name": "Rajkumar Mandal",
+            "truecallerName": "banti mandal",
+            "fatherName": "Bhikhi Mandal",
+            "mobile": "6202735641",
+            "altMobile": "Not found",
+            "circle": "BIHAR JIO",
+            "idNumber": "752564856629",
+            "email": "Not found",
+            "address": "S/O Bhikhi Mandal, Keshwari, vill nagar keshwari po keshwari ps suriya, Nagar Keshwari Bagodar Giridih, Jharkhand, 825320",
+            "totalRecords": 3
+          }
+        },
+        {
+          "id": "08ed125f-1358-4bab-8867-c2d5ca8a2ea0",
+          "queryNumber": "9660346404",
+          "timestamp": "2026-10-21T02:58:44.614Z",
+          "source": "bot",
+          "userId": 8877490186,
+          "userName": "Ghb",
+          "resultSummary": {
+            "name": "narotam malav",
+            "truecallerName": "narotam malav",
+            "fatherName": "Not found",
+            "mobile": "9660346404",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "816ba4d3-a134-4a64-a6ca-3745565009a3",
+          "queryNumber": "8757612394",
+          "timestamp": "2026-10-21T02:57:45.927Z",
+          "source": "bot",
+          "userId": 8877490186,
+          "userName": "Ghb",
+          "resultSummary": {
+            "name": "Renu Devi",
+            "truecallerName": "r@j",
+            "fatherName": "Bhola Prasad",
+            "mobile": "8757612394",
+            "altMobile": "Not found",
+            "circle": "AIRTEL BHR&JHR",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "H No 139, Vill Kolhu Bishnu Garh Post Bishanugarh, Hazaribagh, 825312",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "debcf73c-55de-4136-ab9c-484321760137",
+          "queryNumber": "9274988185",
+          "timestamp": "2026-10-21T02:57:31.316Z",
+          "source": "bot",
+          "userId": 8877490186,
+          "userName": "Ghb",
+          "resultSummary": {
+            "name": "arsi raza",
+            "truecallerName": "arsi raza",
+            "fatherName": "Not found",
+            "mobile": "9274988185",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "6398bb00-77fe-4f31-9b01-a5b9e9a0a7fa",
           "queryNumber": "7872079155",
@@ -608,7 +708,7 @@
         }
       ],
       "lastLookupDate": "2026-10-21",
-      "lastBotMessageId": 7797,
+      "lastBotMessageId": 7807,
       "lastBotMessageHasPhoto": false,
       "dailyLimit": 1,
       "lastPlanName": "7 DAYS PASS"
@@ -2455,6 +2555,106 @@
   },
   "globalHistory": [
     {
+      "id": "6339555a-cbb8-4221-9168-93f73db6e729",
+      "queryNumber": "6200463559",
+      "timestamp": "2026-10-21T02:59:43.339Z",
+      "source": "bot",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "resultSummary": {
+        "name": "Kavita Priyadarshini",
+        "truecallerName": "deshesh kumar",
+        "fatherName": "Lokesh Kumar",
+        "mobile": "6200463559",
+        "altMobile": "8578019555",
+        "circle": "BIHAR JIO",
+        "idNumber": "297378727345",
+        "email": "Not found",
+        "address": "W/O Lokesh Kumar, Gali No-01 Motihari, Azad Nagar Balua Tal, Motihari Motihari East Champaran, Bihar, 845401",
+        "totalRecords": 2
+      }
+    },
+    {
+      "id": "368151bc-f73c-4c41-8b5d-3b7eb859e897",
+      "queryNumber": "6202735641",
+      "timestamp": "2026-10-21T02:59:13.807Z",
+      "source": "bot",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "resultSummary": {
+        "name": "Rajkumar Mandal",
+        "truecallerName": "banti mandal",
+        "fatherName": "Bhikhi Mandal",
+        "mobile": "6202735641",
+        "altMobile": "Not found",
+        "circle": "BIHAR JIO",
+        "idNumber": "752564856629",
+        "email": "Not found",
+        "address": "S/O Bhikhi Mandal, Keshwari, vill nagar keshwari po keshwari ps suriya, Nagar Keshwari Bagodar Giridih, Jharkhand, 825320",
+        "totalRecords": 3
+      }
+    },
+    {
+      "id": "08ed125f-1358-4bab-8867-c2d5ca8a2ea0",
+      "queryNumber": "9660346404",
+      "timestamp": "2026-10-21T02:58:44.614Z",
+      "source": "bot",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "resultSummary": {
+        "name": "narotam malav",
+        "truecallerName": "narotam malav",
+        "fatherName": "Not found",
+        "mobile": "9660346404",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "816ba4d3-a134-4a64-a6ca-3745565009a3",
+      "queryNumber": "8757612394",
+      "timestamp": "2026-10-21T02:57:45.927Z",
+      "source": "bot",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "resultSummary": {
+        "name": "Renu Devi",
+        "truecallerName": "r@j",
+        "fatherName": "Bhola Prasad",
+        "mobile": "8757612394",
+        "altMobile": "Not found",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "H No 139, Vill Kolhu Bishnu Garh Post Bishanugarh, Hazaribagh, 825312",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "debcf73c-55de-4136-ab9c-484321760137",
+      "queryNumber": "9274988185",
+      "timestamp": "2026-10-21T02:57:31.316Z",
+      "source": "bot",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "resultSummary": {
+        "name": "arsi raza",
+        "truecallerName": "arsi raza",
+        "fatherName": "Not found",
+        "mobile": "9274988185",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "6398bb00-77fe-4f31-9b01-a5b9e9a0a7fa",
       "queryNumber": "7872079155",
       "timestamp": "2026-10-21T02:57:00.611Z",
@@ -3507,6 +3707,46 @@
     }
   ],
   "logs": [
+    {
+      "id": "2e2172ff-a359-4b97-8da7-cd75200ec7ca",
+      "timestamp": "2026-10-21T02:59:43.339Z",
+      "type": "LOOKUP",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "summary": "Looked up 6200463559 (Kavita Priyadarshini)"
+    },
+    {
+      "id": "f1665bd1-25ff-475d-9d57-51863ba2d81a",
+      "timestamp": "2026-10-21T02:59:13.807Z",
+      "type": "LOOKUP",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "summary": "Looked up 6202735641 (Rajkumar Mandal)"
+    },
+    {
+      "id": "f8dae1ab-4dce-4b9f-87b3-17e07a28e54e",
+      "timestamp": "2026-10-21T02:58:44.614Z",
+      "type": "LOOKUP",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "summary": "Looked up 9660346404 (narotam malav)"
+    },
+    {
+      "id": "cb552abf-9f14-4150-9ea4-2055252e57df",
+      "timestamp": "2026-10-21T02:57:45.927Z",
+      "type": "LOOKUP",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "summary": "Looked up 8757612394 (Renu Devi)"
+    },
+    {
+      "id": "a0c2ba6c-89fa-4d21-9245-a0669811b332",
+      "timestamp": "2026-10-21T02:57:31.316Z",
+      "type": "LOOKUP",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "summary": "Looked up 9274988185 (arsi raza)"
+    },
     {
       "id": "22667a00-55e3-413f-a328-d70b1512ffed",
       "timestamp": "2026-10-21T02:57:00.611Z",
@@ -4666,49 +4906,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "aa78c115-131e-474c-a12a-900eeae199f2",
-      "timestamp": "2026-10-19T12:34:07.391Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "f8f2c221-880e-46c2-80fc-bd4165ac9c39",
-      "timestamp": "2026-10-19T12:34:07.337Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "05f2dabc-e1c2-4ca5-9faf-e92d558c8a68",
-      "timestamp": "2026-10-19T12:34:07.091Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "72d24ea3-826b-404c-b23d-520329423c31",
-      "timestamp": "2026-10-19T12:34:07.042Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "d32076ba-01ff-495b-acaa-de70e0d8f765",
-      "timestamp": "2026-10-19T12:34:06.556Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809077,
+  "lastTelegramUpdateId": 168809086,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
