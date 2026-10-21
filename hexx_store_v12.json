@@ -2060,16 +2060,76 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T09:57:14.832Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 15,
-      "totalLookups": 15,
+      "dailyLookupsUsed": 18,
+      "totalLookups": 18,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-21T16:25:32.525Z",
+      "lastActiveAt": "2026-10-21T16:35:02.834Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "7d5ab54e-51dd-4941-ad12-012cbf1e761e",
+          "queryNumber": "9431129111",
+          "timestamp": "2026-10-21T16:35:03.904Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Santosh Kumar Mandal",
+            "truecallerName": "Santosh Mandal",
+            "fatherName": "Chhoti Lal Mahto",
+            "mobile": "9431129111",
+            "altMobile": "Not found",
+            "circle": "AIRTEL BHR&JHR",
+            "idNumber": "395744216801",
+            "email": "Not found",
+            "address": "Vill-Salaiya, Ps- Barkatha, Barwan, Hazaribagh, HAZARIBAG, Jharkhand, 825323",
+            "totalRecords": 4
+          }
+        },
+        {
+          "id": "34905bc7-34fe-493c-b8f1-ca45fd0012f6",
+          "queryNumber": "9931459864",
+          "timestamp": "2026-10-21T16:34:01.965Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Rajesh Kumar",
+            "truecallerName": "RTI Activist CMO Office",
+            "fatherName": "Mohar Mahto",
+            "mobile": "9931459864",
+            "altMobile": "Not found",
+            "circle": "AIRTEL BHR&JHR",
+            "idNumber": "660662547139",
+            "email": "Not found",
+            "address": "03, Thana- barkatha, Barkatha, salaiya barkatha barwan, Hazaribagh, HAZARIBAG, Jharkhand, 825323",
+            "totalRecords": 3
+          }
+        },
+        {
+          "id": "7fe5437a-ffe2-4dcd-a7ba-8232b40419cb",
+          "queryNumber": "9594143425",
+          "timestamp": "2026-10-21T16:33:33.459Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Rajesh Kumar",
+            "truecallerName": "Rajeah Salaiya",
+            "fatherName": "Anirudh Prasad",
+            "mobile": "9594143425",
+            "altMobile": "Not found",
+            "circle": "BIHAR JIO",
+            "idNumber": "735492508360",
+            "email": "Not found",
+            "address": "NA, Salaiya SALAIA BARWAN, school, HAZARIBAGH, Bagodar, KODERMA, Jharkhand, 825323",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "88fb29fc-4ea4-421f-8ea9-34d2335c1a2f",
           "queryNumber": "9304173260",
@@ -2351,7 +2411,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8007,
+      "lastBotMessageId": 8021,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21",
       "lastPlanName": "7 DAYS PASS"
@@ -2480,6 +2540,47 @@
         }
       ],
       "lastBotMessageId": 8011,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-21"
+    },
+    "8302423432": {
+      "id": 8302423432,
+      "firstName": "7896321450",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX423432",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-21T16:32:40.720Z",
+      "lastActiveAt": "2026-10-21T16:34:58.224Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "492ca016-158d-47e9-989c-431b9de37c4d",
+          "queryNumber": "6870418300",
+          "timestamp": "2026-10-21T16:34:59.377Z",
+          "source": "bot",
+          "userId": 8302423432,
+          "userName": "7896321450",
+          "resultSummary": {
+            "name": "Not found",
+            "fatherName": "Not found",
+            "mobile": "6870418300",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastBotMessageId": 8019,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21"
     }
@@ -3443,6 +3544,85 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "7d5ab54e-51dd-4941-ad12-012cbf1e761e",
+      "queryNumber": "9431129111",
+      "timestamp": "2026-10-21T16:35:03.904Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Santosh Kumar Mandal",
+        "truecallerName": "Santosh Mandal",
+        "fatherName": "Chhoti Lal Mahto",
+        "mobile": "9431129111",
+        "altMobile": "Not found",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "395744216801",
+        "email": "Not found",
+        "address": "Vill-Salaiya, Ps- Barkatha, Barwan, Hazaribagh, HAZARIBAG, Jharkhand, 825323",
+        "totalRecords": 4
+      }
+    },
+    {
+      "id": "492ca016-158d-47e9-989c-431b9de37c4d",
+      "queryNumber": "6870418300",
+      "timestamp": "2026-10-21T16:34:59.377Z",
+      "source": "bot",
+      "userId": 8302423432,
+      "userName": "7896321450",
+      "resultSummary": {
+        "name": "Not found",
+        "fatherName": "Not found",
+        "mobile": "6870418300",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "34905bc7-34fe-493c-b8f1-ca45fd0012f6",
+      "queryNumber": "9931459864",
+      "timestamp": "2026-10-21T16:34:01.965Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Rajesh Kumar",
+        "truecallerName": "RTI Activist CMO Office",
+        "fatherName": "Mohar Mahto",
+        "mobile": "9931459864",
+        "altMobile": "Not found",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "660662547139",
+        "email": "Not found",
+        "address": "03, Thana- barkatha, Barkatha, salaiya barkatha barwan, Hazaribagh, HAZARIBAG, Jharkhand, 825323",
+        "totalRecords": 3
+      }
+    },
+    {
+      "id": "7fe5437a-ffe2-4dcd-a7ba-8232b40419cb",
+      "queryNumber": "9594143425",
+      "timestamp": "2026-10-21T16:33:33.459Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Rajesh Kumar",
+        "truecallerName": "Rajeah Salaiya",
+        "fatherName": "Anirudh Prasad",
+        "mobile": "9594143425",
+        "altMobile": "Not found",
+        "circle": "BIHAR JIO",
+        "idNumber": "735492508360",
+        "email": "Not found",
+        "address": "NA, Salaiya SALAIA BARWAN, school, HAZARIBAGH, Bagodar, KODERMA, Jharkhand, 825323",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "fcb609b7-a449-4be6-b83e-7801e2519fb6",
       "queryNumber": "9078527815",
@@ -5352,89 +5532,49 @@
         "address": "W/O Jayvir Kumar, W/O Jayvir Kumar ward no 02, Rajapakar kali mandir, Rajapakar Raja Pakar , RAJA PAKAR-VAISHALI, BR, 844124",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "35cb4063-a39c-4356-872f-f26b33ed0b55",
-      "queryNumber": "8676972045",
-      "timestamp": "2026-10-19T12:40:40.916Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "Ranju Devi",
-        "truecallerName": "Asha Devi 16",
-        "fatherName": "Pankaj Kumar",
-        "mobile": "8676972045",
-        "altMobile": "9708250034",
-        "circle": "BIHAR JIO",
-        "idNumber": "794299567181",
-        "email": "Not found",
-        "address": "rajapakar Vaishali Bihar block rajapakar Thana rajapakar pos, west tola ward no 3 rajapakar Vaishali Bihar, Rajya pakshi Mandir, rajapakar Vaishali Bihar block rajapakar Thana rajapakar, Vaishali, Vaisha",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "bc850644-0872-4c1b-ac78-13f476c704f5",
-      "queryNumber": "9876543210",
-      "timestamp": "2026-10-19T12:40:23.366Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "Dev Jyoti Roy",
-        "truecallerName": "Sohel Khan",
-        "fatherName": "Salil Kumar Roy",
-        "mobile": "9876543210",
-        "altMobile": "Not found",
-        "circle": "AIRTEL DELHI",
-        "idNumber": "Not found",
-        "email": "devjroy@gmail com",
-        "address": "Tower 9 Flat 1506, Lotus Boulevard, NoidaSector 100, NoidaGautam Buddha Nagar, Uttar Pradesh, 201301",
-        "totalRecords": 99
-      }
-    },
-    {
-      "id": "989e7136-2d62-4290-81f5-0cf1a18e12c8",
-      "queryNumber": "9241560780",
-      "timestamp": "2026-10-19T12:28:26.666Z",
-      "source": "bot",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "resultSummary": {
-        "name": "karan",
-        "truecallerName": "karan",
-        "fatherName": "Not found",
-        "mobile": "9241560780",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "d99f9faa-00de-49ef-8800-e15a35b40130",
-      "queryNumber": "9241560780",
-      "timestamp": "2026-10-19T12:28:26.102Z",
-      "source": "bot",
-      "userId": 6247554367,
-      "userName": "Divya",
-      "resultSummary": {
-        "name": "karan",
-        "truecallerName": "karan",
-        "fatherName": "Not found",
-        "mobile": "9241560780",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "249ced72-f29e-4a7a-8b69-a560832daf17",
+      "timestamp": "2026-10-21T16:35:03.904Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 9431129111 (Santosh Kumar Mandal)"
+    },
+    {
+      "id": "b20c70e7-8fa6-482d-8c1a-75d1d1835a28",
+      "timestamp": "2026-10-21T16:34:59.377Z",
+      "type": "LOOKUP",
+      "userId": 8302423432,
+      "userName": "7896321450",
+      "summary": "Looked up 6870418300 (Not found)"
+    },
+    {
+      "id": "756becba-0d91-4564-92ef-b8f587a8b1ba",
+      "timestamp": "2026-10-21T16:34:01.965Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 9931459864 (Rajesh Kumar)"
+    },
+    {
+      "id": "c8295098-9be3-434f-b0c8-e0c2fec2c438",
+      "timestamp": "2026-10-21T16:33:33.459Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 9594143425 (Rajesh Kumar)"
+    },
+    {
+      "id": "5f6a6da9-608c-487b-896b-aa4eb7f38bc8",
+      "timestamp": "2026-10-21T16:32:41.071Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8302423432,
+      "userName": "7896321450",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "24b43d66-d5d8-42ef-9b7e-d5aa9cb1e99a",
       "timestamp": "2026-10-21T16:27:20.048Z",
@@ -6594,49 +6734,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Looked up 9876543210 (Dev Jyoti Roy)"
-    },
-    {
-      "id": "ed32067f-3d4f-473a-9d39-0c33d4686239",
-      "timestamp": "2026-10-20T10:28:28.053Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "a2734146-033c-4d5b-bac3-1781eb010648",
-      "timestamp": "2026-10-20T10:25:54.279Z",
-      "type": "BOT_MESSAGE",
-      "userId": 7995520431,
-      "userName": "Vashu",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "9f8e81e7-bc15-4f4a-a933-155e4f677544",
-      "timestamp": "2026-10-20T10:25:44.504Z",
-      "type": "PAYMENT",
-      "userId": 7995520431,
-      "userName": "Vashu",
-      "summary": "Order HEXF6I50431 PAID (1 Days VIP, Rs.1)"
-    },
-    {
-      "id": "abfa0abb-16dc-4715-82ce-27f72584f596",
-      "timestamp": "2026-10-20T10:25:42.376Z",
-      "type": "PAYMENT",
-      "userId": 7995520431,
-      "userName": "Vashu",
-      "summary": "Created Auto-QR Order HEXF6I50431 (₹1 for 1 Days VIP)"
-    },
-    {
-      "id": "c8ccce60-fa19-4da2-a770-ccbed54d7f20",
-      "timestamp": "2026-10-20T10:25:42.223Z",
-      "type": "PAYMENT",
-      "userId": 7995520431,
-      "userName": "Vashu",
-      "summary": "Created Auto-QR Order HEXF6DQ0431 (₹1 for 1 Days VIP)"
     }
   ],
-  "lastTelegramUpdateId": 168809298,
+  "lastTelegramUpdateId": 168809308,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
