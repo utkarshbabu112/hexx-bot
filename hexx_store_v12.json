@@ -1548,6 +1548,28 @@
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21",
       "dailyLimit": 1
+    },
+    "8904188905": {
+      "id": 8904188905,
+      "firstName": "Arjun Sinhala Hacker",
+      "username": "Worldwide_hacker80",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX188905",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-21T02:32:35.222Z",
+      "lastActiveAt": "2026-10-21T02:33:25.022Z",
+      "isBanned": false,
+      "history": [],
+      "lastBotMessageId": 7787,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-21"
     }
   },
   "orders": {
@@ -2362,6 +2384,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "a30a78ba-d19e-40a5-acca-0acc023b5787",
+      "queryNumber": "8859490711",
+      "timestamp": "2026-10-21T02:33:03.105Z",
+      "source": "bot",
+      "userId": 8904188905,
+      "userName": "Arjun Sinhala Hacker",
+      "resultSummary": {
+        "name": "mahi bhadana",
+        "truecallerName": "mahi bhadana",
+        "fatherName": "Not found",
+        "mobile": "8859490711",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "0ef6886d-d3dd-4d0b-b536-0ba7773bbe94",
       "queryNumber": "7872079155",
@@ -3355,6 +3397,22 @@
     }
   ],
   "logs": [
+    {
+      "id": "1455958b-a2e7-458d-8ec6-f31c356bc97d",
+      "timestamp": "2026-10-21T02:33:03.105Z",
+      "type": "LOOKUP",
+      "userId": 8904188905,
+      "userName": "Arjun Sinhala Hacker",
+      "summary": "Looked up 8859490711 (mahi bhadana)"
+    },
+    {
+      "id": "42e42e71-d361-49eb-8e61-bb769d8d001e",
+      "timestamp": "2026-10-21T02:32:35.551Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8904188905,
+      "userName": "Arjun Sinhala Hacker",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "208acdf6-ca20-4cb0-b8ab-fb0af01ed448",
       "timestamp": "2026-10-21T02:29:58.865Z",
@@ -4538,25 +4596,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "f2e79af8-db47-4b88-b246-523d3a039428",
-      "timestamp": "2026-10-19T12:34:04.353Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "547888cd-7cad-454f-ba14-57d151862805",
-      "timestamp": "2026-10-19T12:34:04.131Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809055,
+  "lastTelegramUpdateId": 168809062,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
