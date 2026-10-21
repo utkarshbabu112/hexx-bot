@@ -1169,23 +1169,45 @@
     "7639119817": {
       "id": 7639119817,
       "firstName": "Yadav ji",
-      "credits": 1,
+      "credits": 0,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
-      "dailyLookupsUsed": 0,
-      "totalLookups": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
       "referralCode": "HEX119817",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-20T14:01:59.585Z",
-      "lastActiveAt": "2026-10-20T14:02:54.028Z",
+      "lastActiveAt": "2026-10-21T04:44:26.090Z",
       "isBanned": false,
-      "history": [],
-      "lastBotMessageId": 1111,
-      "lastBotMessageHasPhoto": true,
-      "dailyLimit": 1
+      "history": [
+        {
+          "id": "bb6516db-9309-479e-a138-add04cd1c96e",
+          "queryNumber": "9213175217",
+          "timestamp": "2026-10-21T04:44:26.382Z",
+          "source": "bot",
+          "userId": 7639119817,
+          "userName": "Yadav ji",
+          "resultSummary": {
+            "name": "Ankit Sagar",
+            "truecallerName": "Ankit v",
+            "fatherName": "Prahlad  Singh",
+            "mobile": "9213175217",
+            "altMobile": "7210050007",
+            "circle": "AIRTEL DELHI",
+            "idNumber": "842980877447",
+            "email": "Not found",
+            "address": "S/O Prahlad Singh, House N0 2 Block G , GAli N0 9, Sangam vihar New Delhi , South DelhiSouth Delhi, Delhi, 110062",
+            "totalRecords": 4
+          }
+        }
+      ],
+      "lastBotMessageId": 7835,
+      "lastBotMessageHasPhoto": false,
+      "dailyLimit": 1,
+      "lastLookupDate": "2026-10-21"
     },
     "7294896326": {
       "id": 7294896326,
@@ -2563,6 +2585,26 @@
   },
   "globalHistory": [
     {
+      "id": "bb6516db-9309-479e-a138-add04cd1c96e",
+      "queryNumber": "9213175217",
+      "timestamp": "2026-10-21T04:44:26.382Z",
+      "source": "bot",
+      "userId": 7639119817,
+      "userName": "Yadav ji",
+      "resultSummary": {
+        "name": "Ankit Sagar",
+        "truecallerName": "Ankit v",
+        "fatherName": "Prahlad  Singh",
+        "mobile": "9213175217",
+        "altMobile": "7210050007",
+        "circle": "AIRTEL DELHI",
+        "idNumber": "842980877447",
+        "email": "Not found",
+        "address": "S/O Prahlad Singh, House N0 2 Block G , GAli N0 9, Sangam vihar New Delhi , South DelhiSouth Delhi, Delhi, 110062",
+        "totalRecords": 4
+      }
+    },
+    {
       "id": "824bd8be-717f-4e95-92ea-720d11401678",
       "queryNumber": "9328110488",
       "timestamp": "2026-10-21T04:38:33.161Z",
@@ -3876,6 +3918,14 @@
   ],
   "logs": [
     {
+      "id": "3bc5c761-bde1-4d98-8669-1d4b92391f1d",
+      "timestamp": "2026-10-21T04:44:26.382Z",
+      "type": "LOOKUP",
+      "userId": 7639119817,
+      "userName": "Yadav ji",
+      "summary": "Looked up 9213175217 (Ankit Sagar)"
+    },
+    {
       "id": "7023bdb3-9956-46e5-8ac2-b8826ab77c54",
       "timestamp": "2026-10-21T04:38:33.161Z",
       "type": "LOOKUP",
@@ -5066,17 +5116,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "02207410-18ff-46f8-a16a-0d17f98e8aac",
-      "timestamp": "2026-10-19T12:34:10.794Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809117,
+  "lastTelegramUpdateId": 168809118,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
