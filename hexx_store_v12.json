@@ -247,7 +247,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-20T15:30:47.992Z",
+      "lastActiveAt": "2026-10-21T01:26:52.566Z",
       "isBanned": false,
       "history": [
         {
@@ -389,7 +389,7 @@
           }
         }
       ],
-      "lastBotMessageId": 7715,
+      "lastBotMessageId": 7755,
       "lastBotMessageHasPhoto": false,
       "isAdminUnlocked": true,
       "lastLookupDate": "2026-10-20",
@@ -400,10 +400,10 @@
       "firstName": "Vashu",
       "username": "Vashubhaiii",
       "credits": 12,
-      "isPremium": true,
-      "premiumUntil": "2026-10-21T10:25:44.504Z",
+      "isPremium": false,
+      "premiumUntil": null,
       "totalSpent": 1,
-      "dailyLookupsUsed": 1,
+      "dailyLookupsUsed": 0,
       "totalLookups": 3,
       "referralCode": "HEX520431",
       "referredBy": null,
@@ -417,18 +417,18 @@
       "lastBotMessageHasPhoto": true,
       "isAdminUnlocked": true,
       "dailyLimit": 12,
-      "lastLookupDate": "2026-10-20",
+      "lastLookupDate": "2026-10-21",
       "lastPlanName": "1 Day Pass"
     },
     "7122271216": {
       "id": 7122271216,
       "firstName": "Vikash",
       "username": "V5Sai",
-      "credits": 10,
+      "credits": 12,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
-      "dailyLookupsUsed": 2,
+      "dailyLookupsUsed": 0,
       "totalLookups": 2,
       "referralCode": "HEX271216",
       "referredBy": null,
@@ -459,7 +459,7 @@
           }
         }
       ],
-      "lastLookupDate": "2026-10-19",
+      "lastLookupDate": "2026-10-21",
       "lastBotMessageId": 7080,
       "lastBotMessageHasPhoto": false,
       "dailyLimit": 12
@@ -468,20 +468,40 @@
       "id": 6247554367,
       "firstName": "Divya",
       "username": "Divyarani123a",
-      "credits": 10,
+      "credits": 11,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
-      "dailyLookupsUsed": 2,
-      "totalLookups": 2,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 3,
       "referralCode": "HEX554367",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-19T12:28:10.920Z",
-      "lastActiveAt": "2026-10-19T12:32:47.867Z",
+      "lastActiveAt": "2026-10-21T01:26:38.676Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "9c5c930f-c735-4472-ac4c-b2238e1aa5a8",
+          "queryNumber": "7872079155",
+          "timestamp": "2026-10-21T01:26:40.212Z",
+          "source": "bot",
+          "userId": 6247554367,
+          "userName": "Divya",
+          "resultSummary": {
+            "name": "raju lingchom",
+            "truecallerName": "raju lingchom",
+            "fatherName": "Not found",
+            "mobile": "7872079155",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "d99f9faa-00de-49ef-8800-e15a35b40130",
           "queryNumber": "9241560780",
@@ -503,8 +523,8 @@
           }
         }
       ],
-      "lastLookupDate": "2026-10-19",
-      "lastBotMessageId": 7076,
+      "lastLookupDate": "2026-10-21",
+      "lastBotMessageId": 7759,
       "lastBotMessageHasPhoto": false,
       "dailyLimit": 12
     },
@@ -2278,6 +2298,26 @@
   },
   "globalHistory": [
     {
+      "id": "9c5c930f-c735-4472-ac4c-b2238e1aa5a8",
+      "queryNumber": "7872079155",
+      "timestamp": "2026-10-21T01:26:40.212Z",
+      "source": "bot",
+      "userId": 6247554367,
+      "userName": "Divya",
+      "resultSummary": {
+        "name": "raju lingchom",
+        "truecallerName": "raju lingchom",
+        "fatherName": "Not found",
+        "mobile": "7872079155",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "8932d618-2fb5-4621-aaca-64e31f63e4d5",
       "queryNumber": "8509319761",
       "timestamp": "2026-10-21T01:09:48.528Z",
@@ -3210,6 +3250,30 @@
     }
   ],
   "logs": [
+    {
+      "id": "f5d20cef-7915-4a22-bbca-91baf9f02f17",
+      "timestamp": "2026-10-21T01:26:40.212Z",
+      "type": "LOOKUP",
+      "userId": 6247554367,
+      "userName": "Divya",
+      "summary": "Looked up 7872079155 (raju lingchom)"
+    },
+    {
+      "id": "f34b784a-b99d-4218-8f5a-d6f201d423b3",
+      "timestamp": "2026-10-21T01:26:29.447Z",
+      "type": "BOT_MESSAGE",
+      "userId": 6247554367,
+      "userName": "Divya",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "4d02cb7b-3898-4c90-91c1-6762c15ee75b",
+      "timestamp": "2026-10-21T01:24:48.647Z",
+      "type": "BOT_MESSAGE",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "0d5b6e32-374d-4c29-9882-fea4d7b00012",
       "timestamp": "2026-10-21T01:09:48.528Z",
@@ -4385,33 +4449,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "02477045-f09d-4e6e-81e1-101537d8bbd9",
-      "timestamp": "2026-10-19T12:34:01.917Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "2fffdd2e-2f05-4789-b128-52d8460e9bf7",
-      "timestamp": "2026-10-19T12:34:01.596Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "3c30edd2-1d66-4658-83d0-0bd96eac6ae9",
-      "timestamp": "2026-10-19T12:34:01.367Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168808996,
+  "lastTelegramUpdateId": 168809018,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
