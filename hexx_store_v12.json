@@ -2060,16 +2060,56 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T09:57:14.832Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 9,
-      "totalLookups": 9,
+      "dailyLookupsUsed": 11,
+      "totalLookups": 11,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-21T14:05:17.041Z",
+      "lastActiveAt": "2026-10-21T16:18:05.933Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "a4dd729a-911f-481f-b716-165e46ca3ce7",
+          "queryNumber": "8271040235",
+          "timestamp": "2026-10-21T16:18:07.001Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Mukesh Kumar",
+            "truecallerName": "Mukesh Bharti",
+            "fatherName": "Anirudh Prasad",
+            "mobile": "8271040235",
+            "altMobile": "Not found",
+            "circle": "AIRTEL BHR&JHR",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Anirudh Prasad, Gandhi Maidan East, Matwari, Hazaribag, Hazaribagh, Jharkhand, 825301",
+            "totalRecords": 6
+          }
+        },
+        {
+          "id": "3cf90bbc-f691-43bd-9b8a-b9758da0b8e5",
+          "queryNumber": "8084191742",
+          "timestamp": "2026-10-21T16:17:38.399Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Md Rabbani",
+            "truecallerName": "MD Rabbani",
+            "fatherName": "Ismail  Miyan",
+            "mobile": "8084191742",
+            "altMobile": "Not found",
+            "circle": "AIRTEL BHR&JHR",
+            "idNumber": "703726404384",
+            "email": "Not found",
+            "address": "54, Dadi Kala, Barkagaon Chepa Kalan, Hazaribagh Chepakala Barkagaon, Jharkhand, 825311",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "8fb0c992-ffb8-480f-9e25-6620217e419e",
           "queryNumber": "9310787990",
@@ -2231,7 +2271,7 @@
           }
         }
       ],
-      "lastBotMessageId": 7977,
+      "lastBotMessageId": 7999,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21",
       "lastPlanName": "7 DAYS PASS"
@@ -3280,6 +3320,46 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "a4dd729a-911f-481f-b716-165e46ca3ce7",
+      "queryNumber": "8271040235",
+      "timestamp": "2026-10-21T16:18:07.001Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Mukesh Kumar",
+        "truecallerName": "Mukesh Bharti",
+        "fatherName": "Anirudh Prasad",
+        "mobile": "8271040235",
+        "altMobile": "Not found",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Anirudh Prasad, Gandhi Maidan East, Matwari, Hazaribag, Hazaribagh, Jharkhand, 825301",
+        "totalRecords": 6
+      }
+    },
+    {
+      "id": "3cf90bbc-f691-43bd-9b8a-b9758da0b8e5",
+      "queryNumber": "8084191742",
+      "timestamp": "2026-10-21T16:17:38.399Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Md Rabbani",
+        "truecallerName": "MD Rabbani",
+        "fatherName": "Ismail  Miyan",
+        "mobile": "8084191742",
+        "altMobile": "Not found",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "703726404384",
+        "email": "Not found",
+        "address": "54, Dadi Kala, Barkagaon Chepa Kalan, Hazaribagh Chepakala Barkagaon, Jharkhand, 825311",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "ad224574-cf5f-43f3-9080-98fe84fee6df",
       "queryNumber": "8540961127",
@@ -5229,48 +5309,25 @@
         "address": "W/O Jayvir Kumar, W/O Jayvir Kumar ward no 02, Rajapakar kali mandir, Rajapakar Raja Pakar , RAJA PAKAR-VAISHALI, BR, 844124",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "dd7d0885-69bf-4245-8c39-23b5c0e6332d",
-      "queryNumber": "9788398593",
-      "timestamp": "2026-10-19T07:50:16.943Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "Not found",
-        "fatherName": "Not found",
-        "mobile": "9788398593",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "9df42e60-eccd-4816-ba7a-dd8c77f3e894",
-      "queryNumber": "8873015730",
-      "timestamp": "2026-10-19T07:47:41.856Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "ANKUSH KUMAR",
-        "truecallerName": "Rajkeshwar Kumar",
-        "fatherName": "GANNOURI CHOUDHARY",
-        "mobile": "8873015730",
-        "altMobile": "7250794295",
-        "circle": "BIHAR VODAFONE",
-        "idNumber": "341331921808",
-        "email": "Not found",
-        "address": "S/O Gannouri Choudhary S/O Gannouri Choudhary Barah Bikram . JANPARA-PATNA Bihar 801112",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "41134ddd-453c-4867-89ae-4254af57a664",
+      "timestamp": "2026-10-21T16:18:07.001Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 8271040235 (Mukesh Kumar)"
+    },
+    {
+      "id": "524c22a1-4a8c-409b-86db-038a3d0d18fd",
+      "timestamp": "2026-10-21T16:17:38.399Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 8084191742 (Md Rabbani)"
+    },
     {
       "id": "7da8cb84-aaf6-4952-a614-0d137bc21c34",
       "timestamp": "2026-10-21T15:55:32.466Z",
@@ -6454,25 +6511,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Looked up 8676972045 (Ranju Devi)"
-    },
-    {
-      "id": "65bd1818-a83f-40d5-9c55-a5c85133202d",
-      "timestamp": "2026-10-20T10:04:24.482Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 7061224270 (Preeti Singh)"
-    },
-    {
-      "id": "86ee5962-a771-469c-9228-8bd7d5f2c864",
-      "timestamp": "2026-10-20T10:04:15.373Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809288,
+  "lastTelegramUpdateId": 168809290,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
