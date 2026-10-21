@@ -2020,16 +2020,36 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T09:57:14.832Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 8,
-      "totalLookups": 8,
+      "dailyLookupsUsed": 9,
+      "totalLookups": 9,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-21T14:00:25.522Z",
+      "lastActiveAt": "2026-10-21T14:05:17.041Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "8fb0c992-ffb8-480f-9e25-6620217e419e",
+          "queryNumber": "9310787990",
+          "timestamp": "2026-10-21T14:05:17.970Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Vikas Kumar",
+            "truecallerName": "Bhuto Belargadda",
+            "fatherName": "Bhola Prasad Mehta",
+            "mobile": "9310787990",
+            "altMobile": "7301119611",
+            "circle": "JIO DELHI",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "963 sector 21, Dundahera, Gurgaon Gurgaon, Haryana, 122016",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "e1af320a-a505-41bb-ac92-0f3a1b74279a",
           "queryNumber": "9508930360",
@@ -2171,7 +2191,7 @@
           }
         }
       ],
-      "lastBotMessageId": 7975,
+      "lastBotMessageId": 7977,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21",
       "lastPlanName": "7 DAYS PASS"
@@ -3198,6 +3218,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "8fb0c992-ffb8-480f-9e25-6620217e419e",
+      "queryNumber": "9310787990",
+      "timestamp": "2026-10-21T14:05:17.970Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Vikas Kumar",
+        "truecallerName": "Bhuto Belargadda",
+        "fatherName": "Bhola Prasad Mehta",
+        "mobile": "9310787990",
+        "altMobile": "7301119611",
+        "circle": "JIO DELHI",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "963 sector 21, Dundahera, Gurgaon Gurgaon, Haryana, 122016",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "e1af320a-a505-41bb-ac92-0f3a1b74279a",
       "queryNumber": "9508930360",
@@ -5150,6 +5190,14 @@
   ],
   "logs": [
     {
+      "id": "15d3148f-6724-4704-879d-9bd4035406a9",
+      "timestamp": "2026-10-21T14:05:17.970Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 9310787990 (Vikas Kumar)"
+    },
+    {
       "id": "94334210-48f7-4dfc-92f0-e5467b648590",
       "timestamp": "2026-10-21T14:00:27.034Z",
       "type": "LOOKUP",
@@ -6340,17 +6388,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Looked up 9876543210 (Dev Jyoti Roy)"
-    },
-    {
-      "id": "70e213b2-9328-4639-9d33-b06b7b3216cf",
-      "timestamp": "2026-10-20T08:40:16.977Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809269,
+  "lastTelegramUpdateId": 168809270,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
