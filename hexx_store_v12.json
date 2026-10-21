@@ -2408,6 +2408,68 @@
       "lastBotMessageId": 8055,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21"
+    },
+    "8885212528": {
+      "id": 8885212528,
+      "firstName": ".",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX212528",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-21T19:51:38.326Z",
+      "lastActiveAt": "2026-10-21T19:53:04.054Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "5d5413c7-da5e-4c3b-b814-3c3d359c5566",
+          "queryNumber": "7472052620",
+          "timestamp": "2026-10-21T19:52:37.503Z",
+          "source": "bot",
+          "userId": 8885212528,
+          "userName": ".",
+          "resultSummary": {
+            "name": "Not found",
+            "fatherName": "Not found",
+            "mobile": "7472052620",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastBotMessageId": 8059,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-21"
+    },
+    "8619902396": {
+      "id": 8619902396,
+      "firstName": ".",
+      "credits": 1,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 0,
+      "totalLookups": 0,
+      "referralCode": "HEX902396",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-21T19:55:03.652Z",
+      "lastActiveAt": "2026-10-21T19:55:05.464Z",
+      "isBanned": false,
+      "history": [],
+      "lastBotMessageId": 8061,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-21"
     }
   },
   "orders": {
@@ -3369,6 +3431,25 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "5d5413c7-da5e-4c3b-b814-3c3d359c5566",
+      "queryNumber": "7472052620",
+      "timestamp": "2026-10-21T19:52:37.503Z",
+      "source": "bot",
+      "userId": 8885212528,
+      "userName": ".",
+      "resultSummary": {
+        "name": "Not found",
+        "fatherName": "Not found",
+        "mobile": "7472052620",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "b439fb6b-896e-4076-a8a0-cf65b2e195ec",
       "queryNumber": "7068217386",
@@ -5341,28 +5422,33 @@
         "address": "s/o ram nayan, Barhalganj, Mohal Jalkar, mohal jalkar satyanarayan ki madi kharesari gola, barhalganj Gola, gorakhpur, Uttar Pradesh, 273402",
         "totalRecords": 3
       }
-    },
-    {
-      "id": "08ac9005-03a3-445b-b8e3-f2a722a51169",
-      "queryNumber": "8139426154",
-      "timestamp": "2026-10-20T10:57:29.462Z",
-      "source": "bot",
-      "userId": 6352747905,
-      "userName": ".",
-      "resultSummary": {
-        "name": "Not found",
-        "fatherName": "Not found",
-        "mobile": "8139426154",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "6ebd4930-b226-4c71-ac8e-0639da1c200b",
+      "timestamp": "2026-10-21T19:55:03.963Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8619902396,
+      "userName": ".",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "1bacc5c7-a3b0-4881-aecd-3924f56e162b",
+      "timestamp": "2026-10-21T19:52:37.503Z",
+      "type": "LOOKUP",
+      "userId": 8885212528,
+      "userName": ".",
+      "summary": "Looked up 7472052620 (Not found)"
+    },
+    {
+      "id": "538ed5ba-2bd7-4846-9585-7f3cda59256f",
+      "timestamp": "2026-10-21T19:51:38.631Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8885212528,
+      "userName": ".",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "fd8de840-cd9c-4ac8-87d4-4f5e18543dea",
       "timestamp": "2026-10-21T19:22:01.113Z",
@@ -6538,33 +6624,9 @@
       "userId": 8675079758,
       "userName": ".",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "a5b780e4-a2c0-43b1-ac7a-b393e9b13e81",
-      "timestamp": "2026-10-20T11:43:40.026Z",
-      "type": "LOOKUP",
-      "userId": 8935237963,
-      "userName": "Arnav",
-      "summary": "Looked up 9723340040 (SABBIR RAHIMBHAI PARMAR)"
-    },
-    {
-      "id": "ca37ba6d-6160-4f82-8a70-02eb71508f3e",
-      "timestamp": "2026-10-20T11:43:30.435Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6415125910,
-      "userName": "𝐀𝐃𝐌𝐈𝐍 𝐁𝐀𝐁𝐔",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "9239f87f-29aa-4804-b053-5198d5572194",
-      "timestamp": "2026-10-20T11:43:06.529Z",
-      "type": "LOOKUP",
-      "userId": 8935237963,
-      "userName": "Arnav",
-      "summary": "Looked up 6352915638 (Parmar Sabbir Rahimbhai)"
     }
   ],
-  "lastTelegramUpdateId": 168809349,
+  "lastTelegramUpdateId": 168809356,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
