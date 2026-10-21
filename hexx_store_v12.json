@@ -578,16 +578,35 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T02:51:11.808Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 13,
-      "totalLookups": 15,
+      "dailyLookupsUsed": 14,
+      "totalLookups": 16,
       "referralCode": "HEX490186",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-19T12:28:10.921Z",
-      "lastActiveAt": "2026-10-21T05:05:50.275Z",
+      "lastActiveAt": "2026-10-21T08:50:31.213Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "2e30ea84-3a8d-42e6-aa6b-0f2b58c2c70f",
+          "queryNumber": "7557775700",
+          "timestamp": "2026-10-21T08:50:32.944Z",
+          "source": "bot",
+          "userId": 8877490186,
+          "userName": "Ghb",
+          "resultSummary": {
+            "name": "MR RAHUL NARANG",
+            "fatherName": "Rajbir Narang",
+            "mobile": "7557775700",
+            "altMobile": "Not found",
+            "circle": "VODA BHR&JHR",
+            "idNumber": "898378512051",
+            "email": "Not found",
+            "address": "FLAT NO 3/C SHYAMJEE PALACE, SHASTRI NAGAR WEST NEAR JALARAM TEMPLE, NEAR JALARAM TEMPLE, BANK MORE DHANBAD DHANBAD, DHANBAD, DHANBAD, JHARKHAND, 826001",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "c44dc9b6-2e12-44bd-8c46-66029caa04bd",
           "queryNumber": "8872123634",
@@ -630,7 +649,7 @@
         }
       ],
       "lastLookupDate": "2026-10-21",
-      "lastBotMessageId": 7837,
+      "lastBotMessageId": 7864,
       "lastBotMessageHasPhoto": false,
       "dailyLimit": 1,
       "lastPlanName": "7 DAYS PASS"
@@ -2731,6 +2750,25 @@
   },
   "globalHistory": [
     {
+      "id": "2e30ea84-3a8d-42e6-aa6b-0f2b58c2c70f",
+      "queryNumber": "7557775700",
+      "timestamp": "2026-10-21T08:50:32.944Z",
+      "source": "bot",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "resultSummary": {
+        "name": "MR RAHUL NARANG",
+        "fatherName": "Rajbir Narang",
+        "mobile": "7557775700",
+        "altMobile": "Not found",
+        "circle": "VODA BHR&JHR",
+        "idNumber": "898378512051",
+        "email": "Not found",
+        "address": "FLAT NO 3/C SHYAMJEE PALACE, SHASTRI NAGAR WEST NEAR JALARAM TEMPLE, NEAR JALARAM TEMPLE, BANK MORE DHANBAD DHANBAD, DHANBAD, DHANBAD, JHARKHAND, 826001",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "b9484330-cc51-4351-81b8-9d9494891071",
       "queryNumber": "9734768202",
       "timestamp": "2026-10-21T07:58:11.415Z",
@@ -4124,6 +4162,14 @@
   ],
   "logs": [
     {
+      "id": "c3b288d7-7c10-4663-afe3-1b70f4e48bfb",
+      "timestamp": "2026-10-21T08:50:32.944Z",
+      "type": "LOOKUP",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "summary": "Looked up 7557775700 (MR RAHUL NARANG)"
+    },
+    {
       "id": "ac6403b7-9a4a-4e0e-8854-2c22bcbf2b53",
       "timestamp": "2026-10-21T07:58:11.416Z",
       "type": "LOOKUP",
@@ -5314,17 +5360,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "3120872a-375a-4e12-b8a5-71ed08aaccba",
-      "timestamp": "2026-10-19T12:34:13.425Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809138,
+  "lastTelegramUpdateId": 168809139,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
