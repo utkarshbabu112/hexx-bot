@@ -283,16 +283,56 @@
       "premiumUntil": "2026-10-28T10:13:45.088Z",
       "lastPlanName": "7 Days Admin VIP",
       "totalSpent": 4,
-      "dailyLookupsUsed": 15,
-      "totalLookups": 42,
+      "dailyLookupsUsed": 17,
+      "totalLookups": 44,
       "referralCode": "HEX667289",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-21T10:50:26.437Z",
+      "lastActiveAt": "2026-10-21T10:51:52.580Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "9ce0469c-ae10-4973-a061-f16ad6883949",
+          "queryNumber": "9661130399",
+          "timestamp": "2026-10-21T10:51:54.455Z",
+          "source": "bot",
+          "userId": 6672896116,
+          "userName": "UHTKARSH",
+          "resultSummary": {
+            "name": "Jawahar Lal Roy",
+            "truecallerName": "Jawahar Sir",
+            "fatherName": "Sri Gopal Ray",
+            "mobile": "9661130399",
+            "altMobile": "Not found",
+            "circle": "AIRTEL BHR&JHR",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Vill Rajapakar, Po Rajapakar, Ps Rajapakar Vaishali, 844124",
+            "totalRecords": 3
+          }
+        },
+        {
+          "id": "dbaf9fd5-58e4-404d-849d-f84f3ac4ed56",
+          "queryNumber": "8521755516",
+          "timestamp": "2026-10-21T10:51:16.109Z",
+          "source": "bot",
+          "userId": 6672896116,
+          "userName": "UHTKARSH",
+          "resultSummary": {
+            "name": "Deepak Kumar",
+            "truecallerName": "Deepak sir Kci",
+            "fatherName": "Dinesh  Ray",
+            "mobile": "8521755516",
+            "altMobile": "Not found",
+            "circle": "AIRTEL BHR&JHR",
+            "idNumber": "248976465096",
+            "email": "Not found",
+            "address": "S/O Dinesh Ray, word number-14, gram-Bilandpur Bilandpur, Vaishali, Bihar, 844116",
+            "totalRecords": 2
+          }
+        },
         {
           "id": "df4d3d53-f72d-4341-a389-5e7f7c9c42e9",
           "queryNumber": "8873015730",
@@ -434,7 +474,7 @@
           }
         }
       ],
-      "lastBotMessageId": 7946,
+      "lastBotMessageId": 7952,
       "lastBotMessageHasPhoto": false,
       "isAdminUnlocked": true,
       "lastLookupDate": "2026-10-21",
@@ -2991,6 +3031,46 @@
   },
   "globalHistory": [
     {
+      "id": "9ce0469c-ae10-4973-a061-f16ad6883949",
+      "queryNumber": "9661130399",
+      "timestamp": "2026-10-21T10:51:54.455Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "Jawahar Lal Roy",
+        "truecallerName": "Jawahar Sir",
+        "fatherName": "Sri Gopal Ray",
+        "mobile": "9661130399",
+        "altMobile": "Not found",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Vill Rajapakar, Po Rajapakar, Ps Rajapakar Vaishali, 844124",
+        "totalRecords": 3
+      }
+    },
+    {
+      "id": "dbaf9fd5-58e4-404d-849d-f84f3ac4ed56",
+      "queryNumber": "8521755516",
+      "timestamp": "2026-10-21T10:51:16.109Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "Deepak Kumar",
+        "truecallerName": "Deepak sir Kci",
+        "fatherName": "Dinesh  Ray",
+        "mobile": "8521755516",
+        "altMobile": "Not found",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "248976465096",
+        "email": "Not found",
+        "address": "S/O Dinesh Ray, word number-14, gram-Bilandpur Bilandpur, Vaishali, Bihar, 844116",
+        "totalRecords": 2
+      }
+    },
+    {
       "id": "df4d3d53-f72d-4341-a389-5e7f7c9c42e9",
       "queryNumber": "8873015730",
       "timestamp": "2026-10-21T10:50:26.820Z",
@@ -4762,6 +4842,22 @@
   ],
   "logs": [
     {
+      "id": "376cf0ff-bbaf-4a0d-bfc6-ebf788f807ce",
+      "timestamp": "2026-10-21T10:51:54.455Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 9661130399 (Jawahar Lal Roy)"
+    },
+    {
+      "id": "e0044edc-80b4-41d0-bf18-eeeefe9c09f9",
+      "timestamp": "2026-10-21T10:51:16.109Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 8521755516 (Deepak Kumar)"
+    },
+    {
       "id": "7e5dc9b8-949c-4662-a091-226af913fad4",
       "timestamp": "2026-10-21T10:50:26.820Z",
       "type": "LOOKUP",
@@ -5944,25 +6040,9 @@
       "userId": 8517814936,
       "userName": "Anjali",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "0dd81430-04c2-41f4-b037-e0eec196c76e",
-      "timestamp": "2026-10-19T13:14:57.041Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "e12a0783-fb16-464f-a4c1-da3a5c655bd8",
-      "timestamp": "2026-10-19T13:14:14.133Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 8676972045 (Ranju Devi)"
     }
   ],
-  "lastTelegramUpdateId": 168809242,
+  "lastTelegramUpdateId": 168809245,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
