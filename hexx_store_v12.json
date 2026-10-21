@@ -290,7 +290,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-21T07:28:05.975Z",
+      "lastActiveAt": "2026-10-21T09:41:25.889Z",
       "isBanned": false,
       "history": [
         {
@@ -432,8 +432,8 @@
           }
         }
       ],
-      "lastBotMessageId": 7854,
-      "lastBotMessageHasPhoto": false,
+      "lastBotMessageId": 7873,
+      "lastBotMessageHasPhoto": true,
       "isAdminUnlocked": true,
       "lastLookupDate": "2026-10-21",
       "dailyLimit": 1
@@ -2789,6 +2789,30 @@
       "createdAt": "2026-10-21T03:30:12.775Z",
       "expiresAt": "2026-10-21T03:40:12.775Z",
       "botQrMessageId": 7820
+    },
+    "HEXA3GI6116": {
+      "orderId": "HEXA3GI6116",
+      "famOrderId": "HEXA3GI6116",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "userUsername": "Uhtkarshh",
+      "planId": "plan_1d",
+      "planName": "7 DAYS PASS",
+      "amount": 19,
+      "payableAmount": "19",
+      "qrImageUrl": "https://famgateway.in/api/qr/HEXA3GI6116",
+      "qrDataUrl": "data:image/png;base64,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",
+      "lastImapScanAt": 0,
+      "credits": 0,
+      "days": 7,
+      "status": "PENDING",
+      "paymentUrl": "https://famgateway.in/?order=HEXA3GI6116",
+      "upiIntentUrl": "upi://pay?pa=8252464080%40fam&pn=Hexx%20Info%20Bot&am=19&cu=INR&tn=HEXA3GI6116&tr=HEXA3GI6116",
+      "qrPayload": "upi://pay?pa=8252464080%40fam&pn=Hexx%20Info%20Bot&am=19&cu=INR&tn=HEXA3GI6116&tr=HEXA3GI6116",
+      "gatewaySource": "direct_gmail",
+      "createdAt": "2026-10-21T09:41:25.890Z",
+      "expiresAt": "2026-10-21T09:51:25.890Z",
+      "botQrMessageId": 7873
     }
   },
   "globalHistory": [
@@ -4205,6 +4229,22 @@
   ],
   "logs": [
     {
+      "id": "592c8cda-1575-4d47-8165-5f5fb61a0100",
+      "timestamp": "2026-10-21T09:41:25.953Z",
+      "type": "PAYMENT",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Created Auto-QR Order HEXA3GI6116 (₹19 for 7 Days VIP)"
+    },
+    {
+      "id": "7a7645ac-9968-4ac9-8214-ac86150970ae",
+      "timestamp": "2026-10-21T09:40:59.782Z",
+      "type": "BOT_MESSAGE",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Started bot (/start)"
+    },
+    {
       "id": "f5cd120c-33e6-4ec6-95a0-fc71feec78c1",
       "timestamp": "2026-10-21T09:15:31.144Z",
       "type": "BOT_MESSAGE",
@@ -5387,25 +5427,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "158e0d52-31d3-48a1-9cea-6ba4c3f78148",
-      "timestamp": "2026-10-19T12:34:14.357Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "1f674d31-b713-4642-b586-ffd26f9ba4a5",
-      "timestamp": "2026-10-19T12:34:14.046Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809149,
+  "lastTelegramUpdateId": 168809154,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
