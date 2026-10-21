@@ -1905,6 +1905,49 @@
       "lastBotMessageId": 7868,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21"
+    },
+    "5316205408": {
+      "id": 5316205408,
+      "firstName": "Mukesh Kumar",
+      "username": "mukesh_lawyer",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX205408",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-21T09:50:47.189Z",
+      "lastActiveAt": "2026-10-21T09:52:09.128Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "e7a37370-6852-41a1-8cb9-dcfb4155190c",
+          "queryNumber": "8102144230",
+          "timestamp": "2026-10-21T09:51:40.588Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Ful Kumari",
+            "truecallerName": "Manii Ji",
+            "fatherName": "Manoj Prasad",
+            "mobile": "8102144230",
+            "altMobile": "8271040235",
+            "circle": "JIO BHR&JHR",
+            "idNumber": "382852586735",
+            "email": "Not found",
+            "address": "W/O Manoj Prasad, Bagra, vill- piparadih po-bagra ps-simariya, Serandag Simaria, Chatra, Jharkhand, 825103",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastBotMessageId": 7879,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-21"
     }
   },
   "orders": {
@@ -2816,6 +2859,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "e7a37370-6852-41a1-8cb9-dcfb4155190c",
+      "queryNumber": "8102144230",
+      "timestamp": "2026-10-21T09:51:40.588Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Ful Kumari",
+        "truecallerName": "Manii Ji",
+        "fatherName": "Manoj Prasad",
+        "mobile": "8102144230",
+        "altMobile": "8271040235",
+        "circle": "JIO BHR&JHR",
+        "idNumber": "382852586735",
+        "email": "Not found",
+        "address": "W/O Manoj Prasad, Bagra, vill- piparadih po-bagra ps-simariya, Serandag Simaria, Chatra, Jharkhand, 825103",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "2e30ea84-3a8d-42e6-aa6b-0f2b58c2c70f",
       "queryNumber": "7557775700",
@@ -4229,6 +4292,22 @@
   ],
   "logs": [
     {
+      "id": "ee5c7a6c-b7e9-48fc-8bb7-bf03bcaf73af",
+      "timestamp": "2026-10-21T09:51:40.588Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 8102144230 (Ful Kumari)"
+    },
+    {
+      "id": "36408ff5-95ae-46f8-bb0a-1f6346db2809",
+      "timestamp": "2026-10-21T09:50:47.541Z",
+      "type": "BOT_MESSAGE",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Started bot (/start)"
+    },
+    {
       "id": "6fe4f9d5-36e4-40b2-923d-2cf57306b640",
       "timestamp": "2026-10-21T09:43:41.576Z",
       "type": "BOT_MESSAGE",
@@ -5411,25 +5490,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "4e244130-29fa-4230-93c1-5a71fc23bf7b",
-      "timestamp": "2026-10-19T12:34:15.196Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "4f07a68e-be46-4d8b-804d-c7975996176b",
-      "timestamp": "2026-10-19T12:34:14.941Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809155,
+  "lastTelegramUpdateId": 168809159,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
