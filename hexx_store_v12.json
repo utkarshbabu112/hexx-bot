@@ -232,6 +232,49 @@
       "lastLookupDate": "2026-10-20",
       "dailyLimit": 1
     },
+    "1545684588": {
+      "id": 1545684588,
+      "firstName": "Shyam",
+      "username": "Shivam1063",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX684588",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-21T12:23:31.990Z",
+      "lastActiveAt": "2026-10-21T12:23:31.990Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "6978d54f-a45d-4a96-8fb9-cd6994df9878",
+          "queryNumber": "8340670839",
+          "timestamp": "2026-10-21T12:23:33.822Z",
+          "source": "bot",
+          "userId": 1545684588,
+          "userName": "Shyam",
+          "resultSummary": {
+            "name": "Upendra Kumar",
+            "truecallerName": "Upender Kumar",
+            "fatherName": "Ramdas Mahto",
+            "mobile": "8340670839",
+            "altMobile": "8539807970",
+            "circle": "BIHAR JIO",
+            "idNumber": "312986052698",
+            "email": "Not found",
+            "address": "S/O Ramdas Mahto, Village - Mahsar Post - Bhadaus, Ps Sheikhpura, Mahsar Sheikhpura, Bihar, 811107",
+            "totalRecords": 2
+          }
+        }
+      ],
+      "lastLookupDate": "2026-10-21",
+      "lastBotMessageId": 7973,
+      "lastBotMessageHasPhoto": false
+    },
     "1674577549": {
       "id": 1674577549,
       "firstName": "Shreeshank",
@@ -3136,6 +3179,26 @@
   },
   "globalHistory": [
     {
+      "id": "6978d54f-a45d-4a96-8fb9-cd6994df9878",
+      "queryNumber": "8340670839",
+      "timestamp": "2026-10-21T12:23:33.822Z",
+      "source": "bot",
+      "userId": 1545684588,
+      "userName": "Shyam",
+      "resultSummary": {
+        "name": "Upendra Kumar",
+        "truecallerName": "Upender Kumar",
+        "fatherName": "Ramdas Mahto",
+        "mobile": "8340670839",
+        "altMobile": "8539807970",
+        "circle": "BIHAR JIO",
+        "idNumber": "312986052698",
+        "email": "Not found",
+        "address": "S/O Ramdas Mahto, Village - Mahsar Post - Bhadaus, Ps Sheikhpura, Mahsar Sheikhpura, Bihar, 811107",
+        "totalRecords": 2
+      }
+    },
+    {
       "id": "375ba38e-e2a1-47e8-b149-25f78f41f073",
       "queryNumber": "9110099737",
       "timestamp": "2026-10-21T12:03:35.917Z",
@@ -5047,6 +5110,14 @@
   ],
   "logs": [
     {
+      "id": "7f830117-8336-4437-8deb-e9817f518d76",
+      "timestamp": "2026-10-21T12:23:33.822Z",
+      "type": "LOOKUP",
+      "userId": 1545684588,
+      "userName": "Shyam",
+      "summary": "Looked up 8340670839 (Upendra Kumar)"
+    },
+    {
       "id": "932d590f-a536-4a48-9e17-cd3366006233",
       "timestamp": "2026-10-21T12:03:35.917Z",
       "type": "LOOKUP",
@@ -6237,17 +6308,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "527c05fa-d444-4c28-b931-50da3f157776",
-      "timestamp": "2026-10-20T08:38:32.187Z",
-      "type": "LOOKUP",
-      "userId": 8900660455,
-      "userName": "Siddharth",
-      "summary": "Looked up 8840231690 (Vibha)"
     }
   ],
-  "lastTelegramUpdateId": 168809267,
+  "lastTelegramUpdateId": 168809268,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
