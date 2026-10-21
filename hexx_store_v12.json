@@ -536,16 +536,36 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T02:51:11.808Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 8,
-      "totalLookups": 10,
+      "dailyLookupsUsed": 9,
+      "totalLookups": 11,
       "referralCode": "HEX490186",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-19T12:28:10.921Z",
-      "lastActiveAt": "2026-10-21T02:59:41.967Z",
+      "lastActiveAt": "2026-10-21T03:04:02.848Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "b1a5c612-8327-4373-91b6-20544f1951a3",
+          "queryNumber": "6359401667",
+          "timestamp": "2026-10-21T03:04:04.211Z",
+          "source": "bot",
+          "userId": 8877490186,
+          "userName": "Ghb",
+          "resultSummary": {
+            "name": "MR ASIF ZAMAL",
+            "truecallerName": "sahed jmal",
+            "fatherName": "Nizamuddin",
+            "mobile": "6359401667",
+            "altMobile": "8238225643",
+            "circle": "VI GUJARAT",
+            "idNumber": "803812493483",
+            "email": "Not found",
+            "address": "Polt no 08, Marat nagar, Marat nagar, Limbayat, SURAT, SURAT, Gujarat, 394210",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "6339555a-cbb8-4221-9168-93f73db6e729",
           "queryNumber": "6200463559",
@@ -708,7 +728,7 @@
         }
       ],
       "lastLookupDate": "2026-10-21",
-      "lastBotMessageId": 7807,
+      "lastBotMessageId": 7809,
       "lastBotMessageHasPhoto": false,
       "dailyLimit": 1,
       "lastPlanName": "7 DAYS PASS"
@@ -2555,6 +2575,26 @@
   },
   "globalHistory": [
     {
+      "id": "b1a5c612-8327-4373-91b6-20544f1951a3",
+      "queryNumber": "6359401667",
+      "timestamp": "2026-10-21T03:04:04.211Z",
+      "source": "bot",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "resultSummary": {
+        "name": "MR ASIF ZAMAL",
+        "truecallerName": "sahed jmal",
+        "fatherName": "Nizamuddin",
+        "mobile": "6359401667",
+        "altMobile": "8238225643",
+        "circle": "VI GUJARAT",
+        "idNumber": "803812493483",
+        "email": "Not found",
+        "address": "Polt no 08, Marat nagar, Marat nagar, Limbayat, SURAT, SURAT, Gujarat, 394210",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "6339555a-cbb8-4221-9168-93f73db6e729",
       "queryNumber": "6200463559",
       "timestamp": "2026-10-21T02:59:43.339Z",
@@ -3707,6 +3747,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "795b9973-4eaf-4b0a-bcfd-8df76faffc90",
+      "timestamp": "2026-10-21T03:04:04.211Z",
+      "type": "LOOKUP",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "summary": "Looked up 6359401667 (MR ASIF ZAMAL)"
+    },
     {
       "id": "2e2172ff-a359-4b97-8da7-cd75200ec7ca",
       "timestamp": "2026-10-21T02:59:43.339Z",
@@ -4898,17 +4946,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "48ddf2df-d1b1-4487-8f6d-9974bc7ed208",
-      "timestamp": "2026-10-19T12:34:07.882Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809086,
+  "lastTelegramUpdateId": 168809087,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
