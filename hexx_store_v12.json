@@ -2365,6 +2365,49 @@
       "lastBotMessageId": 8051,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21"
+    },
+    "8908045884": {
+      "id": 8908045884,
+      "firstName": "Robin",
+      "username": "Robinjohnson01",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX045884",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-21T19:21:19.240Z",
+      "lastActiveAt": "2026-10-21T19:21:59.116Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "b439fb6b-896e-4076-a8a0-cf65b2e195ec",
+          "queryNumber": "7068217386",
+          "timestamp": "2026-10-21T19:22:01.113Z",
+          "source": "bot",
+          "userId": 8908045884,
+          "userName": "Robin",
+          "resultSummary": {
+            "name": "Geeta Devi",
+            "truecallerName": "Hemant",
+            "fatherName": "Sunil Kumar",
+            "mobile": "7068217386",
+            "altMobile": "8558555699",
+            "circle": "UP EAST",
+            "idNumber": "276306412437",
+            "email": "Not found",
+            "address": "Kaimganjlalpur patti, Farrukhabad, Uttar Pradesh, 207502",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastBotMessageId": 8055,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-21"
     }
   },
   "orders": {
@@ -3326,6 +3369,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "b439fb6b-896e-4076-a8a0-cf65b2e195ec",
+      "queryNumber": "7068217386",
+      "timestamp": "2026-10-21T19:22:01.113Z",
+      "source": "bot",
+      "userId": 8908045884,
+      "userName": "Robin",
+      "resultSummary": {
+        "name": "Geeta Devi",
+        "truecallerName": "Hemant",
+        "fatherName": "Sunil Kumar",
+        "mobile": "7068217386",
+        "altMobile": "8558555699",
+        "circle": "UP EAST",
+        "idNumber": "276306412437",
+        "email": "Not found",
+        "address": "Kaimganjlalpur patti, Farrukhabad, Uttar Pradesh, 207502",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "a9f092ab-a404-442d-9d84-bcfc5745c072",
       "queryNumber": "8252596912",
@@ -5297,29 +5360,25 @@
         "address": "Not found",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "ec403247-88b4-4ef5-98da-729bd91558b7",
-      "queryNumber": "9876543210",
-      "timestamp": "2026-10-20T10:29:15.820Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "Dev Jyoti Roy",
-        "truecallerName": "Sohel Khan",
-        "fatherName": "Salil Kumar Roy",
-        "mobile": "9876543210",
-        "altMobile": "Not found",
-        "circle": "AIRTEL DELHI",
-        "idNumber": "Not found",
-        "email": "devjroy@gmail com",
-        "address": "Tower 9 Flat 1506, Lotus Boulevard, NoidaSector 100, NoidaGautam Buddha Nagar, Uttar Pradesh, 201301",
-        "totalRecords": 99
-      }
     }
   ],
   "logs": [
+    {
+      "id": "fd8de840-cd9c-4ac8-87d4-4f5e18543dea",
+      "timestamp": "2026-10-21T19:22:01.113Z",
+      "type": "LOOKUP",
+      "userId": 8908045884,
+      "userName": "Robin",
+      "summary": "Looked up 7068217386 (Geeta Devi)"
+    },
+    {
+      "id": "07fb8ee2-7c26-4d40-84d1-94d4ebad3d4e",
+      "timestamp": "2026-10-21T19:21:19.548Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8908045884,
+      "userName": "Robin",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "a6816f94-5666-48a0-a2d9-0d1c18f1a9ad",
       "timestamp": "2026-10-21T16:48:13.557Z",
@@ -6503,25 +6562,9 @@
       "userId": 8935237963,
       "userName": "Arnav",
       "summary": "Looked up 6352915638 (Parmar Sabbir Rahimbhai)"
-    },
-    {
-      "id": "f624f3cf-532c-47dd-8571-84f5867f2b2d",
-      "timestamp": "2026-10-20T11:42:50.224Z",
-      "type": "BOT_MESSAGE",
-      "userId": 8935237963,
-      "userName": "Arnav",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "fcd9ea58-eef5-4829-b0d1-e23e6b02fc75",
-      "timestamp": "2026-10-20T11:41:49.574Z",
-      "type": "LOOKUP",
-      "userId": 8447532330,
-      "userName": "Sharef",
-      "summary": "Looked up 7354838377 (Tarnnum Bano)"
     }
   ],
-  "lastTelegramUpdateId": 168809341,
+  "lastTelegramUpdateId": 168809349,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
