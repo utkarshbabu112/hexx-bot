@@ -290,7 +290,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-21T10:00:36.049Z",
+      "lastActiveAt": "2026-10-21T10:12:44.539Z",
       "isBanned": false,
       "history": [
         {
@@ -1914,16 +1914,36 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T09:57:14.832Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 2,
-      "totalLookups": 2,
+      "dailyLookupsUsed": 3,
+      "totalLookups": 3,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-21T09:58:01.957Z",
+      "lastActiveAt": "2026-10-21T10:10:03.246Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "2e2fdeed-9dc9-4cb8-8705-032ac5419930",
+          "queryNumber": "9324426734",
+          "timestamp": "2026-10-21T10:09:15.748Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Sanjiv Ranjan",
+            "truecallerName": "Sagar",
+            "fatherName": "late Bakhora thakur kishore",
+            "mobile": "9110099737",
+            "altMobile": "9324426734",
+            "circle": "JIO BHR&JHR",
+            "idNumber": "871977333236",
+            "email": "Not found",
+            "address": "h n 152 s/o late bakhora thakur kishore, wardno 01 nawada basti, jhumaritelaiya koderma jhumri telaiya koderma, Jhumri Telaiya, KODERMA, Jharkhand, 825409",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "fc7c1db8-7dcc-445e-ba6f-54ebd2936c79",
           "queryNumber": "7070725113",
@@ -1965,7 +1985,7 @@
           }
         }
       ],
-      "lastBotMessageId": 7887,
+      "lastBotMessageId": 7896,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21",
       "lastPlanName": "7 DAYS PASS"
@@ -2926,6 +2946,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "2e2fdeed-9dc9-4cb8-8705-032ac5419930",
+      "queryNumber": "9324426734",
+      "timestamp": "2026-10-21T10:09:15.748Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Sanjiv Ranjan",
+        "truecallerName": "Sagar",
+        "fatherName": "late Bakhora thakur kishore",
+        "mobile": "9110099737",
+        "altMobile": "9324426734",
+        "circle": "JIO BHR&JHR",
+        "idNumber": "871977333236",
+        "email": "Not found",
+        "address": "h n 152 s/o late bakhora thakur kishore, wardno 01 nawada basti, jhumaritelaiya koderma jhumri telaiya koderma, Jhumri Telaiya, KODERMA, Jharkhand, 825409",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "fc7c1db8-7dcc-445e-ba6f-54ebd2936c79",
       "queryNumber": "7070725113",
@@ -4379,6 +4419,14 @@
   ],
   "logs": [
     {
+      "id": "b8b0e47e-8ae0-4739-941d-86058a060c82",
+      "timestamp": "2026-10-21T10:09:15.748Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 9324426734 (Sanjiv Ranjan)"
+    },
+    {
       "id": "106cb918-7dfe-42e3-b48b-a8bfe08ead70",
       "timestamp": "2026-10-21T09:57:35.609Z",
       "type": "LOOKUP",
@@ -5569,17 +5617,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "a0bc7907-4003-4f40-9bca-3ad08bfb71a5",
-      "timestamp": "2026-10-19T12:34:16.300Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809197,
+  "lastTelegramUpdateId": 168809203,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
