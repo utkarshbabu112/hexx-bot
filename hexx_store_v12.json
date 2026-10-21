@@ -536,16 +536,36 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T02:51:11.808Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 9,
-      "totalLookups": 11,
+      "dailyLookupsUsed": 10,
+      "totalLookups": 12,
       "referralCode": "HEX490186",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-19T12:28:10.921Z",
-      "lastActiveAt": "2026-10-21T03:04:02.848Z",
+      "lastActiveAt": "2026-10-21T03:25:27.707Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "cf06e547-07a4-475e-892b-1509b60576df",
+          "queryNumber": "9274988185",
+          "timestamp": "2026-10-21T03:25:29.222Z",
+          "source": "bot",
+          "userId": 8877490186,
+          "userName": "Ghb",
+          "resultSummary": {
+            "name": "arsi raza",
+            "truecallerName": "arsi raza",
+            "fatherName": "Not found",
+            "mobile": "9274988185",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "b1a5c612-8327-4373-91b6-20544f1951a3",
           "queryNumber": "6359401667",
@@ -647,26 +667,6 @@
           }
         },
         {
-          "id": "debcf73c-55de-4136-ab9c-484321760137",
-          "queryNumber": "9274988185",
-          "timestamp": "2026-10-21T02:57:31.316Z",
-          "source": "bot",
-          "userId": 8877490186,
-          "userName": "Ghb",
-          "resultSummary": {
-            "name": "arsi raza",
-            "truecallerName": "arsi raza",
-            "fatherName": "Not found",
-            "mobile": "9274988185",
-            "altMobile": "Not found",
-            "circle": "India",
-            "idNumber": "Not found",
-            "email": "Not found",
-            "address": "Not found",
-            "totalRecords": 1
-          }
-        },
-        {
           "id": "6398bb00-77fe-4f31-9b01-a5b9e9a0a7fa",
           "queryNumber": "7872079155",
           "timestamp": "2026-10-21T02:57:00.611Z",
@@ -728,7 +728,7 @@
         }
       ],
       "lastLookupDate": "2026-10-21",
-      "lastBotMessageId": 7809,
+      "lastBotMessageId": 7815,
       "lastBotMessageHasPhoto": false,
       "dailyLimit": 1,
       "lastPlanName": "7 DAYS PASS"
@@ -2595,6 +2595,26 @@
   },
   "globalHistory": [
     {
+      "id": "cf06e547-07a4-475e-892b-1509b60576df",
+      "queryNumber": "9274988185",
+      "timestamp": "2026-10-21T03:25:29.222Z",
+      "source": "bot",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "resultSummary": {
+        "name": "arsi raza",
+        "truecallerName": "arsi raza",
+        "fatherName": "Not found",
+        "mobile": "9274988185",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "073f746f-af3d-47a5-b0de-a6a8d31ffc5c",
       "queryNumber": "9211369728",
       "timestamp": "2026-10-21T03:14:17.097Z",
@@ -3788,6 +3808,14 @@
   ],
   "logs": [
     {
+      "id": "5bd4879e-bcfb-470d-b845-98f4d0439902",
+      "timestamp": "2026-10-21T03:25:29.222Z",
+      "type": "LOOKUP",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "summary": "Looked up 9274988185 (arsi raza)"
+    },
+    {
       "id": "8e74aea1-a834-406e-8094-3ecbeaeeb9ef",
       "timestamp": "2026-10-21T03:14:17.097Z",
       "type": "LOOKUP",
@@ -4978,17 +5006,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "34e1c791-cea8-461d-a0e6-9e407489e07c",
-      "timestamp": "2026-10-19T12:34:08.541Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809096,
+  "lastTelegramUpdateId": 168809097,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
