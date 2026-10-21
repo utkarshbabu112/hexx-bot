@@ -283,17 +283,158 @@
       "premiumUntil": "2026-10-28T10:13:45.088Z",
       "lastPlanName": "7 Days Admin VIP",
       "totalSpent": 4,
-      "dailyLookupsUsed": 8,
-      "totalLookups": 35,
+      "dailyLookupsUsed": 15,
+      "totalLookups": 42,
       "referralCode": "HEX667289",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-21T10:45:21.186Z",
+      "lastActiveAt": "2026-10-21T10:50:26.437Z",
       "isBanned": false,
-      "history": [],
-      "lastBotMessageId": 7932,
+      "history": [
+        {
+          "id": "df4d3d53-f72d-4341-a389-5e7f7c9c42e9",
+          "queryNumber": "8873015730",
+          "timestamp": "2026-10-21T10:50:26.820Z",
+          "source": "bot",
+          "userId": 6672896116,
+          "userName": "UHTKARSH",
+          "resultSummary": {
+            "name": "ANKUSH KUMAR",
+            "truecallerName": "Rajkeshwar Kumar",
+            "fatherName": "GANNOURI CHOUDHARY",
+            "mobile": "8873015730",
+            "altMobile": "7250794295",
+            "circle": "BIHAR VODAFONE",
+            "idNumber": "341331921808",
+            "email": "Not found",
+            "address": "S/O Gannouri Choudhary S/O Gannouri Choudhary Barah Bikram . JANPARA-PATNA Bihar 801112",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "c12a3d49-9d20-4a70-b574-b224f70d0b44",
+          "queryNumber": "9470801121",
+          "timestamp": "2026-10-21T10:48:57.172Z",
+          "source": "bot",
+          "userId": 6672896116,
+          "userName": "UHTKARSH",
+          "resultSummary": {
+            "name": "sachidanand ray",
+            "truecallerName": "Sony",
+            "fatherName": "ramsagar ray",
+            "mobile": "9470801121",
+            "altMobile": "9470259259",
+            "circle": "BIHAR JIO",
+            "idNumber": "677385917944",
+            "email": "Not found",
+            "address": "20 mohiuddinpur garahi post garahi, NA, makundpur garahi, Vaishali Vaishali, NA, Bihar, 844504",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "63617e7b-56c4-47e1-a4b9-309504358ac7",
+          "queryNumber": "6201500908",
+          "timestamp": "2026-10-21T10:48:47.123Z",
+          "source": "bot",
+          "userId": 6672896116,
+          "userName": "UHTKARSH",
+          "resultSummary": {
+            "name": "Ramanand Thakur",
+            "truecallerName": "Beauty Devi",
+            "fatherName": "baleshwar thakur",
+            "mobile": "6201500908",
+            "altMobile": "7493997356",
+            "circle": "BIHAR JIO",
+            "idNumber": "834019034015",
+            "email": "Not found",
+            "address": "s/o baleshwar thakur, Maheshwarpur, Baikunthpur Rajapakar, maheshwarpur baikunthpur rajapakar, raja pakar Raja Pakar, vaishali, Bihar, 844124",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "3a39d31b-1737-4b93-8b3f-2bde56212040",
+          "queryNumber": "8186019132",
+          "timestamp": "2026-10-21T10:48:06.338Z",
+          "source": "bot",
+          "userId": 6672896116,
+          "userName": "UHTKARSH",
+          "resultSummary": {
+            "name": "Jagdish",
+            "truecallerName": "Jagdish",
+            "fatherName": "Not found",
+            "mobile": "8186019132",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "f3de5774-62b7-483a-81d1-66486435129e",
+          "queryNumber": "7209632167",
+          "timestamp": "2026-10-21T10:47:51.263Z",
+          "source": "bot",
+          "userId": 6672896116,
+          "userName": "UHTKARSH",
+          "resultSummary": {
+            "name": "Sakshi",
+            "truecallerName": "Sakshi",
+            "fatherName": "Not found",
+            "mobile": "7209632167",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "3221d705-b0f4-4baf-b69c-a4529f8a058c",
+          "queryNumber": "8579075715",
+          "timestamp": "2026-10-21T10:47:26.000Z",
+          "source": "bot",
+          "userId": 6672896116,
+          "userName": "UHTKARSH",
+          "resultSummary": {
+            "name": "VIJAY RAM",
+            "truecallerName": "Doctor Said Bihar",
+            "fatherName": "BINDESHWAR  RAM",
+            "mobile": "8579075715",
+            "altMobile": "9939255671",
+            "circle": "BIHAR VODAFONE",
+            "idNumber": "229153880870",
+            "email": "Not found",
+            "address": "S/O Bindeshwar Ram . alli pur dumri Bakhri Subain Bakhari Supayan Raja Pakar BAKHRI SUBAIN-VAISHALI BR 844504",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "a4f8447a-35e6-41da-a7ae-968b53422ea6",
+          "queryNumber": "9708070702",
+          "timestamp": "2026-10-21T10:46:39.049Z",
+          "source": "bot",
+          "userId": 6672896116,
+          "userName": "UHTKARSH",
+          "resultSummary": {
+            "name": "Deepesh Kumar",
+            "truecallerName": "Deepak Bkp",
+            "fatherName": "Shankar Singh",
+            "mobile": "9708070702",
+            "altMobile": "Not found",
+            "circle": "AIRTEL BHR&JHR",
+            "idNumber": "515833191306",
+            "email": "Not found",
+            "address": "baikunthpur, Baikunthpur PO, NA, ward 05 Rampur Dilawar Raja Pakar, Vaishali, Vaishali, Bihar, 844124",
+            "totalRecords": 6
+          }
+        }
+      ],
+      "lastBotMessageId": 7946,
       "lastBotMessageHasPhoto": false,
       "isAdminUnlocked": true,
       "lastLookupDate": "2026-10-21",
@@ -2850,6 +2991,146 @@
   },
   "globalHistory": [
     {
+      "id": "df4d3d53-f72d-4341-a389-5e7f7c9c42e9",
+      "queryNumber": "8873015730",
+      "timestamp": "2026-10-21T10:50:26.820Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "ANKUSH KUMAR",
+        "truecallerName": "Rajkeshwar Kumar",
+        "fatherName": "GANNOURI CHOUDHARY",
+        "mobile": "8873015730",
+        "altMobile": "7250794295",
+        "circle": "BIHAR VODAFONE",
+        "idNumber": "341331921808",
+        "email": "Not found",
+        "address": "S/O Gannouri Choudhary S/O Gannouri Choudhary Barah Bikram . JANPARA-PATNA Bihar 801112",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "c12a3d49-9d20-4a70-b574-b224f70d0b44",
+      "queryNumber": "9470801121",
+      "timestamp": "2026-10-21T10:48:57.172Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "sachidanand ray",
+        "truecallerName": "Sony",
+        "fatherName": "ramsagar ray",
+        "mobile": "9470801121",
+        "altMobile": "9470259259",
+        "circle": "BIHAR JIO",
+        "idNumber": "677385917944",
+        "email": "Not found",
+        "address": "20 mohiuddinpur garahi post garahi, NA, makundpur garahi, Vaishali Vaishali, NA, Bihar, 844504",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "63617e7b-56c4-47e1-a4b9-309504358ac7",
+      "queryNumber": "6201500908",
+      "timestamp": "2026-10-21T10:48:47.123Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "Ramanand Thakur",
+        "truecallerName": "Beauty Devi",
+        "fatherName": "baleshwar thakur",
+        "mobile": "6201500908",
+        "altMobile": "7493997356",
+        "circle": "BIHAR JIO",
+        "idNumber": "834019034015",
+        "email": "Not found",
+        "address": "s/o baleshwar thakur, Maheshwarpur, Baikunthpur Rajapakar, maheshwarpur baikunthpur rajapakar, raja pakar Raja Pakar, vaishali, Bihar, 844124",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "3a39d31b-1737-4b93-8b3f-2bde56212040",
+      "queryNumber": "8186019132",
+      "timestamp": "2026-10-21T10:48:06.338Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "Jagdish",
+        "truecallerName": "Jagdish",
+        "fatherName": "Not found",
+        "mobile": "8186019132",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "f3de5774-62b7-483a-81d1-66486435129e",
+      "queryNumber": "7209632167",
+      "timestamp": "2026-10-21T10:47:51.263Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "Sakshi",
+        "truecallerName": "Sakshi",
+        "fatherName": "Not found",
+        "mobile": "7209632167",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "3221d705-b0f4-4baf-b69c-a4529f8a058c",
+      "queryNumber": "8579075715",
+      "timestamp": "2026-10-21T10:47:26.000Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "VIJAY RAM",
+        "truecallerName": "Doctor Said Bihar",
+        "fatherName": "BINDESHWAR  RAM",
+        "mobile": "8579075715",
+        "altMobile": "9939255671",
+        "circle": "BIHAR VODAFONE",
+        "idNumber": "229153880870",
+        "email": "Not found",
+        "address": "S/O Bindeshwar Ram . alli pur dumri Bakhri Subain Bakhari Supayan Raja Pakar BAKHRI SUBAIN-VAISHALI BR 844504",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "a4f8447a-35e6-41da-a7ae-968b53422ea6",
+      "queryNumber": "9708070702",
+      "timestamp": "2026-10-21T10:46:39.049Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "Deepesh Kumar",
+        "truecallerName": "Deepak Bkp",
+        "fatherName": "Shankar Singh",
+        "mobile": "9708070702",
+        "altMobile": "Not found",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "515833191306",
+        "email": "Not found",
+        "address": "baikunthpur, Baikunthpur PO, NA, ward 05 Rampur Dilawar Raja Pakar, Vaishali, Vaishali, Bihar, 844124",
+        "totalRecords": 6
+      }
+    },
+    {
       "id": "a3dcfa5d-124d-4a56-89e2-3ba9b004172b",
       "queryNumber": "7722865930",
       "timestamp": "2026-10-21T10:34:10.569Z",
@@ -4481,6 +4762,62 @@
   ],
   "logs": [
     {
+      "id": "7e5dc9b8-949c-4662-a091-226af913fad4",
+      "timestamp": "2026-10-21T10:50:26.820Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 8873015730 (ANKUSH KUMAR)"
+    },
+    {
+      "id": "23c9d301-e7d2-46ef-aad2-8b51a0152dbd",
+      "timestamp": "2026-10-21T10:48:57.172Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 9470801121 (sachidanand ray)"
+    },
+    {
+      "id": "dfb6792d-a2a6-4642-a625-4cdebc21ac40",
+      "timestamp": "2026-10-21T10:48:47.123Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 6201500908 (Ramanand Thakur)"
+    },
+    {
+      "id": "86a791cc-c6ce-4df4-a2ba-5fc8ae152028",
+      "timestamp": "2026-10-21T10:48:06.338Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 8186019132 (Jagdish)"
+    },
+    {
+      "id": "65bdaed7-462c-4a57-ba43-e4bc31b2431f",
+      "timestamp": "2026-10-21T10:47:51.263Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 7209632167 (Sakshi)"
+    },
+    {
+      "id": "6c5cd1e8-628d-4286-b79d-8fc9f71698ca",
+      "timestamp": "2026-10-21T10:47:26.000Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 8579075715 (VIJAY RAM)"
+    },
+    {
+      "id": "0447f3f0-1ca5-4677-a676-930da8c512f5",
+      "timestamp": "2026-10-21T10:46:39.049Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 9708070702 (Deepesh Kumar)"
+    },
+    {
       "id": "d3f18dd8-b3f3-44d9-b44b-ea42cf129288",
       "timestamp": "2026-10-21T10:34:10.569Z",
       "type": "LOOKUP",
@@ -5623,65 +5960,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Looked up 8676972045 (Ranju Devi)"
-    },
-    {
-      "id": "f115cf6f-8bbb-4029-8fff-d07bb3eb2e2c",
-      "timestamp": "2026-10-19T13:14:07.331Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 9708398593 (PRAMILA DEVI)"
-    },
-    {
-      "id": "a63c4527-a250-4334-940d-998782bf38d1",
-      "timestamp": "2026-10-19T13:14:02.585Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 8252464080 (Not found)"
-    },
-    {
-      "id": "10fb175f-cb18-463a-9c1e-1b43ba55a09d",
-      "timestamp": "2026-10-19T13:07:41.952Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "d046ecde-e6a5-40ef-bfd4-e94d0c59dc14",
-      "timestamp": "2026-10-19T13:07:30.299Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "84cc5bdb-ae06-4247-8e8d-28bea48c17bc",
-      "timestamp": "2026-10-19T12:58:52.421Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "bff4a98c-f4e1-4ffd-be5e-a735daf8a021",
-      "timestamp": "2026-10-19T12:53:01.198Z",
-      "type": "PAYMENT",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Created Auto-QR Order HEX8RVV6116 (₹1 for 1 Days VIP)"
-    },
-    {
-      "id": "299237cc-69e1-40e6-a625-97cae258a328",
-      "timestamp": "2026-10-19T12:52:20.867Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809235,
+  "lastTelegramUpdateId": 168809242,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
