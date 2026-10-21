@@ -663,16 +663,36 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T02:51:11.808Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 15,
-      "totalLookups": 17,
+      "dailyLookupsUsed": 16,
+      "totalLookups": 18,
       "referralCode": "HEX490186",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-19T12:28:10.921Z",
-      "lastActiveAt": "2026-10-21T11:15:47.273Z",
+      "lastActiveAt": "2026-10-21T14:29:56.604Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "ed8d787b-ff67-4747-aece-0e8460cd5b1a",
+          "queryNumber": "8409428230",
+          "timestamp": "2026-10-21T14:29:58.568Z",
+          "source": "bot",
+          "userId": 8877490186,
+          "userName": "Ghb",
+          "resultSummary": {
+            "name": "Deepak Saw",
+            "truecallerName": "Vikash Saw",
+            "fatherName": "Nandkishor Saw",
+            "mobile": "8409428230",
+            "altMobile": "Not found",
+            "circle": "AIRTEL BHR&JHR",
+            "idNumber": "414627595713",
+            "email": "Not found",
+            "address": "dharampur, Dharampur, Hazaribag, Hazaribagh, Hazaribag, Jharkhand, 825313",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "cdbbb1ab-1bb2-465b-a46d-8509d10e0877",
           "queryNumber": "8690323482",
@@ -754,7 +774,7 @@
         }
       ],
       "lastLookupDate": "2026-10-21",
-      "lastBotMessageId": 7954,
+      "lastBotMessageId": 7979,
       "lastBotMessageHasPhoto": false,
       "dailyLimit": 1,
       "lastPlanName": "7 DAYS PASS"
@@ -3219,6 +3239,26 @@
   },
   "globalHistory": [
     {
+      "id": "ed8d787b-ff67-4747-aece-0e8460cd5b1a",
+      "queryNumber": "8409428230",
+      "timestamp": "2026-10-21T14:29:58.568Z",
+      "source": "bot",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "resultSummary": {
+        "name": "Deepak Saw",
+        "truecallerName": "Vikash Saw",
+        "fatherName": "Nandkishor Saw",
+        "mobile": "8409428230",
+        "altMobile": "Not found",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "414627595713",
+        "email": "Not found",
+        "address": "dharampur, Dharampur, Hazaribag, Hazaribagh, Hazaribag, Jharkhand, 825313",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "8fb0c992-ffb8-480f-9e25-6620217e419e",
       "queryNumber": "9310787990",
       "timestamp": "2026-10-21T14:05:17.970Z",
@@ -5190,6 +5230,14 @@
   ],
   "logs": [
     {
+      "id": "df0c25b0-74a3-41f7-b20a-2a08412fe99e",
+      "timestamp": "2026-10-21T14:29:58.568Z",
+      "type": "LOOKUP",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "summary": "Looked up 8409428230 (Deepak Saw)"
+    },
+    {
       "id": "15d3148f-6724-4704-879d-9bd4035406a9",
       "timestamp": "2026-10-21T14:05:17.970Z",
       "type": "LOOKUP",
@@ -6380,17 +6428,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Looked up 7766554433 (SAMSHAID ANSARI)"
-    },
-    {
-      "id": "41faca0a-3b92-4985-9abd-0a6ba4630c2f",
-      "timestamp": "2026-10-20T08:40:56.797Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 9876543210 (Dev Jyoti Roy)"
     }
   ],
-  "lastTelegramUpdateId": 168809270,
+  "lastTelegramUpdateId": 168809271,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
