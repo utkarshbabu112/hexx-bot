@@ -1911,19 +1911,39 @@
       "firstName": "Mukesh Kumar",
       "username": "mukesh_lawyer",
       "credits": 0,
-      "isPremium": false,
-      "premiumUntil": null,
-      "totalSpent": 0,
-      "dailyLookupsUsed": 1,
-      "totalLookups": 1,
+      "isPremium": true,
+      "premiumUntil": "2026-10-28T09:57:14.832Z",
+      "totalSpent": 19,
+      "dailyLookupsUsed": 2,
+      "totalLookups": 2,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-21T09:52:09.128Z",
+      "lastActiveAt": "2026-10-21T09:57:33.973Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "fc7c1db8-7dcc-445e-ba6f-54ebd2936c79",
+          "queryNumber": "7070725113",
+          "timestamp": "2026-10-21T09:57:35.609Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Sandeep Kumar",
+            "truecallerName": "Dr. Bhabhi Ji",
+            "fatherName": "Mahesh  Pasvan",
+            "mobile": "7070725113",
+            "altMobile": "Not found",
+            "circle": "AIRTEL BHR&JHR",
+            "idNumber": "xxxxxxxx8211",
+            "email": "Not found",
+            "address": "S/O Mahesh Pasvan, Bhela Simri gram bela simari, Khagaria, Bihar, 851204",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "e7a37370-6852-41a1-8cb9-dcfb4155190c",
           "queryNumber": "8102144230",
@@ -1945,9 +1965,10 @@
           }
         }
       ],
-      "lastBotMessageId": 7879,
+      "lastBotMessageId": 7889,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-21"
+      "lastLookupDate": "2026-10-21",
+      "lastPlanName": "7 DAYS PASS"
     }
   },
   "orders": {
@@ -2856,9 +2877,55 @@
       "createdAt": "2026-10-21T09:41:25.890Z",
       "expiresAt": "2026-10-21T09:51:25.890Z",
       "botQrMessageId": 7873
+    },
+    "HEXSMLA5408": {
+      "orderId": "HEXSMLA5408",
+      "famOrderId": "HEXSMLA5408",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "userUsername": "mukesh_lawyer",
+      "planId": "plan_1d",
+      "planName": "7 DAYS PASS",
+      "amount": 19,
+      "payableAmount": "19",
+      "qrImageUrl": "https://famgateway.in/api/qr/HEXSMLA5408",
+      "qrDataUrl": "data:image/png;base64,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",
+      "lastImapScanAt": 0,
+      "credits": 0,
+      "days": 7,
+      "status": "PAID",
+      "paymentUrl": "https://famgateway.in/?order=HEXSMLA5408",
+      "upiIntentUrl": "upi://pay?pa=8252464080%40fam&pn=Hexx%20Info%20Bot&am=19&cu=INR&tn=HEXSMLA5408&tr=HEXSMLA5408",
+      "qrPayload": "upi://pay?pa=8252464080%40fam&pn=Hexx%20Info%20Bot&am=19&cu=INR&tn=HEXSMLA5408&tr=HEXSMLA5408",
+      "gatewaySource": "direct_gmail",
+      "createdAt": "2026-10-21T09:55:50.494Z",
+      "expiresAt": "2026-10-21T10:05:50.494Z",
+      "botQrMessageId": 7886,
+      "utr": "GMAIL_659",
+      "paidAt": "2026-10-21T09:57:14.832Z"
     }
   },
   "globalHistory": [
+    {
+      "id": "fc7c1db8-7dcc-445e-ba6f-54ebd2936c79",
+      "queryNumber": "7070725113",
+      "timestamp": "2026-10-21T09:57:35.609Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Sandeep Kumar",
+        "truecallerName": "Dr. Bhabhi Ji",
+        "fatherName": "Mahesh  Pasvan",
+        "mobile": "7070725113",
+        "altMobile": "Not found",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "xxxxxxxx8211",
+        "email": "Not found",
+        "address": "S/O Mahesh Pasvan, Bhela Simri gram bela simari, Khagaria, Bihar, 851204",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "e7a37370-6852-41a1-8cb9-dcfb4155190c",
       "queryNumber": "8102144230",
@@ -4292,6 +4359,30 @@
   ],
   "logs": [
     {
+      "id": "106cb918-7dfe-42e3-b48b-a8bfe08ead70",
+      "timestamp": "2026-10-21T09:57:35.609Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 7070725113 (Sandeep Kumar)"
+    },
+    {
+      "id": "e03b1651-f88c-4bf1-97ca-0696f61be1bc",
+      "timestamp": "2026-10-21T09:57:14.832Z",
+      "type": "PAYMENT",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Order HEXSMLA5408 PAID (7 Days VIP, Rs.19)"
+    },
+    {
+      "id": "ec3d9f39-597d-43f6-8d47-b8e28aa15cea",
+      "timestamp": "2026-10-21T09:55:50.515Z",
+      "type": "PAYMENT",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Created Auto-QR Order HEXSMLA5408 (₹19 for 7 Days VIP)"
+    },
+    {
       "id": "ee5c7a6c-b7e9-48fc-8bb7-bf03bcaf73af",
       "timestamp": "2026-10-21T09:51:40.588Z",
       "type": "LOOKUP",
@@ -5466,37 +5557,14 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "2ed347f9-f8d3-4c4e-85d9-9c66af4a9b57",
-      "timestamp": "2026-10-19T12:34:16.041Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "Hexx User",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "ed2e5fa3-af04-4358-9ea7-7dd798e2daf5",
-      "timestamp": "2026-10-19T12:34:15.734Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "84b1b37a-9ab0-4810-864e-cb7287b13aa8",
-      "timestamp": "2026-10-19T12:34:15.468Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809159,
+  "lastTelegramUpdateId": 168809169,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
     "gmail_645",
-    "gmail_653"
+    "gmail_653",
+    "gmail_659"
   ]
 }
