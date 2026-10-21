@@ -1780,6 +1780,27 @@
       "lastBotMessageId": 7848,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21"
+    },
+    "8472839897": {
+      "id": 8472839897,
+      "firstName": "MANJIT KUMAR",
+      "username": "manjitchauhan8340",
+      "credits": 1,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 0,
+      "totalLookups": 0,
+      "referralCode": "HEX839897",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-21T07:49:28.751Z",
+      "lastActiveAt": "2026-10-21T07:49:28.751Z",
+      "isBanned": false,
+      "history": [],
+      "lastBotMessageId": 7858,
+      "lastBotMessageHasPhoto": false
     }
   },
   "orders": {
@@ -4041,6 +4062,14 @@
   ],
   "logs": [
     {
+      "id": "d3eb0c7a-26e1-496b-a162-d9500791fb5e",
+      "timestamp": "2026-10-21T07:49:29.107Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8472839897,
+      "userName": "MANJIT KUMAR",
+      "summary": "Started bot (/start)"
+    },
+    {
       "id": "124e973a-0319-4223-9d6e-a0438a1c38fc",
       "timestamp": "2026-10-21T07:27:57.214Z",
       "type": "BOT_MESSAGE",
@@ -5231,17 +5260,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "c1c89486-772c-40a7-b9e3-152f969ae865",
-      "timestamp": "2026-10-19T12:34:12.540Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809132,
+  "lastTelegramUpdateId": 168809133,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
