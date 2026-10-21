@@ -536,16 +536,36 @@
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
-      "dailyLookupsUsed": 2,
-      "totalLookups": 2,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 3,
       "referralCode": "HEX490186",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-19T12:28:10.921Z",
-      "lastActiveAt": "2026-10-19T12:32:47.867Z",
+      "lastActiveAt": "2026-10-21T02:12:49.080Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "0ef6886d-d3dd-4d0b-b536-0ba7773bbe94",
+          "queryNumber": "7872079155",
+          "timestamp": "2026-10-21T02:12:50.511Z",
+          "source": "bot",
+          "userId": 8877490186,
+          "userName": "Ghb",
+          "resultSummary": {
+            "name": "raju lingchom",
+            "truecallerName": "raju lingchom",
+            "fatherName": "Not found",
+            "mobile": "7872079155",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "989e7136-2d62-4290-81f5-0cf1a18e12c8",
           "queryNumber": "9241560780",
@@ -567,8 +587,8 @@
           }
         }
       ],
-      "lastLookupDate": "2026-10-19",
-      "lastBotMessageId": 7079,
+      "lastLookupDate": "2026-10-21",
+      "lastBotMessageId": 7776,
       "lastBotMessageHasPhoto": false,
       "dailyLimit": 1
     },
@@ -2319,6 +2339,26 @@
   },
   "globalHistory": [
     {
+      "id": "0ef6886d-d3dd-4d0b-b536-0ba7773bbe94",
+      "queryNumber": "7872079155",
+      "timestamp": "2026-10-21T02:12:50.511Z",
+      "source": "bot",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "resultSummary": {
+        "name": "raju lingchom",
+        "truecallerName": "raju lingchom",
+        "fatherName": "Not found",
+        "mobile": "7872079155",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "9e40cad1-1934-408e-a712-974989f9cf1f",
       "queryNumber": "9708398593",
       "timestamp": "2026-10-21T01:28:15.431Z",
@@ -3291,6 +3331,22 @@
     }
   ],
   "logs": [
+    {
+      "id": "8bbdcfb3-69e9-45fb-9588-59c24dbe137c",
+      "timestamp": "2026-10-21T02:12:50.511Z",
+      "type": "LOOKUP",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "summary": "Looked up 7872079155 (raju lingchom)"
+    },
+    {
+      "id": "790109d2-eb9e-48a5-9ac2-6f89bd960803",
+      "timestamp": "2026-10-21T02:12:17.318Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "d8fca517-a420-4aa9-8d8d-c288e74b6a40",
       "timestamp": "2026-10-21T02:10:46.162Z",
@@ -4474,25 +4530,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "7fddd7b3-2b19-43b0-a4cf-a11a02964ae2",
-      "timestamp": "2026-10-19T12:34:03.247Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "5b9429de-764e-4734-8179-64ed23d74b46",
-      "timestamp": "2026-10-19T12:34:03.012Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809046,
+  "lastTelegramUpdateId": 168809049,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
