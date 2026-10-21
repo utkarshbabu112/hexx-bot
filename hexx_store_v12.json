@@ -2060,16 +2060,56 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T09:57:14.832Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 26,
-      "totalLookups": 26,
+      "dailyLookupsUsed": 28,
+      "totalLookups": 28,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-21T16:44:30.639Z",
+      "lastActiveAt": "2026-10-21T16:48:12.499Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "a9f092ab-a404-442d-9d84-bcfc5745c072",
+          "queryNumber": "8252596912",
+          "timestamp": "2026-10-21T16:48:13.557Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Kusum Ranjan Kumar",
+            "truecallerName": "Kusum Ranjan",
+            "fatherName": "Yadu veer Prasad",
+            "mobile": "8252596912",
+            "altMobile": "Not found",
+            "circle": "BIHAR JIO",
+            "idNumber": "896253157808",
+            "email": "Not found",
+            "address": "01 murram kala Behind Patel Chhatrawash, NA, po Gosa murram kala, Hazaribagh ram garh Ramgarh, NA, Jharkhand, 829122",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "f7658e3f-88fc-478b-b777-4bfcc17fc3eb",
+          "queryNumber": "9931131712",
+          "timestamp": "2026-10-21T16:45:52.288Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Kusum Ranjan Kumar",
+            "truecallerName": "Kusum Ranjan",
+            "fatherName": "Yadu Veer Prasad",
+            "mobile": "9931131712",
+            "altMobile": "Not found",
+            "circle": "AIRTEL BHR&JHR",
+            "idNumber": "896253157808",
+            "email": "Not found",
+            "address": "S/O Yadu Veer Prasad, Behind Patel Chhatrawash, PO- Gosa Murram Kala, Ramgarh , Jharkhand, 829122",
+            "totalRecords": 4
+          }
+        },
         {
           "id": "1f66601e-a647-4474-8380-6ee2a0a7c79c",
           "queryNumber": "7091920373",
@@ -2131,7 +2171,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8039,
+      "lastBotMessageId": 8045,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21",
       "lastPlanName": "7 DAYS PASS"
@@ -2303,6 +2343,27 @@
       "lastBotMessageId": 8037,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21"
+    },
+    "5676886634": {
+      "id": 5676886634,
+      "firstName": "Дикий!",
+      "username": "Savage_010101",
+      "credits": 1,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 0,
+      "totalLookups": 0,
+      "referralCode": "HEX886634",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-21T16:48:00.037Z",
+      "lastActiveAt": "2026-10-21T16:48:00.037Z",
+      "isBanned": false,
+      "history": [],
+      "lastBotMessageId": 8043,
+      "lastBotMessageHasPhoto": false
     }
   },
   "orders": {
@@ -3264,6 +3325,46 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "a9f092ab-a404-442d-9d84-bcfc5745c072",
+      "queryNumber": "8252596912",
+      "timestamp": "2026-10-21T16:48:13.557Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Kusum Ranjan Kumar",
+        "truecallerName": "Kusum Ranjan",
+        "fatherName": "Yadu veer Prasad",
+        "mobile": "8252596912",
+        "altMobile": "Not found",
+        "circle": "BIHAR JIO",
+        "idNumber": "896253157808",
+        "email": "Not found",
+        "address": "01 murram kala Behind Patel Chhatrawash, NA, po Gosa murram kala, Hazaribagh ram garh Ramgarh, NA, Jharkhand, 829122",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "f7658e3f-88fc-478b-b777-4bfcc17fc3eb",
+      "queryNumber": "9931131712",
+      "timestamp": "2026-10-21T16:45:52.288Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Kusum Ranjan Kumar",
+        "truecallerName": "Kusum Ranjan",
+        "fatherName": "Yadu Veer Prasad",
+        "mobile": "9931131712",
+        "altMobile": "Not found",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "896253157808",
+        "email": "Not found",
+        "address": "S/O Yadu Veer Prasad, Behind Patel Chhatrawash, PO- Gosa Murram Kala, Ramgarh , Jharkhand, 829122",
+        "totalRecords": 4
+      }
+    },
     {
       "id": "1f66601e-a647-4474-8380-6ee2a0a7c79c",
       "queryNumber": "7091920373",
@@ -5215,48 +5316,33 @@
         "address": "Tower 9 Flat 1506, Lotus Boulevard, NoidaSector 100, NoidaGautam Buddha Nagar, Uttar Pradesh, 201301",
         "totalRecords": 99
       }
-    },
-    {
-      "id": "0775d815-5922-427b-ab7e-161d556d2636",
-      "queryNumber": "6287358888",
-      "timestamp": "2026-10-20T10:05:37.568Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "Not found",
-        "fatherName": "Not found",
-        "mobile": "6287358888",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "f33f5927-c132-40ad-9cfd-302c77a06fa1",
-      "queryNumber": "9153501816",
-      "timestamp": "2026-10-20T10:05:03.785Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "Vikram Birua",
-        "truecallerName": "Juhi Mhesi",
-        "fatherName": "beni birua",
-        "mobile": "9153501816",
-        "altMobile": "Not found",
-        "circle": "BIHAR JIO",
-        "idNumber": "235781767060",
-        "email": "Not found",
-        "address": "s/o beni birua, po kathbhari ps manjhri, po kathbhari ps manjhari, khajuria, pashchimi singhbhum, Jharkhand, 833201",
-        "totalRecords": 2
-      }
     }
   ],
   "logs": [
+    {
+      "id": "a6816f94-5666-48a0-a2d9-0d1c18f1a9ad",
+      "timestamp": "2026-10-21T16:48:13.557Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 8252596912 (Kusum Ranjan Kumar)"
+    },
+    {
+      "id": "e531f65b-8e4e-48a9-896d-bd39c2368e96",
+      "timestamp": "2026-10-21T16:48:00.343Z",
+      "type": "BOT_MESSAGE",
+      "userId": 5676886634,
+      "userName": "Дикий!",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "f2115133-bf8a-4995-a3c6-b7cbe5e5741c",
+      "timestamp": "2026-10-21T16:45:52.288Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 9931131712 (Kusum Ranjan Kumar)"
+    },
     {
       "id": "fe2137ff-8493-4fda-84e9-4d6933f79039",
       "timestamp": "2026-10-21T16:44:32.688Z",
@@ -6432,33 +6518,9 @@
       "userId": 8447532330,
       "userName": "Sharef",
       "summary": "Looked up 7354838377 (Tarnnum Bano)"
-    },
-    {
-      "id": "23a69da9-614b-4615-891c-2566d21e484f",
-      "timestamp": "2026-10-20T11:36:38.257Z",
-      "type": "LOOKUP",
-      "userId": 8447532330,
-      "userName": "Sharef",
-      "summary": "Looked up 9303340905 (Yashwant Bamore)"
-    },
-    {
-      "id": "733d3dd4-11e8-4e27-a93f-853605a4c774",
-      "timestamp": "2026-10-20T11:36:23.506Z",
-      "type": "BOT_MESSAGE",
-      "userId": 8447532330,
-      "userName": "Sharef",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "413f0aa8-3d89-4d5a-8612-41d11103d4a6",
-      "timestamp": "2026-10-20T11:35:59.283Z",
-      "type": "PAYMENT",
-      "userId": 7995520431,
-      "userName": "Vashu",
-      "summary": "Created Auto-QR Order HEXXKBG0431 (₹99 for 365 Days VIP)"
     }
   ],
-  "lastTelegramUpdateId": 168809321,
+  "lastTelegramUpdateId": 168809324,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
