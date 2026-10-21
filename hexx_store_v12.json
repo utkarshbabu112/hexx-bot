@@ -1801,6 +1801,48 @@
       "history": [],
       "lastBotMessageId": 7858,
       "lastBotMessageHasPhoto": false
+    },
+    "6363693254": {
+      "id": 6363693254,
+      "firstName": "Akash",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX693254",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-21T07:57:49.288Z",
+      "lastActiveAt": "2026-10-21T07:58:48.878Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "b9484330-cc51-4351-81b8-9d9494891071",
+          "queryNumber": "9734768202",
+          "timestamp": "2026-10-21T07:58:11.415Z",
+          "source": "bot",
+          "userId": 6363693254,
+          "userName": "Akash",
+          "resultSummary": {
+            "name": "Naidul Islam",
+            "truecallerName": "Lp",
+            "fatherName": "nurul islam miya",
+            "mobile": "9734768202",
+            "altMobile": "8145244260",
+            "circle": "JIO WB",
+            "idNumber": "942527381029",
+            "email": "Not found",
+            "address": "BARA Bara, BARA, bara bara, bara, birbhum, West Bengal, 731237",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastBotMessageId": 7862,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-21"
     }
   },
   "orders": {
@@ -2688,6 +2730,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "b9484330-cc51-4351-81b8-9d9494891071",
+      "queryNumber": "9734768202",
+      "timestamp": "2026-10-21T07:58:11.415Z",
+      "source": "bot",
+      "userId": 6363693254,
+      "userName": "Akash",
+      "resultSummary": {
+        "name": "Naidul Islam",
+        "truecallerName": "Lp",
+        "fatherName": "nurul islam miya",
+        "mobile": "9734768202",
+        "altMobile": "8145244260",
+        "circle": "JIO WB",
+        "idNumber": "942527381029",
+        "email": "Not found",
+        "address": "BARA Bara, BARA, bara bara, bara, birbhum, West Bengal, 731237",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "eefa58f4-5a41-4bbd-8735-a63f9c2c1d7e",
       "queryNumber": "7489258553",
@@ -4062,6 +4124,22 @@
   ],
   "logs": [
     {
+      "id": "ac6403b7-9a4a-4e0e-8854-2c22bcbf2b53",
+      "timestamp": "2026-10-21T07:58:11.416Z",
+      "type": "LOOKUP",
+      "userId": 6363693254,
+      "userName": "Akash",
+      "summary": "Looked up 9734768202 (Naidul Islam)"
+    },
+    {
+      "id": "fbbe2999-2f4c-45a7-81c0-5e11fabbec21",
+      "timestamp": "2026-10-21T07:57:49.626Z",
+      "type": "BOT_MESSAGE",
+      "userId": 6363693254,
+      "userName": "Akash",
+      "summary": "Started bot (/start)"
+    },
+    {
       "id": "d3eb0c7a-26e1-496b-a162-d9500791fb5e",
       "timestamp": "2026-10-21T07:49:29.107Z",
       "type": "BOT_MESSAGE",
@@ -5244,25 +5322,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "10ed0a28-ead6-4749-b5fb-4f19f03232bf",
-      "timestamp": "2026-10-19T12:34:13.175Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "Hexx User",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "eb8dab6e-353f-4956-b91a-2c4bf7212905",
-      "timestamp": "2026-10-19T12:34:12.816Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809133,
+  "lastTelegramUpdateId": 168809138,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
