@@ -578,16 +578,36 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T02:51:11.808Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 12,
-      "totalLookups": 14,
+      "dailyLookupsUsed": 13,
+      "totalLookups": 15,
       "referralCode": "HEX490186",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-19T12:28:10.921Z",
-      "lastActiveAt": "2026-10-21T04:38:31.602Z",
+      "lastActiveAt": "2026-10-21T05:05:50.275Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "c44dc9b6-2e12-44bd-8c46-66029caa04bd",
+          "queryNumber": "8872123634",
+          "timestamp": "2026-10-21T05:05:52.387Z",
+          "source": "bot",
+          "userId": 8877490186,
+          "userName": "Ghb",
+          "resultSummary": {
+            "name": "KULDEEP SINGH",
+            "truecallerName": "AN 1784 KULDEEP",
+            "fatherName": "DARSHAN SINGH",
+            "mobile": "8872123634",
+            "altMobile": "9463080903",
+            "circle": "VODA PUNJAB",
+            "idNumber": "452623874405",
+            "email": "Not found",
+            "address": "S/O Darshan Singh, village roran wala uraf tare wala Chak Gulam Rasulwala, Chak Gulam Rasool Wala Jalalabad, FAZILKA-FAZILKA, PB, 152024",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "824bd8be-717f-4e95-92ea-720d11401678",
           "queryNumber": "9328110488",
@@ -610,7 +630,7 @@
         }
       ],
       "lastLookupDate": "2026-10-21",
-      "lastBotMessageId": 7833,
+      "lastBotMessageId": 7837,
       "lastBotMessageHasPhoto": false,
       "dailyLimit": 1,
       "lastPlanName": "7 DAYS PASS"
@@ -2585,6 +2605,26 @@
   },
   "globalHistory": [
     {
+      "id": "c44dc9b6-2e12-44bd-8c46-66029caa04bd",
+      "queryNumber": "8872123634",
+      "timestamp": "2026-10-21T05:05:52.387Z",
+      "source": "bot",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "resultSummary": {
+        "name": "KULDEEP SINGH",
+        "truecallerName": "AN 1784 KULDEEP",
+        "fatherName": "DARSHAN SINGH",
+        "mobile": "8872123634",
+        "altMobile": "9463080903",
+        "circle": "VODA PUNJAB",
+        "idNumber": "452623874405",
+        "email": "Not found",
+        "address": "S/O Darshan Singh, village roran wala uraf tare wala Chak Gulam Rasulwala, Chak Gulam Rasool Wala Jalalabad, FAZILKA-FAZILKA, PB, 152024",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "bb6516db-9309-479e-a138-add04cd1c96e",
       "queryNumber": "9213175217",
       "timestamp": "2026-10-21T04:44:26.382Z",
@@ -3918,6 +3958,14 @@
   ],
   "logs": [
     {
+      "id": "54a7244a-81f0-4b0d-886c-e292c8189e97",
+      "timestamp": "2026-10-21T05:05:52.387Z",
+      "type": "LOOKUP",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "summary": "Looked up 8872123634 (KULDEEP SINGH)"
+    },
+    {
       "id": "3bc5c761-bde1-4d98-8669-1d4b92391f1d",
       "timestamp": "2026-10-21T04:44:26.382Z",
       "type": "LOOKUP",
@@ -5108,17 +5156,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "b0c3fe82-b1e1-4a59-b382-b215a8104aec",
-      "timestamp": "2026-10-19T12:34:11.047Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809118,
+  "lastTelegramUpdateId": 168809119,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
