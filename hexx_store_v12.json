@@ -290,7 +290,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-21T09:43:41.245Z",
+      "lastActiveAt": "2026-10-21T10:00:36.049Z",
       "isBanned": false,
       "history": [
         {
@@ -432,7 +432,7 @@
           }
         }
       ],
-      "lastBotMessageId": 7875,
+      "lastBotMessageId": 7891,
       "lastBotMessageHasPhoto": false,
       "isAdminUnlocked": true,
       "lastLookupDate": "2026-10-21",
@@ -1921,7 +1921,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-21T09:57:33.973Z",
+      "lastActiveAt": "2026-10-21T09:58:01.957Z",
       "isBanned": false,
       "history": [
         {
@@ -1965,10 +1965,30 @@
           }
         }
       ],
-      "lastBotMessageId": 7889,
+      "lastBotMessageId": 7887,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21",
       "lastPlanName": "7 DAYS PASS"
+    },
+    "6976365330": {
+      "id": 6976365330,
+      "firstName": "User 5330",
+      "credits": 1,
+      "isPremium": true,
+      "premiumUntil": "2026-10-28T10:00:04.605Z",
+      "totalSpent": 0,
+      "dailyLookupsUsed": 0,
+      "totalLookups": 0,
+      "referralCode": "HEX365330",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-21T10:00:04.605Z",
+      "lastActiveAt": "2026-10-21T10:00:04.605Z",
+      "isBanned": false,
+      "history": [],
+      "lastPlanName": "7 Days Admin VIP",
+      "lastLookupDate": "2026-10-21"
     }
   },
   "orders": {
@@ -5559,7 +5579,7 @@
       "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809169,
+  "lastTelegramUpdateId": 168809197,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
