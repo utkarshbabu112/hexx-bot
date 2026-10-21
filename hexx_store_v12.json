@@ -2359,11 +2359,12 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T16:48:00.037Z",
-      "lastActiveAt": "2026-10-21T16:48:00.037Z",
+      "lastActiveAt": "2026-10-21T17:28:05.785Z",
       "isBanned": false,
       "history": [],
-      "lastBotMessageId": 8043,
-      "lastBotMessageHasPhoto": false
+      "lastBotMessageId": 8051,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-21"
     }
   },
   "orders": {
@@ -6520,7 +6521,7 @@
       "summary": "Looked up 7354838377 (Tarnnum Bano)"
     }
   ],
-  "lastTelegramUpdateId": 168809329,
+  "lastTelegramUpdateId": 168809338,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
