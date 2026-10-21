@@ -2020,16 +2020,36 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T09:57:14.832Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 7,
-      "totalLookups": 7,
+      "dailyLookupsUsed": 8,
+      "totalLookups": 8,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-21T12:03:34.203Z",
+      "lastActiveAt": "2026-10-21T14:00:25.522Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "e1af320a-a505-41bb-ac92-0f3a1b74279a",
+          "queryNumber": "9508930360",
+          "timestamp": "2026-10-21T14:00:27.034Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Bineet Pushkar",
+            "truecallerName": "Anirudh Kr Singha 1",
+            "fatherName": "Birendra Kumar Sinha",
+            "mobile": "9508930360",
+            "altMobile": "Not found",
+            "circle": "BIHAR JIO",
+            "idNumber": "715760680986",
+            "email": "Not found",
+            "address": "S/O Birendra Kumar Sinha, 93, BANGALI COLONY, SARDAR CHOWK, po- hazaribag ps- sadar hazaribag, Hazaribag, Hazaribagh, Jharkhand, 825301",
+            "totalRecords": 2
+          }
+        },
         {
           "id": "375ba38e-e2a1-47e8-b149-25f78f41f073",
           "queryNumber": "9110099737",
@@ -2151,7 +2171,7 @@
           }
         }
       ],
-      "lastBotMessageId": 7969,
+      "lastBotMessageId": 7975,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21",
       "lastPlanName": "7 DAYS PASS"
@@ -3178,6 +3198,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "e1af320a-a505-41bb-ac92-0f3a1b74279a",
+      "queryNumber": "9508930360",
+      "timestamp": "2026-10-21T14:00:27.034Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Bineet Pushkar",
+        "truecallerName": "Anirudh Kr Singha 1",
+        "fatherName": "Birendra Kumar Sinha",
+        "mobile": "9508930360",
+        "altMobile": "Not found",
+        "circle": "BIHAR JIO",
+        "idNumber": "715760680986",
+        "email": "Not found",
+        "address": "S/O Birendra Kumar Sinha, 93, BANGALI COLONY, SARDAR CHOWK, po- hazaribag ps- sadar hazaribag, Hazaribag, Hazaribagh, Jharkhand, 825301",
+        "totalRecords": 2
+      }
+    },
     {
       "id": "6978d54f-a45d-4a96-8fb9-cd6994df9878",
       "queryNumber": "8340670839",
@@ -5110,6 +5150,14 @@
   ],
   "logs": [
     {
+      "id": "94334210-48f7-4dfc-92f0-e5467b648590",
+      "timestamp": "2026-10-21T14:00:27.034Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 9508930360 (Bineet Pushkar)"
+    },
+    {
       "id": "7f830117-8336-4437-8deb-e9817f518d76",
       "timestamp": "2026-10-21T12:23:33.822Z",
       "type": "LOOKUP",
@@ -6300,17 +6348,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "a4899d6e-2842-4e28-842b-8854eb7e668e",
-      "timestamp": "2026-10-20T08:39:07.808Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809268,
+  "lastTelegramUpdateId": 168809269,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
