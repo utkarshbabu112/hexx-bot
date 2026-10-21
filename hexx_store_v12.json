@@ -290,7 +290,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-21T11:37:49.369Z",
+      "lastActiveAt": "2026-10-21T12:04:46.610Z",
       "isBanned": false,
       "history": [
         {
@@ -474,7 +474,7 @@
           }
         }
       ],
-      "lastBotMessageId": 7958,
+      "lastBotMessageId": 7971,
       "lastBotMessageHasPhoto": false,
       "isAdminUnlocked": true,
       "lastLookupDate": "2026-10-21",
@@ -1977,20 +1977,40 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T09:57:14.832Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 3,
-      "totalLookups": 3,
+      "dailyLookupsUsed": 7,
+      "totalLookups": 7,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-21T10:10:03.246Z",
+      "lastActiveAt": "2026-10-21T12:03:34.203Z",
       "isBanned": false,
       "history": [
         {
-          "id": "2e2fdeed-9dc9-4cb8-8705-032ac5419930",
+          "id": "375ba38e-e2a1-47e8-b149-25f78f41f073",
+          "queryNumber": "9110099737",
+          "timestamp": "2026-10-21T12:03:35.917Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Sanjiv Ranjan",
+            "truecallerName": "okk",
+            "fatherName": "late Bakhora thakur kishore",
+            "mobile": "9110099737",
+            "altMobile": "9324426734",
+            "circle": "JIO BHR&JHR",
+            "idNumber": "871977333236",
+            "email": "Not found",
+            "address": "h n 152 s/o late bakhora thakur kishore, wardno 01 nawada basti, jhumaritelaiya koderma jhumri telaiya koderma, Jhumri Telaiya, KODERMA, Jharkhand, 825409",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "db999742-c35b-4646-adb4-8d02f602bfe3",
           "queryNumber": "9324426734",
-          "timestamp": "2026-10-21T10:09:15.748Z",
+          "timestamp": "2026-10-21T12:03:13.875Z",
           "source": "bot",
           "userId": 5316205408,
           "userName": "Mukesh Kumar",
@@ -2005,6 +2025,46 @@
             "email": "Not found",
             "address": "h n 152 s/o late bakhora thakur kishore, wardno 01 nawada basti, jhumaritelaiya koderma jhumri telaiya koderma, Jhumri Telaiya, KODERMA, Jharkhand, 825409",
             "totalRecords": 1
+          }
+        },
+        {
+          "id": "924ab57c-9ba7-41c9-a5c1-59c5b8396862",
+          "queryNumber": "9523487200",
+          "timestamp": "2026-10-21T12:02:29.917Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Nisha rani",
+            "truecallerName": "Mukesh Neha",
+            "fatherName": "Ajay kumar",
+            "mobile": "9523487200",
+            "altMobile": "Not found",
+            "circle": "BIHAR JIO",
+            "idNumber": "508558412862",
+            "email": "Not found",
+            "address": "mangartilaiya, NA, thana pirtand post atki mangartilaia, Giridih Giridh, NA, Jharkhand, 825108",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "6c2e49ed-a9fa-4790-8bdf-042d0d816114",
+          "queryNumber": "7667233954",
+          "timestamp": "2026-10-21T12:01:39.410Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Anshu Kumar Pandey",
+            "truecallerName": "🏥 Shivansh Clinic 🏥",
+            "fatherName": "Rajesh Kumar Pandey",
+            "mobile": "7667233954",
+            "altMobile": "8228831512",
+            "circle": "JIO BHR&JHR",
+            "idNumber": "221084754855",
+            "email": "Not found",
+            "address": "S/O Rajesh Kumar Pandey, 212, kallu chowk road1 Hazaribagh, kallu chowk noora, Hazaribag Barkagaon, Hazaribagh, Jharkhand, 825301",
+            "totalRecords": 2
           }
         },
         {
@@ -2048,7 +2108,7 @@
           }
         }
       ],
-      "lastBotMessageId": 7896,
+      "lastBotMessageId": 7969,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21",
       "lastPlanName": "7 DAYS PASS"
@@ -3075,6 +3135,86 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "375ba38e-e2a1-47e8-b149-25f78f41f073",
+      "queryNumber": "9110099737",
+      "timestamp": "2026-10-21T12:03:35.917Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Sanjiv Ranjan",
+        "truecallerName": "okk",
+        "fatherName": "late Bakhora thakur kishore",
+        "mobile": "9110099737",
+        "altMobile": "9324426734",
+        "circle": "JIO BHR&JHR",
+        "idNumber": "871977333236",
+        "email": "Not found",
+        "address": "h n 152 s/o late bakhora thakur kishore, wardno 01 nawada basti, jhumaritelaiya koderma jhumri telaiya koderma, Jhumri Telaiya, KODERMA, Jharkhand, 825409",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "db999742-c35b-4646-adb4-8d02f602bfe3",
+      "queryNumber": "9324426734",
+      "timestamp": "2026-10-21T12:03:13.875Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Sanjiv Ranjan",
+        "truecallerName": "Sagar",
+        "fatherName": "late Bakhora thakur kishore",
+        "mobile": "9110099737",
+        "altMobile": "9324426734",
+        "circle": "JIO BHR&JHR",
+        "idNumber": "871977333236",
+        "email": "Not found",
+        "address": "h n 152 s/o late bakhora thakur kishore, wardno 01 nawada basti, jhumaritelaiya koderma jhumri telaiya koderma, Jhumri Telaiya, KODERMA, Jharkhand, 825409",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "924ab57c-9ba7-41c9-a5c1-59c5b8396862",
+      "queryNumber": "9523487200",
+      "timestamp": "2026-10-21T12:02:29.917Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Nisha rani",
+        "truecallerName": "Mukesh Neha",
+        "fatherName": "Ajay kumar",
+        "mobile": "9523487200",
+        "altMobile": "Not found",
+        "circle": "BIHAR JIO",
+        "idNumber": "508558412862",
+        "email": "Not found",
+        "address": "mangartilaiya, NA, thana pirtand post atki mangartilaia, Giridih Giridh, NA, Jharkhand, 825108",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "6c2e49ed-a9fa-4790-8bdf-042d0d816114",
+      "queryNumber": "7667233954",
+      "timestamp": "2026-10-21T12:01:39.410Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Anshu Kumar Pandey",
+        "truecallerName": "🏥 Shivansh Clinic 🏥",
+        "fatherName": "Rajesh Kumar Pandey",
+        "mobile": "7667233954",
+        "altMobile": "8228831512",
+        "circle": "JIO BHR&JHR",
+        "idNumber": "221084754855",
+        "email": "Not found",
+        "address": "S/O Rajesh Kumar Pandey, 212, kallu chowk road1 Hazaribagh, kallu chowk noora, Hazaribag Barkagaon, Hazaribagh, Jharkhand, 825301",
+        "totalRecords": 2
+      }
+    },
     {
       "id": "cdbbb1ab-1bb2-465b-a46d-8509d10e0877",
       "queryNumber": "8690323482",
@@ -4907,6 +5047,38 @@
   ],
   "logs": [
     {
+      "id": "932d590f-a536-4a48-9e17-cd3366006233",
+      "timestamp": "2026-10-21T12:03:35.917Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 9110099737 (Sanjiv Ranjan)"
+    },
+    {
+      "id": "a750995b-6ea2-4624-b0e2-9876e9861df3",
+      "timestamp": "2026-10-21T12:03:13.875Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 9324426734 (Sanjiv Ranjan)"
+    },
+    {
+      "id": "eb5465b5-a37a-4084-9645-231ff495cab9",
+      "timestamp": "2026-10-21T12:02:29.917Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 9523487200 (Nisha rani)"
+    },
+    {
+      "id": "e3b080f2-c84a-428d-82f3-59c60eb78d3d",
+      "timestamp": "2026-10-21T12:01:39.410Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 7667233954 (Anshu Kumar Pandey)"
+    },
+    {
       "id": "62de9c06-900f-4458-bf74-dd02b247e476",
       "timestamp": "2026-10-21T11:52:23.239Z",
       "type": "PAYMENT",
@@ -6073,41 +6245,9 @@
       "userId": 8900660455,
       "userName": "Siddharth",
       "summary": "Looked up 8840231690 (Vibha)"
-    },
-    {
-      "id": "549e70ec-80dc-4659-a2dd-2fed88207f2a",
-      "timestamp": "2026-10-20T08:38:13.386Z",
-      "type": "PAYMENT",
-      "userId": 8900660455,
-      "userName": "Siddharth",
-      "summary": "Created Auto-QR Order HEXKYFL0455 (₹49 for 7 Days VIP)"
-    },
-    {
-      "id": "af78b5f4-e07d-43fd-86d4-a2d8c04522c3",
-      "timestamp": "2026-10-20T08:38:03.453Z",
-      "type": "LOOKUP",
-      "userId": 8900660455,
-      "userName": "Siddharth",
-      "summary": "Looked up 9277384272 (Not found)"
-    },
-    {
-      "id": "da8782f5-37f9-4f2c-bb71-ea7816a4c46f",
-      "timestamp": "2026-10-20T08:37:27.497Z",
-      "type": "BOT_MESSAGE",
-      "userId": 8900660455,
-      "userName": "Siddharth",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "dd857e1e-d06e-4d6b-b464-a2bd9edef920",
-      "timestamp": "2026-10-20T08:27:58.793Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809262,
+  "lastTelegramUpdateId": 168809267,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
