@@ -248,7 +248,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-21T02:29:58.553Z",
+      "lastActiveAt": "2026-10-21T02:55:34.551Z",
       "isBanned": false,
       "history": [
         {
@@ -390,7 +390,7 @@
           }
         }
       ],
-      "lastBotMessageId": 7783,
+      "lastBotMessageId": 7795,
       "lastBotMessageHasPhoto": false,
       "isAdminUnlocked": true,
       "lastLookupDate": "2026-10-21",
@@ -536,20 +536,20 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T02:51:11.808Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 1,
-      "totalLookups": 3,
+      "dailyLookupsUsed": 3,
+      "totalLookups": 5,
       "referralCode": "HEX490186",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-19T12:28:10.921Z",
-      "lastActiveAt": "2026-10-21T02:51:50.242Z",
+      "lastActiveAt": "2026-10-21T02:56:59.122Z",
       "isBanned": false,
       "history": [
         {
-          "id": "0ef6886d-d3dd-4d0b-b536-0ba7773bbe94",
+          "id": "6398bb00-77fe-4f31-9b01-a5b9e9a0a7fa",
           "queryNumber": "7872079155",
-          "timestamp": "2026-10-21T02:12:50.511Z",
+          "timestamp": "2026-10-21T02:57:00.611Z",
           "source": "bot",
           "userId": 8877490186,
           "userName": "Ghb",
@@ -564,6 +564,26 @@
             "email": "Not found",
             "address": "Not found",
             "totalRecords": 1
+          }
+        },
+        {
+          "id": "d389a033-b13c-4de2-970c-98c3e9719f44",
+          "queryNumber": "6352198831",
+          "timestamp": "2026-10-21T02:52:18.871Z",
+          "source": "bot",
+          "userId": 8877490186,
+          "userName": "Ghb",
+          "resultSummary": {
+            "name": "Ansari Mustakim",
+            "truecallerName": "mohammmad mustak",
+            "fatherName": "Abdulsalam",
+            "mobile": "6352198831",
+            "altMobile": "9510570946",
+            "circle": "JIO GUJARAT",
+            "idNumber": "429185745547",
+            "email": "Not found",
+            "address": "S/O Abdulsalam A-398 om nagar society gali no-6 dumbhal Bombay Market dumbhal Surat City Surat City Surat Gujarat 395010",
+            "totalRecords": 3
           }
         },
         {
@@ -588,7 +608,7 @@
         }
       ],
       "lastLookupDate": "2026-10-21",
-      "lastBotMessageId": 7791,
+      "lastBotMessageId": 7797,
       "lastBotMessageHasPhoto": false,
       "dailyLimit": 1,
       "lastPlanName": "7 DAYS PASS"
@@ -2435,6 +2455,46 @@
   },
   "globalHistory": [
     {
+      "id": "6398bb00-77fe-4f31-9b01-a5b9e9a0a7fa",
+      "queryNumber": "7872079155",
+      "timestamp": "2026-10-21T02:57:00.611Z",
+      "source": "bot",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "resultSummary": {
+        "name": "raju lingchom",
+        "truecallerName": "raju lingchom",
+        "fatherName": "Not found",
+        "mobile": "7872079155",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "d389a033-b13c-4de2-970c-98c3e9719f44",
+      "queryNumber": "6352198831",
+      "timestamp": "2026-10-21T02:52:18.871Z",
+      "source": "bot",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "resultSummary": {
+        "name": "Ansari Mustakim",
+        "truecallerName": "mohammmad mustak",
+        "fatherName": "Abdulsalam",
+        "mobile": "6352198831",
+        "altMobile": "9510570946",
+        "circle": "JIO GUJARAT",
+        "idNumber": "429185745547",
+        "email": "Not found",
+        "address": "S/O Abdulsalam A-398 om nagar society gali no-6 dumbhal Bombay Market dumbhal Surat City Surat City Surat Gujarat 395010",
+        "totalRecords": 3
+      }
+    },
+    {
       "id": "a30a78ba-d19e-40a5-acca-0acc023b5787",
       "queryNumber": "8859490711",
       "timestamp": "2026-10-21T02:33:03.105Z",
@@ -3447,6 +3507,22 @@
     }
   ],
   "logs": [
+    {
+      "id": "22667a00-55e3-413f-a328-d70b1512ffed",
+      "timestamp": "2026-10-21T02:57:00.611Z",
+      "type": "LOOKUP",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "summary": "Looked up 7872079155 (raju lingchom)"
+    },
+    {
+      "id": "1e66ad0e-26cb-444e-893f-1d35d8aed246",
+      "timestamp": "2026-10-21T02:52:18.871Z",
+      "type": "LOOKUP",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "summary": "Looked up 6352198831 (Ansari Mustakim)"
+    },
     {
       "id": "9d2c53e8-e655-46b9-b776-542b6ce4dc6f",
       "timestamp": "2026-10-21T02:51:50.554Z",
@@ -4630,25 +4706,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "028353bc-fc66-4943-a8b3-4301088525a8",
-      "timestamp": "2026-10-19T12:34:06.112Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "Hexx User",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "eeb912fa-a103-47fe-99d8-f28c1c98d076",
-      "timestamp": "2026-10-19T12:34:05.764Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809071,
+  "lastTelegramUpdateId": 168809077,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
