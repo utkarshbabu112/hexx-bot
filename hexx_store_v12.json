@@ -578,199 +578,39 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T02:51:11.808Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 10,
-      "totalLookups": 12,
+      "dailyLookupsUsed": 12,
+      "totalLookups": 14,
       "referralCode": "HEX490186",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-19T12:28:10.921Z",
-      "lastActiveAt": "2026-10-21T03:25:27.707Z",
+      "lastActiveAt": "2026-10-21T04:38:31.602Z",
       "isBanned": false,
       "history": [
         {
-          "id": "cf06e547-07a4-475e-892b-1509b60576df",
-          "queryNumber": "9274988185",
-          "timestamp": "2026-10-21T03:25:29.222Z",
+          "id": "824bd8be-717f-4e95-92ea-720d11401678",
+          "queryNumber": "9328110488",
+          "timestamp": "2026-10-21T04:38:33.161Z",
           "source": "bot",
           "userId": 8877490186,
           "userName": "Ghb",
           "resultSummary": {
-            "name": "arsi raza",
-            "truecallerName": "arsi raza",
-            "fatherName": "Not found",
-            "mobile": "9274988185",
-            "altMobile": "Not found",
-            "circle": "India",
-            "idNumber": "Not found",
-            "email": "Not found",
-            "address": "Not found",
-            "totalRecords": 1
-          }
-        },
-        {
-          "id": "b1a5c612-8327-4373-91b6-20544f1951a3",
-          "queryNumber": "6359401667",
-          "timestamp": "2026-10-21T03:04:04.211Z",
-          "source": "bot",
-          "userId": 8877490186,
-          "userName": "Ghb",
-          "resultSummary": {
-            "name": "MR ASIF ZAMAL",
-            "truecallerName": "sahed jmal",
-            "fatherName": "Nizamuddin",
-            "mobile": "6359401667",
-            "altMobile": "8238225643",
-            "circle": "VI GUJARAT",
-            "idNumber": "803812493483",
-            "email": "Not found",
-            "address": "Polt no 08, Marat nagar, Marat nagar, Limbayat, SURAT, SURAT, Gujarat, 394210",
-            "totalRecords": 1
-          }
-        },
-        {
-          "id": "6339555a-cbb8-4221-9168-93f73db6e729",
-          "queryNumber": "6200463559",
-          "timestamp": "2026-10-21T02:59:43.339Z",
-          "source": "bot",
-          "userId": 8877490186,
-          "userName": "Ghb",
-          "resultSummary": {
-            "name": "Kavita Priyadarshini",
-            "truecallerName": "deshesh kumar",
-            "fatherName": "Lokesh Kumar",
-            "mobile": "6200463559",
-            "altMobile": "8578019555",
-            "circle": "BIHAR JIO",
-            "idNumber": "297378727345",
-            "email": "Not found",
-            "address": "W/O Lokesh Kumar, Gali No-01 Motihari, Azad Nagar Balua Tal, Motihari Motihari East Champaran, Bihar, 845401",
-            "totalRecords": 2
-          }
-        },
-        {
-          "id": "368151bc-f73c-4c41-8b5d-3b7eb859e897",
-          "queryNumber": "6202735641",
-          "timestamp": "2026-10-21T02:59:13.807Z",
-          "source": "bot",
-          "userId": 8877490186,
-          "userName": "Ghb",
-          "resultSummary": {
-            "name": "Rajkumar Mandal",
-            "truecallerName": "banti mandal",
-            "fatherName": "Bhikhi Mandal",
-            "mobile": "6202735641",
-            "altMobile": "Not found",
-            "circle": "BIHAR JIO",
-            "idNumber": "752564856629",
-            "email": "Not found",
-            "address": "S/O Bhikhi Mandal, Keshwari, vill nagar keshwari po keshwari ps suriya, Nagar Keshwari Bagodar Giridih, Jharkhand, 825320",
-            "totalRecords": 3
-          }
-        },
-        {
-          "id": "08ed125f-1358-4bab-8867-c2d5ca8a2ea0",
-          "queryNumber": "9660346404",
-          "timestamp": "2026-10-21T02:58:44.614Z",
-          "source": "bot",
-          "userId": 8877490186,
-          "userName": "Ghb",
-          "resultSummary": {
-            "name": "narotam malav",
-            "truecallerName": "narotam malav",
-            "fatherName": "Not found",
-            "mobile": "9660346404",
-            "altMobile": "Not found",
-            "circle": "India",
-            "idNumber": "Not found",
-            "email": "Not found",
-            "address": "Not found",
-            "totalRecords": 1
-          }
-        },
-        {
-          "id": "816ba4d3-a134-4a64-a6ca-3745565009a3",
-          "queryNumber": "8757612394",
-          "timestamp": "2026-10-21T02:57:45.927Z",
-          "source": "bot",
-          "userId": 8877490186,
-          "userName": "Ghb",
-          "resultSummary": {
-            "name": "Renu Devi",
-            "truecallerName": "r@j",
-            "fatherName": "Bhola Prasad",
-            "mobile": "8757612394",
-            "altMobile": "Not found",
-            "circle": "AIRTEL BHR&JHR",
-            "idNumber": "Not found",
-            "email": "Not found",
-            "address": "H No 139, Vill Kolhu Bishnu Garh Post Bishanugarh, Hazaribagh, 825312",
-            "totalRecords": 1
-          }
-        },
-        {
-          "id": "6398bb00-77fe-4f31-9b01-a5b9e9a0a7fa",
-          "queryNumber": "7872079155",
-          "timestamp": "2026-10-21T02:57:00.611Z",
-          "source": "bot",
-          "userId": 8877490186,
-          "userName": "Ghb",
-          "resultSummary": {
-            "name": "raju lingchom",
-            "truecallerName": "raju lingchom",
-            "fatherName": "Not found",
-            "mobile": "7872079155",
-            "altMobile": "Not found",
-            "circle": "India",
-            "idNumber": "Not found",
-            "email": "Not found",
-            "address": "Not found",
-            "totalRecords": 1
-          }
-        },
-        {
-          "id": "d389a033-b13c-4de2-970c-98c3e9719f44",
-          "queryNumber": "6352198831",
-          "timestamp": "2026-10-21T02:52:18.871Z",
-          "source": "bot",
-          "userId": 8877490186,
-          "userName": "Ghb",
-          "resultSummary": {
-            "name": "Ansari Mustakim",
-            "truecallerName": "mohammmad mustak",
-            "fatherName": "Abdulsalam",
-            "mobile": "6352198831",
-            "altMobile": "9510570946",
+            "name": "Gamit Ashwinbhai Shantabhai",
+            "truecallerName": "yohan bhai",
+            "fatherName": "Gamit Shantabhai",
+            "mobile": "9328110488",
+            "altMobile": "9725223708",
             "circle": "JIO GUJARAT",
-            "idNumber": "429185745547",
+            "idNumber": "379236291799",
             "email": "Not found",
-            "address": "S/O Abdulsalam A-398 om nagar society gali no-6 dumbhal Bombay Market dumbhal Surat City Surat City Surat Gujarat 395010",
+            "address": "S/O Gamit Shantabhai, Gopalpura, NA, Parsi Faliyu TaSongadh, Gopalpura Songadh Tapi, NA, Gujarat, 394365",
             "totalRecords": 3
-          }
-        },
-        {
-          "id": "989e7136-2d62-4290-81f5-0cf1a18e12c8",
-          "queryNumber": "9241560780",
-          "timestamp": "2026-10-19T12:28:26.666Z",
-          "source": "bot",
-          "userId": 8877490186,
-          "userName": "Ghb",
-          "resultSummary": {
-            "name": "karan",
-            "truecallerName": "karan",
-            "fatherName": "Not found",
-            "mobile": "9241560780",
-            "altMobile": "Not found",
-            "circle": "India",
-            "idNumber": "Not found",
-            "email": "Not found",
-            "address": "Not found",
-            "totalRecords": 1
           }
         }
       ],
       "lastLookupDate": "2026-10-21",
-      "lastBotMessageId": 7815,
+      "lastBotMessageId": 7833,
       "lastBotMessageHasPhoto": false,
       "dailyLimit": 1,
       "lastPlanName": "7 DAYS PASS"
@@ -2723,6 +2563,46 @@
   },
   "globalHistory": [
     {
+      "id": "824bd8be-717f-4e95-92ea-720d11401678",
+      "queryNumber": "9328110488",
+      "timestamp": "2026-10-21T04:38:33.161Z",
+      "source": "bot",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "resultSummary": {
+        "name": "Gamit Ashwinbhai Shantabhai",
+        "truecallerName": "yohan bhai",
+        "fatherName": "Gamit Shantabhai",
+        "mobile": "9328110488",
+        "altMobile": "9725223708",
+        "circle": "JIO GUJARAT",
+        "idNumber": "379236291799",
+        "email": "Not found",
+        "address": "S/O Gamit Shantabhai, Gopalpura, NA, Parsi Faliyu TaSongadh, Gopalpura Songadh Tapi, NA, Gujarat, 394365",
+        "totalRecords": 3
+      }
+    },
+    {
+      "id": "c6fb439d-625d-4de6-be21-a627a807094e",
+      "queryNumber": "7872079155",
+      "timestamp": "2026-10-21T04:37:25.553Z",
+      "source": "bot",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "resultSummary": {
+        "name": "raju lingchom",
+        "truecallerName": "raju lingchom",
+        "fatherName": "Not found",
+        "mobile": "7872079155",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "41a61295-93a1-4d9a-ae21-523aec4edebd",
       "queryNumber": "8197580780",
       "timestamp": "2026-10-21T04:06:53.635Z",
@@ -3996,6 +3876,22 @@
   ],
   "logs": [
     {
+      "id": "7023bdb3-9956-46e5-8ac2-b8826ab77c54",
+      "timestamp": "2026-10-21T04:38:33.161Z",
+      "type": "LOOKUP",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "summary": "Looked up 9328110488 (Gamit Ashwinbhai Shantabhai)"
+    },
+    {
+      "id": "7b44477d-56dd-4cf3-acad-67ab86f47d72",
+      "timestamp": "2026-10-21T04:37:25.553Z",
+      "type": "LOOKUP",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "summary": "Looked up 7872079155 (raju lingchom)"
+    },
+    {
       "id": "380e85cb-53d2-4db5-978e-36299a9f0919",
       "timestamp": "2026-10-21T04:06:53.635Z",
       "type": "LOOKUP",
@@ -5178,25 +5074,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "17d086d2-c9b8-40ad-8c3e-b8c4e90e2821",
-      "timestamp": "2026-10-19T12:34:10.488Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "58ae46ba-b279-4843-adcd-f6d02bb9a234",
-      "timestamp": "2026-10-19T12:34:10.207Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809112,
+  "lastTelegramUpdateId": 168809117,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
