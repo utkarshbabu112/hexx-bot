@@ -2060,417 +2060,78 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T09:57:14.832Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 22,
-      "totalLookups": 22,
+      "dailyLookupsUsed": 26,
+      "totalLookups": 26,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-21T16:40:12.778Z",
+      "lastActiveAt": "2026-10-21T16:44:30.639Z",
       "isBanned": false,
       "history": [
         {
-          "id": "1af16f46-2056-4aca-8ffa-df831b04b459",
-          "queryNumber": "7634983477",
-          "timestamp": "2026-10-21T16:40:14.415Z",
+          "id": "1f66601e-a647-4474-8380-6ee2a0a7c79c",
+          "queryNumber": "7091920373",
+          "timestamp": "2026-10-21T16:44:32.688Z",
           "source": "bot",
           "userId": 5316205408,
           "userName": "Mukesh Kumar",
           "resultSummary": {
-            "name": "Binu Mahato",
-            "truecallerName": "Vivek Bokaro 1",
-            "fatherName": "Mantu Prasad Mahato",
-            "mobile": "7634983477",
-            "altMobile": "Not found",
+            "name": "Dhrub Kumar Singh",
+            "truecallerName": "D k Singh",
+            "fatherName": "Sudarshan  Singh",
+            "mobile": "7091920373",
+            "altMobile": "9386309071",
             "circle": "AIRTEL BHR&JHR",
-            "idNumber": "530477732516",
+            "idNumber": "373050925314",
             "email": "Not found",
-            "address": "Vill-Harilagora Post-Dudhigazar P/S-Chas M Dudhigajar, Bokaro Dudhigajar Chas, Jharkhand, 827013",
-            "totalRecords": 1
-          }
-        },
-        {
-          "id": "6c2ba1d1-ad83-4a2d-bc2b-d5b8ca39c03f",
-          "queryNumber": "9060505629",
-          "timestamp": "2026-10-21T16:39:15.542Z",
-          "source": "bot",
-          "userId": 5316205408,
-          "userName": "Mukesh Kumar",
-          "resultSummary": {
-            "name": "Raghavendra Hulakoppa",
-            "truecallerName": "Ragu Hulkopa Jcb",
-            "fatherName": "Hanumantappa",
-            "mobile": "9060505629",
-            "altMobile": "Not found",
-            "circle": "AIRTEL KARNATKA",
-            "idNumber": "659739432191",
-            "email": "Not found",
-            "address": "S/O: Hanumantappa Behind AyappaTEMPLE Gokul Gokul Gokul Hubli Dharwad Karnataka 580030",
-            "totalRecords": 2
-          }
-        },
-        {
-          "id": "1ee3cfd6-90ec-4c67-a0d2-5e5ecf2102c8",
-          "queryNumber": "9684658586",
-          "timestamp": "2026-10-21T16:37:48.466Z",
-          "source": "bot",
-          "userId": 5316205408,
-          "userName": "Mukesh Kumar",
-          "resultSummary": {
-            "name": "Not found",
-            "fatherName": "Not found",
-            "mobile": "9684658586",
-            "altMobile": "Not found",
-            "circle": "India",
-            "idNumber": "Not found",
-            "email": "Not found",
-            "address": "Not found",
-            "totalRecords": 1
-          }
-        },
-        {
-          "id": "2d8d1a66-1c93-4536-b089-dd330c22a672",
-          "queryNumber": "9204294017",
-          "timestamp": "2026-10-21T16:36:05.141Z",
-          "source": "bot",
-          "userId": 5316205408,
-          "userName": "Mukesh Kumar",
-          "resultSummary": {
-            "name": "Fulchand Mahto",
-            "truecallerName": "Fulchand Mahto",
-            "fatherName": "Not found",
-            "mobile": "9204294017",
-            "altMobile": "Not found",
-            "circle": "India",
-            "idNumber": "Not found",
-            "email": "Not found",
-            "address": "Not found",
-            "totalRecords": 1
-          }
-        },
-        {
-          "id": "7d5ab54e-51dd-4941-ad12-012cbf1e761e",
-          "queryNumber": "9431129111",
-          "timestamp": "2026-10-21T16:35:03.904Z",
-          "source": "bot",
-          "userId": 5316205408,
-          "userName": "Mukesh Kumar",
-          "resultSummary": {
-            "name": "Santosh Kumar Mandal",
-            "truecallerName": "Santosh Mandal",
-            "fatherName": "Chhoti Lal Mahto",
-            "mobile": "9431129111",
-            "altMobile": "Not found",
-            "circle": "AIRTEL BHR&JHR",
-            "idNumber": "395744216801",
-            "email": "Not found",
-            "address": "Vill-Salaiya, Ps- Barkatha, Barwan, Hazaribagh, HAZARIBAG, Jharkhand, 825323",
-            "totalRecords": 4
-          }
-        },
-        {
-          "id": "34905bc7-34fe-493c-b8f1-ca45fd0012f6",
-          "queryNumber": "9931459864",
-          "timestamp": "2026-10-21T16:34:01.965Z",
-          "source": "bot",
-          "userId": 5316205408,
-          "userName": "Mukesh Kumar",
-          "resultSummary": {
-            "name": "Rajesh Kumar",
-            "truecallerName": "RTI Activist CMO Office",
-            "fatherName": "Mohar Mahto",
-            "mobile": "9931459864",
-            "altMobile": "Not found",
-            "circle": "AIRTEL BHR&JHR",
-            "idNumber": "660662547139",
-            "email": "Not found",
-            "address": "03, Thana- barkatha, Barkatha, salaiya barkatha barwan, Hazaribagh, HAZARIBAG, Jharkhand, 825323",
+            "address": "S/O Sudarshan Singh, 860, new area pahali gali, post-hazaribag ps-sadar hazaribag Hazaribag, near-shiv mandir, Hazaribagh, Jharkhand, 825301",
             "totalRecords": 3
           }
         },
         {
-          "id": "7fe5437a-ffe2-4dcd-a7ba-8232b40419cb",
-          "queryNumber": "9594143425",
-          "timestamp": "2026-10-21T16:33:33.459Z",
+          "id": "ed7928a2-7c91-41ee-b4e3-8525690323f0",
+          "queryNumber": "7352673751",
+          "timestamp": "2026-10-21T16:42:48.793Z",
           "source": "bot",
           "userId": 5316205408,
           "userName": "Mukesh Kumar",
           "resultSummary": {
-            "name": "Rajesh Kumar",
-            "truecallerName": "Rajeah Salaiya",
-            "fatherName": "Anirudh Prasad",
-            "mobile": "9594143425",
-            "altMobile": "Not found",
-            "circle": "BIHAR JIO",
-            "idNumber": "735492508360",
+            "name": "CHANDRA DEO SINGH",
+            "truecallerName": "C D Singh",
+            "fatherName": "MOTI LAL Lal SINGH",
+            "mobile": "7352673751",
+            "altMobile": "9507367063",
+            "circle": "VODA BHR&JHR",
+            "idNumber": "541086561190",
             "email": "Not found",
-            "address": "NA, Salaiya SALAIA BARWAN, school, HAZARIBAGH, Bagodar, KODERMA, Jharkhand, 825323",
-            "totalRecords": 1
-          }
-        },
-        {
-          "id": "88fb29fc-4ea4-421f-8ea9-34d2335c1a2f",
-          "queryNumber": "9304173260",
-          "timestamp": "2026-10-21T16:25:34.279Z",
-          "source": "bot",
-          "userId": 5316205408,
-          "userName": "Mukesh Kumar",
-          "resultSummary": {
-            "name": "Ritesh Shah",
-            "truecallerName": "Ritesh Shah",
-            "fatherName": "Rama Shanker Shah",
-            "mobile": "9304173260",
-            "altMobile": "8789040461",
-            "circle": "JIO BHR&JHR",
-            "idNumber": "Not found",
-            "email": "Not found",
-            "address": "S/O Rama Shanker Shah, 34/A MANGAL BAZAR BANSI LAL CHOWK NEAR HAZARIBAG MOTER TRANING SCHOOL, PO- HAZARIBAG PS- SADAR HAZARIBAG, Hazaribag Hazaribagh, Jharkhand, 825301",
+            "address": "S/O Moti Lal Singh, S/O Moti Lal Singh, Matwari, Hazaribagh Barkagaon Ghandhi Maidan East, HAZARIBAG-HAZARIBAGH, JH, 825301",
             "totalRecords": 3
           }
         },
         {
-          "id": "e9926ff1-c178-49ac-ab49-2fa166c88568",
-          "queryNumber": "9006912539",
-          "timestamp": "2026-10-21T16:22:50.385Z",
+          "id": "6c99e3ec-f78f-40be-b734-ca7fd7aaf79a",
+          "queryNumber": "8809822132",
+          "timestamp": "2026-10-21T16:42:22.593Z",
           "source": "bot",
           "userId": 5316205408,
           "userName": "Mukesh Kumar",
           "resultSummary": {
-            "name": "Nourin Parween",
-            "truecallerName": "Khemna",
-            "fatherName": "Mohammad Parwej Khan",
-            "mobile": "9006912539",
-            "altMobile": "Not found",
+            "name": "Anjali Kumari",
+            "truecallerName": "AAE869",
+            "fatherName": "Chandra Deo Singh",
+            "mobile": "8809822132",
+            "altMobile": "7352673751",
             "circle": "AIRTEL BHR&JHR",
-            "idNumber": "222237634451",
+            "idNumber": "268739722618",
             "email": "Not found",
-            "address": "MILLAT COLONY, Pathal Kudwa, PATHAL KUDWA Church Road, Ranchi, Ranchi, Jharkhand, 834001",
-            "totalRecords": 2
-          }
-        },
-        {
-          "id": "1b4f53bc-f2ac-4356-a7a7-a2301c650b7f",
-          "queryNumber": "8652651450",
-          "timestamp": "2026-10-21T16:22:21.891Z",
-          "source": "bot",
-          "userId": 5316205408,
-          "userName": "Mukesh Kumar",
-          "resultSummary": {
-            "name": "Kda Plstr Aniruddh",
-            "truecallerName": "Kda Plstr Aniruddh",
-            "fatherName": "Not found",
-            "mobile": "8652651450",
-            "altMobile": "Not found",
-            "circle": "India",
-            "idNumber": "Not found",
-            "email": "Not found",
-            "address": "Not found",
-            "totalRecords": 1
-          }
-        },
-        {
-          "id": "5bcce63b-a037-4653-8871-caec632bb8da",
-          "queryNumber": "7503045011",
-          "timestamp": "2026-10-21T16:20:21.339Z",
-          "source": "bot",
-          "userId": 5316205408,
-          "userName": "Mukesh Kumar",
-          "resultSummary": {
-            "name": "MR. SHIV PUJAN PRASAD",
-            "truecallerName": "Shiv Ias",
-            "fatherName": "Krishna",
-            "mobile": "7503045011",
-            "altMobile": "8929381185",
-            "circle": "Delhi Voda",
-            "idNumber": "399934622429",
-            "email": "Not found",
-            "address": "C/O , A-223 Nehru Bihar Timarpur , A-223 Nehru Vihar , Nehru ViharNORTH DELHI , DELHI , NORTH DELHI , Delhi , 110054",
-            "totalRecords": 5
-          }
-        },
-        {
-          "id": "a4dd729a-911f-481f-b716-165e46ca3ce7",
-          "queryNumber": "8271040235",
-          "timestamp": "2026-10-21T16:18:07.001Z",
-          "source": "bot",
-          "userId": 5316205408,
-          "userName": "Mukesh Kumar",
-          "resultSummary": {
-            "name": "Mukesh Kumar",
-            "truecallerName": "Mukesh Bharti",
-            "fatherName": "Anirudh Prasad",
-            "mobile": "8271040235",
-            "altMobile": "Not found",
-            "circle": "AIRTEL BHR&JHR",
-            "idNumber": "Not found",
-            "email": "Not found",
-            "address": "Anirudh Prasad, Gandhi Maidan East, Matwari, Hazaribag, Hazaribagh, Jharkhand, 825301",
-            "totalRecords": 6
-          }
-        },
-        {
-          "id": "3cf90bbc-f691-43bd-9b8a-b9758da0b8e5",
-          "queryNumber": "8084191742",
-          "timestamp": "2026-10-21T16:17:38.399Z",
-          "source": "bot",
-          "userId": 5316205408,
-          "userName": "Mukesh Kumar",
-          "resultSummary": {
-            "name": "Md Rabbani",
-            "truecallerName": "MD Rabbani",
-            "fatherName": "Ismail  Miyan",
-            "mobile": "8084191742",
-            "altMobile": "Not found",
-            "circle": "AIRTEL BHR&JHR",
-            "idNumber": "703726404384",
-            "email": "Not found",
-            "address": "54, Dadi Kala, Barkagaon Chepa Kalan, Hazaribagh Chepakala Barkagaon, Jharkhand, 825311",
-            "totalRecords": 1
-          }
-        },
-        {
-          "id": "8fb0c992-ffb8-480f-9e25-6620217e419e",
-          "queryNumber": "9310787990",
-          "timestamp": "2026-10-21T14:05:17.970Z",
-          "source": "bot",
-          "userId": 5316205408,
-          "userName": "Mukesh Kumar",
-          "resultSummary": {
-            "name": "Vikas Kumar",
-            "truecallerName": "Bhuto Belargadda",
-            "fatherName": "Bhola Prasad Mehta",
-            "mobile": "9310787990",
-            "altMobile": "7301119611",
-            "circle": "JIO DELHI",
-            "idNumber": "Not found",
-            "email": "Not found",
-            "address": "963 sector 21, Dundahera, Gurgaon Gurgaon, Haryana, 122016",
-            "totalRecords": 1
-          }
-        },
-        {
-          "id": "e1af320a-a505-41bb-ac92-0f3a1b74279a",
-          "queryNumber": "9508930360",
-          "timestamp": "2026-10-21T14:00:27.034Z",
-          "source": "bot",
-          "userId": 5316205408,
-          "userName": "Mukesh Kumar",
-          "resultSummary": {
-            "name": "Bineet Pushkar",
-            "truecallerName": "Anirudh Kr Singha 1",
-            "fatherName": "Birendra Kumar Sinha",
-            "mobile": "9508930360",
-            "altMobile": "Not found",
-            "circle": "BIHAR JIO",
-            "idNumber": "715760680986",
-            "email": "Not found",
-            "address": "S/O Birendra Kumar Sinha, 93, BANGALI COLONY, SARDAR CHOWK, po- hazaribag ps- sadar hazaribag, Hazaribag, Hazaribagh, Jharkhand, 825301",
-            "totalRecords": 2
-          }
-        },
-        {
-          "id": "375ba38e-e2a1-47e8-b149-25f78f41f073",
-          "queryNumber": "9110099737",
-          "timestamp": "2026-10-21T12:03:35.917Z",
-          "source": "bot",
-          "userId": 5316205408,
-          "userName": "Mukesh Kumar",
-          "resultSummary": {
-            "name": "Sanjiv Ranjan",
-            "truecallerName": "okk",
-            "fatherName": "late Bakhora thakur kishore",
-            "mobile": "9110099737",
-            "altMobile": "9324426734",
-            "circle": "JIO BHR&JHR",
-            "idNumber": "871977333236",
-            "email": "Not found",
-            "address": "h n 152 s/o late bakhora thakur kishore, wardno 01 nawada basti, jhumaritelaiya koderma jhumri telaiya koderma, Jhumri Telaiya, KODERMA, Jharkhand, 825409",
-            "totalRecords": 1
-          }
-        },
-        {
-          "id": "db999742-c35b-4646-adb4-8d02f602bfe3",
-          "queryNumber": "9324426734",
-          "timestamp": "2026-10-21T12:03:13.875Z",
-          "source": "bot",
-          "userId": 5316205408,
-          "userName": "Mukesh Kumar",
-          "resultSummary": {
-            "name": "Sanjiv Ranjan",
-            "truecallerName": "Sagar",
-            "fatherName": "late Bakhora thakur kishore",
-            "mobile": "9110099737",
-            "altMobile": "9324426734",
-            "circle": "JIO BHR&JHR",
-            "idNumber": "871977333236",
-            "email": "Not found",
-            "address": "h n 152 s/o late bakhora thakur kishore, wardno 01 nawada basti, jhumaritelaiya koderma jhumri telaiya koderma, Jhumri Telaiya, KODERMA, Jharkhand, 825409",
-            "totalRecords": 1
-          }
-        },
-        {
-          "id": "924ab57c-9ba7-41c9-a5c1-59c5b8396862",
-          "queryNumber": "9523487200",
-          "timestamp": "2026-10-21T12:02:29.917Z",
-          "source": "bot",
-          "userId": 5316205408,
-          "userName": "Mukesh Kumar",
-          "resultSummary": {
-            "name": "Nisha rani",
-            "truecallerName": "Mukesh Neha",
-            "fatherName": "Ajay kumar",
-            "mobile": "9523487200",
-            "altMobile": "Not found",
-            "circle": "BIHAR JIO",
-            "idNumber": "508558412862",
-            "email": "Not found",
-            "address": "mangartilaiya, NA, thana pirtand post atki mangartilaia, Giridih Giridh, NA, Jharkhand, 825108",
-            "totalRecords": 1
-          }
-        },
-        {
-          "id": "6c2e49ed-a9fa-4790-8bdf-042d0d816114",
-          "queryNumber": "7667233954",
-          "timestamp": "2026-10-21T12:01:39.410Z",
-          "source": "bot",
-          "userId": 5316205408,
-          "userName": "Mukesh Kumar",
-          "resultSummary": {
-            "name": "Anshu Kumar Pandey",
-            "truecallerName": "🏥 Shivansh Clinic 🏥",
-            "fatherName": "Rajesh Kumar Pandey",
-            "mobile": "7667233954",
-            "altMobile": "8228831512",
-            "circle": "JIO BHR&JHR",
-            "idNumber": "221084754855",
-            "email": "Not found",
-            "address": "S/O Rajesh Kumar Pandey, 212, kallu chowk road1 Hazaribagh, kallu chowk noora, Hazaribag Barkagaon, Hazaribagh, Jharkhand, 825301",
-            "totalRecords": 2
-          }
-        },
-        {
-          "id": "fc7c1db8-7dcc-445e-ba6f-54ebd2936c79",
-          "queryNumber": "7070725113",
-          "timestamp": "2026-10-21T09:57:35.609Z",
-          "source": "bot",
-          "userId": 5316205408,
-          "userName": "Mukesh Kumar",
-          "resultSummary": {
-            "name": "Sandeep Kumar",
-            "truecallerName": "Dr. Bhabhi Ji",
-            "fatherName": "Mahesh  Pasvan",
-            "mobile": "7070725113",
-            "altMobile": "Not found",
-            "circle": "AIRTEL BHR&JHR",
-            "idNumber": "xxxxxxxx8211",
-            "email": "Not found",
-            "address": "S/O Mahesh Pasvan, Bhela Simri gram bela simari, Khagaria, Bihar, 851204",
+            "address": "D/O Chandra Deo Singh, Ghandhi Maidan East, Matwari Hazaribag, Hazaribagh, Jharkhand, 825301",
             "totalRecords": 1
           }
         }
       ],
-      "lastBotMessageId": 8029,
+      "lastBotMessageId": 8039,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21",
       "lastPlanName": "7 DAYS PASS"
@@ -2616,7 +2277,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T16:32:40.720Z",
-      "lastActiveAt": "2026-10-21T16:34:58.224Z",
+      "lastActiveAt": "2026-10-21T16:43:52.569Z",
       "isBanned": false,
       "history": [
         {
@@ -2639,7 +2300,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8019,
+      "lastBotMessageId": 8037,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21"
     }
@@ -3603,6 +3264,86 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "1f66601e-a647-4474-8380-6ee2a0a7c79c",
+      "queryNumber": "7091920373",
+      "timestamp": "2026-10-21T16:44:32.688Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Dhrub Kumar Singh",
+        "truecallerName": "D k Singh",
+        "fatherName": "Sudarshan  Singh",
+        "mobile": "7091920373",
+        "altMobile": "9386309071",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "373050925314",
+        "email": "Not found",
+        "address": "S/O Sudarshan Singh, 860, new area pahali gali, post-hazaribag ps-sadar hazaribag Hazaribag, near-shiv mandir, Hazaribagh, Jharkhand, 825301",
+        "totalRecords": 3
+      }
+    },
+    {
+      "id": "ed7928a2-7c91-41ee-b4e3-8525690323f0",
+      "queryNumber": "7352673751",
+      "timestamp": "2026-10-21T16:42:48.793Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "CHANDRA DEO SINGH",
+        "truecallerName": "C D Singh",
+        "fatherName": "MOTI LAL Lal SINGH",
+        "mobile": "7352673751",
+        "altMobile": "9507367063",
+        "circle": "VODA BHR&JHR",
+        "idNumber": "541086561190",
+        "email": "Not found",
+        "address": "S/O Moti Lal Singh, S/O Moti Lal Singh, Matwari, Hazaribagh Barkagaon Ghandhi Maidan East, HAZARIBAG-HAZARIBAGH, JH, 825301",
+        "totalRecords": 3
+      }
+    },
+    {
+      "id": "6c99e3ec-f78f-40be-b734-ca7fd7aaf79a",
+      "queryNumber": "8809822132",
+      "timestamp": "2026-10-21T16:42:22.593Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Anjali Kumari",
+        "truecallerName": "AAE869",
+        "fatherName": "Chandra Deo Singh",
+        "mobile": "8809822132",
+        "altMobile": "7352673751",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "268739722618",
+        "email": "Not found",
+        "address": "D/O Chandra Deo Singh, Ghandhi Maidan East, Matwari Hazaribag, Hazaribagh, Jharkhand, 825301",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "4c2a8522-a8fb-4daf-8ca9-4b80848e69d4",
+      "queryNumber": "8809822132",
+      "timestamp": "2026-10-21T16:41:14.616Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Anjali Kumari",
+        "truecallerName": "AAE869",
+        "fatherName": "Chandra Deo Singh",
+        "mobile": "8809822132",
+        "altMobile": "7352673751",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "268739722618",
+        "email": "Not found",
+        "address": "D/O Chandra Deo Singh, Ghandhi Maidan East, Matwari Hazaribag, Hazaribagh, Jharkhand, 825301",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "1af16f46-2056-4aca-8ffa-df831b04b459",
       "queryNumber": "7634983477",
@@ -5513,88 +5254,49 @@
         "address": "s/o beni birua, po kathbhari ps manjhri, po kathbhari ps manjhari, khajuria, pashchimi singhbhum, Jharkhand, 833201",
         "totalRecords": 2
       }
-    },
-    {
-      "id": "cf09cb0f-10af-4ff1-9cd7-6398dc5bbbb5",
-      "queryNumber": "8676972045",
-      "timestamp": "2026-10-20T10:04:36.144Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "Ranju Devi",
-        "truecallerName": "Asha Devi 16",
-        "fatherName": "Pankaj Kumar",
-        "mobile": "8676972045",
-        "altMobile": "9708250034",
-        "circle": "BIHAR JIO",
-        "idNumber": "794299567181",
-        "email": "Not found",
-        "address": "rajapakar Vaishali Bihar block rajapakar Thana rajapakar pos, west tola ward no 3 rajapakar Vaishali Bihar, Rajya pakshi Mandir, rajapakar Vaishali Bihar block rajapakar Thana rajapakar, Vaishali, Vaisha",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "1a4f37dd-04ba-4621-a24f-e8de7ef58b52",
-      "queryNumber": "7061224270",
-      "timestamp": "2026-10-20T10:04:24.482Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "Preeti Singh",
-        "truecallerName": "Tultul",
-        "fatherName": "Vinod Kumar Singh",
-        "mobile": "7061224270",
-        "altMobile": "9525145642",
-        "circle": "BIHAR JIO",
-        "idNumber": "924681066398",
-        "email": "Not found",
-        "address": "D/O Vinod Kumar Singh, KUNDAL Kundal, NA, ward no -09, Kundal Singhia Samastipur, NA, Bihar, 848206",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "f71a07e0-aa9e-44e5-a987-549f8f05b13e",
-      "queryNumber": "7766554433",
-      "timestamp": "2026-10-20T08:41:25.928Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "SAMSHAID ANSARI",
-        "fatherName": "S/O: FARMAN ANSARI",
-        "mobile": "8544133997",
-        "altMobile": "7766554433",
-        "circle": "BIHAR BSNL",
-        "idNumber": "XXXXXXXX4164",
-        "email": "Not found",
-        "address": "ward no -11, Koili, koily, Sitamarhi, Sitamarhi, BIHAR, 843302",
-        "totalRecords": 8
-      }
-    },
-    {
-      "id": "89cb400a-d216-4e83-8929-2f58e4dd56eb",
-      "queryNumber": "9876543210",
-      "timestamp": "2026-10-20T08:40:56.797Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "Dev Jyoti Roy",
-        "truecallerName": "Sohel Khan",
-        "fatherName": "Salil Kumar Roy",
-        "mobile": "9876543210",
-        "altMobile": "Not found",
-        "circle": "AIRTEL DELHI",
-        "idNumber": "Not found",
-        "email": "devjroy@gmail com",
-        "address": "Tower 9 Flat 1506, Lotus Boulevard, NoidaSector 100, NoidaGautam Buddha Nagar, Uttar Pradesh, 201301",
-        "totalRecords": 99
-      }
     }
   ],
   "logs": [
+    {
+      "id": "fe2137ff-8493-4fda-84e9-4d6933f79039",
+      "timestamp": "2026-10-21T16:44:32.688Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 7091920373 (Dhrub Kumar Singh)"
+    },
+    {
+      "id": "db16fc65-2c78-4fde-a6e5-58a68630c4ea",
+      "timestamp": "2026-10-21T16:43:52.897Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8302423432,
+      "userName": "7896321450",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "452c9d2a-1a97-4212-8a22-ef7ea6e74458",
+      "timestamp": "2026-10-21T16:42:48.793Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 7352673751 (CHANDRA DEO SINGH)"
+    },
+    {
+      "id": "c68f20f7-5572-47c0-8e32-0b6426fa5e6f",
+      "timestamp": "2026-10-21T16:42:22.593Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 8809822132 (Anjali Kumari)"
+    },
+    {
+      "id": "358e2bc6-98df-43e8-932a-007a0bab0ec7",
+      "timestamp": "2026-10-21T16:41:14.616Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 8809822132 (Anjali Kumari)"
+    },
     {
       "id": "32471b02-ddc3-4c91-b251-a5aaa54c503a",
       "timestamp": "2026-10-21T16:40:14.415Z",
@@ -6754,49 +6456,9 @@
       "userId": 7995520431,
       "userName": "Vashu",
       "summary": "Created Auto-QR Order HEXXKBG0431 (₹99 for 365 Days VIP)"
-    },
-    {
-      "id": "53ab183f-ff34-4467-8a3d-d6718d8bef57",
-      "timestamp": "2026-10-20T11:35:50.603Z",
-      "type": "LOOKUP",
-      "userId": 7995520431,
-      "userName": "Vashu",
-      "summary": "Looked up 8252464080 (Not found)"
-    },
-    {
-      "id": "b984f698-6a20-4f8e-98e4-61c362eef3ca",
-      "timestamp": "2026-10-20T11:29:11.745Z",
-      "type": "LOOKUP",
-      "userId": 8929566190,
-      "userName": "Rohan",
-      "summary": "Looked up 9691404892 (Firoj Khan)"
-    },
-    {
-      "id": "70379140-a171-4319-ad14-955680d30c04",
-      "timestamp": "2026-10-20T11:23:13.422Z",
-      "type": "LOOKUP",
-      "userId": 8929566190,
-      "userName": "Rohan",
-      "summary": "Looked up 8574131059 (Rajendra Yadav)"
-    },
-    {
-      "id": "0b2e11fd-4c35-4df2-aa33-bdb33f734f60",
-      "timestamp": "2026-10-20T11:23:00.843Z",
-      "type": "BOT_MESSAGE",
-      "userId": 8929566190,
-      "userName": "Rohan",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "b135f36f-3f2c-4fe0-bcee-19867942bc36",
-      "timestamp": "2026-10-20T10:57:29.463Z",
-      "type": "LOOKUP",
-      "userId": 6352747905,
-      "userName": ".",
-      "summary": "Looked up 8139426154 (Not found)"
     }
   ],
-  "lastTelegramUpdateId": 168809312,
+  "lastTelegramUpdateId": 168809321,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
