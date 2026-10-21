@@ -2060,16 +2060,36 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T09:57:14.832Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 14,
-      "totalLookups": 14,
+      "dailyLookupsUsed": 15,
+      "totalLookups": 15,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-21T16:22:49.018Z",
+      "lastActiveAt": "2026-10-21T16:25:32.525Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "88fb29fc-4ea4-421f-8ea9-34d2335c1a2f",
+          "queryNumber": "9304173260",
+          "timestamp": "2026-10-21T16:25:34.279Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Ritesh Shah",
+            "truecallerName": "Ritesh Shah",
+            "fatherName": "Rama Shanker Shah",
+            "mobile": "9304173260",
+            "altMobile": "8789040461",
+            "circle": "JIO BHR&JHR",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "S/O Rama Shanker Shah, 34/A MANGAL BAZAR BANSI LAL CHOWK NEAR HAZARIBAG MOTER TRANING SCHOOL, PO- HAZARIBAG PS- SADAR HAZARIBAG, Hazaribag Hazaribagh, Jharkhand, 825301",
+            "totalRecords": 3
+          }
+        },
         {
           "id": "e9926ff1-c178-49ac-ab49-2fa166c88568",
           "queryNumber": "9006912539",
@@ -2331,7 +2351,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8005,
+      "lastBotMessageId": 8007,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21",
       "lastPlanName": "7 DAYS PASS"
@@ -2417,6 +2437,49 @@
       "isBanned": false,
       "history": [],
       "lastBotMessageId": 7991,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-21"
+    },
+    "7954471110": {
+      "id": 7954471110,
+      "firstName": "Rakib",
+      "username": "Rakib_khan_0035",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX471110",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-21T16:26:42.849Z",
+      "lastActiveAt": "2026-10-21T16:27:18.267Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "fcb609b7-a449-4be6-b83e-7801e2519fb6",
+          "queryNumber": "9078527815",
+          "timestamp": "2026-10-21T16:27:20.048Z",
+          "source": "bot",
+          "userId": 7954471110,
+          "userName": "Rakib",
+          "resultSummary": {
+            "name": "IX Muna Mandika",
+            "truecallerName": "IX Muna Mandika",
+            "fatherName": "Not found",
+            "mobile": "9078527815",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastBotMessageId": 8011,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21"
     }
@@ -3380,6 +3443,46 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "fcb609b7-a449-4be6-b83e-7801e2519fb6",
+      "queryNumber": "9078527815",
+      "timestamp": "2026-10-21T16:27:20.048Z",
+      "source": "bot",
+      "userId": 7954471110,
+      "userName": "Rakib",
+      "resultSummary": {
+        "name": "IX Muna Mandika",
+        "truecallerName": "IX Muna Mandika",
+        "fatherName": "Not found",
+        "mobile": "9078527815",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "88fb29fc-4ea4-421f-8ea9-34d2335c1a2f",
+      "queryNumber": "9304173260",
+      "timestamp": "2026-10-21T16:25:34.279Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Ritesh Shah",
+        "truecallerName": "Ritesh Shah",
+        "fatherName": "Rama Shanker Shah",
+        "mobile": "9304173260",
+        "altMobile": "8789040461",
+        "circle": "JIO BHR&JHR",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "S/O Rama Shanker Shah, 34/A MANGAL BAZAR BANSI LAL CHOWK NEAR HAZARIBAG MOTER TRANING SCHOOL, PO- HAZARIBAG PS- SADAR HAZARIBAG, Hazaribag Hazaribagh, Jharkhand, 825301",
+        "totalRecords": 3
+      }
+    },
     {
       "id": "e9926ff1-c178-49ac-ab49-2fa166c88568",
       "queryNumber": "9006912539",
@@ -5329,49 +5432,33 @@
         "address": "Not found",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "ce33bda2-db3e-4b4d-9fce-9b2ff341ac08",
-      "queryNumber": "9241560780",
-      "timestamp": "2026-10-19T12:28:25.775Z",
-      "source": "bot",
-      "userId": 7122271216,
-      "userName": "Vikash",
-      "resultSummary": {
-        "name": "karan",
-        "truecallerName": "karan",
-        "fatherName": "Not found",
-        "mobile": "9241560780",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "33644948-ba88-4f5d-b779-9158bbf05f9b",
-      "queryNumber": "9241560780",
-      "timestamp": "2026-10-19T12:28:12.765Z",
-      "source": "bot",
-      "userId": 7122271216,
-      "userName": "Vikash",
-      "resultSummary": {
-        "name": "karan",
-        "truecallerName": "karan",
-        "fatherName": "Not found",
-        "mobile": "9241560780",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "24b43d66-d5d8-42ef-9b7e-d5aa9cb1e99a",
+      "timestamp": "2026-10-21T16:27:20.048Z",
+      "type": "LOOKUP",
+      "userId": 7954471110,
+      "userName": "Rakib",
+      "summary": "Looked up 9078527815 (IX Muna Mandika)"
+    },
+    {
+      "id": "a22047fd-10f9-4c14-8ca8-1003fff68fb9",
+      "timestamp": "2026-10-21T16:26:47.357Z",
+      "type": "BOT_MESSAGE",
+      "userId": 7954471110,
+      "userName": "Rakib",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "dbbe89cf-3b41-4261-87d9-169783711ecb",
+      "timestamp": "2026-10-21T16:25:34.279Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 9304173260 (Ritesh Shah)"
+    },
     {
       "id": "9f164ea9-52e0-4266-8350-f0d92b43782a",
       "timestamp": "2026-10-21T16:22:50.385Z",
@@ -6547,33 +6634,9 @@
       "userId": 7995520431,
       "userName": "Vashu",
       "summary": "Created Auto-QR Order HEXF6DQ0431 (₹1 for 1 Days VIP)"
-    },
-    {
-      "id": "0fadc24f-e995-4628-ad5d-70783d7c6af1",
-      "timestamp": "2026-10-20T10:25:38.937Z",
-      "type": "BOT_MESSAGE",
-      "userId": 7995520431,
-      "userName": "Vashu",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "e824c806-5fe3-4c94-8e46-330dcfc3938e",
-      "timestamp": "2026-10-20T10:23:00.721Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "44f47079-e59f-4d4d-b2cd-3711da8a4d4e",
-      "timestamp": "2026-10-20T10:20:42.811Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809293,
+  "lastTelegramUpdateId": 168809298,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
