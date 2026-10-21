@@ -283,16 +283,56 @@
       "premiumUntil": "2026-10-28T10:13:45.088Z",
       "lastPlanName": "7 Days Admin VIP",
       "totalSpent": 4,
-      "dailyLookupsUsed": 5,
-      "totalLookups": 32,
+      "dailyLookupsUsed": 8,
+      "totalLookups": 35,
       "referralCode": "HEX667289",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-21T10:16:45.027Z",
+      "lastActiveAt": "2026-10-21T10:31:50.123Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "80cb1935-8130-4684-9b68-61902329bb17",
+          "queryNumber": "9934848716",
+          "timestamp": "2026-10-21T10:31:51.941Z",
+          "source": "bot",
+          "userId": 6672896116,
+          "userName": "UHTKARSH",
+          "resultSummary": {
+            "name": "Satya Prakash Singh",
+            "truecallerName": "KCI",
+            "fatherName": "Ram Naresh Singh",
+            "mobile": "9934848716",
+            "altMobile": "Not found",
+            "circle": "AIRTEL BHR&JHR",
+            "idNumber": "377454134652",
+            "email": "Not found",
+            "address": "S/O Ram Naresh Singh, Ward 13, Raja Pakar, Vaishali, Bihar, 844124",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "18b58603-d637-4913-ab97-1245bd08554d",
+          "queryNumber": "8969824959",
+          "timestamp": "2026-10-21T10:30:55.667Z",
+          "source": "bot",
+          "userId": 6672896116,
+          "userName": "UHTKARSH",
+          "resultSummary": {
+            "name": "Dilip Mishra",
+            "truecallerName": "Dilip Mishra",
+            "fatherName": "Not found",
+            "mobile": "8969824959",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "05b662ec-32d9-48ac-bb86-1940b7bbf52b",
           "queryNumber": "7654129275",
@@ -511,7 +551,7 @@
           }
         }
       ],
-      "lastBotMessageId": 7911,
+      "lastBotMessageId": 7926,
       "lastBotMessageHasPhoto": false,
       "isAdminUnlocked": true,
       "lastLookupDate": "2026-10-21",
@@ -2088,6 +2128,48 @@
       "history": [],
       "lastPlanName": "7 Days Admin VIP",
       "lastLookupDate": "2026-10-21"
+    },
+    "7228673447": {
+      "id": 7228673447,
+      "firstName": "Sameer",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX673447",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-21T10:33:48.708Z",
+      "lastActiveAt": "2026-10-21T10:34:10.088Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "a3dcfa5d-124d-4a56-89e2-3ba9b004172b",
+          "queryNumber": "7722865930",
+          "timestamp": "2026-10-21T10:34:10.569Z",
+          "source": "bot",
+          "userId": 7228673447,
+          "userName": "Sameer",
+          "resultSummary": {
+            "name": "Aman Singh",
+            "truecallerName": "aman shekhpur",
+            "fatherName": "S/O Ataro",
+            "mobile": "7722865930",
+            "altMobile": "Not found",
+            "circle": "VI MP",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "S/O Ataro, ., . gram shekhupur post gharsondi, tahsil chinor Gwalior, gram shekhupur post gharsondi, BHIND, Gwalior, Madhya Pradesh, 475110",
+            "totalRecords": 2
+          }
+        }
+      ],
+      "lastBotMessageId": 7930,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-21"
     }
   },
   "orders": {
@@ -3025,6 +3107,86 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "a3dcfa5d-124d-4a56-89e2-3ba9b004172b",
+      "queryNumber": "7722865930",
+      "timestamp": "2026-10-21T10:34:10.569Z",
+      "source": "bot",
+      "userId": 7228673447,
+      "userName": "Sameer",
+      "resultSummary": {
+        "name": "Aman Singh",
+        "truecallerName": "aman shekhpur",
+        "fatherName": "S/O Ataro",
+        "mobile": "7722865930",
+        "altMobile": "Not found",
+        "circle": "VI MP",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "S/O Ataro, ., . gram shekhupur post gharsondi, tahsil chinor Gwalior, gram shekhupur post gharsondi, BHIND, Gwalior, Madhya Pradesh, 475110",
+        "totalRecords": 2
+      }
+    },
+    {
+      "id": "80cb1935-8130-4684-9b68-61902329bb17",
+      "queryNumber": "9934848716",
+      "timestamp": "2026-10-21T10:31:51.941Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "Satya Prakash Singh",
+        "truecallerName": "KCI",
+        "fatherName": "Ram Naresh Singh",
+        "mobile": "9934848716",
+        "altMobile": "Not found",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "377454134652",
+        "email": "Not found",
+        "address": "S/O Ram Naresh Singh, Ward 13, Raja Pakar, Vaishali, Bihar, 844124",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "18b58603-d637-4913-ab97-1245bd08554d",
+      "queryNumber": "8969824959",
+      "timestamp": "2026-10-21T10:30:55.667Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "Dilip Mishra",
+        "truecallerName": "Dilip Mishra",
+        "fatherName": "Not found",
+        "mobile": "8969824959",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "27b30a3f-38aa-4e27-8a53-65eb92ee8afc",
+      "queryNumber": "8969824959",
+      "timestamp": "2026-10-21T10:30:44.821Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "Dilip Mishra",
+        "truecallerName": "Dilip Mishra",
+        "fatherName": "Not found",
+        "mobile": "8969824959",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "05b662ec-32d9-48ac-bb86-1940b7bbf52b",
       "queryNumber": "7654129275",
@@ -4577,6 +4739,54 @@
   ],
   "logs": [
     {
+      "id": "d3f18dd8-b3f3-44d9-b44b-ea42cf129288",
+      "timestamp": "2026-10-21T10:34:10.569Z",
+      "type": "LOOKUP",
+      "userId": 7228673447,
+      "userName": "Sameer",
+      "summary": "Looked up 7722865930 (Aman Singh)"
+    },
+    {
+      "id": "903fdf72-296e-40d2-abf1-95c1a1746a52",
+      "timestamp": "2026-10-21T10:33:49.155Z",
+      "type": "BOT_MESSAGE",
+      "userId": 7228673447,
+      "userName": "Sameer",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "bbaf19a2-9a52-42d7-b5e7-7f2fe6b77f55",
+      "timestamp": "2026-10-21T10:31:51.941Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 9934848716 (Satya Prakash Singh)"
+    },
+    {
+      "id": "d6de90a3-258e-4078-b681-ca2bd018ffab",
+      "timestamp": "2026-10-21T10:30:55.667Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 8969824959 (Dilip Mishra)"
+    },
+    {
+      "id": "318a3347-946e-4919-8e3e-f00abbd366fd",
+      "timestamp": "2026-10-21T10:30:46.032Z",
+      "type": "BOT_MESSAGE",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "2c930617-970c-473c-b1af-8c952b8bb8d8",
+      "timestamp": "2026-10-21T10:30:44.821Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 8969824959 (Dilip Mishra)"
+    },
+    {
       "id": "e77b0823-8282-4bda-8c35-f7edacc2c4a9",
       "timestamp": "2026-10-21T10:16:46.691Z",
       "type": "LOOKUP",
@@ -5727,57 +5937,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "d4a9023a-ce68-4b5f-b709-70a8e4c86bd5",
-      "timestamp": "2026-10-19T12:40:47.143Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 8252464080 (Not found)"
-    },
-    {
-      "id": "8d99c877-961a-4ce6-aefe-df9f8ed1e930",
-      "timestamp": "2026-10-19T12:40:40.916Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 8676972045 (Ranju Devi)"
-    },
-    {
-      "id": "3088896e-799f-4a1f-96a5-c90709ea477a",
-      "timestamp": "2026-10-19T12:40:33.836Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "53c08308-d2d0-458c-979e-cc1ce5bbf863",
-      "timestamp": "2026-10-19T12:40:23.366Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 9876543210 (Dev Jyoti Roy)"
-    },
-    {
-      "id": "dc2fb740-8da2-48e0-8af2-0262587b9da3",
-      "timestamp": "2026-10-19T12:37:48.592Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 8252464080 (Not found)"
-    },
-    {
-      "id": "1b3be65f-4ff2-43d5-842f-14c49d2f9a50",
-      "timestamp": "2026-10-19T12:37:37.440Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809215,
+  "lastTelegramUpdateId": 168809227,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
