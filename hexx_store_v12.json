@@ -1370,7 +1370,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-20T16:25:36.008Z",
-      "lastActiveAt": "2026-10-21T03:30:34.254Z",
+      "lastActiveAt": "2026-10-21T06:00:10.318Z",
       "isBanned": false,
       "history": [
         {
@@ -1434,7 +1434,7 @@
           }
         }
       ],
-      "lastBotMessageId": 7821,
+      "lastBotMessageId": 7850,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21",
       "dailyLimit": 1
@@ -1753,7 +1753,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T05:53:57.575Z",
-      "lastActiveAt": "2026-10-21T05:57:09.942Z",
+      "lastActiveAt": "2026-10-21T05:57:41.537Z",
       "isBanned": false,
       "history": [
         {
@@ -1777,7 +1777,7 @@
           }
         }
       ],
-      "lastBotMessageId": 7846,
+      "lastBotMessageId": 7848,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21"
     }
@@ -5241,7 +5241,7 @@
       "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809124,
+  "lastTelegramUpdateId": 168809129,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
