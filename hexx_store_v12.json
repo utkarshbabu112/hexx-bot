@@ -620,16 +620,36 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T02:51:11.808Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 14,
-      "totalLookups": 16,
+      "dailyLookupsUsed": 15,
+      "totalLookups": 17,
       "referralCode": "HEX490186",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-19T12:28:10.921Z",
-      "lastActiveAt": "2026-10-21T08:50:31.213Z",
+      "lastActiveAt": "2026-10-21T11:15:47.273Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "cdbbb1ab-1bb2-465b-a46d-8509d10e0877",
+          "queryNumber": "8690323482",
+          "timestamp": "2026-10-21T11:15:49.045Z",
+          "source": "bot",
+          "userId": 8877490186,
+          "userName": "Ghb",
+          "resultSummary": {
+            "name": "Vikram Laxman Vaishnav",
+            "truecallerName": "Vikram",
+            "fatherName": "Laxman",
+            "mobile": "8690323482",
+            "altMobile": "7043576006",
+            "circle": "JIO GUJARAT",
+            "idNumber": "429534872815",
+            "email": "Not found",
+            "address": "a 65, panchvati society, near akshar township, paravt patiya, Chorasi, Surat, Gujarat, 395010",
+            "totalRecords": 4
+          }
+        },
         {
           "id": "2e30ea84-3a8d-42e6-aa6b-0f2b58c2c70f",
           "queryNumber": "7557775700",
@@ -691,7 +711,7 @@
         }
       ],
       "lastLookupDate": "2026-10-21",
-      "lastBotMessageId": 7864,
+      "lastBotMessageId": 7954,
       "lastBotMessageHasPhoto": false,
       "dailyLimit": 1,
       "lastPlanName": "7 DAYS PASS"
@@ -3031,6 +3051,26 @@
   },
   "globalHistory": [
     {
+      "id": "cdbbb1ab-1bb2-465b-a46d-8509d10e0877",
+      "queryNumber": "8690323482",
+      "timestamp": "2026-10-21T11:15:49.045Z",
+      "source": "bot",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "resultSummary": {
+        "name": "Vikram Laxman Vaishnav",
+        "truecallerName": "Vikram",
+        "fatherName": "Laxman",
+        "mobile": "8690323482",
+        "altMobile": "7043576006",
+        "circle": "JIO GUJARAT",
+        "idNumber": "429534872815",
+        "email": "Not found",
+        "address": "a 65, panchvati society, near akshar township, paravt patiya, Chorasi, Surat, Gujarat, 395010",
+        "totalRecords": 4
+      }
+    },
+    {
       "id": "9ce0469c-ae10-4973-a061-f16ad6883949",
       "queryNumber": "9661130399",
       "timestamp": "2026-10-21T10:51:54.455Z",
@@ -4842,6 +4882,14 @@
   ],
   "logs": [
     {
+      "id": "bd07bd51-6e8b-44f6-850a-4cba768bd56c",
+      "timestamp": "2026-10-21T11:15:49.045Z",
+      "type": "LOOKUP",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "summary": "Looked up 8690323482 (Vikram Laxman Vaishnav)"
+    },
+    {
       "id": "376cf0ff-bbaf-4a0d-bfc6-ebf788f807ce",
       "timestamp": "2026-10-21T10:51:54.455Z",
       "type": "LOOKUP",
@@ -6032,17 +6080,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "111202bb-ae98-4737-949b-f048d004af51",
-      "timestamp": "2026-10-20T08:24:56.316Z",
-      "type": "BOT_MESSAGE",
-      "userId": 8517814936,
-      "userName": "Anjali",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809245,
+  "lastTelegramUpdateId": 168809246,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
