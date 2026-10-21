@@ -1751,6 +1751,48 @@
       "lastBotMessageId": 7787,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21"
+    },
+    "6502481272": {
+      "id": 6502481272,
+      "firstName": "Gamer",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX481272",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-21T03:33:33.512Z",
+      "lastActiveAt": "2026-10-21T03:34:41.986Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "4d2949a0-5263-48ea-9336-3f7ce08f1c1f",
+          "queryNumber": "7722865930",
+          "timestamp": "2026-10-21T03:33:35.013Z",
+          "source": "bot",
+          "userId": 6502481272,
+          "userName": "Gamer",
+          "resultSummary": {
+            "name": "Aman Singh",
+            "truecallerName": "aman shekhpur",
+            "fatherName": "S/O Ataro",
+            "mobile": "7722865930",
+            "altMobile": "Not found",
+            "circle": "VI MP",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "S/O Ataro, ., . gram shekhupur post gharsondi, tahsil chinor Gwalior, gram shekhupur post gharsondi, BHIND, Gwalior, Madhya Pradesh, 475110",
+            "totalRecords": 2
+          }
+        }
+      ],
+      "lastLookupDate": "2026-10-21",
+      "lastBotMessageId": 7825,
+      "lastBotMessageHasPhoto": false
     }
   },
   "orders": {
@@ -2638,6 +2680,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "4d2949a0-5263-48ea-9336-3f7ce08f1c1f",
+      "queryNumber": "7722865930",
+      "timestamp": "2026-10-21T03:33:35.013Z",
+      "source": "bot",
+      "userId": 6502481272,
+      "userName": "Gamer",
+      "resultSummary": {
+        "name": "Aman Singh",
+        "truecallerName": "aman shekhpur",
+        "fatherName": "S/O Ataro",
+        "mobile": "7722865930",
+        "altMobile": "Not found",
+        "circle": "VI MP",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "S/O Ataro, ., . gram shekhupur post gharsondi, tahsil chinor Gwalior, gram shekhupur post gharsondi, BHIND, Gwalior, Madhya Pradesh, 475110",
+        "totalRecords": 2
+      }
+    },
     {
       "id": "c54593f0-f881-4d53-b8cf-af2574549aaf",
       "queryNumber": "6296927199",
@@ -3872,6 +3934,14 @@
   ],
   "logs": [
     {
+      "id": "5d55f50c-6e8f-4d0e-8218-002b33a55aa4",
+      "timestamp": "2026-10-21T03:33:35.013Z",
+      "type": "LOOKUP",
+      "userId": 6502481272,
+      "userName": "Gamer",
+      "summary": "Looked up 7722865930 (Aman Singh)"
+    },
+    {
       "id": "5189340b-0804-49e3-8aca-35a9fa3ad20a",
       "timestamp": "2026-10-21T03:30:12.788Z",
       "type": "PAYMENT",
@@ -5062,17 +5132,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "ecad93d0-3736-49cf-b613-bea36dc92e6b",
-      "timestamp": "2026-10-19T12:34:09.615Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809105,
+  "lastTelegramUpdateId": 168809109,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
