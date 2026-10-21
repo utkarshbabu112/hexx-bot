@@ -18,8 +18,8 @@
     "gmailAppPassword": "ztxkbsoywmnuhthm",
     "autoVerifyPayment": true,
     "pollIntervalSeconds": 4,
-    "defaultTrialCredits": 2,
-    "dailyLookupLimit": 2,
+    "defaultTrialCredits": 1,
+    "dailyLookupLimit": 1,
     "referralBonusCredits": 2,
     "referralsForFreePremiumDay": 3,
     "freePremiumDaysReward": 1,
@@ -229,27 +229,48 @@
       ],
       "lastBotMessageId": 7681,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-20"
+      "lastLookupDate": "2026-10-20",
+      "dailyLimit": 1
     },
     "6672896116": {
       "id": 6672896116,
       "firstName": "UHTKARSH",
       "username": "Uhtkarshh",
-      "credits": 15,
-      "isPremium": true,
-      "premiumUntil": "2026-10-22T12:32:32.051Z",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
       "lastPlanName": "1 Day Pass",
       "totalSpent": 4,
-      "dailyLookupsUsed": 8,
-      "totalLookups": 27,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 28,
       "referralCode": "HEX667289",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-21T01:26:52.566Z",
+      "lastActiveAt": "2026-10-21T01:28:46.236Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "9e40cad1-1934-408e-a712-974989f9cf1f",
+          "queryNumber": "9708398593",
+          "timestamp": "2026-10-21T01:28:15.431Z",
+          "source": "bot",
+          "userId": 6672896116,
+          "userName": "UHTKARSH",
+          "resultSummary": {
+            "name": "PRAMILA DEVI",
+            "truecallerName": "nisha rajapakar",
+            "fatherName": "JAYVIR KUMAR",
+            "mobile": "9708398593",
+            "altMobile": "Not found",
+            "circle": "VODA BHR&JHR",
+            "idNumber": "365308179342",
+            "email": "Not found",
+            "address": "W/O Jayvir Kumar, W/O Jayvir Kumar ward no 02, Rajapakar kali mandir, Rajapakar Raja Pakar , RAJA PAKAR-VAISHALI, BR, 844124",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "35ff55f7-6b32-40b8-8a77-d20a1065abe3",
           "queryNumber": "9876543210",
@@ -367,39 +388,19 @@
             "address": "ward no -11, Koili, koily, Sitamarhi, Sitamarhi, BIHAR, 843302",
             "totalRecords": 8
           }
-        },
-        {
-          "id": "03b74811-9ccc-4af0-a1d8-8dcdd5ca08b8",
-          "queryNumber": "9708398593",
-          "timestamp": "2026-10-19T13:14:07.331Z",
-          "source": "bot",
-          "userId": 6672896116,
-          "userName": "UHTKARSH",
-          "resultSummary": {
-            "name": "PRAMILA DEVI",
-            "truecallerName": "Jaiveer cha",
-            "fatherName": "JAYVIR KUMAR",
-            "mobile": "9708398593",
-            "altMobile": "Not found",
-            "circle": "VODA BHR&JHR",
-            "idNumber": "365308179342",
-            "email": "Not found",
-            "address": "W/O Jayvir Kumar, W/O Jayvir Kumar ward no 02, Rajapakar kali mandir, Rajapakar Raja Pakar , RAJA PAKAR-VAISHALI, BR, 844124",
-            "totalRecords": 1
-          }
         }
       ],
-      "lastBotMessageId": 7755,
+      "lastBotMessageId": 7768,
       "lastBotMessageHasPhoto": false,
       "isAdminUnlocked": true,
-      "lastLookupDate": "2026-10-20",
-      "dailyLimit": 12
+      "lastLookupDate": "2026-10-21",
+      "dailyLimit": 1
     },
     "7995520431": {
       "id": 7995520431,
       "firstName": "Vashu",
       "username": "Vashubhaiii",
-      "credits": 12,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 1,
@@ -416,7 +417,7 @@
       "lastBotMessageId": 7639,
       "lastBotMessageHasPhoto": true,
       "isAdminUnlocked": true,
-      "dailyLimit": 12,
+      "dailyLimit": 1,
       "lastLookupDate": "2026-10-21",
       "lastPlanName": "1 Day Pass"
     },
@@ -424,7 +425,7 @@
       "id": 7122271216,
       "firstName": "Vikash",
       "username": "V5Sai",
-      "credits": 12,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -462,13 +463,13 @@
       "lastLookupDate": "2026-10-21",
       "lastBotMessageId": 7080,
       "lastBotMessageHasPhoto": false,
-      "dailyLimit": 12
+      "dailyLimit": 1
     },
     "6247554367": {
       "id": 6247554367,
       "firstName": "Divya",
       "username": "Divyarani123a",
-      "credits": 11,
+      "credits": 0,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -526,12 +527,12 @@
       "lastLookupDate": "2026-10-21",
       "lastBotMessageId": 7759,
       "lastBotMessageHasPhoto": false,
-      "dailyLimit": 12
+      "dailyLimit": 1
     },
     "8877490186": {
       "id": 8877490186,
       "firstName": "Ghb",
-      "credits": 10,
+      "credits": 0,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -569,12 +570,12 @@
       "lastLookupDate": "2026-10-19",
       "lastBotMessageId": 7079,
       "lastBotMessageHasPhoto": false,
-      "dailyLimit": 12
+      "dailyLimit": 1
     },
     "6027780529": {
       "id": 6027780529,
       "firstName": "TG",
-      "credits": 12,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -590,13 +591,13 @@
       "history": [],
       "lastBotMessageId": 7077,
       "lastBotMessageHasPhoto": true,
-      "dailyLimit": 12
+      "dailyLimit": 1
     },
     "7933477413": {
       "id": 7933477413,
       "firstName": "HUNTER",
       "username": "Huluman108",
-      "credits": 12,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -612,12 +613,12 @@
       "history": [],
       "lastBotMessageId": 7081,
       "lastBotMessageHasPhoto": true,
-      "dailyLimit": 12
+      "dailyLimit": 1
     },
     "8299737228": {
       "id": 8299737228,
       "firstName": "FREE",
-      "credits": 12,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -633,13 +634,13 @@
       "history": [],
       "lastBotMessageId": 7078,
       "lastBotMessageHasPhoto": true,
-      "dailyLimit": 12
+      "dailyLimit": 1
     },
     "pre_/admin": {
       "id": 968096444,
       "firstName": "@/admin",
       "username": "/admin",
-      "credits": 2,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -652,12 +653,13 @@
       "joinedAt": "2026-10-19T13:24:24.922Z",
       "lastActiveAt": "2026-10-19T13:24:24.922Z",
       "isBanned": false,
-      "history": []
+      "history": [],
+      "dailyLimit": 1
     },
     "8517814936": {
       "id": 8517814936,
       "firstName": "Anjali",
-      "credits": 2,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -673,7 +675,8 @@
       "history": [],
       "lastBotMessageId": 7500,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-20"
+      "lastLookupDate": "2026-10-20",
+      "dailyLimit": 1
     },
     "8900660455": {
       "id": 8900660455,
@@ -734,13 +737,14 @@
       ],
       "lastBotMessageId": 7513,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-20"
+      "lastLookupDate": "2026-10-20",
+      "dailyLimit": 1
     },
     "6352747905": {
       "id": 6352747905,
       "firstName": ".",
       "username": "JustMeMan97",
-      "credits": 1,
+      "credits": 0,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -776,7 +780,8 @@
       ],
       "lastBotMessageId": 7626,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-20"
+      "lastLookupDate": "2026-10-20",
+      "dailyLimit": 1
     },
     "8929566190": {
       "id": 8929566190,
@@ -838,7 +843,8 @@
       ],
       "lastBotMessageId": 7638,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-20"
+      "lastLookupDate": "2026-10-20",
+      "dailyLimit": 1
     },
     "8447532330": {
       "id": 8447532330,
@@ -900,7 +906,8 @@
       ],
       "lastBotMessageId": 7647,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-20"
+      "lastLookupDate": "2026-10-20",
+      "dailyLimit": 1
     },
     "8935237963": {
       "id": 8935237963,
@@ -962,13 +969,14 @@
       ],
       "lastBotMessageId": 7671,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-20"
+      "lastLookupDate": "2026-10-20",
+      "dailyLimit": 1
     },
     "6415125910": {
       "id": 6415125910,
       "firstName": "𝐀𝐃𝐌𝐈𝐍 𝐁𝐀𝐁𝐔",
       "username": "online442756",
-      "credits": 2,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -984,12 +992,13 @@
       "history": [],
       "lastBotMessageId": 7657,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-20"
+      "lastLookupDate": "2026-10-20",
+      "dailyLimit": 1
     },
     "8675079758": {
       "id": 8675079758,
       "firstName": ".",
-      "credits": 1,
+      "credits": 0,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -1025,7 +1034,8 @@
       ],
       "lastBotMessageId": 7661,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-20"
+      "lastLookupDate": "2026-10-20",
+      "dailyLimit": 1
     },
     "8499830773": {
       "id": 8499830773,
@@ -1087,13 +1097,14 @@
       ],
       "lastBotMessageId": 7669,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-20"
+      "lastLookupDate": "2026-10-20",
+      "dailyLimit": 1
     },
     "8066965283": {
       "id": 8066965283,
       "firstName": "Tʀᴜsᴛᴇᴅ Sᴇʟʟᴇʀ",
       "username": "socialxym",
-      "credits": 2,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -1109,12 +1120,13 @@
       "history": [],
       "lastBotMessageId": 7673,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-20"
+      "lastLookupDate": "2026-10-20",
+      "dailyLimit": 1
     },
     "7639119817": {
       "id": 7639119817,
       "firstName": "Yadav ji",
-      "credits": 2,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -1129,7 +1141,8 @@
       "isBanned": false,
       "history": [],
       "lastBotMessageId": 1111,
-      "lastBotMessageHasPhoto": true
+      "lastBotMessageHasPhoto": true,
+      "dailyLimit": 1
     },
     "7294896326": {
       "id": 7294896326,
@@ -1191,7 +1204,8 @@
       ],
       "lastBotMessageId": 7717,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-20"
+      "lastLookupDate": "2026-10-20",
+      "dailyLimit": 1
     },
     "8898442254": {
       "id": 8898442254,
@@ -1233,7 +1247,8 @@
       ],
       "lastLookupDate": "2026-10-20",
       "lastBotMessageId": 7721,
-      "lastBotMessageHasPhoto": false
+      "lastBotMessageHasPhoto": false,
+      "dailyLimit": 1
     },
     "7183197265": {
       "id": 7183197265,
@@ -1296,13 +1311,14 @@
       ],
       "lastBotMessageId": 7731,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-20"
+      "lastLookupDate": "2026-10-20",
+      "dailyLimit": 1
     },
     "6783862138": {
       "id": 6783862138,
       "firstName": "Rakesh",
       "username": "uttamshk",
-      "credits": 1,
+      "credits": 0,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -1339,7 +1355,8 @@
       ],
       "lastLookupDate": "2026-10-20",
       "lastBotMessageId": 7733,
-      "lastBotMessageHasPhoto": false
+      "lastBotMessageHasPhoto": false,
+      "dailyLimit": 1
     },
     "8624451243": {
       "id": 8624451243,
@@ -1401,12 +1418,13 @@
       ],
       "lastBotMessageId": 7741,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-20"
+      "lastLookupDate": "2026-10-20",
+      "dailyLimit": 1
     },
     "8684851606": {
       "id": 8684851606,
       "firstName": "🐣",
-      "credits": 1,
+      "credits": 0,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -1442,13 +1460,14 @@
       ],
       "lastBotMessageId": 7745,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-20"
+      "lastLookupDate": "2026-10-20",
+      "dailyLimit": 1
     },
     "8722331048": {
       "id": 8722331048,
       "firstName": "L",
       "username": "cx1_a",
-      "credits": 2,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -1463,13 +1482,14 @@
       "isBanned": false,
       "history": [],
       "lastBotMessageId": 7747,
-      "lastBotMessageHasPhoto": false
+      "lastBotMessageHasPhoto": false,
+      "dailyLimit": 1
     },
     "8873453593": {
       "id": 8873453593,
       "firstName": "Nikita",
       "username": "Niku0791",
-      "credits": 1,
+      "credits": 0,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -1506,7 +1526,8 @@
       ],
       "lastBotMessageId": 7751,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-21"
+      "lastLookupDate": "2026-10-21",
+      "dailyLimit": 1
     }
   },
   "orders": {
@@ -2297,6 +2318,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "9e40cad1-1934-408e-a712-974989f9cf1f",
+      "queryNumber": "9708398593",
+      "timestamp": "2026-10-21T01:28:15.431Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "PRAMILA DEVI",
+        "truecallerName": "nisha rajapakar",
+        "fatherName": "JAYVIR KUMAR",
+        "mobile": "9708398593",
+        "altMobile": "Not found",
+        "circle": "VODA BHR&JHR",
+        "idNumber": "365308179342",
+        "email": "Not found",
+        "address": "W/O Jayvir Kumar, W/O Jayvir Kumar ward no 02, Rajapakar kali mandir, Rajapakar Raja Pakar , RAJA PAKAR-VAISHALI, BR, 844124",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "9c5c930f-c735-4472-ac4c-b2238e1aa5a8",
       "queryNumber": "7872079155",
@@ -3250,6 +3291,22 @@
     }
   ],
   "logs": [
+    {
+      "id": "40df31ec-3bdb-4f4a-8acd-f7e657c13fd4",
+      "timestamp": "2026-10-21T01:28:15.431Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 9708398593 (PRAMILA DEVI)"
+    },
+    {
+      "id": "b99df783-6d6f-4964-b955-56d0dcf2f0b5",
+      "timestamp": "2026-10-21T01:27:10.706Z",
+      "type": "BOT_MESSAGE",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "f5d20cef-7915-4a22-bbca-91baf9f02f17",
       "timestamp": "2026-10-21T01:26:40.212Z",
@@ -4433,25 +4490,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "8ce52261-4c3f-4ede-ab43-b41a221f69b1",
-      "timestamp": "2026-10-19T12:34:02.503Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "8ae6e394-367e-4485-9af6-011efcb45993",
-      "timestamp": "2026-10-19T12:34:02.186Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809018,
+  "lastTelegramUpdateId": 168809043,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
