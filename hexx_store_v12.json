@@ -1444,6 +1444,49 @@
       "history": [],
       "lastBotMessageId": 7747,
       "lastBotMessageHasPhoto": false
+    },
+    "8873453593": {
+      "id": 8873453593,
+      "firstName": "Nikita",
+      "username": "Niku0791",
+      "credits": 1,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX453593",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-21T01:09:14.139Z",
+      "lastActiveAt": "2026-10-21T01:09:45.758Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "8932d618-2fb5-4621-aaca-64e31f63e4d5",
+          "queryNumber": "8509319761",
+          "timestamp": "2026-10-21T01:09:48.528Z",
+          "source": "bot",
+          "userId": 8873453593,
+          "userName": "Nikita",
+          "resultSummary": {
+            "name": "Michel",
+            "truecallerName": "Michel",
+            "fatherName": "Not found",
+            "mobile": "8509319761",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastBotMessageId": 7751,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-21"
     }
   },
   "orders": {
@@ -2234,6 +2277,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "8932d618-2fb5-4621-aaca-64e31f63e4d5",
+      "queryNumber": "8509319761",
+      "timestamp": "2026-10-21T01:09:48.528Z",
+      "source": "bot",
+      "userId": 8873453593,
+      "userName": "Nikita",
+      "resultSummary": {
+        "name": "Michel",
+        "truecallerName": "Michel",
+        "fatherName": "Not found",
+        "mobile": "8509319761",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "fdb7c51f-6543-43bc-94ab-b77592bac0d6",
       "queryNumber": "9057508633",
@@ -3147,6 +3210,22 @@
     }
   ],
   "logs": [
+    {
+      "id": "0d5b6e32-374d-4c29-9882-fea4d7b00012",
+      "timestamp": "2026-10-21T01:09:48.528Z",
+      "type": "LOOKUP",
+      "userId": 8873453593,
+      "userName": "Nikita",
+      "summary": "Looked up 8509319761 (Michel)"
+    },
+    {
+      "id": "eb1fb333-8b92-4351-9be9-09273272c6cc",
+      "timestamp": "2026-10-21T01:09:14.447Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8873453593,
+      "userName": "Nikita",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "70bb0fda-cb06-4a66-9648-a3727eeac643",
       "timestamp": "2026-10-20T22:06:09.918Z",
@@ -4330,25 +4409,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "b652424c-749e-478c-a41f-238fb1f48efb",
-      "timestamp": "2026-10-19T12:34:01.063Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "fa800180-3b6d-445a-ad16-38b963988f4b",
-      "timestamp": "2026-10-19T12:34:00.872Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168808990,
+  "lastTelegramUpdateId": 168808993,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
