@@ -1717,6 +1717,27 @@
       "lastLookupDate": "2026-10-21",
       "lastBotMessageId": 7825,
       "lastBotMessageHasPhoto": false
+    },
+    "7253480289": {
+      "id": 7253480289,
+      "firstName": "꧁𖤍 𝐕𝐄𝐗𝐎𝐑 𖤍꧂ ❰ 𝐃𝚵𝐅𝚨𝐔𝐋𝐓𝚵𝐑𝐒 ❱",
+      "username": "II_Vexor_II",
+      "credits": 1,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 0,
+      "totalLookups": 0,
+      "referralCode": "HEX480289",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-21T05:38:43.310Z",
+      "lastActiveAt": "2026-10-21T05:38:43.310Z",
+      "isBanned": false,
+      "history": [],
+      "lastBotMessageId": 7840,
+      "lastBotMessageHasPhoto": false
     }
   },
   "orders": {
@@ -3958,6 +3979,14 @@
   ],
   "logs": [
     {
+      "id": "2a3f34e9-43bd-498f-8631-76fa94954c0e",
+      "timestamp": "2026-10-21T05:38:43.643Z",
+      "type": "BOT_MESSAGE",
+      "userId": 7253480289,
+      "userName": "꧁𖤍 𝐕𝐄𝐗𝐎𝐑 𖤍꧂ ❰ 𝐃𝚵𝐅𝚨𝐔𝐋𝐓𝚵𝐑𝐒 ❱",
+      "summary": "Started bot (/start)"
+    },
+    {
       "id": "54a7244a-81f0-4b0d-886c-e292c8189e97",
       "timestamp": "2026-10-21T05:05:52.387Z",
       "type": "LOOKUP",
@@ -5148,17 +5177,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "212dc788-930b-4813-8433-7af43192f2a0",
-      "timestamp": "2026-10-19T12:34:11.368Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809120,
+  "lastTelegramUpdateId": 168809121,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
