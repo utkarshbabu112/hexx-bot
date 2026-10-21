@@ -2453,21 +2453,41 @@
     "8619902396": {
       "id": 8619902396,
       "firstName": ".",
-      "credits": 1,
+      "credits": 0,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
-      "dailyLookupsUsed": 0,
-      "totalLookups": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
       "referralCode": "HEX902396",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T19:55:03.652Z",
-      "lastActiveAt": "2026-10-21T19:55:05.464Z",
+      "lastActiveAt": "2026-10-21T19:55:39.185Z",
       "isBanned": false,
-      "history": [],
-      "lastBotMessageId": 8061,
+      "history": [
+        {
+          "id": "ddc9ed82-1efb-47dc-96cb-802580946b29",
+          "queryNumber": "7472052620",
+          "timestamp": "2026-10-21T19:55:41.071Z",
+          "source": "bot",
+          "userId": 8619902396,
+          "userName": ".",
+          "resultSummary": {
+            "name": "Not found",
+            "fatherName": "Not found",
+            "mobile": "7472052620",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastBotMessageId": 8063,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21"
     }
@@ -3431,6 +3451,25 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "ddc9ed82-1efb-47dc-96cb-802580946b29",
+      "queryNumber": "7472052620",
+      "timestamp": "2026-10-21T19:55:41.071Z",
+      "source": "bot",
+      "userId": 8619902396,
+      "userName": ".",
+      "resultSummary": {
+        "name": "Not found",
+        "fatherName": "Not found",
+        "mobile": "7472052620",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "5d5413c7-da5e-4c3b-b814-3c3d359c5566",
       "queryNumber": "7472052620",
@@ -5402,29 +5441,17 @@
         "address": "S/O Shri Jameel Khan, ward no.35, Shankarpur Danda Jheengura Kamlaganj, Shankarpur Danda Jheengura Kamlaganj, Shivpuri, Shivpuri, Madhya Pradesh, 473551",
         "totalRecords": 2
       }
-    },
-    {
-      "id": "3806f742-d2e2-4f06-948d-5a26cb7fe972",
-      "queryNumber": "8574131059",
-      "timestamp": "2026-10-20T11:23:13.422Z",
-      "source": "bot",
-      "userId": 8929566190,
-      "userName": "Rohan",
-      "resultSummary": {
-        "name": "Rajendra Yadav",
-        "truecallerName": "Sahjindar Yadav",
-        "fatherName": "ram nayan",
-        "mobile": "8574131059",
-        "altMobile": "7054595859",
-        "circle": "JIO UPE",
-        "idNumber": "210302442620",
-        "email": "Not found",
-        "address": "s/o ram nayan, Barhalganj, Mohal Jalkar, mohal jalkar satyanarayan ki madi kharesari gola, barhalganj Gola, gorakhpur, Uttar Pradesh, 273402",
-        "totalRecords": 3
-      }
     }
   ],
   "logs": [
+    {
+      "id": "14fbcc63-8f92-464f-8a17-e91461277e27",
+      "timestamp": "2026-10-21T19:55:41.071Z",
+      "type": "LOOKUP",
+      "userId": 8619902396,
+      "userName": ".",
+      "summary": "Looked up 7472052620 (Not found)"
+    },
     {
       "id": "6ebd4930-b226-4c71-ac8e-0639da1c200b",
       "timestamp": "2026-10-21T19:55:03.963Z",
@@ -6616,17 +6643,9 @@
       "userId": 8675079758,
       "userName": ".",
       "summary": "Looked up 8306130700 (Not found)"
-    },
-    {
-      "id": "c36b50e6-7d37-4c5b-8239-ddaca7586a71",
-      "timestamp": "2026-10-20T11:45:37.640Z",
-      "type": "BOT_MESSAGE",
-      "userId": 8675079758,
-      "userName": ".",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809356,
+  "lastTelegramUpdateId": 168809357,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
