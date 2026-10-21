@@ -279,20 +279,99 @@
       "firstName": "UHTKARSH",
       "username": "Uhtkarshh",
       "credits": 0,
-      "isPremium": false,
-      "premiumUntil": null,
-      "lastPlanName": "1 Day Pass",
+      "isPremium": true,
+      "premiumUntil": "2026-10-28T10:13:45.088Z",
+      "lastPlanName": "7 Days Admin VIP",
       "totalSpent": 4,
-      "dailyLookupsUsed": 1,
-      "totalLookups": 28,
+      "dailyLookupsUsed": 5,
+      "totalLookups": 32,
       "referralCode": "HEX667289",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-21T10:12:44.539Z",
+      "lastActiveAt": "2026-10-21T10:16:45.027Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "05b662ec-32d9-48ac-bb86-1940b7bbf52b",
+          "queryNumber": "7654129275",
+          "timestamp": "2026-10-21T10:16:46.691Z",
+          "source": "bot",
+          "userId": 6672896116,
+          "userName": "UHTKARSH",
+          "resultSummary": {
+            "name": "Chandan Kumar",
+            "truecallerName": "Chandan Ji Sonpur",
+            "fatherName": "Tripurari  Ray",
+            "mobile": "7654129275",
+            "altMobile": "7033229972",
+            "circle": "AIRTEL BHR&JHR",
+            "idNumber": "691437333065",
+            "email": "Not found",
+            "address": "., Panapur Gobrahi, mandir, balwakuari vaishali, Vaishali, vaishali, Bihar, 844102",
+            "totalRecords": 2
+          }
+        },
+        {
+          "id": "9ce25a49-c358-48ed-af7b-af1af9593e63",
+          "queryNumber": "9883203978",
+          "timestamp": "2026-10-21T10:15:13.967Z",
+          "source": "bot",
+          "userId": 6672896116,
+          "userName": "UHTKARSH",
+          "resultSummary": {
+            "name": "Jawahar Lal Rai",
+            "truecallerName": "Jawaharlal Rai",
+            "fatherName": "Bimal  Rai",
+            "mobile": "9883203978",
+            "altMobile": "Not found",
+            "circle": "AIRTEL WB",
+            "idNumber": "796910196120",
+            "email": "Not found",
+            "address": "2 Rail And Rode Serampore Sporting Hooghly Hooghly West Bengal 712202",
+            "totalRecords": 2
+          }
+        },
+        {
+          "id": "223666e3-6705-4f10-90b8-7a54c6f262f7",
+          "queryNumber": "9279204096",
+          "timestamp": "2026-10-21T10:14:31.229Z",
+          "source": "bot",
+          "userId": 6672896116,
+          "userName": "UHTKARSH",
+          "resultSummary": {
+            "name": "Not found",
+            "fatherName": "Not found",
+            "mobile": "9279204096",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "3c63df53-643a-4f45-9c44-c487d8f4c149",
+          "queryNumber": "8283033118",
+          "timestamp": "2026-10-21T10:14:02.313Z",
+          "source": "bot",
+          "userId": 6672896116,
+          "userName": "UHTKARSH",
+          "resultSummary": {
+            "name": "AMARJEET KAUR",
+            "truecallerName": "Amarjot Moga Hospital",
+            "fatherName": "FAKIR SINGH",
+            "mobile": "8283033118",
+            "altMobile": "7508688721",
+            "circle": "PUNAJB",
+            "idNumber": "400182066082",
+            "email": "Not found",
+            "address": "NA, NA, JAWAHAR SINGH, PATTOROADMOGA, MOGA, PUNJAB, 142055",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "9e40cad1-1934-408e-a712-974989f9cf1f",
           "queryNumber": "9708398593",
@@ -432,7 +511,7 @@
           }
         }
       ],
-      "lastBotMessageId": 7891,
+      "lastBotMessageId": 7911,
       "lastBotMessageHasPhoto": false,
       "isAdminUnlocked": true,
       "lastLookupDate": "2026-10-21",
@@ -2947,6 +3026,85 @@
   },
   "globalHistory": [
     {
+      "id": "05b662ec-32d9-48ac-bb86-1940b7bbf52b",
+      "queryNumber": "7654129275",
+      "timestamp": "2026-10-21T10:16:46.691Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "Chandan Kumar",
+        "truecallerName": "Chandan Ji Sonpur",
+        "fatherName": "Tripurari  Ray",
+        "mobile": "7654129275",
+        "altMobile": "7033229972",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "691437333065",
+        "email": "Not found",
+        "address": "., Panapur Gobrahi, mandir, balwakuari vaishali, Vaishali, vaishali, Bihar, 844102",
+        "totalRecords": 2
+      }
+    },
+    {
+      "id": "9ce25a49-c358-48ed-af7b-af1af9593e63",
+      "queryNumber": "9883203978",
+      "timestamp": "2026-10-21T10:15:13.967Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "Jawahar Lal Rai",
+        "truecallerName": "Jawaharlal Rai",
+        "fatherName": "Bimal  Rai",
+        "mobile": "9883203978",
+        "altMobile": "Not found",
+        "circle": "AIRTEL WB",
+        "idNumber": "796910196120",
+        "email": "Not found",
+        "address": "2 Rail And Rode Serampore Sporting Hooghly Hooghly West Bengal 712202",
+        "totalRecords": 2
+      }
+    },
+    {
+      "id": "223666e3-6705-4f10-90b8-7a54c6f262f7",
+      "queryNumber": "9279204096",
+      "timestamp": "2026-10-21T10:14:31.229Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "Not found",
+        "fatherName": "Not found",
+        "mobile": "9279204096",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "3c63df53-643a-4f45-9c44-c487d8f4c149",
+      "queryNumber": "8283033118",
+      "timestamp": "2026-10-21T10:14:02.313Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "AMARJEET KAUR",
+        "truecallerName": "Amarjot Moga Hospital",
+        "fatherName": "FAKIR SINGH",
+        "mobile": "8283033118",
+        "altMobile": "7508688721",
+        "circle": "PUNAJB",
+        "idNumber": "400182066082",
+        "email": "Not found",
+        "address": "NA, NA, JAWAHAR SINGH, PATTOROADMOGA, MOGA, PUNJAB, 142055",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "2e2fdeed-9dc9-4cb8-8705-032ac5419930",
       "queryNumber": "9324426734",
       "timestamp": "2026-10-21T10:09:15.748Z",
@@ -4419,6 +4577,38 @@
   ],
   "logs": [
     {
+      "id": "e77b0823-8282-4bda-8c35-f7edacc2c4a9",
+      "timestamp": "2026-10-21T10:16:46.691Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 7654129275 (Chandan Kumar)"
+    },
+    {
+      "id": "0a40ad47-b120-4a39-96e9-95b5e34dc6ad",
+      "timestamp": "2026-10-21T10:15:13.967Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 9883203978 (Jawahar Lal Rai)"
+    },
+    {
+      "id": "725aff37-976e-4c82-bd1c-e31705ca6692",
+      "timestamp": "2026-10-21T10:14:31.229Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 9279204096 (Not found)"
+    },
+    {
+      "id": "f704ff8e-2cb3-4d13-8590-e62a0c09d034",
+      "timestamp": "2026-10-21T10:14:02.313Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 8283033118 (AMARJEET KAUR)"
+    },
+    {
       "id": "b8b0e47e-8ae0-4739-941d-86058a060c82",
       "timestamp": "2026-10-21T10:09:15.748Z",
       "type": "LOOKUP",
@@ -5585,41 +5775,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "e2bde410-efe9-4aa3-b7a3-9faab23e2ccb",
-      "timestamp": "2026-10-19T12:37:12.856Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 8252464080 (Not found)"
-    },
-    {
-      "id": "d1a9f04f-da93-41d2-9378-e93ed3f664b9",
-      "timestamp": "2026-10-19T12:36:36.648Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "Hexx User",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "9ee9b7eb-a7ab-4c9b-ac9a-2bdfab4c47bd",
-      "timestamp": "2026-10-19T12:34:16.916Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "159498cb-472a-471f-bb75-9623562873fe",
-      "timestamp": "2026-10-19T12:34:16.680Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809203,
+  "lastTelegramUpdateId": 168809215,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
