@@ -3949,6 +3949,69 @@
       "lastBotMessageId": 8432,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22"
+    },
+    "6556898842": {
+      "id": 6556898842,
+      "firstName": "Dark𓁇𓁋",
+      "username": "misogaisth",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 2,
+      "totalLookups": 2,
+      "referralCode": "HEX898842",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-22T19:30:34.744Z",
+      "lastActiveAt": "2026-10-22T19:32:08.025Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "28f2e041-3534-4e31-92a1-d903ecc15284",
+          "queryNumber": "6394852509",
+          "timestamp": "2026-10-22T19:32:09.504Z",
+          "source": "bot",
+          "userId": 6556898842,
+          "userName": "Dark𓁇𓁋",
+          "resultSummary": {
+            "name": "Uday Singh",
+            "truecallerName": "Uday Shing",
+            "fatherName": "Ram Khelavan",
+            "mobile": "6394852509",
+            "altMobile": "6388095103",
+            "circle": "JIO UPE",
+            "idNumber": "215311315955",
+            "email": "banana7993@gmail.com",
+            "address": "S/O Ram Khelavan, Navariya Post-Kakora Kakorha, Bidanpur Kakorha Sirathu Kaushambi, Uttar Pradesh, 212201",
+            "totalRecords": 2
+          }
+        },
+        {
+          "id": "27f36b48-3cdd-4ed6-852b-665834648907",
+          "queryNumber": "7067530389",
+          "timestamp": "2026-10-22T19:31:03.717Z",
+          "source": "bot",
+          "userId": 6556898842,
+          "userName": "Dark𓁇𓁋",
+          "resultSummary": {
+            "name": "Prachi Jaiswal",
+            "truecallerName": "Jai Parshuraam",
+            "fatherName": "Rajesh Jaiswal",
+            "mobile": "7067530389",
+            "altMobile": "6261681942",
+            "circle": "JIO MP",
+            "idNumber": "902518092225",
+            "email": "Not found",
+            "address": "D/O Rajesh Jaiswal, ward no 07, kotara kala, gram lakhwar post kotrakala, ward no.7, Lakhwar, Rewa, Madhya Pradesh, 486220",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastBotMessageId": 8438,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-22"
     }
   },
   "orders": {
@@ -4936,6 +4999,46 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "28f2e041-3534-4e31-92a1-d903ecc15284",
+      "queryNumber": "6394852509",
+      "timestamp": "2026-10-22T19:32:09.504Z",
+      "source": "bot",
+      "userId": 6556898842,
+      "userName": "Dark𓁇𓁋",
+      "resultSummary": {
+        "name": "Uday Singh",
+        "truecallerName": "Uday Shing",
+        "fatherName": "Ram Khelavan",
+        "mobile": "6394852509",
+        "altMobile": "6388095103",
+        "circle": "JIO UPE",
+        "idNumber": "215311315955",
+        "email": "banana7993@gmail.com",
+        "address": "S/O Ram Khelavan, Navariya Post-Kakora Kakorha, Bidanpur Kakorha Sirathu Kaushambi, Uttar Pradesh, 212201",
+        "totalRecords": 2
+      }
+    },
+    {
+      "id": "27f36b48-3cdd-4ed6-852b-665834648907",
+      "queryNumber": "7067530389",
+      "timestamp": "2026-10-22T19:31:03.717Z",
+      "source": "bot",
+      "userId": 6556898842,
+      "userName": "Dark𓁇𓁋",
+      "resultSummary": {
+        "name": "Prachi Jaiswal",
+        "truecallerName": "Jai Parshuraam",
+        "fatherName": "Rajesh Jaiswal",
+        "mobile": "7067530389",
+        "altMobile": "6261681942",
+        "circle": "JIO MP",
+        "idNumber": "902518092225",
+        "email": "Not found",
+        "address": "D/O Rajesh Jaiswal, ward no 07, kotara kala, gram lakhwar post kotrakala, ward no.7, Lakhwar, Rewa, Madhya Pradesh, 486220",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "e3100c3a-9caf-4a92-97d8-1bd51f337424",
       "queryNumber": "9583075444",
@@ -6887,49 +6990,33 @@
         "address": "S/O Dinesh Ray, word number-14, gram-Bilandpur Bilandpur, Vaishali, Bihar, 844116",
         "totalRecords": 2
       }
-    },
-    {
-      "id": "df4d3d53-f72d-4341-a389-5e7f7c9c42e9",
-      "queryNumber": "8873015730",
-      "timestamp": "2026-10-21T10:50:26.820Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "ANKUSH KUMAR",
-        "truecallerName": "Rajkeshwar Kumar",
-        "fatherName": "GANNOURI CHOUDHARY",
-        "mobile": "8873015730",
-        "altMobile": "7250794295",
-        "circle": "BIHAR VODAFONE",
-        "idNumber": "341331921808",
-        "email": "Not found",
-        "address": "S/O Gannouri Choudhary S/O Gannouri Choudhary Barah Bikram . JANPARA-PATNA Bihar 801112",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "c12a3d49-9d20-4a70-b574-b224f70d0b44",
-      "queryNumber": "9470801121",
-      "timestamp": "2026-10-21T10:48:57.172Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "sachidanand ray",
-        "truecallerName": "Sony",
-        "fatherName": "ramsagar ray",
-        "mobile": "9470801121",
-        "altMobile": "9470259259",
-        "circle": "BIHAR JIO",
-        "idNumber": "677385917944",
-        "email": "Not found",
-        "address": "20 mohiuddinpur garahi post garahi, NA, makundpur garahi, Vaishali Vaishali, NA, Bihar, 844504",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "1ca00e61-f127-4b0f-9dc1-04edb54eb6d9",
+      "timestamp": "2026-10-22T19:32:09.504Z",
+      "type": "LOOKUP",
+      "userId": 6556898842,
+      "userName": "Dark𓁇𓁋",
+      "summary": "Looked up 6394852509 (Uday Singh)"
+    },
+    {
+      "id": "a9cbfc55-557e-4edc-bc0c-ed7907bf547e",
+      "timestamp": "2026-10-22T19:31:03.717Z",
+      "type": "LOOKUP",
+      "userId": 6556898842,
+      "userName": "Dark𓁇𓁋",
+      "summary": "Looked up 7067530389 (Prachi Jaiswal)"
+    },
+    {
+      "id": "8270382a-a79f-404a-aeff-1b01a2589813",
+      "timestamp": "2026-10-22T19:30:35.068Z",
+      "type": "BOT_MESSAGE",
+      "userId": 6556898842,
+      "userName": "Dark𓁇𓁋",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "ddf09725-1ace-4423-8c28-bbb85eebfa47",
       "timestamp": "2026-10-22T18:42:58.527Z",
@@ -8105,33 +8192,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Looked up 9708070702 (Deepesh Kumar)"
-    },
-    {
-      "id": "d3f18dd8-b3f3-44d9-b44b-ea42cf129288",
-      "timestamp": "2026-10-21T10:34:10.569Z",
-      "type": "LOOKUP",
-      "userId": 7228673447,
-      "userName": "Sameer",
-      "summary": "Looked up 7722865930 (Aman Singh)"
-    },
-    {
-      "id": "903fdf72-296e-40d2-abf1-95c1a1746a52",
-      "timestamp": "2026-10-21T10:33:49.155Z",
-      "type": "BOT_MESSAGE",
-      "userId": 7228673447,
-      "userName": "Sameer",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "bbaf19a2-9a52-42d7-b5e7-7f2fe6b77f55",
-      "timestamp": "2026-10-21T10:31:51.941Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 9934848716 (Satya Prakash Singh)"
     }
   ],
-  "lastTelegramUpdateId": 168809781,
+  "lastTelegramUpdateId": 168809785,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
