@@ -2372,16 +2372,36 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T09:57:14.832Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 13,
-      "totalLookups": 41,
+      "dailyLookupsUsed": 14,
+      "totalLookups": 42,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-22T11:13:33.334Z",
+      "lastActiveAt": "2026-10-22T12:55:48.501Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "5278c1f2-ffdd-4244-a097-e747b1234808",
+          "queryNumber": "9582613974",
+          "timestamp": "2026-10-22T12:54:40.177Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Khurshid Alam",
+            "truecallerName": "Amar gh",
+            "fatherName": "C/O  Md Moqeem Alam",
+            "mobile": "9582613974",
+            "altMobile": "9582165526",
+            "circle": "VI DELHI",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "C/O Md Moqeem Alam, C - II 191, New Ashok Nagar, East Delhi, DELHI, East Delhi, Delhi, 110096",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "63fabb4c-a00f-46f0-be57-b29082a0e5d1",
           "queryNumber": "8745970710",
@@ -2702,7 +2722,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8309,
+      "lastBotMessageId": 8356,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22",
       "lastPlanName": "7 DAYS PASS"
@@ -3493,6 +3513,68 @@
         }
       ],
       "lastBotMessageId": 8350,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-22"
+    },
+    "6143592436": {
+      "id": 6143592436,
+      "firstName": "Mehul",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 2,
+      "totalLookups": 2,
+      "referralCode": "HEX592436",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-22T12:53:25.742Z",
+      "lastActiveAt": "2026-10-22T12:55:24.614Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "8e5b8932-5b82-4c67-8e86-3050fdc9aac0",
+          "queryNumber": "8826486623",
+          "timestamp": "2026-10-22T12:55:26.926Z",
+          "source": "bot",
+          "userId": 6143592436,
+          "userName": "Mehul",
+          "resultSummary": {
+            "name": "AJIT KR HARIT",
+            "truecallerName": "Ajit Sir",
+            "fatherName": "R P DIKSHIT",
+            "mobile": "8826486623",
+            "altMobile": "Not found",
+            "circle": "AIRTEL DELHI",
+            "idNumber": "8.2005E+11",
+            "email": "",
+            "address": "336 FIRST FLOOR PARMANAND COLONY Delhi 110007",
+            "totalRecords": 2
+          }
+        },
+        {
+          "id": "e91ae1e7-a6e3-44ce-a7d4-40eea8f1fcbc",
+          "queryNumber": "9810014959",
+          "timestamp": "2026-10-22T12:53:54.558Z",
+          "source": "bot",
+          "userId": 6143592436,
+          "userName": "Mehul",
+          "resultSummary": {
+            "name": "MR SUNIL KUMAR",
+            "truecallerName": "Yash",
+            "fatherName": "Sheetal Prasad",
+            "mobile": "9810014959",
+            "altMobile": "9810065755",
+            "circle": "VI DELHI",
+            "idNumber": "410262546810",
+            "email": "Not found",
+            "address": "House No 12-H, A-1 Block Gali No 9, A-1 Block Gali No 9, Sant Nagar, DELHI, DELHI, Delhi, 110084",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastBotMessageId": 8358,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22"
     }
@@ -4482,6 +4564,66 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "8e5b8932-5b82-4c67-8e86-3050fdc9aac0",
+      "queryNumber": "8826486623",
+      "timestamp": "2026-10-22T12:55:26.926Z",
+      "source": "bot",
+      "userId": 6143592436,
+      "userName": "Mehul",
+      "resultSummary": {
+        "name": "AJIT KR HARIT",
+        "truecallerName": "Ajit Sir",
+        "fatherName": "R P DIKSHIT",
+        "mobile": "8826486623",
+        "altMobile": "Not found",
+        "circle": "AIRTEL DELHI",
+        "idNumber": "8.2005E+11",
+        "email": "",
+        "address": "336 FIRST FLOOR PARMANAND COLONY Delhi 110007",
+        "totalRecords": 2
+      }
+    },
+    {
+      "id": "5278c1f2-ffdd-4244-a097-e747b1234808",
+      "queryNumber": "9582613974",
+      "timestamp": "2026-10-22T12:54:40.177Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Khurshid Alam",
+        "truecallerName": "Amar gh",
+        "fatherName": "C/O  Md Moqeem Alam",
+        "mobile": "9582613974",
+        "altMobile": "9582165526",
+        "circle": "VI DELHI",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "C/O Md Moqeem Alam, C - II 191, New Ashok Nagar, East Delhi, DELHI, East Delhi, Delhi, 110096",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "e91ae1e7-a6e3-44ce-a7d4-40eea8f1fcbc",
+      "queryNumber": "9810014959",
+      "timestamp": "2026-10-22T12:53:54.558Z",
+      "source": "bot",
+      "userId": 6143592436,
+      "userName": "Mehul",
+      "resultSummary": {
+        "name": "MR SUNIL KUMAR",
+        "truecallerName": "Yash",
+        "fatherName": "Sheetal Prasad",
+        "mobile": "9810014959",
+        "altMobile": "9810065755",
+        "circle": "VI DELHI",
+        "idNumber": "410262546810",
+        "email": "Not found",
+        "address": "House No 12-H, A-1 Block Gali No 9, A-1 Block Gali No 9, Sant Nagar, DELHI, DELHI, Delhi, 110084",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "3d41d44b-3518-4827-82e5-5ccf85cb8871",
       "queryNumber": "9217796173",
@@ -6411,69 +6553,41 @@
         "address": "BARA Bara, BARA, bara bara, bara, birbhum, West Bengal, 731237",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "eefa58f4-5a41-4bbd-8735-a63f9c2c1d7e",
-      "queryNumber": "7489258553",
-      "timestamp": "2026-10-21T05:54:23.200Z",
-      "source": "bot",
-      "userId": 7478449082,
-      "userName": "Imran Shah 143",
-      "resultSummary": {
-        "name": "Ram Niwas Miree",
-        "truecallerName": "Irshad Khan",
-        "fatherName": "Kabir Das",
-        "mobile": "7489258553",
-        "altMobile": "9399721319",
-        "circle": "JIO MP",
-        "idNumber": "202611148903",
-        "email": "Not found",
-        "address": "Nawapara, Ward No. 12, Nawapara, Janjgir-champa, Chhattisgarh, 495691",
-        "totalRecords": 2
-      }
-    },
-    {
-      "id": "c44dc9b6-2e12-44bd-8c46-66029caa04bd",
-      "queryNumber": "8872123634",
-      "timestamp": "2026-10-21T05:05:52.387Z",
-      "source": "bot",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "resultSummary": {
-        "name": "KULDEEP SINGH",
-        "truecallerName": "AN 1784 KULDEEP",
-        "fatherName": "DARSHAN SINGH",
-        "mobile": "8872123634",
-        "altMobile": "9463080903",
-        "circle": "VODA PUNJAB",
-        "idNumber": "452623874405",
-        "email": "Not found",
-        "address": "S/O Darshan Singh, village roran wala uraf tare wala Chak Gulam Rasulwala, Chak Gulam Rasool Wala Jalalabad, FAZILKA-FAZILKA, PB, 152024",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "bb6516db-9309-479e-a138-add04cd1c96e",
-      "queryNumber": "9213175217",
-      "timestamp": "2026-10-21T04:44:26.382Z",
-      "source": "bot",
-      "userId": 7639119817,
-      "userName": "Yadav ji",
-      "resultSummary": {
-        "name": "Ankit Sagar",
-        "truecallerName": "Ankit v",
-        "fatherName": "Prahlad  Singh",
-        "mobile": "9213175217",
-        "altMobile": "7210050007",
-        "circle": "AIRTEL DELHI",
-        "idNumber": "842980877447",
-        "email": "Not found",
-        "address": "S/O Prahlad Singh, House N0 2 Block G , GAli N0 9, Sangam vihar New Delhi , South DelhiSouth Delhi, Delhi, 110062",
-        "totalRecords": 4
-      }
     }
   ],
   "logs": [
+    {
+      "id": "1b2fb628-d683-41f0-8ac6-181042d2ecdf",
+      "timestamp": "2026-10-22T12:55:26.926Z",
+      "type": "LOOKUP",
+      "userId": 6143592436,
+      "userName": "Mehul",
+      "summary": "Looked up 8826486623 (AJIT KR HARIT)"
+    },
+    {
+      "id": "af9731e5-a851-4aa6-85fd-08cca888c37f",
+      "timestamp": "2026-10-22T12:54:40.177Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 9582613974 (Khurshid Alam)"
+    },
+    {
+      "id": "362bd8d3-4a3c-428a-a72f-7981456a3599",
+      "timestamp": "2026-10-22T12:53:54.558Z",
+      "type": "LOOKUP",
+      "userId": 6143592436,
+      "userName": "Mehul",
+      "summary": "Looked up 9810014959 (MR SUNIL KUMAR)"
+    },
+    {
+      "id": "0d48fa34-6499-492b-898b-ee622760ce21",
+      "timestamp": "2026-10-22T12:53:26.042Z",
+      "type": "BOT_MESSAGE",
+      "userId": 6143592436,
+      "userName": "Mehul",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "56ecb495-8109-49c6-a04f-05989e203874",
       "timestamp": "2026-10-22T12:43:03.036Z",
@@ -7641,41 +7755,9 @@
       "userId": 7478449082,
       "userName": "Imran Shah 143",
       "summary": "Looked up 7489258553 (Ram Niwas Miree)"
-    },
-    {
-      "id": "47ae5a85-e354-42ef-830c-595ecb08992e",
-      "timestamp": "2026-10-21T05:53:57.914Z",
-      "type": "BOT_MESSAGE",
-      "userId": 7478449082,
-      "userName": "Imran Shah 143",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "2a3f34e9-43bd-498f-8631-76fa94954c0e",
-      "timestamp": "2026-10-21T05:38:43.643Z",
-      "type": "BOT_MESSAGE",
-      "userId": 7253480289,
-      "userName": "꧁𖤍 𝐕𝐄𝐗𝐎𝐑 𖤍꧂ ❰ 𝐃𝚵𝐅𝚨𝐔𝐋𝐓𝚵𝐑𝐒 ❱",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "54a7244a-81f0-4b0d-886c-e292c8189e97",
-      "timestamp": "2026-10-21T05:05:52.387Z",
-      "type": "LOOKUP",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "summary": "Looked up 8872123634 (KULDEEP SINGH)"
-    },
-    {
-      "id": "3bc5c761-bde1-4d98-8669-1d4b92391f1d",
-      "timestamp": "2026-10-21T04:44:26.382Z",
-      "type": "LOOKUP",
-      "userId": 7639119817,
-      "userName": "Yadav ji",
-      "summary": "Looked up 9213175217 (Ankit Sagar)"
     }
   ],
-  "lastTelegramUpdateId": 168809708,
+  "lastTelegramUpdateId": 168809714,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
