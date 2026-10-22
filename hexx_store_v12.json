@@ -2737,22 +2737,44 @@
     "8715357942": {
       "id": 8715357942,
       "firstName": "Yashmit",
-      "credits": 1,
+      "credits": 0,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
-      "dailyLookupsUsed": 0,
-      "totalLookups": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
       "referralCode": "HEX357942",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-22T09:37:47.635Z",
-      "lastActiveAt": "2026-10-22T09:37:47.635Z",
+      "lastActiveAt": "2026-10-22T09:40:23.549Z",
       "isBanned": false,
-      "history": [],
-      "lastBotMessageId": 8226,
-      "lastBotMessageHasPhoto": false
+      "history": [
+        {
+          "id": "2a8afc2d-ac78-497e-b2c6-2215c9d54d8a",
+          "queryNumber": "9999002202",
+          "timestamp": "2026-10-22T09:38:36.514Z",
+          "source": "bot",
+          "userId": 8715357942,
+          "userName": "Yashmit",
+          "resultSummary": {
+            "name": "SHIV KUMAR",
+            "truecallerName": "Ashis",
+            "fatherName": "BRAHM SINGH",
+            "mobile": "9999002202",
+            "altMobile": "9811861515",
+            "circle": "Delhi Voda",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "HN-255 , GALI NO-1 , GOPALPUR , DELHI , Delhi , 110009",
+            "totalRecords": 3
+          }
+        }
+      ],
+      "lastBotMessageId": 8232,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-22"
     }
   },
   "orders": {
@@ -3714,6 +3736,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "2a8afc2d-ac78-497e-b2c6-2215c9d54d8a",
+      "queryNumber": "9999002202",
+      "timestamp": "2026-10-22T09:38:36.514Z",
+      "source": "bot",
+      "userId": 8715357942,
+      "userName": "Yashmit",
+      "resultSummary": {
+        "name": "SHIV KUMAR",
+        "truecallerName": "Ashis",
+        "fatherName": "BRAHM SINGH",
+        "mobile": "9999002202",
+        "altMobile": "9811861515",
+        "circle": "Delhi Voda",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "HN-255 , GALI NO-1 , GOPALPUR , DELHI , Delhi , 110009",
+        "totalRecords": 3
+      }
+    },
     {
       "id": "d5eb95bb-466a-47a7-a5d8-45c432d7ca18",
       "queryNumber": "9310558059",
@@ -5685,29 +5727,17 @@
         "address": "Not found",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "35ff55f7-6b32-40b8-8a77-d20a1065abe3",
-      "queryNumber": "9876543210",
-      "timestamp": "2026-10-20T15:30:48.569Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "Dev Jyoti Roy",
-        "truecallerName": "Sohel Khan",
-        "fatherName": "Salil Kumar Roy",
-        "mobile": "9876543210",
-        "altMobile": "Not found",
-        "circle": "AIRTEL DELHI",
-        "idNumber": "Not found",
-        "email": "devjroy@gmail com",
-        "address": "Tower 9 Flat 1506, Lotus Boulevard, NoidaSector 100, NoidaGautam Buddha Nagar, Uttar Pradesh, 201301",
-        "totalRecords": 99
-      }
     }
   ],
   "logs": [
+    {
+      "id": "15436e96-cb74-4d03-9639-e78d6813bab1",
+      "timestamp": "2026-10-22T09:38:36.514Z",
+      "type": "LOOKUP",
+      "userId": 8715357942,
+      "userName": "Yashmit",
+      "summary": "Looked up 9999002202 (SHIV KUMAR)"
+    },
     {
       "id": "4cc60d5e-8ed8-45b3-a039-aab6aacdabe7",
       "timestamp": "2026-10-22T09:37:47.963Z",
@@ -6899,17 +6929,9 @@
       "userId": 7183197265,
       "userName": "OG",
       "summary": "Looked up 9303335775 (Karim Shah)"
-    },
-    {
-      "id": "50b20510-9c73-49b8-b691-29c519bf7334",
-      "timestamp": "2026-10-20T16:25:36.292Z",
-      "type": "BOT_MESSAGE",
-      "userId": 7183197265,
-      "userName": "OG",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809549,
+  "lastTelegramUpdateId": 168809553,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
