@@ -3887,6 +3887,48 @@
       "lastBotMessageId": 8422,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22"
+    },
+    "8621457229": {
+      "id": 8621457229,
+      "firstName": "𝐑𝐎𝐋𝐄𝐗 💢",
+      "credits": 1,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX457229",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-22T18:41:50.474Z",
+      "lastActiveAt": "2026-10-22T18:42:38.318Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "4244c8c3-f7e7-4048-be64-efb21fbe17c5",
+          "queryNumber": "8766868504",
+          "timestamp": "2026-10-22T18:42:11.911Z",
+          "source": "bot",
+          "userId": 8621457229,
+          "userName": "𝐑𝐎𝐋𝐄𝐗 💢",
+          "resultSummary": {
+            "name": "Anis Bhai",
+            "truecallerName": "Anis Bhai",
+            "fatherName": "Not found",
+            "mobile": "8766868504",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastBotMessageId": 8430,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-22"
     }
   },
   "orders": {
@@ -4874,6 +4916,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "4244c8c3-f7e7-4048-be64-efb21fbe17c5",
+      "queryNumber": "8766868504",
+      "timestamp": "2026-10-22T18:42:11.911Z",
+      "source": "bot",
+      "userId": 8621457229,
+      "userName": "𝐑𝐎𝐋𝐄𝐗 💢",
+      "resultSummary": {
+        "name": "Anis Bhai",
+        "truecallerName": "Anis Bhai",
+        "fatherName": "Not found",
+        "mobile": "8766868504",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "48073416-3ac8-4640-aef8-61ee98719aa0",
       "queryNumber": "7303062923",
@@ -6845,29 +6907,25 @@
         "address": "s/o baleshwar thakur, Maheshwarpur, Baikunthpur Rajapakar, maheshwarpur baikunthpur rajapakar, raja pakar Raja Pakar, vaishali, Bihar, 844124",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "3a39d31b-1737-4b93-8b3f-2bde56212040",
-      "queryNumber": "8186019132",
-      "timestamp": "2026-10-21T10:48:06.338Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "Jagdish",
-        "truecallerName": "Jagdish",
-        "fatherName": "Not found",
-        "mobile": "8186019132",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "30fcd312-32ef-48a0-910c-620c8371e7d2",
+      "timestamp": "2026-10-22T18:42:11.911Z",
+      "type": "LOOKUP",
+      "userId": 8621457229,
+      "userName": "𝐑𝐎𝐋𝐄𝐗 💢",
+      "summary": "Looked up 8766868504 (Anis Bhai)"
+    },
+    {
+      "id": "325568c1-cf74-4185-9cd5-30f580cc1df0",
+      "timestamp": "2026-10-22T18:41:50.786Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8621457229,
+      "userName": "𝐑𝐎𝐋𝐄𝐗 💢",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "cf0c187a-87c2-4fd2-8c6f-5fb12b5d631c",
       "timestamp": "2026-10-22T17:52:34.715Z",
@@ -8051,25 +8109,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Looked up 8969824959 (Dilip Mishra)"
-    },
-    {
-      "id": "318a3347-946e-4919-8e3e-f00abbd366fd",
-      "timestamp": "2026-10-21T10:30:46.032Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "2c930617-970c-473c-b1af-8c952b8bb8d8",
-      "timestamp": "2026-10-21T10:30:44.821Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 8969824959 (Dilip Mishra)"
     }
   ],
-  "lastTelegramUpdateId": 168809772,
+  "lastTelegramUpdateId": 168809778,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
