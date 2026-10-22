@@ -2099,16 +2099,56 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T09:57:14.832Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 1,
-      "totalLookups": 29,
+      "dailyLookupsUsed": 3,
+      "totalLookups": 31,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-22T08:51:21.381Z",
+      "lastActiveAt": "2026-10-22T08:53:54.495Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "f7b2592d-5e67-4c2d-b959-29955c78b1a6",
+          "queryNumber": "8271040235",
+          "timestamp": "2026-10-22T08:53:54.630Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Mukesh Kumar",
+            "truecallerName": "Mukesh Bharti",
+            "fatherName": "Anirudh Prasad",
+            "mobile": "8271040235",
+            "altMobile": "Not found",
+            "circle": "AIRTEL BHR&JHR",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Anirudh Prasad, Gandhi Maidan East, Matwari, Hazaribag, Hazaribagh, Jharkhand, 825301",
+            "totalRecords": 6
+          }
+        },
+        {
+          "id": "27d6b8c8-3cee-4ec2-997b-da02a9c960ae",
+          "queryNumber": "9852105070",
+          "timestamp": "2026-10-22T08:53:07.861Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Kamla Devi",
+            "truecallerName": "RTI Activist",
+            "fatherName": "Surendra Das",
+            "mobile": "8084388322",
+            "altMobile": "9852105070",
+            "circle": "JIO BHR&JHR",
+            "idNumber": "643673805053",
+            "email": "Not found",
+            "address": "W/O Surendra Das, Aurugerua, Aunru Hunterganj, Chatra, Jharkhand, 825401",
+            "totalRecords": 2
+          }
+        },
         {
           "id": "15d9c5c9-9d69-4445-b0e1-96bd0270d9c8",
           "queryNumber": "9523487200",
@@ -2230,7 +2270,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8193,
+      "lastBotMessageId": 8201,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22",
       "lastPlanName": "7 DAYS PASS"
@@ -2569,6 +2609,49 @@
       "lastBotMessageId": 8063,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21"
+    },
+    "6882227007": {
+      "id": 6882227007,
+      "firstName": "??",
+      "username": "Kidzee_46",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX227007",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-22T08:52:56.290Z",
+      "lastActiveAt": "2026-10-22T08:53:41.256Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "3e7c63b0-0bbd-4cc3-b837-fdba826e3798",
+          "queryNumber": "8582940699",
+          "timestamp": "2026-10-22T08:53:15.894Z",
+          "source": "bot",
+          "userId": 6882227007,
+          "userName": "??",
+          "resultSummary": {
+            "name": "Kamlesh Bhai Panpara Customer.",
+            "truecallerName": "Kamlesh Bhai Panpara Customer.",
+            "fatherName": "Not found",
+            "mobile": "8582940699",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastBotMessageId": 8199,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-22"
     }
   },
   "orders": {
@@ -3530,6 +3613,66 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "f7b2592d-5e67-4c2d-b959-29955c78b1a6",
+      "queryNumber": "8271040235",
+      "timestamp": "2026-10-22T08:53:54.630Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Mukesh Kumar",
+        "truecallerName": "Mukesh Bharti",
+        "fatherName": "Anirudh Prasad",
+        "mobile": "8271040235",
+        "altMobile": "Not found",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Anirudh Prasad, Gandhi Maidan East, Matwari, Hazaribag, Hazaribagh, Jharkhand, 825301",
+        "totalRecords": 6
+      }
+    },
+    {
+      "id": "3e7c63b0-0bbd-4cc3-b837-fdba826e3798",
+      "queryNumber": "8582940699",
+      "timestamp": "2026-10-22T08:53:15.894Z",
+      "source": "bot",
+      "userId": 6882227007,
+      "userName": "??",
+      "resultSummary": {
+        "name": "Kamlesh Bhai Panpara Customer.",
+        "truecallerName": "Kamlesh Bhai Panpara Customer.",
+        "fatherName": "Not found",
+        "mobile": "8582940699",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "27d6b8c8-3cee-4ec2-997b-da02a9c960ae",
+      "queryNumber": "9852105070",
+      "timestamp": "2026-10-22T08:53:07.861Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Kamla Devi",
+        "truecallerName": "RTI Activist",
+        "fatherName": "Surendra Das",
+        "mobile": "8084388322",
+        "altMobile": "9852105070",
+        "circle": "JIO BHR&JHR",
+        "idNumber": "643673805053",
+        "email": "Not found",
+        "address": "W/O Surendra Das, Aurugerua, Aunru Hunterganj, Chatra, Jharkhand, 825401",
+        "totalRecords": 2
+      }
+    },
     {
       "id": "15d9c5c9-9d69-4445-b0e1-96bd0270d9c8",
       "queryNumber": "9523487200",
@@ -5460,68 +5603,41 @@
         "address": "00 shrii nilkath timber mart sipor road mahesana Vadnagar",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "0ff796a1-2b54-499a-b8a6-7a463b127330",
-      "queryNumber": "6003632030",
-      "timestamp": "2026-10-20T12:39:47.921Z",
-      "source": "bot",
-      "userId": 8499830773,
-      "userName": "𝒪𝓂𝓀𝒶𝓇_𝒫𝒶𝓉𝒾𝓁.",
-      "resultSummary": {
-        "name": "Ankaj Bhai",
-        "truecallerName": "Ankaj Bhai",
-        "fatherName": "Not found",
-        "mobile": "6003632030",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "e51e5b7d-116b-4289-a135-8202e67cf8d7",
-      "queryNumber": "8306130700",
-      "timestamp": "2026-10-20T11:46:11.422Z",
-      "source": "bot",
-      "userId": 8675079758,
-      "userName": ".",
-      "resultSummary": {
-        "name": "Not found",
-        "fatherName": "Not found",
-        "mobile": "8306130700",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "491108cb-e1ad-48b6-b178-2c702fa7f372",
-      "queryNumber": "9723340040",
-      "timestamp": "2026-10-20T11:43:40.026Z",
-      "source": "bot",
-      "userId": 8935237963,
-      "userName": "Arnav",
-      "resultSummary": {
-        "name": "SABBIR RAHIMBHAI PARMAR",
-        "truecallerName": "Sabbir Hussain",
-        "fatherName": "RAHIMBHAI",
-        "mobile": "9723340040",
-        "altMobile": "Not found",
-        "circle": "AIRTEL GUJARAT",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "44 DHORAPA SUDANI PANE LAGI NE VASAVAD 1 TA GONDAL RAJKOT",
-        "totalRecords": 3
-      }
     }
   ],
   "logs": [
+    {
+      "id": "5ce5a847-4bc2-4125-9592-b3a7751d6f72",
+      "timestamp": "2026-10-22T08:53:54.630Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 8271040235 (Mukesh Kumar)"
+    },
+    {
+      "id": "2f12c8f3-4bda-4583-8ff0-4adc8fc75993",
+      "timestamp": "2026-10-22T08:53:15.894Z",
+      "type": "LOOKUP",
+      "userId": 6882227007,
+      "userName": "??",
+      "summary": "Looked up 8582940699 (Kamlesh Bhai Panpara Customer.)"
+    },
+    {
+      "id": "9999a61b-db61-40e0-8b8f-cb90f7cef3c0",
+      "timestamp": "2026-10-22T08:53:07.861Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 9852105070 (Kamla Devi)"
+    },
+    {
+      "id": "45b63b01-ea55-4540-ac39-dbedb7ebdd85",
+      "timestamp": "2026-10-22T08:52:56.595Z",
+      "type": "BOT_MESSAGE",
+      "userId": 6882227007,
+      "userName": "??",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "f9ab1c35-48e1-42c5-96b1-9e5663d822c4",
       "timestamp": "2026-10-22T08:51:21.942Z",
@@ -6689,41 +6805,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "299cc0fc-725d-4f5a-a618-9d8e02472157",
-      "timestamp": "2026-10-20T14:49:31.862Z",
-      "type": "LOOKUP",
-      "userId": 7294896326,
-      "userName": "𝐔𝐍𝐊𝐍𝐖𝐎𝐍 | 𝐗𝐑 ⚡",
-      "summary": "Looked up 9050322333 (Ankur Keshwar)"
-    },
-    {
-      "id": "0ae15c8d-1cc1-42ca-8513-923df7d71fb1",
-      "timestamp": "2026-10-20T14:48:32.623Z",
-      "type": "LOOKUP",
-      "userId": 7294896326,
-      "userName": "𝐔𝐍𝐊𝐍𝐖𝐎𝐍 | 𝐗𝐑 ⚡",
-      "summary": "Looked up 6283174418 (RAJWINDER KAUR)"
-    },
-    {
-      "id": "d80f10ac-160c-4821-b455-bc66417ae219",
-      "timestamp": "2026-10-20T14:48:17.542Z",
-      "type": "BOT_MESSAGE",
-      "userId": 7294896326,
-      "userName": "𝐔𝐍𝐊𝐍𝐖𝐎𝐍 | 𝐗𝐑 ⚡",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "42fe926d-1ed5-446b-acd7-eb3cfa29ec31",
-      "timestamp": "2026-10-20T14:04:37.101Z",
-      "type": "LOOKUP",
-      "userId": 994758970,
-      "userName": "DEEPAK SINGH",
-      "summary": "Looked up 7210060007 (Akhilesh Kumar)"
     }
   ],
-  "lastTelegramUpdateId": 168809524,
+  "lastTelegramUpdateId": 168809532,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
