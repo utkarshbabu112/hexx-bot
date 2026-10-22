@@ -1050,20 +1050,40 @@
       "id": 7933477413,
       "firstName": "HUNTER",
       "username": "Huluman108",
-      "credits": 1,
+      "credits": 0,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
-      "dailyLookupsUsed": 1,
-      "totalLookups": 1,
+      "dailyLookupsUsed": 2,
+      "totalLookups": 2,
       "referralCode": "HEX477413",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-19T12:28:10.924Z",
-      "lastActiveAt": "2026-10-22T14:34:01.157Z",
+      "lastActiveAt": "2026-10-22T14:37:31.093Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "7e0629f2-4e79-4487-8c6c-34a75f1251ca",
+          "queryNumber": "9263295352",
+          "timestamp": "2026-10-22T14:36:37.843Z",
+          "source": "bot",
+          "userId": 7933477413,
+          "userName": "HUNTER",
+          "resultSummary": {
+            "name": "Ayesha Bihta",
+            "truecallerName": "Ayesha Bihta",
+            "fatherName": "Not found",
+            "mobile": "9263295352",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "73db8a85-054a-45d9-89a6-c82210dff9a5",
           "queryNumber": "7061731036",
@@ -1085,7 +1105,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8372,
+      "lastBotMessageId": 8376,
       "lastBotMessageHasPhoto": false,
       "dailyLimit": 2,
       "lastLookupDate": "2026-10-22"
@@ -4647,6 +4667,26 @@
   },
   "globalHistory": [
     {
+      "id": "7e0629f2-4e79-4487-8c6c-34a75f1251ca",
+      "queryNumber": "9263295352",
+      "timestamp": "2026-10-22T14:36:37.843Z",
+      "source": "bot",
+      "userId": 7933477413,
+      "userName": "HUNTER",
+      "resultSummary": {
+        "name": "Ayesha Bihta",
+        "truecallerName": "Ayesha Bihta",
+        "fatherName": "Not found",
+        "mobile": "9263295352",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "73db8a85-054a-45d9-89a6-c82210dff9a5",
       "queryNumber": "7061731036",
       "timestamp": "2026-10-22T14:34:03.034Z",
@@ -6616,29 +6656,17 @@
         "address": "Not found",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "3c63df53-643a-4f45-9c44-c487d8f4c149",
-      "queryNumber": "8283033118",
-      "timestamp": "2026-10-21T10:14:02.313Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "AMARJEET KAUR",
-        "truecallerName": "Amarjot Moga Hospital",
-        "fatherName": "FAKIR SINGH",
-        "mobile": "8283033118",
-        "altMobile": "7508688721",
-        "circle": "PUNAJB",
-        "idNumber": "400182066082",
-        "email": "Not found",
-        "address": "NA, NA, JAWAHAR SINGH, PATTOROADMOGA, MOGA, PUNJAB, 142055",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "0d9f672a-9641-44c5-a2d7-4f2eb70d48a3",
+      "timestamp": "2026-10-22T14:36:37.843Z",
+      "type": "LOOKUP",
+      "userId": 7933477413,
+      "userName": "HUNTER",
+      "summary": "Looked up 9263295352 (Ayesha Bihta)"
+    },
     {
       "id": "353c9174-9580-4bc5-a250-49178c47e443",
       "timestamp": "2026-10-22T14:34:03.034Z",
@@ -7830,17 +7858,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "f5cd120c-33e6-4ec6-95a0-fc71feec78c1",
-      "timestamp": "2026-10-21T09:15:31.144Z",
-      "type": "BOT_MESSAGE",
-      "userId": 7516309870,
-      "userName": "🚩",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809725,
+  "lastTelegramUpdateId": 168809728,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
