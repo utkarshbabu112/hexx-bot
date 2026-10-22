@@ -321,21 +321,40 @@
       "id": 6672896116,
       "firstName": "UHTKARSH",
       "username": "Uhtkarshh",
-      "credits": 0,
+      "credits": 1,
       "isPremium": true,
       "premiumUntil": "2026-10-28T10:13:45.088Z",
       "lastPlanName": "7 Days Admin VIP",
       "totalSpent": 4,
-      "dailyLookupsUsed": 17,
-      "totalLookups": 44,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 45,
       "referralCode": "HEX667289",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-21T12:04:46.610Z",
+      "lastActiveAt": "2026-10-22T08:29:53.667Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "24f8bd54-2ce5-4e24-afdf-064eb258fc75",
+          "queryNumber": "8252464080",
+          "timestamp": "2026-10-22T08:29:51.345Z",
+          "source": "bot",
+          "userId": 6672896116,
+          "userName": "UHTKARSH",
+          "resultSummary": {
+            "name": "Not found",
+            "fatherName": "Not found",
+            "mobile": "8252464080",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "9ce0469c-ae10-4973-a061-f16ad6883949",
           "queryNumber": "9661130399",
@@ -517,10 +536,10 @@
           }
         }
       ],
-      "lastBotMessageId": 7971,
+      "lastBotMessageId": 8183,
       "lastBotMessageHasPhoto": false,
       "isAdminUnlocked": true,
-      "lastLookupDate": "2026-10-21",
+      "lastLookupDate": "2026-10-22",
       "dailyLimit": 1
     },
     "7995520431": {
@@ -3452,6 +3471,25 @@
   },
   "globalHistory": [
     {
+      "id": "24f8bd54-2ce5-4e24-afdf-064eb258fc75",
+      "queryNumber": "8252464080",
+      "timestamp": "2026-10-22T08:29:51.345Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "Not found",
+        "fatherName": "Not found",
+        "mobile": "8252464080",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "ddc9ed82-1efb-47dc-96cb-802580946b29",
       "queryNumber": "7472052620",
       "timestamp": "2026-10-21T19:55:41.071Z",
@@ -5421,29 +5459,33 @@
         "address": "S/O Manohar Bamore, Makan N0 76 Ward N0 10, Post-somganw, gehal ganw East Nimar, Madhya Pradesh, 450114",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "3834d939-dc06-4eca-8795-17fcf2fe1d5c",
-      "queryNumber": "9691404892",
-      "timestamp": "2026-10-20T11:29:11.745Z",
-      "source": "bot",
-      "userId": 8929566190,
-      "userName": "Rohan",
-      "resultSummary": {
-        "name": "Firoj Khan",
-        "truecallerName": "Arshi",
-        "fatherName": "Shri Jameel Khan",
-        "mobile": "9691404892",
-        "altMobile": "8878282500",
-        "circle": "JIO MP",
-        "idNumber": "376935472875",
-        "email": "Not found",
-        "address": "S/O Shri Jameel Khan, ward no.35, Shankarpur Danda Jheengura Kamlaganj, Shankarpur Danda Jheengura Kamlaganj, Shivpuri, Shivpuri, Madhya Pradesh, 473551",
-        "totalRecords": 2
-      }
     }
   ],
   "logs": [
+    {
+      "id": "b71e190c-709d-4f49-b79a-1ee9e20f6142",
+      "timestamp": "2026-10-22T08:29:51.345Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 8252464080 (Not found)"
+    },
+    {
+      "id": "a88256bd-5785-4368-99f1-d21a99f0f903",
+      "timestamp": "2026-10-22T08:29:12.129Z",
+      "type": "BOT_MESSAGE",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "5ec3583a-013b-4a44-9c8a-b767607b2a84",
+      "timestamp": "2026-10-22T08:29:10.590Z",
+      "type": "BOT_MESSAGE",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "14fbcc63-8f92-464f-8a17-e91461277e27",
       "timestamp": "2026-10-21T19:55:41.071Z",
@@ -6619,33 +6661,9 @@
       "userId": 8499830773,
       "userName": "𝒪𝓂𝓀𝒶𝓇_𝒫𝒶𝓉𝒾𝓁.",
       "summary": "Looked up 8000796117 (Jay Jayantibhai Patel)"
-    },
-    {
-      "id": "6ec352ca-8ca6-4b97-8b27-54189c04fbc4",
-      "timestamp": "2026-10-20T12:39:47.921Z",
-      "type": "LOOKUP",
-      "userId": 8499830773,
-      "userName": "𝒪𝓂𝓀𝒶𝓇_𝒫𝒶𝓉𝒾𝓁.",
-      "summary": "Looked up 6003632030 (Ankaj Bhai)"
-    },
-    {
-      "id": "14b54c78-64de-4817-9252-078707967c0b",
-      "timestamp": "2026-10-20T12:39:35.167Z",
-      "type": "BOT_MESSAGE",
-      "userId": 8499830773,
-      "userName": "𝒪𝓂𝓀𝒶𝓇_𝒫𝒶𝓉𝒾𝓁.",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "3c3c5325-96e7-456c-bc3f-9c789f5c47c4",
-      "timestamp": "2026-10-20T11:46:11.422Z",
-      "type": "LOOKUP",
-      "userId": 8675079758,
-      "userName": ".",
-      "summary": "Looked up 8306130700 (Not found)"
     }
   ],
-  "lastTelegramUpdateId": 168809357,
+  "lastTelegramUpdateId": 168809513,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
