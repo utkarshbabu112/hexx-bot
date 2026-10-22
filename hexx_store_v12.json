@@ -337,25 +337,6 @@
       "isBanned": false,
       "history": [
         {
-          "id": "24f8bd54-2ce5-4e24-afdf-064eb258fc75",
-          "queryNumber": "8252464080",
-          "timestamp": "2026-10-22T08:29:51.345Z",
-          "source": "bot",
-          "userId": 6672896116,
-          "userName": "UHTKARSH",
-          "resultSummary": {
-            "name": "Not found",
-            "fatherName": "Not found",
-            "mobile": "8252464080",
-            "altMobile": "Not found",
-            "circle": "India",
-            "idNumber": "Not found",
-            "email": "Not found",
-            "address": "Not found",
-            "totalRecords": 1
-          }
-        },
-        {
           "id": "9ce0469c-ae10-4973-a061-f16ad6883949",
           "queryNumber": "9661130399",
           "timestamp": "2026-10-21T10:51:54.455Z",
@@ -1567,15 +1548,34 @@
       "premiumUntil": null,
       "totalSpent": 0,
       "dailyLookupsUsed": 1,
-      "totalLookups": 3,
+      "totalLookups": 4,
       "referralCode": "HEX197265",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-20T16:25:36.008Z",
-      "lastActiveAt": "2026-10-21T15:55:40.748Z",
+      "lastActiveAt": "2026-10-22T10:34:11.294Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "37889b65-a07f-4818-985b-1fc2613a352f",
+          "queryNumber": "9183291015",
+          "timestamp": "2026-10-22T10:33:55.709Z",
+          "source": "bot",
+          "userId": 7183197265,
+          "userName": "OG",
+          "resultSummary": {
+            "name": "Not found",
+            "fatherName": "Not found",
+            "mobile": "9183291015",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "c54593f0-f881-4d53-b8cf-af2574549aaf",
           "queryNumber": "6296927199",
@@ -1637,9 +1637,9 @@
           }
         }
       ],
-      "lastBotMessageId": 7995,
+      "lastBotMessageId": 8281,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-21",
+      "lastLookupDate": "2026-10-22",
       "dailyLimit": 1
     },
     "6783862138": {
@@ -1971,15 +1971,34 @@
       "premiumUntil": null,
       "totalSpent": 0,
       "dailyLookupsUsed": 1,
-      "totalLookups": 1,
+      "totalLookups": 2,
       "referralCode": "HEX449082",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T05:53:57.575Z",
-      "lastActiveAt": "2026-10-21T05:57:41.537Z",
+      "lastActiveAt": "2026-10-22T10:35:10.463Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "8b17a86b-7e69-4254-9018-37dd33bb13bb",
+          "queryNumber": "9183291015",
+          "timestamp": "2026-10-22T10:34:52.151Z",
+          "source": "bot",
+          "userId": 7478449082,
+          "userName": "Imran Shah 143",
+          "resultSummary": {
+            "name": "Not found",
+            "fatherName": "Not found",
+            "mobile": "9183291015",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "eefa58f4-5a41-4bbd-8735-a63f9c2c1d7e",
           "queryNumber": "7489258553",
@@ -2001,9 +2020,9 @@
           }
         }
       ],
-      "lastBotMessageId": 7848,
+      "lastBotMessageId": 8287,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-21"
+      "lastLookupDate": "2026-10-22"
     },
     "8472839897": {
       "id": 8472839897,
@@ -2933,7 +2952,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-22T10:27:13.249Z",
-      "lastActiveAt": "2026-10-22T10:27:16.179Z",
+      "lastActiveAt": "2026-10-22T10:32:39.024Z",
       "isBanned": false,
       "history": [
         {
@@ -2957,7 +2976,50 @@
           }
         }
       ],
-      "lastBotMessageId": 8267,
+      "lastBotMessageId": 8273,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-22"
+    },
+    "7456375776": {
+      "id": 7456375776,
+      "firstName": "X⁴",
+      "username": "Macareena",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX375776",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-22T10:30:49.040Z",
+      "lastActiveAt": "2026-10-22T10:34:27.108Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "f1ae9e12-3eca-4938-b810-cd61b2512c3f",
+          "queryNumber": "6282840256",
+          "timestamp": "2026-10-22T10:30:55.490Z",
+          "source": "bot",
+          "userId": 7456375776,
+          "userName": "X⁴",
+          "resultSummary": {
+            "name": "abhiram devil",
+            "truecallerName": "abhiram devil",
+            "fatherName": "Not found",
+            "mobile": "6282840256",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastBotMessageId": 8283,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22"
     }
@@ -3948,6 +4010,64 @@
   },
   "globalHistory": [
     {
+      "id": "8b17a86b-7e69-4254-9018-37dd33bb13bb",
+      "queryNumber": "9183291015",
+      "timestamp": "2026-10-22T10:34:52.151Z",
+      "source": "bot",
+      "userId": 7478449082,
+      "userName": "Imran Shah 143",
+      "resultSummary": {
+        "name": "Not found",
+        "fatherName": "Not found",
+        "mobile": "9183291015",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "37889b65-a07f-4818-985b-1fc2613a352f",
+      "queryNumber": "9183291015",
+      "timestamp": "2026-10-22T10:33:55.709Z",
+      "source": "bot",
+      "userId": 7183197265,
+      "userName": "OG",
+      "resultSummary": {
+        "name": "Not found",
+        "fatherName": "Not found",
+        "mobile": "9183291015",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "f1ae9e12-3eca-4938-b810-cd61b2512c3f",
+      "queryNumber": "6282840256",
+      "timestamp": "2026-10-22T10:30:55.490Z",
+      "source": "bot",
+      "userId": 7456375776,
+      "userName": "X⁴",
+      "resultSummary": {
+        "name": "abhiram devil",
+        "truecallerName": "abhiram devil",
+        "fatherName": "Not found",
+        "mobile": "6282840256",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "22237b6b-ab18-4ad4-bb18-09c0331efa57",
       "queryNumber": "9335766782",
       "timestamp": "2026-10-22T10:27:17.661Z",
@@ -4325,25 +4445,6 @@
         "email": "pking5478@gmail.com",
         "address": "S/O Nrottam Patel, S/O Nrottam Patel, manjhot para, Kotmisonar Janjgir , KOTMI SONAR-JANJGIR-CHAMPA, CT, 495552",
         "totalRecords": 6
-      }
-    },
-    {
-      "id": "24f8bd54-2ce5-4e24-afdf-064eb258fc75",
-      "queryNumber": "8252464080",
-      "timestamp": "2026-10-22T08:29:51.345Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "Not found",
-        "fatherName": "Not found",
-        "mobile": "8252464080",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
       }
     },
     {
@@ -5899,48 +6000,65 @@
         "address": "Not found",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "8932d618-2fb5-4621-aaca-64e31f63e4d5",
-      "queryNumber": "8509319761",
-      "timestamp": "2026-10-21T01:09:48.528Z",
-      "source": "bot",
-      "userId": 8873453593,
-      "userName": "Nikita",
-      "resultSummary": {
-        "name": "Michel",
-        "truecallerName": "Michel",
-        "fatherName": "Not found",
-        "mobile": "8509319761",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "fdb7c51f-6543-43bc-94ab-b77592bac0d6",
-      "queryNumber": "9057508633",
-      "timestamp": "2026-10-20T19:30:16.052Z",
-      "source": "bot",
-      "userId": 8684851606,
-      "userName": "🐣",
-      "resultSummary": {
-        "name": "Not found",
-        "fatherName": "Not found",
-        "mobile": "9057508633",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "daec8b41-0bc1-4e5a-8e4e-f5ddc0657074",
+      "timestamp": "2026-10-22T10:34:52.152Z",
+      "type": "LOOKUP",
+      "userId": 7478449082,
+      "userName": "Imran Shah 143",
+      "summary": "Looked up 9183291015 (Not found)"
+    },
+    {
+      "id": "b065a644-ed9f-4c3a-a6f5-2429d9850add",
+      "timestamp": "2026-10-22T10:34:34.042Z",
+      "type": "BOT_MESSAGE",
+      "userId": 7478449082,
+      "userName": "Imran Shah 143",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "43e4115d-1fe0-4274-bd1b-79dfe4989ba9",
+      "timestamp": "2026-10-22T10:33:55.709Z",
+      "type": "LOOKUP",
+      "userId": 7183197265,
+      "userName": "OG",
+      "summary": "Looked up 9183291015 (Not found)"
+    },
+    {
+      "id": "8c65a59e-ab11-473a-85fe-6b916150615d",
+      "timestamp": "2026-10-22T10:33:49.602Z",
+      "type": "BOT_MESSAGE",
+      "userId": 7183197265,
+      "userName": "OG",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "baeca512-1ca1-459f-b86d-2a99555cc353",
+      "timestamp": "2026-10-22T10:33:05.016Z",
+      "type": "BOT_MESSAGE",
+      "userId": 7456375776,
+      "userName": "X⁴",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "548dbd2d-37f5-409e-a6e6-8c8e1167b3fb",
+      "timestamp": "2026-10-22T10:30:55.490Z",
+      "type": "LOOKUP",
+      "userId": 7456375776,
+      "userName": "X⁴",
+      "summary": "Looked up 6282840256 (abhiram devil)"
+    },
+    {
+      "id": "35548c56-ff10-4aa3-9943-fa347c6a87e0",
+      "timestamp": "2026-10-22T10:30:49.349Z",
+      "type": "BOT_MESSAGE",
+      "userId": 7456375776,
+      "userName": "X⁴",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "449667e2-3634-46ff-a551-7bb0d5f33250",
       "timestamp": "2026-10-22T10:27:17.661Z",
@@ -7084,65 +7202,9 @@
       "userId": 6247554367,
       "userName": "Divya",
       "summary": "Created Auto-QR Order HEXHAV84367 (₹19 for 7 Days VIP)"
-    },
-    {
-      "id": "8bbdcfb3-69e9-45fb-9588-59c24dbe137c",
-      "timestamp": "2026-10-21T02:12:50.511Z",
-      "type": "LOOKUP",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "summary": "Looked up 7872079155 (raju lingchom)"
-    },
-    {
-      "id": "790109d2-eb9e-48a5-9ac2-6f89bd960803",
-      "timestamp": "2026-10-21T02:12:17.318Z",
-      "type": "BOT_MESSAGE",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "d8fca517-a420-4aa9-8d8d-c288e74b6a40",
-      "timestamp": "2026-10-21T02:10:46.162Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6247554367,
-      "userName": "Divya",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "40df31ec-3bdb-4f4a-8acd-f7e657c13fd4",
-      "timestamp": "2026-10-21T01:28:15.431Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 9708398593 (PRAMILA DEVI)"
-    },
-    {
-      "id": "b99df783-6d6f-4964-b955-56d0dcf2f0b5",
-      "timestamp": "2026-10-21T01:27:10.706Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "f5d20cef-7915-4a22-bbca-91baf9f02f17",
-      "timestamp": "2026-10-21T01:26:40.212Z",
-      "type": "LOOKUP",
-      "userId": 6247554367,
-      "userName": "Divya",
-      "summary": "Looked up 7872079155 (raju lingchom)"
-    },
-    {
-      "id": "f34b784a-b99d-4218-8f5a-d6f201d423b3",
-      "timestamp": "2026-10-21T01:26:29.447Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6247554367,
-      "userName": "Divya",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809619,
+  "lastTelegramUpdateId": 168809630,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
