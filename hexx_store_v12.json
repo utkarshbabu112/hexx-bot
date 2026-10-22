@@ -3346,20 +3346,40 @@
       "id": 7597469257,
       "firstName": "BIOFULLYY",
       "username": "Conixion",
-      "credits": 1,
+      "credits": 0,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
-      "dailyLookupsUsed": 1,
-      "totalLookups": 1,
+      "dailyLookupsUsed": 2,
+      "totalLookups": 2,
       "referralCode": "HEX469257",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-22T10:26:05.167Z",
-      "lastActiveAt": "2026-10-22T10:41:45.437Z",
+      "lastActiveAt": "2026-10-22T23:41:49.804Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "7c9078e2-1266-4a3b-b14a-86559e3ab2dd",
+          "queryNumber": "8171731789",
+          "timestamp": "2026-10-22T23:41:52.956Z",
+          "source": "bot",
+          "userId": 7597469257,
+          "userName": "BIOFULLYY",
+          "resultSummary": {
+            "name": "69numm",
+            "truecallerName": "69numm",
+            "fatherName": "Not found",
+            "mobile": "8171731789",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "1f39ca61-2a49-4e15-82bb-8e19b1fa2eae",
           "queryNumber": "9411522672",
@@ -3381,7 +3401,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8291,
+      "lastBotMessageId": 8460,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22",
       "dailyLimit": 2
@@ -5083,6 +5103,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "7c9078e2-1266-4a3b-b14a-86559e3ab2dd",
+      "queryNumber": "8171731789",
+      "timestamp": "2026-10-22T23:41:52.956Z",
+      "source": "bot",
+      "userId": 7597469257,
+      "userName": "BIOFULLYY",
+      "resultSummary": {
+        "name": "69numm",
+        "truecallerName": "69numm",
+        "fatherName": "Not found",
+        "mobile": "8171731789",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "2300aa7c-ee1e-454f-a8f1-04023822073e",
       "queryNumber": "8057257213",
@@ -7054,29 +7094,17 @@
         "address": "S/O Rajesh Kumar Pandey, 212, kallu chowk road1 Hazaribagh, kallu chowk noora, Hazaribag Barkagaon, Hazaribagh, Jharkhand, 825301",
         "totalRecords": 2
       }
-    },
-    {
-      "id": "cdbbb1ab-1bb2-465b-a46d-8509d10e0877",
-      "queryNumber": "8690323482",
-      "timestamp": "2026-10-21T11:15:49.045Z",
-      "source": "bot",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "resultSummary": {
-        "name": "Vikram Laxman Vaishnav",
-        "truecallerName": "Vikram",
-        "fatherName": "Laxman",
-        "mobile": "8690323482",
-        "altMobile": "7043576006",
-        "circle": "JIO GUJARAT",
-        "idNumber": "429534872815",
-        "email": "Not found",
-        "address": "a 65, panchvati society, near akshar township, paravt patiya, Chorasi, Surat, Gujarat, 395010",
-        "totalRecords": 4
-      }
     }
   ],
   "logs": [
+    {
+      "id": "c7edcf1a-eef2-4982-84a6-416b060e43b6",
+      "timestamp": "2026-10-22T23:41:52.956Z",
+      "type": "LOOKUP",
+      "userId": 7597469257,
+      "userName": "BIOFULLYY",
+      "summary": "Looked up 8171731789 (69numm)"
+    },
     {
       "id": "ff3f25a9-ff4d-4ae7-b066-c62336d00b28",
       "timestamp": "2026-10-22T21:35:44.664Z",
@@ -8268,17 +8296,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Looked up 8521755516 (Deepak Kumar)"
-    },
-    {
-      "id": "7e5dc9b8-949c-4662-a091-226af913fad4",
-      "timestamp": "2026-10-21T10:50:26.820Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 8873015730 (ANKUSH KUMAR)"
     }
   ],
-  "lastTelegramUpdateId": 168809807,
+  "lastTelegramUpdateId": 168809808,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
