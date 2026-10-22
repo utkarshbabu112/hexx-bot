@@ -141,7 +141,7 @@
       {
         "id": "plan_30d",
         "name": "1 YEAR PASS",
-        "price": 9999999,
+        "price": 99,
         "days": 365,
         "credits": 0,
         "badge": "365 DAYS",
@@ -323,17 +323,17 @@
       "username": "Uhtkarshh",
       "credits": 1,
       "isPremium": true,
-      "premiumUntil": "2026-10-28T10:13:45.088Z",
-      "lastPlanName": "7 Days Admin VIP",
-      "totalSpent": 4,
-      "dailyLookupsUsed": 1,
+      "premiumUntil": "2027-10-28T10:13:45.088Z",
+      "lastPlanName": "1 YEAR PASS",
+      "totalSpent": 10000003,
+      "dailyLookupsUsed": 0,
       "totalLookups": 45,
       "referralCode": "HEX667289",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-22T10:12:36.813Z",
+      "lastActiveAt": "2026-10-22T10:17:16.908Z",
       "isBanned": false,
       "history": [
         {
@@ -536,8 +536,8 @@
           }
         }
       ],
-      "lastBotMessageId": 8240,
-      "lastBotMessageHasPhoto": true,
+      "lastBotMessageId": 8248,
+      "lastBotMessageHasPhoto": false,
       "isAdminUnlocked": true,
       "lastLookupDate": "2026-10-22",
       "dailyLimit": 1
@@ -2119,16 +2119,36 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T09:57:14.832Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 8,
-      "totalLookups": 36,
+      "dailyLookupsUsed": 9,
+      "totalLookups": 37,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-22T09:03:28.027Z",
+      "lastActiveAt": "2026-10-22T10:18:03.217Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "83243bd4-e645-4dff-95b3-121683b96443",
+          "queryNumber": "7294149490",
+          "timestamp": "2026-10-22T10:18:05.376Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Bipin Kumar",
+            "truecallerName": "Bipin Bhaiya नगर � �युक्त",
+            "fatherName": "Krishna  Dev",
+            "mobile": "7294149490",
+            "altMobile": "7294149490",
+            "circle": "AIRTEL BHR&JHR",
+            "idNumber": "883807371864",
+            "email": "Not found",
+            "address": "0, Karma, Karma, Chatra, Jharkhand, 825401",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "d5eb95bb-466a-47a7-a5d8-45c432d7ca18",
           "queryNumber": "9310558059",
@@ -3769,17 +3789,39 @@
       "lastImapScanAt": 0,
       "credits": 0,
       "days": 365,
-      "status": "PENDING",
+      "status": "PAID",
       "paymentUrl": "https://famgateway.in/?order=HEXU1QM6116",
       "upiIntentUrl": "upi://pay?pa=8252464080%40fam&pn=Hexx%20Info%20Bot&am=9999999&cu=INR&tn=HEXU1QM6116&tr=HEXU1QM6116",
       "qrPayload": "upi://pay?pa=8252464080%40fam&pn=Hexx%20Info%20Bot&am=9999999&cu=INR&tn=HEXU1QM6116&tr=HEXU1QM6116",
       "gatewaySource": "direct_gmail",
       "createdAt": "2026-10-22T10:12:36.814Z",
       "expiresAt": "2026-10-22T10:22:36.814Z",
-      "botQrMessageId": 8240
+      "botQrMessageId": 8240,
+      "utr": "ADMIN_BOT_APPROVED",
+      "paidAt": "2026-10-22T10:16:11.015Z"
     }
   },
   "globalHistory": [
+    {
+      "id": "83243bd4-e645-4dff-95b3-121683b96443",
+      "queryNumber": "7294149490",
+      "timestamp": "2026-10-22T10:18:05.376Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Bipin Kumar",
+        "truecallerName": "Bipin Bhaiya नगर � �युक्त",
+        "fatherName": "Krishna  Dev",
+        "mobile": "7294149490",
+        "altMobile": "7294149490",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "883807371864",
+        "email": "Not found",
+        "address": "0, Karma, Karma, Chatra, Jharkhand, 825401",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "5b628f3f-fe0a-49f6-9033-d7cb0b9fcead",
       "queryNumber": "8866779880",
@@ -5751,29 +5793,25 @@
         "address": "s/o mohmmad, 30, Gopalpur, sehore, gopalpur, sehore, Madhya Pradesh, 466331",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "4e7e747e-9603-4e4e-a807-5bf50a180bb7",
-      "queryNumber": "9015317744",
-      "timestamp": "2026-10-20T15:47:17.357Z",
-      "source": "bot",
-      "userId": 8898442254,
-      "userName": "𝐄𝐑𝐑𝐎𝐑 | 𝐗𝐑 🍂",
-      "resultSummary": {
-        "name": "ALOKJAI",
-        "truecallerName": "ALOKJAI",
-        "fatherName": "Not found",
-        "mobile": "9015317744",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "14dafe2d-886e-4498-a3af-0b2c85a1c223",
+      "timestamp": "2026-10-22T10:18:05.376Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 7294149490 (Bipin Kumar)"
+    },
+    {
+      "id": "386d9ea7-3bfa-4eeb-a4e8-995f82536104",
+      "timestamp": "2026-10-22T10:16:11.015Z",
+      "type": "PAYMENT",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Order HEXU1QM6116 PAID (365 Days VIP, Rs.9999999)"
+    },
     {
       "id": "4d4f86a2-74da-4c34-83c1-ce0c10b4a51d",
       "timestamp": "2026-10-22T10:12:36.867Z",
@@ -6957,25 +6995,9 @@
       "userId": 8624451243,
       "userName": "Sam",
       "summary": "Looked up 8876542924 (Libiya Aktar Laskar)"
-    },
-    {
-      "id": "87ed689d-3eea-49d3-8a97-02299a84d77a",
-      "timestamp": "2026-10-20T18:36:29.047Z",
-      "type": "LOOKUP",
-      "userId": 8624451243,
-      "userName": "Sam",
-      "summary": "Looked up 8876541914 (Bikram)"
-    },
-    {
-      "id": "15843241-7d30-496d-a109-9bbbcf12d4c4",
-      "timestamp": "2026-10-20T18:35:35.016Z",
-      "type": "BOT_MESSAGE",
-      "userId": 8624451243,
-      "userName": "Sam",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809565,
+  "lastTelegramUpdateId": 168809610,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
