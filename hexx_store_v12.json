@@ -2099,16 +2099,36 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T09:57:14.832Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 7,
-      "totalLookups": 35,
+      "dailyLookupsUsed": 8,
+      "totalLookups": 36,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-22T09:02:47.416Z",
+      "lastActiveAt": "2026-10-22T09:03:28.027Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "d5eb95bb-466a-47a7-a5d8-45c432d7ca18",
+          "queryNumber": "9310558059",
+          "timestamp": "2026-10-22T09:03:29.876Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Mohit",
+            "truecallerName": "Abhibha Madam Dehli",
+            "fatherName": "Ranjeet Singh",
+            "mobile": "9310558059",
+            "altMobile": "9871013134",
+            "circle": "Delhi Jio",
+            "idNumber": "546865035495",
+            "email": "Not found",
+            "address": "P-145 Gali No 8, Bihari Colony Shahdara, East Delhi, Delhi East, North East, Delhi, 110032",
+            "totalRecords": 3
+          }
+        },
         {
           "id": "47480565-006e-4df4-a7fe-d1b3d16f5b52",
           "queryNumber": "8448117336",
@@ -2310,7 +2330,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8209,
+      "lastBotMessageId": 8211,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22",
       "lastPlanName": "7 DAYS PASS"
@@ -3653,6 +3673,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "d5eb95bb-466a-47a7-a5d8-45c432d7ca18",
+      "queryNumber": "9310558059",
+      "timestamp": "2026-10-22T09:03:29.876Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Mohit",
+        "truecallerName": "Abhibha Madam Dehli",
+        "fatherName": "Ranjeet Singh",
+        "mobile": "9310558059",
+        "altMobile": "9871013134",
+        "circle": "Delhi Jio",
+        "idNumber": "546865035495",
+        "email": "Not found",
+        "address": "P-145 Gali No 8, Bihari Colony Shahdara, East Delhi, Delhi East, North East, Delhi, 110032",
+        "totalRecords": 3
+      }
+    },
     {
       "id": "47480565-006e-4df4-a7fe-d1b3d16f5b52",
       "queryNumber": "8448117336",
@@ -5624,29 +5664,17 @@
         "address": "Tower 9 Flat 1506, Lotus Boulevard, NoidaSector 100, NoidaGautam Buddha Nagar, Uttar Pradesh, 201301",
         "totalRecords": 99
       }
-    },
-    {
-      "id": "fc7ff8a2-5f75-4977-8d0f-301dbbb35afc",
-      "queryNumber": "9050322333",
-      "timestamp": "2026-10-20T14:49:31.862Z",
-      "source": "bot",
-      "userId": 7294896326,
-      "userName": "𝐔𝐍𝐊𝐍𝐖𝐎𝐍 | 𝐗𝐑 ⚡",
-      "resultSummary": {
-        "name": "Ankur Keshwar",
-        "truecallerName": "king haryana",
-        "fatherName": "Subhash Chand",
-        "mobile": "9050322333",
-        "altMobile": "8950322333",
-        "circle": "JIO HR",
-        "idNumber": "560913024055",
-        "email": "Not found",
-        "address": "S/O Subhash Chand, Bhaini Khrud, PO Bhaini Khurd Nilokheri, Dadupur 83 Karnal, Haryana, 132116",
-        "totalRecords": 4
-      }
     }
   ],
   "logs": [
+    {
+      "id": "b42530cd-691f-48b1-9cff-55bb7dbfaed3",
+      "timestamp": "2026-10-22T09:03:29.876Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 9310558059 (Mohit)"
+    },
     {
       "id": "47e9c3d2-2733-4992-9f74-e71a5fca459a",
       "timestamp": "2026-10-22T09:02:49.277Z",
@@ -6838,17 +6866,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "c1a44d3f-58b5-474f-ad23-a1f7b77e8802",
-      "timestamp": "2026-10-20T15:23:40.087Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809536,
+  "lastTelegramUpdateId": 168809537,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
