@@ -1484,15 +1484,35 @@
       "premiumUntil": null,
       "totalSpent": 0,
       "dailyLookupsUsed": 1,
-      "totalLookups": 3,
+      "totalLookups": 4,
       "referralCode": "HEX442254",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-20T15:47:03.102Z",
-      "lastActiveAt": "2026-10-21T17:17:32.874Z",
+      "lastActiveAt": "2026-10-22T10:36:36.417Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "e45f4181-8b5d-46da-bf6f-1bda6f7dd797",
+          "queryNumber": "9166354948",
+          "timestamp": "2026-10-22T10:36:24.092Z",
+          "source": "bot",
+          "userId": 8898442254,
+          "userName": "𝐔𝐍𝐊𝐍𝐎𝐖𝐍 | 𝐗𝐑 ⚡",
+          "resultSummary": {
+            "name": "Maxmore",
+            "truecallerName": "Maxmore",
+            "fatherName": "Not found",
+            "mobile": "9166354948",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "073f746f-af3d-47a5-b0de-a6a8d31ffc5c",
           "queryNumber": "9211369728",
@@ -1534,8 +1554,8 @@
           }
         }
       ],
-      "lastLookupDate": "2026-10-21",
-      "lastBotMessageId": 8047,
+      "lastLookupDate": "2026-10-22",
+      "lastBotMessageId": 8289,
       "lastBotMessageHasPhoto": false,
       "dailyLimit": 1
     },
@@ -1554,7 +1574,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-20T16:25:36.008Z",
-      "lastActiveAt": "2026-10-22T10:34:11.294Z",
+      "lastActiveAt": "2026-10-22T10:35:53.128Z",
       "isBanned": false,
       "history": [
         {
@@ -4010,6 +4030,26 @@
   },
   "globalHistory": [
     {
+      "id": "e45f4181-8b5d-46da-bf6f-1bda6f7dd797",
+      "queryNumber": "9166354948",
+      "timestamp": "2026-10-22T10:36:24.092Z",
+      "source": "bot",
+      "userId": 8898442254,
+      "userName": "𝐔𝐍𝐊𝐍𝐎𝐖𝐍 | 𝐗𝐑 ⚡",
+      "resultSummary": {
+        "name": "Maxmore",
+        "truecallerName": "Maxmore",
+        "fatherName": "Not found",
+        "mobile": "9166354948",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "8b17a86b-7e69-4254-9018-37dd33bb13bb",
       "queryNumber": "9183291015",
       "timestamp": "2026-10-22T10:34:52.151Z",
@@ -5980,29 +6020,17 @@
         "address": "W/O Jayvir Kumar, W/O Jayvir Kumar ward no 02, Rajapakar kali mandir, Rajapakar Raja Pakar , RAJA PAKAR-VAISHALI, BR, 844124",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "9c5c930f-c735-4472-ac4c-b2238e1aa5a8",
-      "queryNumber": "7872079155",
-      "timestamp": "2026-10-21T01:26:40.212Z",
-      "source": "bot",
-      "userId": 6247554367,
-      "userName": "Divya",
-      "resultSummary": {
-        "name": "raju lingchom",
-        "truecallerName": "raju lingchom",
-        "fatherName": "Not found",
-        "mobile": "7872079155",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "75d07b52-be13-4f0b-925f-d27e256f044b",
+      "timestamp": "2026-10-22T10:36:24.092Z",
+      "type": "LOOKUP",
+      "userId": 8898442254,
+      "userName": "𝐔𝐍𝐊𝐍𝐎𝐖𝐍 | 𝐗𝐑 ⚡",
+      "summary": "Looked up 9166354948 (Maxmore)"
+    },
     {
       "id": "daec8b41-0bc1-4e5a-8e4e-f5ddc0657074",
       "timestamp": "2026-10-22T10:34:52.152Z",
@@ -7194,17 +7222,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "b092f09e-aaf5-4632-837e-bd1345dd1089",
-      "timestamp": "2026-10-21T02:19:08.270Z",
-      "type": "PAYMENT",
-      "userId": 6247554367,
-      "userName": "Divya",
-      "summary": "Created Auto-QR Order HEXHAV84367 (₹19 for 7 Days VIP)"
     }
   ],
-  "lastTelegramUpdateId": 168809630,
+  "lastTelegramUpdateId": 168809633,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
