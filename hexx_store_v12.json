@@ -4074,6 +4074,28 @@
       "lastBotMessageId": 8448,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22"
+    },
+    "7268835572": {
+      "id": 7268835572,
+      "firstName": "Loluto",
+      "username": "lolutovibes",
+      "credits": 2,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 0,
+      "totalLookups": 0,
+      "referralCode": "HEX835572",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-22T21:35:44.362Z",
+      "lastActiveAt": "2026-10-22T21:36:32.714Z",
+      "isBanned": false,
+      "history": [],
+      "lastBotMessageId": 8458,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-22"
     }
   },
   "orders": {
@@ -7056,6 +7078,14 @@
   ],
   "logs": [
     {
+      "id": "ff3f25a9-ff4d-4ae7-b066-c62336d00b28",
+      "timestamp": "2026-10-22T21:35:44.664Z",
+      "type": "BOT_MESSAGE",
+      "userId": 7268835572,
+      "userName": "Loluto",
+      "summary": "Started bot (/start)"
+    },
+    {
       "id": "d269bcfb-95e8-44ba-a299-04983a1871a1",
       "timestamp": "2026-10-22T19:38:49.169Z",
       "type": "LOOKUP",
@@ -8246,17 +8276,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Looked up 8873015730 (ANKUSH KUMAR)"
-    },
-    {
-      "id": "23c9d301-e7d2-46ef-aad2-8b51a0152dbd",
-      "timestamp": "2026-10-21T10:48:57.172Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 9470801121 (sachidanand ray)"
     }
   ],
-  "lastTelegramUpdateId": 168809800,
+  "lastTelegramUpdateId": 168809807,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
