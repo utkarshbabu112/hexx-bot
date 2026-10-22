@@ -333,7 +333,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-22T08:29:53.667Z",
+      "lastActiveAt": "2026-10-22T09:19:41.788Z",
       "isBanned": false,
       "history": [
         {
@@ -536,7 +536,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8183,
+      "lastBotMessageId": 8213,
       "lastBotMessageHasPhoto": false,
       "isAdminUnlocked": true,
       "lastLookupDate": "2026-10-22",
@@ -5668,6 +5668,14 @@
   ],
   "logs": [
     {
+      "id": "6a7972bc-1dd7-4a68-890c-8f63ff4f9953",
+      "timestamp": "2026-10-22T09:19:42.101Z",
+      "type": "BOT_MESSAGE",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Started bot (/start)"
+    },
+    {
       "id": "b42530cd-691f-48b1-9cff-55bb7dbfaed3",
       "timestamp": "2026-10-22T09:03:29.876Z",
       "type": "LOOKUP",
@@ -6858,17 +6866,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Looked up 9876543210 (Dev Jyoti Roy)"
-    },
-    {
-      "id": "ee29d581-76b2-4428-acab-cec381a7a3e9",
-      "timestamp": "2026-10-20T15:30:30.633Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809537,
+  "lastTelegramUpdateId": 168809538,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
