@@ -2099,16 +2099,96 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T09:57:14.832Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 3,
-      "totalLookups": 31,
+      "dailyLookupsUsed": 7,
+      "totalLookups": 35,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-22T08:53:54.495Z",
+      "lastActiveAt": "2026-10-22T09:02:47.416Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "47480565-006e-4df4-a7fe-d1b3d16f5b52",
+          "queryNumber": "8448117336",
+          "timestamp": "2026-10-22T09:02:49.277Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Irshad",
+            "truecallerName": "Irshad Ajent Delhi. 2",
+            "fatherName": "Jahir  Ahmad",
+            "mobile": "8448117336",
+            "altMobile": "9717276140",
+            "circle": "AIRTEL DELHI",
+            "idNumber": "901420812352",
+            "email": "Not found",
+            "address": "ho no92 kilokari, ashram, jeewan nagar, DelhiDelhi, Delhi, 110014",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "b65092f3-d126-43ca-9604-e348be8bbb17",
+          "queryNumber": "9717276140",
+          "timestamp": "2026-10-22T09:01:17.153Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Irshad",
+            "truecallerName": "Irshad Nagina",
+            "fatherName": "Jahir Ahmad",
+            "mobile": "9717276140",
+            "altMobile": "Not found",
+            "circle": "AIRTEL UPW",
+            "idNumber": "901420812352",
+            "email": "Not found",
+            "address": "S/O Jahir Ahmad, BELA WALI MASJID, MANIHARI SARAY, masjid, Nagina Nagina, Bijnor, Bijnor, Uttar Pradesh, 246762",
+            "totalRecords": 3
+          }
+        },
+        {
+          "id": "0a241bac-4c44-42ab-baa0-c46ce014d395",
+          "queryNumber": "8252596912",
+          "timestamp": "2026-10-22T09:00:36.037Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Kusum Ranjan Kumar",
+            "truecallerName": "Kusum Ranjan",
+            "fatherName": "Yadu veer Prasad",
+            "mobile": "8252596912",
+            "altMobile": "Not found",
+            "circle": "BIHAR JIO",
+            "idNumber": "896253157808",
+            "email": "Not found",
+            "address": "01 murram kala Behind Patel Chhatrawash, NA, po Gosa murram kala, Hazaribagh ram garh Ramgarh, NA, Jharkhand, 829122",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "0f26c142-48ee-4d4d-a63d-a16ad6a3feef",
+          "queryNumber": "9931131712",
+          "timestamp": "2026-10-22T08:59:32.045Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Kusum Ranjan Kumar",
+            "truecallerName": "Kusum Ranjan",
+            "fatherName": "Yadu Veer Prasad",
+            "mobile": "9931131712",
+            "altMobile": "Not found",
+            "circle": "AIRTEL BHR&JHR",
+            "idNumber": "896253157808",
+            "email": "Not found",
+            "address": "S/O Yadu Veer Prasad, Behind Patel Chhatrawash, PO- Gosa Murram Kala, Ramgarh , Jharkhand, 829122",
+            "totalRecords": 4
+          }
+        },
         {
           "id": "f7b2592d-5e67-4c2d-b959-29955c78b1a6",
           "queryNumber": "8271040235",
@@ -2167,46 +2247,6 @@
             "email": "Not found",
             "address": "mangartilaiya, NA, thana pirtand post atki mangartilaia, Giridih Giridh, NA, Jharkhand, 825108",
             "totalRecords": 1
-          }
-        },
-        {
-          "id": "a9f092ab-a404-442d-9d84-bcfc5745c072",
-          "queryNumber": "8252596912",
-          "timestamp": "2026-10-21T16:48:13.557Z",
-          "source": "bot",
-          "userId": 5316205408,
-          "userName": "Mukesh Kumar",
-          "resultSummary": {
-            "name": "Kusum Ranjan Kumar",
-            "truecallerName": "Kusum Ranjan",
-            "fatherName": "Yadu veer Prasad",
-            "mobile": "8252596912",
-            "altMobile": "Not found",
-            "circle": "BIHAR JIO",
-            "idNumber": "896253157808",
-            "email": "Not found",
-            "address": "01 murram kala Behind Patel Chhatrawash, NA, po Gosa murram kala, Hazaribagh ram garh Ramgarh, NA, Jharkhand, 829122",
-            "totalRecords": 1
-          }
-        },
-        {
-          "id": "f7658e3f-88fc-478b-b777-4bfcc17fc3eb",
-          "queryNumber": "9931131712",
-          "timestamp": "2026-10-21T16:45:52.288Z",
-          "source": "bot",
-          "userId": 5316205408,
-          "userName": "Mukesh Kumar",
-          "resultSummary": {
-            "name": "Kusum Ranjan Kumar",
-            "truecallerName": "Kusum Ranjan",
-            "fatherName": "Yadu Veer Prasad",
-            "mobile": "9931131712",
-            "altMobile": "Not found",
-            "circle": "AIRTEL BHR&JHR",
-            "idNumber": "896253157808",
-            "email": "Not found",
-            "address": "S/O Yadu Veer Prasad, Behind Patel Chhatrawash, PO- Gosa Murram Kala, Ramgarh , Jharkhand, 829122",
-            "totalRecords": 4
           }
         },
         {
@@ -2270,7 +2310,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8201,
+      "lastBotMessageId": 8209,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22",
       "lastPlanName": "7 DAYS PASS"
@@ -3613,6 +3653,86 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "47480565-006e-4df4-a7fe-d1b3d16f5b52",
+      "queryNumber": "8448117336",
+      "timestamp": "2026-10-22T09:02:49.277Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Irshad",
+        "truecallerName": "Irshad Ajent Delhi. 2",
+        "fatherName": "Jahir  Ahmad",
+        "mobile": "8448117336",
+        "altMobile": "9717276140",
+        "circle": "AIRTEL DELHI",
+        "idNumber": "901420812352",
+        "email": "Not found",
+        "address": "ho no92 kilokari, ashram, jeewan nagar, DelhiDelhi, Delhi, 110014",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "b65092f3-d126-43ca-9604-e348be8bbb17",
+      "queryNumber": "9717276140",
+      "timestamp": "2026-10-22T09:01:17.153Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Irshad",
+        "truecallerName": "Irshad Nagina",
+        "fatherName": "Jahir Ahmad",
+        "mobile": "9717276140",
+        "altMobile": "Not found",
+        "circle": "AIRTEL UPW",
+        "idNumber": "901420812352",
+        "email": "Not found",
+        "address": "S/O Jahir Ahmad, BELA WALI MASJID, MANIHARI SARAY, masjid, Nagina Nagina, Bijnor, Bijnor, Uttar Pradesh, 246762",
+        "totalRecords": 3
+      }
+    },
+    {
+      "id": "0a241bac-4c44-42ab-baa0-c46ce014d395",
+      "queryNumber": "8252596912",
+      "timestamp": "2026-10-22T09:00:36.037Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Kusum Ranjan Kumar",
+        "truecallerName": "Kusum Ranjan",
+        "fatherName": "Yadu veer Prasad",
+        "mobile": "8252596912",
+        "altMobile": "Not found",
+        "circle": "BIHAR JIO",
+        "idNumber": "896253157808",
+        "email": "Not found",
+        "address": "01 murram kala Behind Patel Chhatrawash, NA, po Gosa murram kala, Hazaribagh ram garh Ramgarh, NA, Jharkhand, 829122",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "0f26c142-48ee-4d4d-a63d-a16ad6a3feef",
+      "queryNumber": "9931131712",
+      "timestamp": "2026-10-22T08:59:32.045Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Kusum Ranjan Kumar",
+        "truecallerName": "Kusum Ranjan",
+        "fatherName": "Yadu Veer Prasad",
+        "mobile": "9931131712",
+        "altMobile": "Not found",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "896253157808",
+        "email": "Not found",
+        "address": "S/O Yadu Veer Prasad, Behind Patel Chhatrawash, PO- Gosa Murram Kala, Ramgarh , Jharkhand, 829122",
+        "totalRecords": 4
+      }
+    },
     {
       "id": "f7b2592d-5e67-4c2d-b959-29955c78b1a6",
       "queryNumber": "8271040235",
@@ -5524,88 +5644,41 @@
         "address": "S/O Subhash Chand, Bhaini Khrud, PO Bhaini Khurd Nilokheri, Dadupur 83 Karnal, Haryana, 132116",
         "totalRecords": 4
       }
-    },
-    {
-      "id": "4928b8b2-dfb7-486c-9aeb-0d354fddb1cc",
-      "queryNumber": "6283174418",
-      "timestamp": "2026-10-20T14:48:32.623Z",
-      "source": "bot",
-      "userId": 7294896326,
-      "userName": "𝐔𝐍𝐊𝐍𝐖𝐎𝐍 | 𝐗𝐑 ⚡",
-      "resultSummary": {
-        "name": "RAJWINDER KAUR",
-        "truecallerName": "SUKHRAJ",
-        "fatherName": "SUKHDEEP SINGH",
-        "mobile": "6283174418",
-        "altMobile": "Not found",
-        "circle": "PUNJAB",
-        "idNumber": "580705130192",
-        "email": "Not found",
-        "address": "NA, C/O SUKHDEEP SINGH, CHANU PATTI BUKANWALA, BUKAN WALA, MOGA, MOGA, MOGA, PUNJAB, 142048",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "3fe2f8af-67ff-43f8-a5e7-f21108d96684",
-      "queryNumber": "7210060007",
-      "timestamp": "2026-10-20T14:04:37.101Z",
-      "source": "bot",
-      "userId": 994758970,
-      "userName": "DEEPAK SINGH",
-      "resultSummary": {
-        "name": "Akhilesh Kumar",
-        "fatherName": "Vijay Kishor Singh",
-        "mobile": "7210060007",
-        "altMobile": "9899995993",
-        "circle": "AIRTEL DELHI",
-        "idNumber": "xxxxxxxx3945",
-        "email": "Not found",
-        "address": "S/O Vijay Kishor Singh, House N0-6 G-Block, Gali N0-9, Sangam Vihar New Delhi , South DelhiSouth Delhi, Delhi, 110062",
-        "totalRecords": 3
-      }
-    },
-    {
-      "id": "1319d54b-9ca5-4885-913a-d23cefd923ea",
-      "queryNumber": "9213175217",
-      "timestamp": "2026-10-20T14:04:03.384Z",
-      "source": "bot",
-      "userId": 994758970,
-      "userName": "DEEPAK SINGH",
-      "resultSummary": {
-        "name": "Ankit Sagar",
-        "truecallerName": "Ankit v",
-        "fatherName": "Prahlad  Singh",
-        "mobile": "9213175217",
-        "altMobile": "7210050007",
-        "circle": "AIRTEL DELHI",
-        "idNumber": "842980877447",
-        "email": "Not found",
-        "address": "S/O Prahlad Singh, House N0 2 Block G , GAli N0 9, Sangam vihar New Delhi , South DelhiSouth Delhi, Delhi, 110062",
-        "totalRecords": 4
-      }
-    },
-    {
-      "id": "83ff8cd6-513e-42cb-8405-b3a0fc43690b",
-      "queryNumber": "8000796117",
-      "timestamp": "2026-10-20T12:44:18.854Z",
-      "source": "bot",
-      "userId": 8499830773,
-      "userName": "𝒪𝓂𝓀𝒶𝓇_𝒫𝒶𝓉𝒾𝓁.",
-      "resultSummary": {
-        "name": "Jay Jayantibhai Patel",
-        "truecallerName": "vad nagar amul dilicious",
-        "fatherName": "Jayantibhai  Patel",
-        "mobile": "8000796117",
-        "altMobile": "8000796117",
-        "circle": "AIRTEL GUJARAT",
-        "idNumber": "929492514939",
-        "email": "Not found",
-        "address": "00 shrii nilkath timber mart sipor road mahesana Vadnagar",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "47e9c3d2-2733-4992-9f74-e71a5fca459a",
+      "timestamp": "2026-10-22T09:02:49.277Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 8448117336 (Irshad)"
+    },
+    {
+      "id": "bbc01e62-58ab-4c28-8786-768310f27b35",
+      "timestamp": "2026-10-22T09:01:17.153Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 9717276140 (Irshad)"
+    },
+    {
+      "id": "64650056-008c-4f82-bb33-dc12083a281c",
+      "timestamp": "2026-10-22T09:00:36.037Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 8252596912 (Kusum Ranjan Kumar)"
+    },
+    {
+      "id": "334de47d-8e7d-42da-bc3b-ed96379f8064",
+      "timestamp": "2026-10-22T08:59:32.045Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 9931131712 (Kusum Ranjan Kumar)"
+    },
     {
       "id": "5ce5a847-4bc2-4125-9592-b3a7751d6f72",
       "timestamp": "2026-10-22T08:53:54.630Z",
@@ -6773,41 +6846,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "fe15db9c-5986-448f-841b-213b54fba765",
-      "timestamp": "2026-10-20T15:21:29.401Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "dd80cf10-cdc4-4fb5-a697-ac827968a54b",
-      "timestamp": "2026-10-20T15:21:16.786Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "6414756f-9f6c-4c7e-9abd-91e011ece4f8",
-      "timestamp": "2026-10-20T15:20:59.256Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "3f8b37c5-d310-4ecd-ad14-25b04957294a",
-      "timestamp": "2026-10-20T15:19:23.502Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809532,
+  "lastTelegramUpdateId": 168809536,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
