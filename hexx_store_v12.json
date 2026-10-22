@@ -2119,16 +2119,56 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T09:57:14.832Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 9,
-      "totalLookups": 37,
+      "dailyLookupsUsed": 11,
+      "totalLookups": 39,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-22T10:18:03.217Z",
+      "lastActiveAt": "2026-10-22T10:21:49.528Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "cccea7d2-a1c7-4761-807c-0f4b4ec2b488",
+          "queryNumber": "7254866509",
+          "timestamp": "2026-10-22T10:21:50.922Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Shivani Yadav",
+            "truecallerName": "Shivani",
+            "fatherName": "Binod Kumar Yadav",
+            "mobile": "7254866509",
+            "altMobile": "6200207912",
+            "circle": "JIO BHR&JHR",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "D/O Binod Kumar Yadav, village-jinga, Jinga Hazaribag, Jharkhand, 825313",
+            "totalRecords": 2
+          }
+        },
+        {
+          "id": "ca309187-c4da-44ea-b247-5f3f974c2e26",
+          "queryNumber": "6200207912",
+          "timestamp": "2026-10-22T10:21:19.334Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Rohit Kumar Yadav",
+            "truecallerName": "Koi Fayda Nahi Hehehehe",
+            "fatherName": "Khemlal yadav",
+            "mobile": "6200207912",
+            "altMobile": "Not found",
+            "circle": "BIHAR JIO",
+            "idNumber": "724331245066",
+            "email": "Not found",
+            "address": "Maheshra, Post Maheshra, Village Maheshra, Mahesra alias Mahesar, Hazaribagh, Jharkhand, 825313",
+            "totalRecords": 2
+          }
+        },
         {
           "id": "83243bd4-e645-4dff-95b3-121683b96443",
           "queryNumber": "7294149490",
@@ -2370,7 +2410,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8211,
+      "lastBotMessageId": 8257,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22",
       "lastPlanName": "7 DAYS PASS"
@@ -3802,6 +3842,46 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "cccea7d2-a1c7-4761-807c-0f4b4ec2b488",
+      "queryNumber": "7254866509",
+      "timestamp": "2026-10-22T10:21:50.922Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Shivani Yadav",
+        "truecallerName": "Shivani",
+        "fatherName": "Binod Kumar Yadav",
+        "mobile": "7254866509",
+        "altMobile": "6200207912",
+        "circle": "JIO BHR&JHR",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "D/O Binod Kumar Yadav, village-jinga, Jinga Hazaribag, Jharkhand, 825313",
+        "totalRecords": 2
+      }
+    },
+    {
+      "id": "ca309187-c4da-44ea-b247-5f3f974c2e26",
+      "queryNumber": "6200207912",
+      "timestamp": "2026-10-22T10:21:19.334Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Rohit Kumar Yadav",
+        "truecallerName": "Koi Fayda Nahi Hehehehe",
+        "fatherName": "Khemlal yadav",
+        "mobile": "6200207912",
+        "altMobile": "Not found",
+        "circle": "BIHAR JIO",
+        "idNumber": "724331245066",
+        "email": "Not found",
+        "address": "Maheshra, Post Maheshra, Village Maheshra, Mahesra alias Mahesar, Hazaribagh, Jharkhand, 825313",
+        "totalRecords": 2
+      }
+    },
     {
       "id": "83243bd4-e645-4dff-95b3-121683b96443",
       "queryNumber": "7294149490",
@@ -5753,49 +5833,25 @@
         "address": "s/o hameed, 0, Chausana, chausana, chausana vishat aht, shamli, Uttar Pradesh, 247778",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "72727c3d-b056-43ef-87b5-17d6c2815c28",
-      "queryNumber": "7869930139",
-      "timestamp": "2026-10-20T16:38:05.747Z",
-      "source": "bot",
-      "userId": 7183197265,
-      "userName": "OG",
-      "resultSummary": {
-        "name": "Kaleem Shaha",
-        "truecallerName": "Murly bilaspur",
-        "fatherName": "gareeb shah",
-        "mobile": "7869930139",
-        "altMobile": "8889993054",
-        "circle": "JIO MP",
-        "idNumber": "514631977893",
-        "email": "Not found",
-        "address": "S/O gareeb shah, house no, ward no 06 Chakaldi, graam chakldi rampura, graam post chakldi, Chakla Vangram Budni, Sehore, Madhya Pradesh, 466446",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "a939491d-5711-405c-8458-c7110bc8aba9",
-      "queryNumber": "9303335775",
-      "timestamp": "2026-10-20T16:25:55.586Z",
-      "source": "bot",
-      "userId": 7183197265,
-      "userName": "OG",
-      "resultSummary": {
-        "name": "Karim Shah",
-        "truecallerName": "Ubed",
-        "fatherName": "mohmmad",
-        "mobile": "9303335775",
-        "altMobile": "9713097471",
-        "circle": "JIO MP",
-        "idNumber": "716667454726",
-        "email": "Not found",
-        "address": "s/o mohmmad, 30, Gopalpur, sehore, gopalpur, sehore, Madhya Pradesh, 466331",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "7ce53a6f-47bb-4530-83f3-bf03049778bd",
+      "timestamp": "2026-10-22T10:21:50.922Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 7254866509 (Shivani Yadav)"
+    },
+    {
+      "id": "025776a1-9f8e-420f-a2ce-b375cdb7485d",
+      "timestamp": "2026-10-22T10:21:19.334Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 6200207912 (Rohit Kumar Yadav)"
+    },
     {
       "id": "14dafe2d-886e-4498-a3af-0b2c85a1c223",
       "timestamp": "2026-10-22T10:18:05.376Z",
@@ -6979,25 +7035,9 @@
       "userId": 8684851606,
       "userName": "🐣",
       "summary": "Looked up 9057508633 (Not found)"
-    },
-    {
-      "id": "27a47296-87b5-4243-9ffe-ded7a43cf481",
-      "timestamp": "2026-10-20T19:29:57.895Z",
-      "type": "BOT_MESSAGE",
-      "userId": 8684851606,
-      "userName": "🐣",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "1a4341a5-80d0-49a6-98d4-0ea68b50525f",
-      "timestamp": "2026-10-20T18:36:51.884Z",
-      "type": "LOOKUP",
-      "userId": 8624451243,
-      "userName": "Sam",
-      "summary": "Looked up 8876542924 (Libiya Aktar Laskar)"
     }
   ],
-  "lastTelegramUpdateId": 168809610,
+  "lastTelegramUpdateId": 168809612,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
