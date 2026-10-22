@@ -2414,16 +2414,36 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T09:57:14.832Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 19,
-      "totalLookups": 47,
+      "dailyLookupsUsed": 20,
+      "totalLookups": 48,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-22T14:47:35.751Z",
+      "lastActiveAt": "2026-10-22T15:22:57.916Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "e737857f-e28a-4ffc-92b9-9d660448b267",
+          "queryNumber": "7531823265",
+          "timestamp": "2026-10-22T15:22:20.743Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Pappu Lohara",
+            "truecallerName": "Pappu Sir SBI",
+            "fatherName": "Atwaru  Lohara",
+            "mobile": "7531823265",
+            "altMobile": "7531823265",
+            "circle": "AIRTEL DELHI",
+            "idNumber": "Dl0920170382888",
+            "email": "Not found",
+            "address": "Rz C /32 C Block Near Gandhi Market West Sagarpur Delhi South West Delhi Delhi 110046",
+            "totalRecords": 2
+          }
+        },
         {
           "id": "0a812374-e892-4abf-84ba-d8d2f991f7ef",
           "queryNumber": "8877084243",
@@ -2802,29 +2822,9 @@
             "address": "mangartilaiya, NA, thana pirtand post atki mangartilaia, Giridih Giridh, NA, Jharkhand, 825108",
             "totalRecords": 1
           }
-        },
-        {
-          "id": "1f66601e-a647-4474-8380-6ee2a0a7c79c",
-          "queryNumber": "7091920373",
-          "timestamp": "2026-10-21T16:44:32.688Z",
-          "source": "bot",
-          "userId": 5316205408,
-          "userName": "Mukesh Kumar",
-          "resultSummary": {
-            "name": "Dhrub Kumar Singh",
-            "truecallerName": "D k Singh",
-            "fatherName": "Sudarshan  Singh",
-            "mobile": "7091920373",
-            "altMobile": "9386309071",
-            "circle": "AIRTEL BHR&JHR",
-            "idNumber": "373050925314",
-            "email": "Not found",
-            "address": "S/O Sudarshan Singh, 860, new area pahali gali, post-hazaribag ps-sadar hazaribag Hazaribag, near-shiv mandir, Hazaribagh, Jharkhand, 825301",
-            "totalRecords": 3
-          }
         }
       ],
-      "lastBotMessageId": 8380,
+      "lastBotMessageId": 8384,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22",
       "lastPlanName": "7 DAYS PASS"
@@ -4666,6 +4666,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "e737857f-e28a-4ffc-92b9-9d660448b267",
+      "queryNumber": "7531823265",
+      "timestamp": "2026-10-22T15:22:20.743Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Pappu Lohara",
+        "truecallerName": "Pappu Sir SBI",
+        "fatherName": "Atwaru  Lohara",
+        "mobile": "7531823265",
+        "altMobile": "7531823265",
+        "circle": "AIRTEL DELHI",
+        "idNumber": "Dl0920170382888",
+        "email": "Not found",
+        "address": "Rz C /32 C Block Near Gandhi Market West Sagarpur Delhi South West Delhi Delhi 110046",
+        "totalRecords": 2
+      }
+    },
     {
       "id": "0a812374-e892-4abf-84ba-d8d2f991f7ef",
       "queryNumber": "8877084243",
@@ -6637,29 +6657,17 @@
         "address": "., Panapur Gobrahi, mandir, balwakuari vaishali, Vaishali, vaishali, Bihar, 844102",
         "totalRecords": 2
       }
-    },
-    {
-      "id": "9ce25a49-c358-48ed-af7b-af1af9593e63",
-      "queryNumber": "9883203978",
-      "timestamp": "2026-10-21T10:15:13.967Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "Jawahar Lal Rai",
-        "truecallerName": "Jawaharlal Rai",
-        "fatherName": "Bimal  Rai",
-        "mobile": "9883203978",
-        "altMobile": "Not found",
-        "circle": "AIRTEL WB",
-        "idNumber": "796910196120",
-        "email": "Not found",
-        "address": "2 Rail And Rode Serampore Sporting Hooghly Hooghly West Bengal 712202",
-        "totalRecords": 2
-      }
     }
   ],
   "logs": [
+    {
+      "id": "9e89d067-73e6-4691-a7aa-c4738852adf6",
+      "timestamp": "2026-10-22T15:22:20.743Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 7531823265 (Pappu Lohara)"
+    },
     {
       "id": "7ddffe80-55ce-492b-850f-a3b1447bbff1",
       "timestamp": "2026-10-22T14:47:37.672Z",
@@ -7851,17 +7859,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "592c8cda-1575-4d47-8165-5f5fb61a0100",
-      "timestamp": "2026-10-21T09:41:25.953Z",
-      "type": "PAYMENT",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Created Auto-QR Order HEXA3GI6116 (₹19 for 7 Days VIP)"
     }
   ],
-  "lastTelegramUpdateId": 168809735,
+  "lastTelegramUpdateId": 168809737,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
