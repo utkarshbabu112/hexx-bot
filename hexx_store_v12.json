@@ -2712,6 +2712,26 @@
       "lastBotMessageId": 8199,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22"
+    },
+    "7686795312": {
+      "id": 7686795312,
+      "firstName": "Faseeh",
+      "credits": 1,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 0,
+      "totalLookups": 0,
+      "referralCode": "HEX795312",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-22T09:32:22.025Z",
+      "lastActiveAt": "2026-10-22T09:32:22.025Z",
+      "isBanned": false,
+      "history": [],
+      "lastBotMessageId": 8218,
+      "lastBotMessageHasPhoto": false
     }
   },
   "orders": {
@@ -5668,6 +5688,14 @@
   ],
   "logs": [
     {
+      "id": "93c89b18-0861-4bec-9889-6a2e7f53e2b2",
+      "timestamp": "2026-10-22T09:32:22.330Z",
+      "type": "BOT_MESSAGE",
+      "userId": 7686795312,
+      "userName": "Faseeh",
+      "summary": "Started bot (/start)"
+    },
+    {
       "id": "6a7972bc-1dd7-4a68-890c-8f63ff4f9953",
       "timestamp": "2026-10-22T09:19:42.101Z",
       "type": "BOT_MESSAGE",
@@ -6858,17 +6886,9 @@
       "userId": 8898442254,
       "userName": "𝐄𝐑𝐑𝐎𝐑 | 𝐗𝐑 🍂",
       "summary": "Looked up 9015317744 (ALOKJAI)"
-    },
-    {
-      "id": "2b8a4eee-45b0-4884-aec4-ff4969c73fb2",
-      "timestamp": "2026-10-20T15:30:48.569Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 9876543210 (Dev Jyoti Roy)"
     }
   ],
-  "lastTelegramUpdateId": 168809542,
+  "lastTelegramUpdateId": 168809543,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
