@@ -2372,16 +2372,56 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T09:57:14.832Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 15,
-      "totalLookups": 43,
+      "dailyLookupsUsed": 17,
+      "totalLookups": 45,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-22T12:55:48.501Z",
+      "lastActiveAt": "2026-10-22T13:04:15.030Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "7dfa6d09-2eae-4d20-9cf7-6c67860d862f",
+          "queryNumber": "8969542384",
+          "timestamp": "2026-10-22T13:04:16.503Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Kesho Singh",
+            "truecallerName": "Kaisi Sir",
+            "fatherName": "Ganesh  Singh",
+            "mobile": "8969542384",
+            "altMobile": "9835908730",
+            "circle": "AIRTEL BHR&JHR",
+            "idNumber": "Erx7167588",
+            "email": "Not found",
+            "address": "104, Okni 1, Ps Sadar, Hazaribagh, Jharkhand, 825301",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "5e2651c1-e75a-433b-81b5-8b90fdc6039d",
+          "queryNumber": "9835908730",
+          "timestamp": "2026-10-22T13:00:57.342Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Kesho Singh",
+            "truecallerName": "Ankit",
+            "fatherName": "Ganesh  Singh",
+            "mobile": "8969542384",
+            "altMobile": "9835908730",
+            "circle": "AIRTEL BHR&JHR",
+            "idNumber": "Erx7167588",
+            "email": "Not found",
+            "address": "104, Okni 1, Ps Sadar, Hazaribagh, Jharkhand, 825301",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "af0fcb47-4b98-4561-a6b2-9917d61f8cde",
           "queryNumber": "9582165526",
@@ -2742,7 +2782,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8360,
+      "lastBotMessageId": 8366,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22",
       "lastPlanName": "7 DAYS PASS"
@@ -4584,6 +4624,46 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "7dfa6d09-2eae-4d20-9cf7-6c67860d862f",
+      "queryNumber": "8969542384",
+      "timestamp": "2026-10-22T13:04:16.503Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Kesho Singh",
+        "truecallerName": "Kaisi Sir",
+        "fatherName": "Ganesh  Singh",
+        "mobile": "8969542384",
+        "altMobile": "9835908730",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "Erx7167588",
+        "email": "Not found",
+        "address": "104, Okni 1, Ps Sadar, Hazaribagh, Jharkhand, 825301",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "5e2651c1-e75a-433b-81b5-8b90fdc6039d",
+      "queryNumber": "9835908730",
+      "timestamp": "2026-10-22T13:00:57.342Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Kesho Singh",
+        "truecallerName": "Ankit",
+        "fatherName": "Ganesh  Singh",
+        "mobile": "8969542384",
+        "altMobile": "9835908730",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "Erx7167588",
+        "email": "Not found",
+        "address": "104, Okni 1, Ps Sadar, Hazaribagh, Jharkhand, 825301",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "af0fcb47-4b98-4561-a6b2-9917d61f8cde",
       "queryNumber": "9582165526",
@@ -6534,48 +6614,25 @@
         "address": "S/O Mahesh Pasvan, Bhela Simri gram bela simari, Khagaria, Bihar, 851204",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "e7a37370-6852-41a1-8cb9-dcfb4155190c",
-      "queryNumber": "8102144230",
-      "timestamp": "2026-10-21T09:51:40.588Z",
-      "source": "bot",
-      "userId": 5316205408,
-      "userName": "Mukesh Kumar",
-      "resultSummary": {
-        "name": "Ful Kumari",
-        "truecallerName": "Manii Ji",
-        "fatherName": "Manoj Prasad",
-        "mobile": "8102144230",
-        "altMobile": "8271040235",
-        "circle": "JIO BHR&JHR",
-        "idNumber": "382852586735",
-        "email": "Not found",
-        "address": "W/O Manoj Prasad, Bagra, vill- piparadih po-bagra ps-simariya, Serandag Simaria, Chatra, Jharkhand, 825103",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "2e30ea84-3a8d-42e6-aa6b-0f2b58c2c70f",
-      "queryNumber": "7557775700",
-      "timestamp": "2026-10-21T08:50:32.944Z",
-      "source": "bot",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "resultSummary": {
-        "name": "MR RAHUL NARANG",
-        "fatherName": "Rajbir Narang",
-        "mobile": "7557775700",
-        "altMobile": "Not found",
-        "circle": "VODA BHR&JHR",
-        "idNumber": "898378512051",
-        "email": "Not found",
-        "address": "FLAT NO 3/C SHYAMJEE PALACE, SHASTRI NAGAR WEST NEAR JALARAM TEMPLE, NEAR JALARAM TEMPLE, BANK MORE DHANBAD DHANBAD, DHANBAD, DHANBAD, JHARKHAND, 826001",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "fbe87546-7a2d-4832-bc62-e2be7ebfa3e0",
+      "timestamp": "2026-10-22T13:04:16.503Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 8969542384 (Kesho Singh)"
+    },
+    {
+      "id": "ac8373fd-aa86-4469-8594-74c18d1b8a1d",
+      "timestamp": "2026-10-22T13:00:57.342Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 9835908730 (Kesho Singh)"
+    },
     {
       "id": "509ff53f-0bbc-4259-8c31-5f5d34358ee8",
       "timestamp": "2026-10-22T12:55:50.349Z",
@@ -7759,25 +7816,9 @@
       "userId": 6363693254,
       "userName": "Akash",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "d3eb0c7a-26e1-496b-a162-d9500791fb5e",
-      "timestamp": "2026-10-21T07:49:29.107Z",
-      "type": "BOT_MESSAGE",
-      "userId": 8472839897,
-      "userName": "MANJIT KUMAR",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "124e973a-0319-4223-9d6e-a0438a1c38fc",
-      "timestamp": "2026-10-21T07:27:57.214Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809716,
+  "lastTelegramUpdateId": 168809718,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
