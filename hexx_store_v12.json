@@ -2414,16 +2414,36 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T09:57:14.832Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 20,
-      "totalLookups": 48,
+      "dailyLookupsUsed": 21,
+      "totalLookups": 49,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-22T15:22:57.916Z",
+      "lastActiveAt": "2026-10-22T15:52:18.390Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "d0622b11-8fa0-440a-b534-dfdf59320919",
+          "queryNumber": "9334324778",
+          "timestamp": "2026-10-22T15:52:19.771Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Chandra Deo Singh",
+            "truecallerName": "C D Singh",
+            "fatherName": "Moti Lal Singh",
+            "mobile": "9334324778",
+            "altMobile": "Not found",
+            "circle": "AIRTEL BHR&JHR",
+            "idNumber": "541086561190",
+            "email": "Not found",
+            "address": "S/O Moti Lal Singh, Ghandhi Maidan East, Matwari Hazaribag, Hazaribagh Hazaribagh Barkagaon, Jharkhand, 825301",
+            "totalRecords": 5
+          }
+        },
         {
           "id": "e737857f-e28a-4ffc-92b9-9d660448b267",
           "queryNumber": "7531823265",
@@ -2802,29 +2822,9 @@
             "address": "W/O Surendra Das, Aurugerua, Aunru Hunterganj, Chatra, Jharkhand, 825401",
             "totalRecords": 2
           }
-        },
-        {
-          "id": "15d9c5c9-9d69-4445-b0e1-96bd0270d9c8",
-          "queryNumber": "9523487200",
-          "timestamp": "2026-10-22T08:51:21.942Z",
-          "source": "bot",
-          "userId": 5316205408,
-          "userName": "Mukesh Kumar",
-          "resultSummary": {
-            "name": "Nisha rani",
-            "truecallerName": "Mukesh Neha",
-            "fatherName": "Ajay kumar",
-            "mobile": "9523487200",
-            "altMobile": "Not found",
-            "circle": "BIHAR JIO",
-            "idNumber": "508558412862",
-            "email": "Not found",
-            "address": "mangartilaiya, NA, thana pirtand post atki mangartilaia, Giridih Giridh, NA, Jharkhand, 825108",
-            "totalRecords": 1
-          }
         }
       ],
-      "lastBotMessageId": 8384,
+      "lastBotMessageId": 8394,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22",
       "lastPlanName": "7 DAYS PASS"
@@ -4729,6 +4729,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "d0622b11-8fa0-440a-b534-dfdf59320919",
+      "queryNumber": "9334324778",
+      "timestamp": "2026-10-22T15:52:19.771Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Chandra Deo Singh",
+        "truecallerName": "C D Singh",
+        "fatherName": "Moti Lal Singh",
+        "mobile": "9334324778",
+        "altMobile": "Not found",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "541086561190",
+        "email": "Not found",
+        "address": "S/O Moti Lal Singh, Ghandhi Maidan East, Matwari Hazaribag, Hazaribagh Hazaribagh Barkagaon, Jharkhand, 825301",
+        "totalRecords": 5
+      }
+    },
     {
       "id": "de62cdc5-5aee-49ed-8e1c-498c4da8d260",
       "queryNumber": "8000796117",
@@ -6700,29 +6720,17 @@
         "address": "S/O Ram Naresh Singh, Ward 13, Raja Pakar, Vaishali, Bihar, 844124",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "18b58603-d637-4913-ab97-1245bd08554d",
-      "queryNumber": "8969824959",
-      "timestamp": "2026-10-21T10:30:55.667Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "Dilip Mishra",
-        "truecallerName": "Dilip Mishra",
-        "fatherName": "Not found",
-        "mobile": "8969824959",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "8c6bfaeb-00ba-4dad-8c41-89d5fdf64886",
+      "timestamp": "2026-10-22T15:52:19.771Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 9334324778 (Chandra Deo Singh)"
+    },
     {
       "id": "49fab2bf-1666-4883-b90e-6c04d1a3d828",
       "timestamp": "2026-10-22T15:34:12.044Z",
@@ -7914,17 +7922,9 @@
       "userId": 5316205408,
       "userName": "Mukesh Kumar",
       "summary": "Order HEXSMLA5408 PAID (7 Days VIP, Rs.19)"
-    },
-    {
-      "id": "ec3d9f39-597d-43f6-8d47-b8e28aa15cea",
-      "timestamp": "2026-10-21T09:55:50.515Z",
-      "type": "PAYMENT",
-      "userId": 5316205408,
-      "userName": "Mukesh Kumar",
-      "summary": "Created Auto-QR Order HEXSMLA5408 (₹19 for 7 Days VIP)"
     }
   ],
-  "lastTelegramUpdateId": 168809744,
+  "lastTelegramUpdateId": 168809745,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
