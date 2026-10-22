@@ -323,20 +323,40 @@
     "1674577549": {
       "id": 1674577549,
       "firstName": "Shreeshank",
-      "credits": 1,
+      "credits": 0,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
-      "dailyLookupsUsed": 1,
-      "totalLookups": 2,
+      "dailyLookupsUsed": 2,
+      "totalLookups": 3,
       "referralCode": "HEX577549",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T04:06:33.877Z",
-      "lastActiveAt": "2026-10-22T16:38:43.061Z",
+      "lastActiveAt": "2026-10-22T17:52:32.834Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "48073416-3ac8-4640-aef8-61ee98719aa0",
+          "queryNumber": "7303062923",
+          "timestamp": "2026-10-22T17:52:34.715Z",
+          "source": "bot",
+          "userId": 1674577549,
+          "userName": "Shreeshank",
+          "resultSummary": {
+            "name": "Call",
+            "truecallerName": "Call",
+            "fatherName": "Not found",
+            "mobile": "7303062923",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "2d2d2dba-c6a4-4c91-ad71-25991a175708",
           "queryNumber": "8861680294",
@@ -378,7 +398,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8402,
+      "lastBotMessageId": 8424,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22",
       "dailyLimit": 2
@@ -4855,6 +4875,26 @@
   },
   "globalHistory": [
     {
+      "id": "48073416-3ac8-4640-aef8-61ee98719aa0",
+      "queryNumber": "7303062923",
+      "timestamp": "2026-10-22T17:52:34.715Z",
+      "source": "bot",
+      "userId": 1674577549,
+      "userName": "Shreeshank",
+      "resultSummary": {
+        "name": "Call",
+        "truecallerName": "Call",
+        "fatherName": "Not found",
+        "mobile": "7303062923",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "eb9c6404-b7c0-42ef-819e-b0f286244387",
       "queryNumber": "9988342597",
       "timestamp": "2026-10-22T17:22:20.434Z",
@@ -6825,29 +6865,17 @@
         "address": "Not found",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "f3de5774-62b7-483a-81d1-66486435129e",
-      "queryNumber": "7209632167",
-      "timestamp": "2026-10-21T10:47:51.263Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "Sakshi",
-        "truecallerName": "Sakshi",
-        "fatherName": "Not found",
-        "mobile": "7209632167",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "cf0c187a-87c2-4fd2-8c6f-5fb12b5d631c",
+      "timestamp": "2026-10-22T17:52:34.715Z",
+      "type": "LOOKUP",
+      "userId": 1674577549,
+      "userName": "Shreeshank",
+      "summary": "Looked up 7303062923 (Call)"
+    },
     {
       "id": "7907f16a-e0f7-4588-a8d1-d886cecf6b8b",
       "timestamp": "2026-10-22T17:22:20.434Z",
@@ -8039,17 +8067,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Looked up 8969824959 (Dilip Mishra)"
-    },
-    {
-      "id": "e77b0823-8282-4bda-8c35-f7edacc2c4a9",
-      "timestamp": "2026-10-21T10:16:46.691Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 7654129275 (Chandan Kumar)"
     }
   ],
-  "lastTelegramUpdateId": 168809770,
+  "lastTelegramUpdateId": 168809771,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
