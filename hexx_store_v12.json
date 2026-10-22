@@ -2119,16 +2119,36 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T09:57:14.832Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 11,
-      "totalLookups": 39,
+      "dailyLookupsUsed": 12,
+      "totalLookups": 40,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-22T10:21:49.528Z",
+      "lastActiveAt": "2026-10-22T10:23:51.253Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "b7a49a26-8003-488d-81e9-dac84b2db47a",
+          "queryNumber": "8789288824",
+          "timestamp": "2026-10-22T10:23:52.870Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Divya Kumari",
+            "truecallerName": "amit nayak",
+            "fatherName": "Sudher Sharma",
+            "mobile": "8789288824",
+            "altMobile": "9693947053",
+            "circle": "BIHAR JIO",
+            "idNumber": "827604618312",
+            "email": "Not found",
+            "address": "D/O Sudher Sharma, sadanand road Hazaribagh, sales tax colony, Hazaribag Barkagaon, Hazaribag, Jharkhand, 825301",
+            "totalRecords": 2
+          }
+        },
         {
           "id": "cccea7d2-a1c7-4761-807c-0f4b4ec2b488",
           "queryNumber": "7254866509",
@@ -2410,7 +2430,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8257,
+      "lastBotMessageId": 8259,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22",
       "lastPlanName": "7 DAYS PASS"
@@ -2853,6 +2873,91 @@
         }
       ],
       "lastBotMessageId": 8232,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-22"
+    },
+    "7597469257": {
+      "id": 7597469257,
+      "firstName": "BIOFULLYY",
+      "username": "Conixion",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX469257",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-22T10:26:05.167Z",
+      "lastActiveAt": "2026-10-22T10:26:30.055Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "1f39ca61-2a49-4e15-82bb-8e19b1fa2eae",
+          "queryNumber": "9411522672",
+          "timestamp": "2026-10-22T10:26:30.953Z",
+          "source": "bot",
+          "userId": 7597469257,
+          "userName": "BIOFULLYY",
+          "resultSummary": {
+            "name": "Prakash Chandra Joshi",
+            "truecallerName": "Chotu Bolero Wala",
+            "fatherName": "rebadhar",
+            "mobile": "9548552173",
+            "altMobile": "9411522672",
+            "circle": "JIO UPW",
+            "idNumber": "315675613692",
+            "email": "Not found",
+            "address": "s/o rebadhar, 40, Bageshwar, ghatbagad ward, bageshwar, bageshwar, Uttarakhand, 263642",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastBotMessageId": 8263,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-22"
+    },
+    "8678125218": {
+      "id": 8678125218,
+      "firstName": "Fih",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX125218",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-22T10:27:13.249Z",
+      "lastActiveAt": "2026-10-22T10:27:16.179Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "22237b6b-ab18-4ad4-bb18-09c0331efa57",
+          "queryNumber": "9335766782",
+          "timestamp": "2026-10-22T10:27:17.661Z",
+          "source": "bot",
+          "userId": 8678125218,
+          "userName": "Fih",
+          "resultSummary": {
+            "name": "sandeep kumar maurya",
+            "truecallerName": "Adv bhupandr",
+            "fatherName": "ganga prasad",
+            "mobile": "9335766782",
+            "altMobile": "9889519765",
+            "circle": "JIO UPE",
+            "idNumber": "728649298225",
+            "email": "Not found",
+            "address": "28B, nandpur nijampur malhor, nandi vihar colony, Chinhat, Lucknow, Uttar Pradesh, 227105",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastBotMessageId": 8267,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22"
     }
@@ -3842,6 +3947,66 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "22237b6b-ab18-4ad4-bb18-09c0331efa57",
+      "queryNumber": "9335766782",
+      "timestamp": "2026-10-22T10:27:17.661Z",
+      "source": "bot",
+      "userId": 8678125218,
+      "userName": "Fih",
+      "resultSummary": {
+        "name": "sandeep kumar maurya",
+        "truecallerName": "Adv bhupandr",
+        "fatherName": "ganga prasad",
+        "mobile": "9335766782",
+        "altMobile": "9889519765",
+        "circle": "JIO UPE",
+        "idNumber": "728649298225",
+        "email": "Not found",
+        "address": "28B, nandpur nijampur malhor, nandi vihar colony, Chinhat, Lucknow, Uttar Pradesh, 227105",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "1f39ca61-2a49-4e15-82bb-8e19b1fa2eae",
+      "queryNumber": "9411522672",
+      "timestamp": "2026-10-22T10:26:30.953Z",
+      "source": "bot",
+      "userId": 7597469257,
+      "userName": "BIOFULLYY",
+      "resultSummary": {
+        "name": "Prakash Chandra Joshi",
+        "truecallerName": "Chotu Bolero Wala",
+        "fatherName": "rebadhar",
+        "mobile": "9548552173",
+        "altMobile": "9411522672",
+        "circle": "JIO UPW",
+        "idNumber": "315675613692",
+        "email": "Not found",
+        "address": "s/o rebadhar, 40, Bageshwar, ghatbagad ward, bageshwar, bageshwar, Uttarakhand, 263642",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "b7a49a26-8003-488d-81e9-dac84b2db47a",
+      "queryNumber": "8789288824",
+      "timestamp": "2026-10-22T10:23:52.870Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Divya Kumari",
+        "truecallerName": "amit nayak",
+        "fatherName": "Sudher Sharma",
+        "mobile": "8789288824",
+        "altMobile": "9693947053",
+        "circle": "BIHAR JIO",
+        "idNumber": "827604618312",
+        "email": "Not found",
+        "address": "D/O Sudher Sharma, sadanand road Hazaribagh, sales tax colony, Hazaribag Barkagaon, Hazaribag, Jharkhand, 825301",
+        "totalRecords": 2
+      }
+    },
     {
       "id": "cccea7d2-a1c7-4761-807c-0f4b4ec2b488",
       "queryNumber": "7254866509",
@@ -5773,69 +5938,49 @@
         "address": "Not found",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "5a20cc5c-a1b0-47df-b045-850b83443785",
-      "queryNumber": "8876542924",
-      "timestamp": "2026-10-20T18:36:51.884Z",
-      "source": "bot",
-      "userId": 8624451243,
-      "userName": "Sam",
-      "resultSummary": {
-        "name": "Libiya Aktar Laskar",
-        "truecallerName": "Libiya Aktar Laskar",
-        "fatherName": "Not found",
-        "mobile": "8876542924",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "d32f5cdc-8ff9-405b-833b-04b19aefb01e",
-      "queryNumber": "8876541914",
-      "timestamp": "2026-10-20T18:36:29.047Z",
-      "source": "bot",
-      "userId": 8624451243,
-      "userName": "Sam",
-      "resultSummary": {
-        "name": "Bikram",
-        "truecallerName": "Bikram",
-        "fatherName": "Not found",
-        "mobile": "8876541914",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "1df562dc-5451-448e-a06a-494dc60939bb",
-      "queryNumber": "7906627011",
-      "timestamp": "2026-10-20T17:36:03.391Z",
-      "source": "bot",
-      "userId": 6783862138,
-      "userName": "Rakesh",
-      "resultSummary": {
-        "name": "Vaseem",
-        "truecallerName": "My Life❤️💋💋",
-        "fatherName": "hameed",
-        "mobile": "7906627011",
-        "altMobile": "9720908080",
-        "circle": "JIO UPW",
-        "idNumber": "457530797542",
-        "email": "Not found",
-        "address": "s/o hameed, 0, Chausana, chausana, chausana vishat aht, shamli, Uttar Pradesh, 247778",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "449667e2-3634-46ff-a551-7bb0d5f33250",
+      "timestamp": "2026-10-22T10:27:17.661Z",
+      "type": "LOOKUP",
+      "userId": 8678125218,
+      "userName": "Fih",
+      "summary": "Looked up 9335766782 (sandeep kumar maurya)"
+    },
+    {
+      "id": "09b448e0-0ac4-4ac2-acac-53e5a4bc23aa",
+      "timestamp": "2026-10-22T10:27:13.559Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8678125218,
+      "userName": "Fih",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "70457bfd-0738-454d-ab42-ee70474108e8",
+      "timestamp": "2026-10-22T10:26:30.953Z",
+      "type": "LOOKUP",
+      "userId": 7597469257,
+      "userName": "BIOFULLYY",
+      "summary": "Looked up 9411522672 (Prakash Chandra Joshi)"
+    },
+    {
+      "id": "2d403ea5-223c-454e-81d4-aa1d8b1951ca",
+      "timestamp": "2026-10-22T10:26:05.465Z",
+      "type": "BOT_MESSAGE",
+      "userId": 7597469257,
+      "userName": "BIOFULLYY",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "134126e1-43b8-4979-9fcb-ce77be3adb07",
+      "timestamp": "2026-10-22T10:23:52.870Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 8789288824 (Divya Kumari)"
+    },
     {
       "id": "7ce53a6f-47bb-4530-83f3-bf03049778bd",
       "timestamp": "2026-10-22T10:21:50.922Z",
@@ -6995,49 +7140,9 @@
       "userId": 6247554367,
       "userName": "Divya",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "4d02cb7b-3898-4c90-91c1-6762c15ee75b",
-      "timestamp": "2026-10-21T01:24:48.647Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "0d5b6e32-374d-4c29-9882-fea4d7b00012",
-      "timestamp": "2026-10-21T01:09:48.528Z",
-      "type": "LOOKUP",
-      "userId": 8873453593,
-      "userName": "Nikita",
-      "summary": "Looked up 8509319761 (Michel)"
-    },
-    {
-      "id": "eb1fb333-8b92-4351-9be9-09273272c6cc",
-      "timestamp": "2026-10-21T01:09:14.447Z",
-      "type": "BOT_MESSAGE",
-      "userId": 8873453593,
-      "userName": "Nikita",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "70bb0fda-cb06-4a66-9648-a3727eeac643",
-      "timestamp": "2026-10-20T22:06:09.918Z",
-      "type": "BOT_MESSAGE",
-      "userId": 8722331048,
-      "userName": "L",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "e78ff3cc-f531-45eb-9e3c-a802bd2b2853",
-      "timestamp": "2026-10-20T19:30:16.052Z",
-      "type": "LOOKUP",
-      "userId": 8684851606,
-      "userName": "🐣",
-      "summary": "Looked up 9057508633 (Not found)"
     }
   ],
-  "lastTelegramUpdateId": 168809612,
+  "lastTelegramUpdateId": 168809619,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
