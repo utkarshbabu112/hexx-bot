@@ -1867,15 +1867,35 @@
       "premiumUntil": null,
       "totalSpent": 0,
       "dailyLookupsUsed": 1,
-      "totalLookups": 1,
+      "totalLookups": 2,
       "referralCode": "HEX481272",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T03:33:33.512Z",
-      "lastActiveAt": "2026-10-21T03:34:41.986Z",
+      "lastActiveAt": "2026-10-22T08:46:23.307Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "89782ca8-7981-493b-9c68-b20177af461f",
+          "queryNumber": "9131673040",
+          "timestamp": "2026-10-22T08:46:25.338Z",
+          "source": "bot",
+          "userId": 6502481272,
+          "userName": "Gamer",
+          "resultSummary": {
+            "name": "KUSH KUMAR PATEL",
+            "truecallerName": "Kush Kumar Patel",
+            "fatherName": "NROTTAM PATEL",
+            "mobile": "9131673040",
+            "altMobile": "8817259261",
+            "circle": "VI MP",
+            "idNumber": "495241015189",
+            "email": "pking5478@gmail.com",
+            "address": "S/O Nrottam Patel, S/O Nrottam Patel, manjhot para, Kotmisonar Janjgir , KOTMI SONAR-JANJGIR-CHAMPA, CT, 495552",
+            "totalRecords": 6
+          }
+        },
         {
           "id": "4d2949a0-5263-48ea-9336-3f7ce08f1c1f",
           "queryNumber": "7722865930",
@@ -1897,8 +1917,8 @@
           }
         }
       ],
-      "lastLookupDate": "2026-10-21",
-      "lastBotMessageId": 7825,
+      "lastLookupDate": "2026-10-22",
+      "lastBotMessageId": 8185,
       "lastBotMessageHasPhoto": false
     },
     "7253480289": {
@@ -3470,6 +3490,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "89782ca8-7981-493b-9c68-b20177af461f",
+      "queryNumber": "9131673040",
+      "timestamp": "2026-10-22T08:46:25.338Z",
+      "source": "bot",
+      "userId": 6502481272,
+      "userName": "Gamer",
+      "resultSummary": {
+        "name": "KUSH KUMAR PATEL",
+        "truecallerName": "Kush Kumar Patel",
+        "fatherName": "NROTTAM PATEL",
+        "mobile": "9131673040",
+        "altMobile": "8817259261",
+        "circle": "VI MP",
+        "idNumber": "495241015189",
+        "email": "pking5478@gmail.com",
+        "address": "S/O Nrottam Patel, S/O Nrottam Patel, manjhot para, Kotmisonar Janjgir , KOTMI SONAR-JANJGIR-CHAMPA, CT, 495552",
+        "totalRecords": 6
+      }
+    },
     {
       "id": "24f8bd54-2ce5-4e24-afdf-064eb258fc75",
       "queryNumber": "8252464080",
@@ -5439,29 +5479,17 @@
         "address": "D/O Ajimuddin, 117/KH, motitalab para ramaiya ward 17, jagdalpur, JAGDALPUR, Bastar, Bastar, Chhattisgarh, 494001",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "f74766a4-3e87-4ddf-b37a-f766e4bf783c",
-      "queryNumber": "9303340905",
-      "timestamp": "2026-10-20T11:36:38.257Z",
-      "source": "bot",
-      "userId": 8447532330,
-      "userName": "Sharef",
-      "resultSummary": {
-        "name": "Yashwant Bamore",
-        "truecallerName": "Firoz China.",
-        "fatherName": "Manohar Bamore",
-        "mobile": "9303340905",
-        "altMobile": "9888888968",
-        "circle": "JIO MP",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "S/O Manohar Bamore, Makan N0 76 Ward N0 10, Post-somganw, gehal ganw East Nimar, Madhya Pradesh, 450114",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "71f5bdf6-aca3-4462-9d18-ad4e41bf7adc",
+      "timestamp": "2026-10-22T08:46:25.338Z",
+      "type": "LOOKUP",
+      "userId": 6502481272,
+      "userName": "Gamer",
+      "summary": "Looked up 9131673040 (KUSH KUMAR PATEL)"
+    },
     {
       "id": "b71e190c-709d-4f49-b79a-1ee9e20f6142",
       "timestamp": "2026-10-22T08:29:51.345Z",
@@ -6653,17 +6681,9 @@
       "userId": 8499830773,
       "userName": "𝒪𝓂𝓀𝒶𝓇_𝒫𝒶𝓉𝒾𝓁.",
       "summary": "Created Auto-QR Order HEXDLIB0773 (₹49 for 30 Days VIP)"
-    },
-    {
-      "id": "556b9735-9f66-4f79-a77c-4ea990ee3e5f",
-      "timestamp": "2026-10-20T12:44:18.854Z",
-      "type": "LOOKUP",
-      "userId": 8499830773,
-      "userName": "𝒪𝓂𝓀𝒶𝓇_𝒫𝒶𝓉𝒾𝓁.",
-      "summary": "Looked up 8000796117 (Jay Jayantibhai Patel)"
     }
   ],
-  "lastTelegramUpdateId": 168809513,
+  "lastTelegramUpdateId": 168809516,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
