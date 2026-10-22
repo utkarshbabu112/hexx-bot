@@ -141,7 +141,7 @@
       {
         "id": "plan_30d",
         "name": "1 YEAR PASS",
-        "price": 99,
+        "price": 9999999,
         "days": 365,
         "credits": 0,
         "badge": "365 DAYS",
@@ -333,7 +333,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-22T09:24:07.462Z",
+      "lastActiveAt": "2026-10-22T10:12:36.813Z",
       "isBanned": false,
       "history": [
         {
@@ -536,8 +536,8 @@
           }
         }
       ],
-      "lastBotMessageId": 8215,
-      "lastBotMessageHasPhoto": false,
+      "lastBotMessageId": 8240,
+      "lastBotMessageHasPhoto": true,
       "isAdminUnlocked": true,
       "lastLookupDate": "2026-10-22",
       "dailyLimit": 1
@@ -3753,6 +3753,30 @@
       "createdAt": "2026-10-21T11:52:23.177Z",
       "expiresAt": "2026-10-21T12:02:23.177Z",
       "botQrMessageId": 7960
+    },
+    "HEXU1QM6116": {
+      "orderId": "HEXU1QM6116",
+      "famOrderId": "HEXU1QM6116",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "userUsername": "Uhtkarshh",
+      "planId": "plan_30d",
+      "planName": "1 YEAR PASS",
+      "amount": 9999999,
+      "payableAmount": "9999999",
+      "qrImageUrl": "https://famgateway.in/api/qr/HEXU1QM6116",
+      "qrDataUrl": "data:image/png;base64,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",
+      "lastImapScanAt": 0,
+      "credits": 0,
+      "days": 365,
+      "status": "PENDING",
+      "paymentUrl": "https://famgateway.in/?order=HEXU1QM6116",
+      "upiIntentUrl": "upi://pay?pa=8252464080%40fam&pn=Hexx%20Info%20Bot&am=9999999&cu=INR&tn=HEXU1QM6116&tr=HEXU1QM6116",
+      "qrPayload": "upi://pay?pa=8252464080%40fam&pn=Hexx%20Info%20Bot&am=9999999&cu=INR&tn=HEXU1QM6116&tr=HEXU1QM6116",
+      "gatewaySource": "direct_gmail",
+      "createdAt": "2026-10-22T10:12:36.814Z",
+      "expiresAt": "2026-10-22T10:22:36.814Z",
+      "botQrMessageId": 8240
     }
   },
   "globalHistory": [
@@ -5751,6 +5775,22 @@
   ],
   "logs": [
     {
+      "id": "4d4f86a2-74da-4c34-83c1-ce0c10b4a51d",
+      "timestamp": "2026-10-22T10:12:36.867Z",
+      "type": "PAYMENT",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Created Auto-QR Order HEXU1QM6116 (₹9999999 for 365 Days VIP)"
+    },
+    {
+      "id": "6ca91b4f-ed7a-41ff-86b9-1373d33354af",
+      "timestamp": "2026-10-22T10:11:55.244Z",
+      "type": "BOT_MESSAGE",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Started bot (/start)"
+    },
+    {
       "id": "8e3bfe16-58d8-440f-9334-d8f3e44db62b",
       "timestamp": "2026-10-22T09:58:47.844Z",
       "type": "LOOKUP",
@@ -6933,25 +6973,9 @@
       "userId": 8624451243,
       "userName": "Sam",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "759e88c9-ee04-4fcb-b5c6-5be8aa625928",
-      "timestamp": "2026-10-20T17:36:03.391Z",
-      "type": "LOOKUP",
-      "userId": 6783862138,
-      "userName": "Rakesh",
-      "summary": "Looked up 7906627011 (Vaseem)"
-    },
-    {
-      "id": "436e2205-86b7-46b1-8ada-75a0f538f617",
-      "timestamp": "2026-10-20T16:38:05.747Z",
-      "type": "LOOKUP",
-      "userId": 7183197265,
-      "userName": "OG",
-      "summary": "Looked up 7869930139 (Kaleem Shaha)"
     }
   ],
-  "lastTelegramUpdateId": 168809554,
+  "lastTelegramUpdateId": 168809565,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
