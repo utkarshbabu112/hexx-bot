@@ -2095,20 +2095,40 @@
       "id": 5316205408,
       "firstName": "Mukesh Kumar",
       "username": "mukesh_lawyer",
-      "credits": 0,
+      "credits": 1,
       "isPremium": true,
       "premiumUntil": "2026-10-28T09:57:14.832Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 28,
-      "totalLookups": 28,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 29,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-21T16:48:12.499Z",
+      "lastActiveAt": "2026-10-22T08:51:21.381Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "15d9c5c9-9d69-4445-b0e1-96bd0270d9c8",
+          "queryNumber": "9523487200",
+          "timestamp": "2026-10-22T08:51:21.942Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Nisha rani",
+            "truecallerName": "Mukesh Neha",
+            "fatherName": "Ajay kumar",
+            "mobile": "9523487200",
+            "altMobile": "Not found",
+            "circle": "BIHAR JIO",
+            "idNumber": "508558412862",
+            "email": "Not found",
+            "address": "mangartilaiya, NA, thana pirtand post atki mangartilaia, Giridih Giridh, NA, Jharkhand, 825108",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "a9f092ab-a404-442d-9d84-bcfc5745c072",
           "queryNumber": "8252596912",
@@ -2210,9 +2230,9 @@
           }
         }
       ],
-      "lastBotMessageId": 8045,
+      "lastBotMessageId": 8193,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-21",
+      "lastLookupDate": "2026-10-22",
       "lastPlanName": "7 DAYS PASS"
     },
     "6976365330": {
@@ -2243,15 +2263,35 @@
       "premiumUntil": null,
       "totalSpent": 0,
       "dailyLookupsUsed": 1,
-      "totalLookups": 1,
+      "totalLookups": 2,
       "referralCode": "HEX673447",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T10:33:48.708Z",
-      "lastActiveAt": "2026-10-21T10:34:10.088Z",
+      "lastActiveAt": "2026-10-22T08:51:11.009Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "43d33612-84e0-4275-a686-37698f943356",
+          "queryNumber": "7974581935",
+          "timestamp": "2026-10-22T08:50:44.884Z",
+          "source": "bot",
+          "userId": 7228673447,
+          "userName": "Sameer",
+          "resultSummary": {
+            "name": "Narendra Kumar Patel",
+            "truecallerName": "Naresh Patel",
+            "fatherName": "Shri Ram Kumar Patel",
+            "mobile": "7974581935",
+            "altMobile": "8223846675",
+            "circle": "JIO MP",
+            "idNumber": "818510890926",
+            "email": "Not found",
+            "address": "S/O Shri Ram Kumar Patel, ward no-14, indira chowk, SIRLI JANJGIR - CHAMPA, Chhattisgarh, 495554",
+            "totalRecords": 2
+          }
+        },
         {
           "id": "a3dcfa5d-124d-4a56-89e2-3ba9b004172b",
           "queryNumber": "7722865930",
@@ -2273,9 +2313,9 @@
           }
         }
       ],
-      "lastBotMessageId": 7930,
+      "lastBotMessageId": 8189,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-21"
+      "lastLookupDate": "2026-10-22"
     },
     "8192309600": {
       "id": 8192309600,
@@ -3490,6 +3530,46 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "15d9c5c9-9d69-4445-b0e1-96bd0270d9c8",
+      "queryNumber": "9523487200",
+      "timestamp": "2026-10-22T08:51:21.942Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Nisha rani",
+        "truecallerName": "Mukesh Neha",
+        "fatherName": "Ajay kumar",
+        "mobile": "9523487200",
+        "altMobile": "Not found",
+        "circle": "BIHAR JIO",
+        "idNumber": "508558412862",
+        "email": "Not found",
+        "address": "mangartilaiya, NA, thana pirtand post atki mangartilaia, Giridih Giridh, NA, Jharkhand, 825108",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "43d33612-84e0-4275-a686-37698f943356",
+      "queryNumber": "7974581935",
+      "timestamp": "2026-10-22T08:50:44.884Z",
+      "source": "bot",
+      "userId": 7228673447,
+      "userName": "Sameer",
+      "resultSummary": {
+        "name": "Narendra Kumar Patel",
+        "truecallerName": "Naresh Patel",
+        "fatherName": "Shri Ram Kumar Patel",
+        "mobile": "7974581935",
+        "altMobile": "8223846675",
+        "circle": "JIO MP",
+        "idNumber": "818510890926",
+        "email": "Not found",
+        "address": "S/O Shri Ram Kumar Patel, ward no-14, indira chowk, SIRLI JANJGIR - CHAMPA, Chhattisgarh, 495554",
+        "totalRecords": 2
+      }
+    },
     {
       "id": "89782ca8-7981-493b-9c68-b20177af461f",
       "queryNumber": "9131673040",
@@ -5439,49 +5519,41 @@
         "address": "44 DHORAPA SUDANI PANE LAGI NE VASAVAD 1 TA GONDAL RAJKOT",
         "totalRecords": 3
       }
-    },
-    {
-      "id": "8a41deec-3a1e-4466-87f5-04b0f849c3a2",
-      "queryNumber": "6352915638",
-      "timestamp": "2026-10-20T11:43:06.529Z",
-      "source": "bot",
-      "userId": 8935237963,
-      "userName": "Arnav",
-      "resultSummary": {
-        "name": "Parmar Sabbir Rahimbhai",
-        "truecallerName": "Sabbir Parmar",
-        "fatherName": "Parmar Rahimbhai Ganibhai",
-        "mobile": "6352915638",
-        "altMobile": "9723340040",
-        "circle": "JIO GUJARAT",
-        "idNumber": "866015062359",
-        "email": "Not found",
-        "address": "S/O Parmar Rahimbhai Ganibhai Vasavad main bazar road Vasavad Gondal Rajkot Gujarat 364490",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "c54dcf2d-b1fe-468f-957b-2fce917e2c23",
-      "queryNumber": "7354838377",
-      "timestamp": "2026-10-20T11:41:49.574Z",
-      "source": "bot",
-      "userId": 8447532330,
-      "userName": "Sharef",
-      "resultSummary": {
-        "name": "Tarnnum Bano",
-        "truecallerName": "Salu",
-        "fatherName": "MOHAMMAD YUNUS",
-        "mobile": "7354838377",
-        "altMobile": "9589909140",
-        "circle": "JIO MP",
-        "idNumber": "880480239436",
-        "email": "Not found",
-        "address": "D/O Ajimuddin, 117/KH, motitalab para ramaiya ward 17, jagdalpur, JAGDALPUR, Bastar, Bastar, Chhattisgarh, 494001",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "f9ab1c35-48e1-42c5-96b1-9e5663d822c4",
+      "timestamp": "2026-10-22T08:51:21.942Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 9523487200 (Nisha rani)"
+    },
+    {
+      "id": "9a8eef93-191c-4d66-a5b6-0cfd25b9e247",
+      "timestamp": "2026-10-22T08:51:00.724Z",
+      "type": "BOT_MESSAGE",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "061330a2-ba8d-4297-8cf2-d4e65fc2b19a",
+      "timestamp": "2026-10-22T08:50:44.884Z",
+      "type": "LOOKUP",
+      "userId": 7228673447,
+      "userName": "Sameer",
+      "summary": "Looked up 7974581935 (Narendra Kumar Patel)"
+    },
+    {
+      "id": "29d0cafb-dba8-4ffb-bcd6-ee156cdf3031",
+      "timestamp": "2026-10-22T08:50:06.806Z",
+      "type": "BOT_MESSAGE",
+      "userId": 7228673447,
+      "userName": "Sameer",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "71f5bdf6-aca3-4462-9d18-ad4e41bf7adc",
       "timestamp": "2026-10-22T08:46:25.338Z",
@@ -6649,41 +6721,9 @@
       "userId": 994758970,
       "userName": "DEEPAK SINGH",
       "summary": "Looked up 7210060007 (Akhilesh Kumar)"
-    },
-    {
-      "id": "fb0e1b45-ce1b-4fc5-a400-7b303c7df32b",
-      "timestamp": "2026-10-20T14:04:03.384Z",
-      "type": "LOOKUP",
-      "userId": 994758970,
-      "userName": "DEEPAK SINGH",
-      "summary": "Looked up 9213175217 (Ankit Sagar)"
-    },
-    {
-      "id": "6d1ea812-1be2-4f4d-8e95-991119abc157",
-      "timestamp": "2026-10-20T14:03:36.868Z",
-      "type": "BOT_MESSAGE",
-      "userId": 994758970,
-      "userName": "DEEPAK SINGH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "08096ac4-fbf4-43ed-9bbc-9c0ab55c9439",
-      "timestamp": "2026-10-20T13:19:04.364Z",
-      "type": "BOT_MESSAGE",
-      "userId": 8066965283,
-      "userName": "Tʀᴜsᴛᴇᴅ Sᴇʟʟᴇʀ",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "6660733e-4668-4196-879f-b09c30e9f5f4",
-      "timestamp": "2026-10-20T12:44:26.555Z",
-      "type": "PAYMENT",
-      "userId": 8499830773,
-      "userName": "𝒪𝓂𝓀𝒶𝓇_𝒫𝒶𝓉𝒾𝓁.",
-      "summary": "Created Auto-QR Order HEXDLIB0773 (₹49 for 30 Days VIP)"
     }
   ],
-  "lastTelegramUpdateId": 168809516,
+  "lastTelegramUpdateId": 168809524,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
