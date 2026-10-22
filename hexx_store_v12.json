@@ -3965,7 +3965,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-22T19:30:34.744Z",
-      "lastActiveAt": "2026-10-22T19:32:08.025Z",
+      "lastActiveAt": "2026-10-22T19:35:20.656Z",
       "isBanned": false,
       "history": [
         {
@@ -4009,7 +4009,49 @@
           }
         }
       ],
-      "lastBotMessageId": 8438,
+      "lastBotMessageId": 8446,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-22"
+    },
+    "6070158362": {
+      "id": 6070158362,
+      "firstName": "Varun Nath Singh",
+      "credits": 1,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX158362",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-22T19:33:38.684Z",
+      "lastActiveAt": "2026-10-22T19:35:47.614Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "7a853aca-e182-495e-b626-031b36885593",
+          "queryNumber": "7906964219",
+          "timestamp": "2026-10-22T19:35:49.040Z",
+          "source": "bot",
+          "userId": 6070158362,
+          "userName": "Varun Nath Singh",
+          "resultSummary": {
+            "name": "Savita Devi",
+            "truecallerName": "yashi",
+            "fatherName": "Dr Balram Singh",
+            "mobile": "7906964219",
+            "altMobile": "8057257213",
+            "circle": "JIO UPW",
+            "idNumber": "757167361659",
+            "email": "Not found",
+            "address": "W/O: Dr.Balram Singh, villege-kuakhera khalsa, Sharif NagarMoradabad, Uttar Pradesh, 244602",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastBotMessageId": 8448,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22"
     }
@@ -4999,6 +5041,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "7a853aca-e182-495e-b626-031b36885593",
+      "queryNumber": "7906964219",
+      "timestamp": "2026-10-22T19:35:49.040Z",
+      "source": "bot",
+      "userId": 6070158362,
+      "userName": "Varun Nath Singh",
+      "resultSummary": {
+        "name": "Savita Devi",
+        "truecallerName": "yashi",
+        "fatherName": "Dr Balram Singh",
+        "mobile": "7906964219",
+        "altMobile": "8057257213",
+        "circle": "JIO UPW",
+        "idNumber": "757167361659",
+        "email": "Not found",
+        "address": "W/O: Dr.Balram Singh, villege-kuakhera khalsa, Sharif NagarMoradabad, Uttar Pradesh, 244602",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "28f2e041-3534-4e31-92a1-d903ecc15284",
       "queryNumber": "6394852509",
@@ -6970,29 +7032,41 @@
         "address": "Vill Rajapakar, Po Rajapakar, Ps Rajapakar Vaishali, 844124",
         "totalRecords": 3
       }
-    },
-    {
-      "id": "dbaf9fd5-58e4-404d-849d-f84f3ac4ed56",
-      "queryNumber": "8521755516",
-      "timestamp": "2026-10-21T10:51:16.109Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "Deepak Kumar",
-        "truecallerName": "Deepak sir Kci",
-        "fatherName": "Dinesh  Ray",
-        "mobile": "8521755516",
-        "altMobile": "Not found",
-        "circle": "AIRTEL BHR&JHR",
-        "idNumber": "248976465096",
-        "email": "Not found",
-        "address": "S/O Dinesh Ray, word number-14, gram-Bilandpur Bilandpur, Vaishali, Bihar, 844116",
-        "totalRecords": 2
-      }
     }
   ],
   "logs": [
+    {
+      "id": "58f35be2-8f41-481d-b309-b07944ce39db",
+      "timestamp": "2026-10-22T19:35:49.040Z",
+      "type": "LOOKUP",
+      "userId": 6070158362,
+      "userName": "Varun Nath Singh",
+      "summary": "Looked up 7906964219 (Savita Devi)"
+    },
+    {
+      "id": "d71a9cce-f6ac-4575-a689-7bb70c669dd1",
+      "timestamp": "2026-10-22T19:35:15.501Z",
+      "type": "BOT_MESSAGE",
+      "userId": 6556898842,
+      "userName": "Dark𓁇𓁋",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "623c71f1-a3d8-4e46-aded-f6190639ca0d",
+      "timestamp": "2026-10-22T19:34:00.007Z",
+      "type": "BOT_MESSAGE",
+      "userId": 6556898842,
+      "userName": "Dark𓁇𓁋",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "87448aa4-f771-465a-9bff-47b994785b75",
+      "timestamp": "2026-10-22T19:33:38.994Z",
+      "type": "BOT_MESSAGE",
+      "userId": 6070158362,
+      "userName": "Varun Nath Singh",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "1ca00e61-f127-4b0f-9dc1-04edb54eb6d9",
       "timestamp": "2026-10-22T19:32:09.504Z",
@@ -8160,41 +8234,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Looked up 6201500908 (Ramanand Thakur)"
-    },
-    {
-      "id": "86a791cc-c6ce-4df4-a2ba-5fc8ae152028",
-      "timestamp": "2026-10-21T10:48:06.338Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 8186019132 (Jagdish)"
-    },
-    {
-      "id": "65bdaed7-462c-4a57-ba43-e4bc31b2431f",
-      "timestamp": "2026-10-21T10:47:51.263Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 7209632167 (Sakshi)"
-    },
-    {
-      "id": "6c5cd1e8-628d-4286-b79d-8fc9f71698ca",
-      "timestamp": "2026-10-21T10:47:26.000Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 8579075715 (VIJAY RAM)"
-    },
-    {
-      "id": "0447f3f0-1ca5-4677-a676-930da8c512f5",
-      "timestamp": "2026-10-21T10:46:39.049Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 9708070702 (Deepesh Kumar)"
     }
   ],
-  "lastTelegramUpdateId": 168809785,
+  "lastTelegramUpdateId": 168809795,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
