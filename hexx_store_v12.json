@@ -232,6 +232,49 @@
       "lastLookupDate": "2026-10-20",
       "dailyLimit": 1
     },
+    "1482397019": {
+      "id": 1482397019,
+      "firstName": "Jeet",
+      "username": "Jeet1811",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX397019",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-22T11:28:02.834Z",
+      "lastActiveAt": "2026-10-22T11:29:04.160Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "e8f7fe9d-21d4-4640-a59e-f82b1cbb08be",
+          "queryNumber": "8539884891",
+          "timestamp": "2026-10-22T11:29:05.980Z",
+          "source": "bot",
+          "userId": 1482397019,
+          "userName": "Jeet",
+          "resultSummary": {
+            "name": "Suraj Kumar",
+            "truecallerName": "suraj",
+            "fatherName": "jay prakash rai",
+            "mobile": "8539884891",
+            "altMobile": "7992402657",
+            "circle": "BIHAR JIO",
+            "idNumber": "854617844256",
+            "email": "Not found",
+            "address": "s/o jay prakash rai, Bela, near dariyapur block, durbela bela, bela Dariyapur, saran, Bihar, 841221",
+            "totalRecords": 4
+          }
+        }
+      ],
+      "lastBotMessageId": 8328,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-22"
+    },
     "1545684588": {
       "id": 1545684588,
       "firstName": "Shyam",
@@ -333,7 +376,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-22T11:24:48.464Z",
+      "lastActiveAt": "2026-10-22T11:27:04.368Z",
       "isBanned": false,
       "history": [
         {
@@ -3226,20 +3269,100 @@
     "8377608529": {
       "id": 8377608529,
       "firstName": "❤️👍🤩",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
-      "dailyLookupsUsed": 1,
-      "totalLookups": 1,
+      "dailyLookupsUsed": 5,
+      "totalLookups": 5,
       "referralCode": "HEX608529",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-22T11:21:28.803Z",
-      "lastActiveAt": "2026-10-22T11:22:33.317Z",
+      "lastActiveAt": "2026-10-22T11:30:33.414Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "57f066d5-262f-4673-88da-41dc577cffe2",
+          "queryNumber": "9304116463",
+          "timestamp": "2026-10-22T11:30:28.325Z",
+          "source": "bot",
+          "userId": 8377608529,
+          "userName": "❤️👍🤩",
+          "resultSummary": {
+            "name": "Doma Sahani",
+            "truecallerName": "Vishal",
+            "fatherName": "ghatengar sahani",
+            "mobile": "9304116463",
+            "altMobile": "7739791315",
+            "circle": "BIHAR JIO",
+            "idNumber": "598752547194",
+            "email": "Not found",
+            "address": "s/o ghatengar sahani, Mirzapur, ASHOK PAPER MIL, ashok paper mil navkatola mirzapur, mirzapur Hayaghat, darbhanga, Bihar, 847101",
+            "totalRecords": 4
+          }
+        },
+        {
+          "id": "2ed5ffc3-701b-4acb-9a4a-7dbfb94e262c",
+          "queryNumber": "9798825044",
+          "timestamp": "2026-10-22T11:30:11.830Z",
+          "source": "bot",
+          "userId": 8377608529,
+          "userName": "❤️👍🤩",
+          "resultSummary": {
+            "name": "Ranju Devi",
+            "truecallerName": "Abhishek Yadav",
+            "fatherName": "Dharmendra Ray",
+            "mobile": "9798825044",
+            "altMobile": "6205537081",
+            "circle": "BIHAR JIO",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "W/O Dharmendra Ray, Ward NO 16, SADAPUR MAHUA, Sadabpur Mahua Vaishali, Bihar, 844122",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "7c3cc10d-be1b-43b4-88e8-9bdddcabf1f8",
+          "queryNumber": "6205537081",
+          "timestamp": "2026-10-22T11:29:47.319Z",
+          "source": "bot",
+          "userId": 8377608529,
+          "userName": "❤️👍🤩",
+          "resultSummary": {
+            "name": "Sarita Devi",
+            "truecallerName": "Rohit Yadav",
+            "fatherName": "virendra ray",
+            "mobile": "6205537081",
+            "altMobile": "9939579356",
+            "circle": "JIO BHR&JHR",
+            "idNumber": "208081164797",
+            "email": "Not found",
+            "address": "w/o virendra ray, Mahuwa, dashrath chak, dashrath chak sadapur mahua mahuwa, mahua Mahua, vaishali, Bihar, 844122",
+            "totalRecords": 2
+          }
+        },
+        {
+          "id": "d74de849-a64c-4640-9a38-6391fbd6664b",
+          "queryNumber": "7631322890",
+          "timestamp": "2026-10-22T11:29:20.005Z",
+          "source": "bot",
+          "userId": 8377608529,
+          "userName": "❤️👍🤩",
+          "resultSummary": {
+            "name": "Virendra Ray",
+            "truecallerName": "Bolero Drivar",
+            "fatherName": "Kailash Ray",
+            "mobile": "7631322890",
+            "altMobile": "Not found",
+            "circle": "AIRTEL BHR&JHR",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "S/O Kailash Ray, sadapur mahua, Sadabpur Mahua, Vaishali, Bihar, 844122",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "8510aa66-52f6-43ea-8265-8d91b0ebb26c",
           "queryNumber": "8084808685",
@@ -3261,9 +3384,10 @@
           }
         }
       ],
-      "lastBotMessageId": 8317,
+      "lastBotMessageId": 8338,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-22"
+      "lastLookupDate": "2026-10-22",
+      "dailyLimit": 6
     }
   },
   "orders": {
@@ -4251,6 +4375,106 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "57f066d5-262f-4673-88da-41dc577cffe2",
+      "queryNumber": "9304116463",
+      "timestamp": "2026-10-22T11:30:28.325Z",
+      "source": "bot",
+      "userId": 8377608529,
+      "userName": "❤️👍🤩",
+      "resultSummary": {
+        "name": "Doma Sahani",
+        "truecallerName": "Vishal",
+        "fatherName": "ghatengar sahani",
+        "mobile": "9304116463",
+        "altMobile": "7739791315",
+        "circle": "BIHAR JIO",
+        "idNumber": "598752547194",
+        "email": "Not found",
+        "address": "s/o ghatengar sahani, Mirzapur, ASHOK PAPER MIL, ashok paper mil navkatola mirzapur, mirzapur Hayaghat, darbhanga, Bihar, 847101",
+        "totalRecords": 4
+      }
+    },
+    {
+      "id": "2ed5ffc3-701b-4acb-9a4a-7dbfb94e262c",
+      "queryNumber": "9798825044",
+      "timestamp": "2026-10-22T11:30:11.830Z",
+      "source": "bot",
+      "userId": 8377608529,
+      "userName": "❤️👍🤩",
+      "resultSummary": {
+        "name": "Ranju Devi",
+        "truecallerName": "Abhishek Yadav",
+        "fatherName": "Dharmendra Ray",
+        "mobile": "9798825044",
+        "altMobile": "6205537081",
+        "circle": "BIHAR JIO",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "W/O Dharmendra Ray, Ward NO 16, SADAPUR MAHUA, Sadabpur Mahua Vaishali, Bihar, 844122",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "7c3cc10d-be1b-43b4-88e8-9bdddcabf1f8",
+      "queryNumber": "6205537081",
+      "timestamp": "2026-10-22T11:29:47.319Z",
+      "source": "bot",
+      "userId": 8377608529,
+      "userName": "❤️👍🤩",
+      "resultSummary": {
+        "name": "Sarita Devi",
+        "truecallerName": "Rohit Yadav",
+        "fatherName": "virendra ray",
+        "mobile": "6205537081",
+        "altMobile": "9939579356",
+        "circle": "JIO BHR&JHR",
+        "idNumber": "208081164797",
+        "email": "Not found",
+        "address": "w/o virendra ray, Mahuwa, dashrath chak, dashrath chak sadapur mahua mahuwa, mahua Mahua, vaishali, Bihar, 844122",
+        "totalRecords": 2
+      }
+    },
+    {
+      "id": "d74de849-a64c-4640-9a38-6391fbd6664b",
+      "queryNumber": "7631322890",
+      "timestamp": "2026-10-22T11:29:20.005Z",
+      "source": "bot",
+      "userId": 8377608529,
+      "userName": "❤️👍🤩",
+      "resultSummary": {
+        "name": "Virendra Ray",
+        "truecallerName": "Bolero Drivar",
+        "fatherName": "Kailash Ray",
+        "mobile": "7631322890",
+        "altMobile": "Not found",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "S/O Kailash Ray, sadapur mahua, Sadabpur Mahua, Vaishali, Bihar, 844122",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "e8f7fe9d-21d4-4640-a59e-f82b1cbb08be",
+      "queryNumber": "8539884891",
+      "timestamp": "2026-10-22T11:29:05.980Z",
+      "source": "bot",
+      "userId": 1482397019,
+      "userName": "Jeet",
+      "resultSummary": {
+        "name": "Suraj Kumar",
+        "truecallerName": "suraj",
+        "fatherName": "jay prakash rai",
+        "mobile": "8539884891",
+        "altMobile": "7992402657",
+        "circle": "BIHAR JIO",
+        "idNumber": "854617844256",
+        "email": "Not found",
+        "address": "s/o jay prakash rai, Bela, near dariyapur block, durbela bela, bela Dariyapur, saran, Bihar, 841221",
+        "totalRecords": 4
+      }
+    },
     {
       "id": "8510aa66-52f6-43ea-8265-8d91b0ebb26c",
       "queryNumber": "8084808685",
@@ -6141,109 +6365,73 @@
         "address": "H No Sra6c, Shipra Reviera , Indirapuram Ghaziabad, Ghaziabad, Uttar Pradesh, 201014",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "4d2949a0-5263-48ea-9336-3f7ce08f1c1f",
-      "queryNumber": "7722865930",
-      "timestamp": "2026-10-21T03:33:35.013Z",
-      "source": "bot",
-      "userId": 6502481272,
-      "userName": "Gamer",
-      "resultSummary": {
-        "name": "Aman Singh",
-        "truecallerName": "aman shekhpur",
-        "fatherName": "S/O Ataro",
-        "mobile": "7722865930",
-        "altMobile": "Not found",
-        "circle": "VI MP",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "S/O Ataro, ., . gram shekhupur post gharsondi, tahsil chinor Gwalior, gram shekhupur post gharsondi, BHIND, Gwalior, Madhya Pradesh, 475110",
-        "totalRecords": 2
-      }
-    },
-    {
-      "id": "c54593f0-f881-4d53-b8cf-af2574549aaf",
-      "queryNumber": "6296927199",
-      "timestamp": "2026-10-21T03:28:52.102Z",
-      "source": "bot",
-      "userId": 7183197265,
-      "userName": "OG",
-      "resultSummary": {
-        "name": "Rupa Jha",
-        "truecallerName": "anu roy",
-        "fatherName": "Balid Jha",
-        "mobile": "6296927199",
-        "altMobile": "8388808224",
-        "circle": "JIO WB",
-        "idNumber": "741154498618",
-        "email": "Not found",
-        "address": "SHIVNAGAR, WARD NO. 46 Champasari, shivnagar ward no. 46 champasari, champasari Matigara, darjeeling, West Bengal, 734003",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "cf06e547-07a4-475e-892b-1509b60576df",
-      "queryNumber": "9274988185",
-      "timestamp": "2026-10-21T03:25:29.222Z",
-      "source": "bot",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "resultSummary": {
-        "name": "arsi raza",
-        "truecallerName": "arsi raza",
-        "fatherName": "Not found",
-        "mobile": "9274988185",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "073f746f-af3d-47a5-b0de-a6a8d31ffc5c",
-      "queryNumber": "9211369728",
-      "timestamp": "2026-10-21T03:14:17.097Z",
-      "source": "bot",
-      "userId": 8898442254,
-      "userName": "𝐔𝐍𝐊𝐍𝐎𝐖𝐍 | 𝐗𝐑 ⚡",
-      "resultSummary": {
-        "name": "kamala kamwali",
-        "truecallerName": "kamala kamwali",
-        "fatherName": "Not found",
-        "mobile": "9211369728",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "b1a5c612-8327-4373-91b6-20544f1951a3",
-      "queryNumber": "6359401667",
-      "timestamp": "2026-10-21T03:04:04.211Z",
-      "source": "bot",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "resultSummary": {
-        "name": "MR ASIF ZAMAL",
-        "truecallerName": "sahed jmal",
-        "fatherName": "Nizamuddin",
-        "mobile": "6359401667",
-        "altMobile": "8238225643",
-        "circle": "VI GUJARAT",
-        "idNumber": "803812493483",
-        "email": "Not found",
-        "address": "Polt no 08, Marat nagar, Marat nagar, Limbayat, SURAT, SURAT, Gujarat, 394210",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "19b9da80-8e8e-4dda-bbad-1c85c1735112",
+      "timestamp": "2026-10-22T11:30:28.325Z",
+      "type": "LOOKUP",
+      "userId": 8377608529,
+      "userName": "❤️👍🤩",
+      "summary": "Looked up 9304116463 (Doma Sahani)"
+    },
+    {
+      "id": "5f08d262-8aa8-4768-b8e2-dad6a74eaaec",
+      "timestamp": "2026-10-22T11:30:11.830Z",
+      "type": "LOOKUP",
+      "userId": 8377608529,
+      "userName": "❤️👍🤩",
+      "summary": "Looked up 9798825044 (Ranju Devi)"
+    },
+    {
+      "id": "bd5258c6-6966-4d1b-b811-53911ac8c444",
+      "timestamp": "2026-10-22T11:29:47.319Z",
+      "type": "LOOKUP",
+      "userId": 8377608529,
+      "userName": "❤️👍🤩",
+      "summary": "Looked up 6205537081 (Sarita Devi)"
+    },
+    {
+      "id": "b7debb2e-0eb9-46f4-a429-02b8794455ac",
+      "timestamp": "2026-10-22T11:29:20.005Z",
+      "type": "LOOKUP",
+      "userId": 8377608529,
+      "userName": "❤️👍🤩",
+      "summary": "Looked up 7631322890 (Virendra Ray)"
+    },
+    {
+      "id": "c3813f65-5864-49f6-b687-2bcac6d93e04",
+      "timestamp": "2026-10-22T11:29:08.997Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8377608529,
+      "userName": "❤️👍🤩",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "3b400d98-733e-44e0-af1c-4beebb630cb9",
+      "timestamp": "2026-10-22T11:29:05.980Z",
+      "type": "LOOKUP",
+      "userId": 1482397019,
+      "userName": "Jeet",
+      "summary": "Looked up 8539884891 (Suraj Kumar)"
+    },
+    {
+      "id": "1c6c771a-4e79-4bb1-b21a-0cb0a4fc1bee",
+      "timestamp": "2026-10-22T11:28:40.084Z",
+      "type": "BOT_MESSAGE",
+      "userId": 1482397019,
+      "userName": "Jeet",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "d8b04d28-a061-4ff4-9ef5-93e59e32ecff",
+      "timestamp": "2026-10-22T11:28:03.137Z",
+      "type": "BOT_MESSAGE",
+      "userId": 1482397019,
+      "userName": "Jeet",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "fef4f483-29cd-4cc5-80d3-0624c9f1be1b",
       "timestamp": "2026-10-22T11:22:39.383Z",
@@ -7379,73 +7567,9 @@
       "userId": 6502481272,
       "userName": "Gamer",
       "summary": "Looked up 7722865930 (Aman Singh)"
-    },
-    {
-      "id": "5189340b-0804-49e3-8aca-35a9fa3ad20a",
-      "timestamp": "2026-10-21T03:30:12.788Z",
-      "type": "PAYMENT",
-      "userId": 7183197265,
-      "userName": "OG",
-      "summary": "Created Auto-QR Order HEX0PEV7265 (₹19 for 7 Days VIP)"
-    },
-    {
-      "id": "ef6d2561-2f3a-462a-b737-19bcf57a7bdd",
-      "timestamp": "2026-10-21T03:29:26.394Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "f32f4ee9-d80d-42f1-b8e5-6a2588f5b0a9",
-      "timestamp": "2026-10-21T03:28:52.102Z",
-      "type": "LOOKUP",
-      "userId": 7183197265,
-      "userName": "OG",
-      "summary": "Looked up 6296927199 (Rupa Jha)"
-    },
-    {
-      "id": "5bd4879e-bcfb-470d-b845-98f4d0439902",
-      "timestamp": "2026-10-21T03:25:29.222Z",
-      "type": "LOOKUP",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "summary": "Looked up 9274988185 (arsi raza)"
-    },
-    {
-      "id": "8e74aea1-a834-406e-8094-3ecbeaeeb9ef",
-      "timestamp": "2026-10-21T03:14:17.097Z",
-      "type": "LOOKUP",
-      "userId": 8898442254,
-      "userName": "𝐔𝐍𝐊𝐍𝐎𝐖𝐍 | 𝐗𝐑 ⚡",
-      "summary": "Looked up 9211369728 (kamala kamwali)"
-    },
-    {
-      "id": "795b9973-4eaf-4b0a-bcfd-8df76faffc90",
-      "timestamp": "2026-10-21T03:04:04.211Z",
-      "type": "LOOKUP",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "summary": "Looked up 6359401667 (MR ASIF ZAMAL)"
-    },
-    {
-      "id": "2e2172ff-a359-4b97-8da7-cd75200ec7ca",
-      "timestamp": "2026-10-21T02:59:43.339Z",
-      "type": "LOOKUP",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "summary": "Looked up 6200463559 (Kavita Priyadarshini)"
-    },
-    {
-      "id": "f1665bd1-25ff-475d-9d57-51863ba2d81a",
-      "timestamp": "2026-10-21T02:59:13.807Z",
-      "type": "LOOKUP",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "summary": "Looked up 6202735641 (Rajkumar Mandal)"
     }
   ],
-  "lastTelegramUpdateId": 168809669,
+  "lastTelegramUpdateId": 168809687,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
