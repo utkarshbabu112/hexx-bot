@@ -326,16 +326,136 @@
       "premiumUntil": "2027-10-28T10:13:45.088Z",
       "lastPlanName": "1 YEAR PASS",
       "totalSpent": 10000003,
-      "dailyLookupsUsed": 2,
-      "totalLookups": 47,
+      "dailyLookupsUsed": 8,
+      "totalLookups": 53,
       "referralCode": "HEX667289",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-22T11:00:33.306Z",
+      "lastActiveAt": "2026-10-22T11:04:03.554Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "b4856a09-71f8-43c4-b272-45bdf6d78aa8",
+          "queryNumber": "7983323753",
+          "timestamp": "2026-10-22T11:02:52.396Z",
+          "source": "bot",
+          "userId": 6672896116,
+          "userName": "UHTKARSH",
+          "resultSummary": {
+            "name": "Mulayam Singh",
+            "truecallerName": "Mayank",
+            "fatherName": "pappu singh",
+            "mobile": "7983323753",
+            "altMobile": "7505169965",
+            "circle": "JIO UPW",
+            "idNumber": "983696056369",
+            "email": "Not found",
+            "address": "s/o pappu singh, Makkhanpur, jakhara makkhanpur, biltigarhragholJasrana, firozabad, Uttar Pradesh, 205145",
+            "totalRecords": 3
+          }
+        },
+        {
+          "id": "5cca0e7f-08ad-4a26-b66f-0120c8c43be8",
+          "queryNumber": "7989800563",
+          "timestamp": "2026-10-22T11:02:29.066Z",
+          "source": "bot",
+          "userId": 6672896116,
+          "userName": "UHTKARSH",
+          "resultSummary": {
+            "name": "Anand Khanda D. opt",
+            "truecallerName": "Anand Khanda D. opt",
+            "fatherName": "Not found",
+            "mobile": "7989800563",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "e7bf4358-ad2d-42e2-a76a-d5b51b658c3d",
+          "queryNumber": "8124836975",
+          "timestamp": "2026-10-22T11:02:12.656Z",
+          "source": "bot",
+          "userId": 6672896116,
+          "userName": "UHTKARSH",
+          "resultSummary": {
+            "name": "Mausi ..",
+            "truecallerName": "Mausi ..",
+            "fatherName": "Not found",
+            "mobile": "8124836975",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "5c6288f2-3593-4de6-b3ea-11db6466ff79",
+          "queryNumber": "7654700827",
+          "timestamp": "2026-10-22T11:01:49.155Z",
+          "source": "bot",
+          "userId": 6672896116,
+          "userName": "UHTKARSH",
+          "resultSummary": {
+            "name": "MR CHHOTU KUMAR",
+            "truecallerName": "Gangaram Chatu",
+            "fatherName": "Arun Mandal",
+            "mobile": "7654700827",
+            "altMobile": "Not found",
+            "circle": "VODA BHR&JHR",
+            "idNumber": "845747738920",
+            "email": "Not found",
+            "address": "shankarpur khawas bhagalpur, shankarpur khawas bhagalpur PANNUCHAK, PANNUCHAK, shankarpur khawas bhagalpur BHAGALPUR, BANKA, BHAGALPUR, BIHAR, 813205",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "7e2f322c-726e-4038-ad4f-82169b131a19",
+          "queryNumber": "8002967234",
+          "timestamp": "2026-10-22T11:01:22.497Z",
+          "source": "bot",
+          "userId": 6672896116,
+          "userName": "UHTKARSH",
+          "resultSummary": {
+            "name": "Tetari Devi",
+            "truecallerName": "shila. khopira",
+            "fatherName": "Chandeshwar  Ram",
+            "mobile": "8002967234",
+            "altMobile": "Not found",
+            "circle": "AIRTEL BHR&JHR",
+            "idNumber": "540416361593",
+            "email": "Not found",
+            "address": "Post-Khopira Khopira, Bhojpur Khopira Agiawan, Bihar, 802206",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "13737f4d-612e-40a6-96e3-d986b5e76c6c",
+          "queryNumber": "6205537081",
+          "timestamp": "2026-10-22T11:00:58.364Z",
+          "source": "bot",
+          "userId": 6672896116,
+          "userName": "UHTKARSH",
+          "resultSummary": {
+            "name": "Sarita Devi",
+            "truecallerName": "Rohit Yadav",
+            "fatherName": "virendra ray",
+            "mobile": "6205537081",
+            "altMobile": "9939579356",
+            "circle": "JIO BHR&JHR",
+            "idNumber": "208081164797",
+            "email": "Not found",
+            "address": "w/o virendra ray, Mahuwa, dashrath chak, dashrath chak sadapur mahua mahuwa, mahua Mahua, vaishali, Bihar, 844122",
+            "totalRecords": 2
+          }
+        },
         {
           "id": "b2a239d5-0ef1-4d65-a93f-058b31966bc0",
           "queryNumber": "7854080321",
@@ -557,7 +677,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8295,
+      "lastBotMessageId": 8307,
       "lastBotMessageHasPhoto": false,
       "isAdminUnlocked": true,
       "lastLookupDate": "2026-10-22",
@@ -4070,6 +4190,126 @@
   },
   "globalHistory": [
     {
+      "id": "b4856a09-71f8-43c4-b272-45bdf6d78aa8",
+      "queryNumber": "7983323753",
+      "timestamp": "2026-10-22T11:02:52.396Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "Mulayam Singh",
+        "truecallerName": "Mayank",
+        "fatherName": "pappu singh",
+        "mobile": "7983323753",
+        "altMobile": "7505169965",
+        "circle": "JIO UPW",
+        "idNumber": "983696056369",
+        "email": "Not found",
+        "address": "s/o pappu singh, Makkhanpur, jakhara makkhanpur, biltigarhragholJasrana, firozabad, Uttar Pradesh, 205145",
+        "totalRecords": 3
+      }
+    },
+    {
+      "id": "5cca0e7f-08ad-4a26-b66f-0120c8c43be8",
+      "queryNumber": "7989800563",
+      "timestamp": "2026-10-22T11:02:29.066Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "Anand Khanda D. opt",
+        "truecallerName": "Anand Khanda D. opt",
+        "fatherName": "Not found",
+        "mobile": "7989800563",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "e7bf4358-ad2d-42e2-a76a-d5b51b658c3d",
+      "queryNumber": "8124836975",
+      "timestamp": "2026-10-22T11:02:12.656Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "Mausi ..",
+        "truecallerName": "Mausi ..",
+        "fatherName": "Not found",
+        "mobile": "8124836975",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "5c6288f2-3593-4de6-b3ea-11db6466ff79",
+      "queryNumber": "7654700827",
+      "timestamp": "2026-10-22T11:01:49.155Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "MR CHHOTU KUMAR",
+        "truecallerName": "Gangaram Chatu",
+        "fatherName": "Arun Mandal",
+        "mobile": "7654700827",
+        "altMobile": "Not found",
+        "circle": "VODA BHR&JHR",
+        "idNumber": "845747738920",
+        "email": "Not found",
+        "address": "shankarpur khawas bhagalpur, shankarpur khawas bhagalpur PANNUCHAK, PANNUCHAK, shankarpur khawas bhagalpur BHAGALPUR, BANKA, BHAGALPUR, BIHAR, 813205",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "7e2f322c-726e-4038-ad4f-82169b131a19",
+      "queryNumber": "8002967234",
+      "timestamp": "2026-10-22T11:01:22.497Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "Tetari Devi",
+        "truecallerName": "shila. khopira",
+        "fatherName": "Chandeshwar  Ram",
+        "mobile": "8002967234",
+        "altMobile": "Not found",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "540416361593",
+        "email": "Not found",
+        "address": "Post-Khopira Khopira, Bhojpur Khopira Agiawan, Bihar, 802206",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "13737f4d-612e-40a6-96e3-d986b5e76c6c",
+      "queryNumber": "6205537081",
+      "timestamp": "2026-10-22T11:00:58.364Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "Sarita Devi",
+        "truecallerName": "Rohit Yadav",
+        "fatherName": "virendra ray",
+        "mobile": "6205537081",
+        "altMobile": "9939579356",
+        "circle": "JIO BHR&JHR",
+        "idNumber": "208081164797",
+        "email": "Not found",
+        "address": "w/o virendra ray, Mahuwa, dashrath chak, dashrath chak sadapur mahua mahuwa, mahua Mahua, vaishali, Bihar, 844122",
+        "totalRecords": 2
+      }
+    },
+    {
       "id": "b2a239d5-0ef1-4d65-a93f-058b31966bc0",
       "queryNumber": "7854080321",
       "timestamp": "2026-10-22T11:00:34.720Z",
@@ -5940,129 +6180,57 @@
         "address": "S/O Bhikhi Mandal, Keshwari, vill nagar keshwari po keshwari ps suriya, Nagar Keshwari Bagodar Giridih, Jharkhand, 825320",
         "totalRecords": 3
       }
-    },
-    {
-      "id": "08ed125f-1358-4bab-8867-c2d5ca8a2ea0",
-      "queryNumber": "9660346404",
-      "timestamp": "2026-10-21T02:58:44.614Z",
-      "source": "bot",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "resultSummary": {
-        "name": "narotam malav",
-        "truecallerName": "narotam malav",
-        "fatherName": "Not found",
-        "mobile": "9660346404",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "816ba4d3-a134-4a64-a6ca-3745565009a3",
-      "queryNumber": "8757612394",
-      "timestamp": "2026-10-21T02:57:45.927Z",
-      "source": "bot",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "resultSummary": {
-        "name": "Renu Devi",
-        "truecallerName": "r@j",
-        "fatherName": "Bhola Prasad",
-        "mobile": "8757612394",
-        "altMobile": "Not found",
-        "circle": "AIRTEL BHR&JHR",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "H No 139, Vill Kolhu Bishnu Garh Post Bishanugarh, Hazaribagh, 825312",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "debcf73c-55de-4136-ab9c-484321760137",
-      "queryNumber": "9274988185",
-      "timestamp": "2026-10-21T02:57:31.316Z",
-      "source": "bot",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "resultSummary": {
-        "name": "arsi raza",
-        "truecallerName": "arsi raza",
-        "fatherName": "Not found",
-        "mobile": "9274988185",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "6398bb00-77fe-4f31-9b01-a5b9e9a0a7fa",
-      "queryNumber": "7872079155",
-      "timestamp": "2026-10-21T02:57:00.611Z",
-      "source": "bot",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "resultSummary": {
-        "name": "raju lingchom",
-        "truecallerName": "raju lingchom",
-        "fatherName": "Not found",
-        "mobile": "7872079155",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "d389a033-b13c-4de2-970c-98c3e9719f44",
-      "queryNumber": "6352198831",
-      "timestamp": "2026-10-21T02:52:18.871Z",
-      "source": "bot",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "resultSummary": {
-        "name": "Ansari Mustakim",
-        "truecallerName": "mohammmad mustak",
-        "fatherName": "Abdulsalam",
-        "mobile": "6352198831",
-        "altMobile": "9510570946",
-        "circle": "JIO GUJARAT",
-        "idNumber": "429185745547",
-        "email": "Not found",
-        "address": "S/O Abdulsalam A-398 om nagar society gali no-6 dumbhal Bombay Market dumbhal Surat City Surat City Surat Gujarat 395010",
-        "totalRecords": 3
-      }
-    },
-    {
-      "id": "a30a78ba-d19e-40a5-acca-0acc023b5787",
-      "queryNumber": "8859490711",
-      "timestamp": "2026-10-21T02:33:03.105Z",
-      "source": "bot",
-      "userId": 8904188905,
-      "userName": "Arjun Sinhala Hacker",
-      "resultSummary": {
-        "name": "mahi bhadana",
-        "truecallerName": "mahi bhadana",
-        "fatherName": "Not found",
-        "mobile": "8859490711",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "025528a8-312c-4261-a021-d371883a6261",
+      "timestamp": "2026-10-22T11:02:52.396Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 7983323753 (Mulayam Singh)"
+    },
+    {
+      "id": "44de8acd-74a7-4c07-96dd-1674552744c6",
+      "timestamp": "2026-10-22T11:02:29.066Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 7989800563 (Anand Khanda D. opt)"
+    },
+    {
+      "id": "bded24ab-df10-47c5-beda-7f16e6f7d2ad",
+      "timestamp": "2026-10-22T11:02:12.656Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 8124836975 (Mausi ..)"
+    },
+    {
+      "id": "548be38e-8f52-4909-9ec0-c465aebae1b3",
+      "timestamp": "2026-10-22T11:01:49.155Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 7654700827 (MR CHHOTU KUMAR)"
+    },
+    {
+      "id": "99f179ce-fb81-44f3-a316-e686e6ae9836",
+      "timestamp": "2026-10-22T11:01:22.497Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 8002967234 (Tetari Devi)"
+    },
+    {
+      "id": "00628034-b922-4bd5-a5b5-a07952d8f423",
+      "timestamp": "2026-10-22T11:00:58.364Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 6205537081 (Sarita Devi)"
+    },
     {
       "id": "2d84c8ae-ced3-454e-91d2-e77aee5f0df2",
       "timestamp": "2026-10-22T11:00:34.720Z",
@@ -7214,57 +7382,9 @@
       "userId": 8877490186,
       "userName": "Ghb",
       "summary": "Looked up 7872079155 (raju lingchom)"
-    },
-    {
-      "id": "1e66ad0e-26cb-444e-893f-1d35d8aed246",
-      "timestamp": "2026-10-21T02:52:18.871Z",
-      "type": "LOOKUP",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "summary": "Looked up 6352198831 (Ansari Mustakim)"
-    },
-    {
-      "id": "9d2c53e8-e655-46b9-b776-542b6ce4dc6f",
-      "timestamp": "2026-10-21T02:51:50.554Z",
-      "type": "BOT_MESSAGE",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "9049b06b-a461-4a2b-a9d8-34365ab29201",
-      "timestamp": "2026-10-21T02:51:11.808Z",
-      "type": "PAYMENT",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "summary": "Order HEXAJVW0186 PAID (7 Days VIP, Rs.19)"
-    },
-    {
-      "id": "a0440acf-9e5b-47dd-87b2-2ede45042e10",
-      "timestamp": "2026-10-21T02:47:10.384Z",
-      "type": "PAYMENT",
-      "userId": 6247554367,
-      "userName": "Divya",
-      "summary": "Created Auto-QR Order HEXHCTD4367 (₹19.01 for 7 Days VIP)"
-    },
-    {
-      "id": "524aba58-0a93-441f-bfaa-396832d9308b",
-      "timestamp": "2026-10-21T02:41:52.957Z",
-      "type": "PAYMENT",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "summary": "Created Auto-QR Order HEXAJVW0186 (₹19 for 7 Days VIP)"
-    },
-    {
-      "id": "1455958b-a2e7-458d-8ec6-f31c356bc97d",
-      "timestamp": "2026-10-21T02:33:03.105Z",
-      "type": "LOOKUP",
-      "userId": 8904188905,
-      "userName": "Arjun Sinhala Hacker",
-      "summary": "Looked up 8859490711 (mahi bhadana)"
     }
   ],
-  "lastTelegramUpdateId": 168809636,
+  "lastTelegramUpdateId": 168809648,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
