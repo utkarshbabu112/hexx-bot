@@ -376,7 +376,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-22T11:27:04.368Z",
+      "lastActiveAt": "2026-10-22T11:32:30.821Z",
       "isBanned": false,
       "history": [
         {
@@ -3269,20 +3269,40 @@
     "8377608529": {
       "id": 8377608529,
       "firstName": "❤️👍🤩",
-      "credits": 1,
+      "credits": 0,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
-      "dailyLookupsUsed": 5,
-      "totalLookups": 5,
+      "dailyLookupsUsed": 6,
+      "totalLookups": 6,
       "referralCode": "HEX608529",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-22T11:21:28.803Z",
-      "lastActiveAt": "2026-10-22T11:30:33.414Z",
+      "lastActiveAt": "2026-10-22T11:30:55.771Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "3ffb5540-0cd9-477e-aab0-eb97385cb138",
+          "queryNumber": "6206372425",
+          "timestamp": "2026-10-22T11:30:48.019Z",
+          "source": "bot",
+          "userId": 8377608529,
+          "userName": "❤️👍🤩",
+          "resultSummary": {
+            "name": "Pramila Devi",
+            "truecallerName": "Niraj Yadav Brand",
+            "fatherName": "Sumangal Ray",
+            "mobile": "6206372425",
+            "altMobile": "9122245346",
+            "circle": "BIHAR JIO",
+            "idNumber": "836030788210",
+            "email": "Not found",
+            "address": "W/O Sumangal Ray, sadapur mahua Mahuwa, NA, sadapur mahua, Mahua Mahua Vaishali, NA, Bihar, 844122",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "57f066d5-262f-4673-88da-41dc577cffe2",
           "queryNumber": "9304116463",
@@ -3384,7 +3404,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8338,
+      "lastBotMessageId": 8340,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22",
       "dailyLimit": 6
@@ -4375,6 +4395,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "3ffb5540-0cd9-477e-aab0-eb97385cb138",
+      "queryNumber": "6206372425",
+      "timestamp": "2026-10-22T11:30:48.019Z",
+      "source": "bot",
+      "userId": 8377608529,
+      "userName": "❤️👍🤩",
+      "resultSummary": {
+        "name": "Pramila Devi",
+        "truecallerName": "Niraj Yadav Brand",
+        "fatherName": "Sumangal Ray",
+        "mobile": "6206372425",
+        "altMobile": "9122245346",
+        "circle": "BIHAR JIO",
+        "idNumber": "836030788210",
+        "email": "Not found",
+        "address": "W/O Sumangal Ray, sadapur mahua Mahuwa, NA, sadapur mahua, Mahua Mahua Vaishali, NA, Bihar, 844122",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "57f066d5-262f-4673-88da-41dc577cffe2",
       "queryNumber": "9304116463",
@@ -6345,29 +6385,17 @@
         "address": "Not found",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "41a61295-93a1-4d9a-ae21-523aec4edebd",
-      "queryNumber": "8197580780",
-      "timestamp": "2026-10-21T04:06:53.635Z",
-      "source": "bot",
-      "userId": 1674577549,
-      "userName": "Shreeshank",
-      "resultSummary": {
-        "name": "Ashish Mishra",
-        "truecallerName": "vandana mishra didi",
-        "fatherName": "Krishna Murari Mishra",
-        "mobile": "8197580780",
-        "altMobile": "8858850863",
-        "circle": "AIRTEL DELHI",
-        "idNumber": "KA05 20140006006",
-        "email": "amishra6173@gmail.com",
-        "address": "H No Sra6c, Shipra Reviera , Indirapuram Ghaziabad, Ghaziabad, Uttar Pradesh, 201014",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "fa81af5e-ebd0-4269-8588-a5bd45b28c04",
+      "timestamp": "2026-10-22T11:30:48.019Z",
+      "type": "LOOKUP",
+      "userId": 8377608529,
+      "userName": "❤️👍🤩",
+      "summary": "Looked up 6206372425 (Pramila Devi)"
+    },
     {
       "id": "19b9da80-8e8e-4dda-bbad-1c85c1735112",
       "timestamp": "2026-10-22T11:30:28.325Z",
@@ -7559,17 +7587,9 @@
       "userId": 1674577549,
       "userName": "Shreeshank",
       "summary": "Looked up 8197580780 (Ashish Mishra)"
-    },
-    {
-      "id": "5d55f50c-6e8f-4d0e-8218-002b33a55aa4",
-      "timestamp": "2026-10-21T03:33:35.013Z",
-      "type": "LOOKUP",
-      "userId": 6502481272,
-      "userName": "Gamer",
-      "summary": "Looked up 7722865930 (Aman Singh)"
     }
   ],
-  "lastTelegramUpdateId": 168809687,
+  "lastTelegramUpdateId": 168809692,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
