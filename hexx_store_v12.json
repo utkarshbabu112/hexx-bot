@@ -3742,6 +3742,48 @@
       "lastBotMessageId": 8392,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22"
+    },
+    "8181360834": {
+      "id": 8181360834,
+      "firstName": "-",
+      "credits": 1,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX360834",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-22T16:26:17.409Z",
+      "lastActiveAt": "2026-10-22T16:26:28.991Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "677340f2-0641-4596-a70d-b01705995101",
+          "queryNumber": "8544069006",
+          "timestamp": "2026-10-22T16:26:30.428Z",
+          "source": "bot",
+          "userId": 8181360834,
+          "userName": "-",
+          "resultSummary": {
+            "name": "ALLAUDDINANSARI",
+            "truecallerName": "Kalim-kh.BSNL.",
+            "fatherName": "AYUB ANSARI",
+            "mobile": "8544069006",
+            "altMobile": "7667653126",
+            "circle": "BIHAR BSNL",
+            "idNumber": "754391723922",
+            "email": "Not found",
+            "address": "mogalpura, po lalbagh darbhanga, po lalbagh darbhanga, po lalbagh darbhanga, darbhanga, Darbhanga, BIHAR, 846004",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastBotMessageId": 8400,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-22"
     }
   },
   "orders": {
@@ -4729,6 +4771,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "677340f2-0641-4596-a70d-b01705995101",
+      "queryNumber": "8544069006",
+      "timestamp": "2026-10-22T16:26:30.428Z",
+      "source": "bot",
+      "userId": 8181360834,
+      "userName": "-",
+      "resultSummary": {
+        "name": "ALLAUDDINANSARI",
+        "truecallerName": "Kalim-kh.BSNL.",
+        "fatherName": "AYUB ANSARI",
+        "mobile": "8544069006",
+        "altMobile": "7667653126",
+        "circle": "BIHAR BSNL",
+        "idNumber": "754391723922",
+        "email": "Not found",
+        "address": "mogalpura, po lalbagh darbhanga, po lalbagh darbhanga, po lalbagh darbhanga, darbhanga, Darbhanga, BIHAR, 846004",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "d0622b11-8fa0-440a-b534-dfdf59320919",
       "queryNumber": "9334324778",
@@ -6700,29 +6762,25 @@
         "address": "S/O Ataro, ., . gram shekhupur post gharsondi, tahsil chinor Gwalior, gram shekhupur post gharsondi, BHIND, Gwalior, Madhya Pradesh, 475110",
         "totalRecords": 2
       }
-    },
-    {
-      "id": "80cb1935-8130-4684-9b68-61902329bb17",
-      "queryNumber": "9934848716",
-      "timestamp": "2026-10-21T10:31:51.941Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "Satya Prakash Singh",
-        "truecallerName": "KCI",
-        "fatherName": "Ram Naresh Singh",
-        "mobile": "9934848716",
-        "altMobile": "Not found",
-        "circle": "AIRTEL BHR&JHR",
-        "idNumber": "377454134652",
-        "email": "Not found",
-        "address": "S/O Ram Naresh Singh, Ward 13, Raja Pakar, Vaishali, Bihar, 844124",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "3844b011-9d93-4229-aacb-493a370d76e2",
+      "timestamp": "2026-10-22T16:26:30.428Z",
+      "type": "LOOKUP",
+      "userId": 8181360834,
+      "userName": "-",
+      "summary": "Looked up 8544069006 (ALLAUDDINANSARI)"
+    },
+    {
+      "id": "7cf61658-8e04-44d5-8ec9-bb7535c528a8",
+      "timestamp": "2026-10-22T16:26:17.722Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8181360834,
+      "userName": "-",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "8c6bfaeb-00ba-4dad-8c41-89d5fdf64886",
       "timestamp": "2026-10-22T15:52:19.771Z",
@@ -7906,25 +7964,9 @@
       "userId": 5316205408,
       "userName": "Mukesh Kumar",
       "summary": "Looked up 9324426734 (Sanjiv Ranjan)"
-    },
-    {
-      "id": "106cb918-7dfe-42e3-b48b-a8bfe08ead70",
-      "timestamp": "2026-10-21T09:57:35.609Z",
-      "type": "LOOKUP",
-      "userId": 5316205408,
-      "userName": "Mukesh Kumar",
-      "summary": "Looked up 7070725113 (Sandeep Kumar)"
-    },
-    {
-      "id": "e03b1651-f88c-4bf1-97ca-0696f61be1bc",
-      "timestamp": "2026-10-21T09:57:14.832Z",
-      "type": "PAYMENT",
-      "userId": 5316205408,
-      "userName": "Mukesh Kumar",
-      "summary": "Order HEXSMLA5408 PAID (7 Days VIP, Rs.19)"
     }
   ],
-  "lastTelegramUpdateId": 168809747,
+  "lastTelegramUpdateId": 168809750,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
