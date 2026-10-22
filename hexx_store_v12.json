@@ -2372,8 +2372,8 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T09:57:14.832Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 14,
-      "totalLookups": 42,
+      "dailyLookupsUsed": 15,
+      "totalLookups": 43,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
@@ -2382,6 +2382,26 @@
       "lastActiveAt": "2026-10-22T12:55:48.501Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "af0fcb47-4b98-4561-a6b2-9917d61f8cde",
+          "queryNumber": "9582165526",
+          "timestamp": "2026-10-22T12:55:50.349Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Khurshid Alam",
+            "truecallerName": "Blue Dart Boy Gur. pickup",
+            "fatherName": "md moqeem alam",
+            "mobile": "9582165526",
+            "altMobile": "7827519360",
+            "circle": "JIO DELHI",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "C/O Md Moqeem Alam, C - II 191 New Ashok Nagar, Vasundhra Enclave East Delhi, Delhi, 110096",
+            "totalRecords": 6
+          }
+        },
         {
           "id": "5278c1f2-ffdd-4244-a097-e747b1234808",
           "queryNumber": "9582613974",
@@ -2722,7 +2742,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8356,
+      "lastBotMessageId": 8360,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22",
       "lastPlanName": "7 DAYS PASS"
@@ -3530,7 +3550,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-22T12:53:25.742Z",
-      "lastActiveAt": "2026-10-22T12:55:24.614Z",
+      "lastActiveAt": "2026-10-22T12:56:24.530Z",
       "isBanned": false,
       "history": [
         {
@@ -3574,7 +3594,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8358,
+      "lastBotMessageId": 8362,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22"
     }
@@ -4564,6 +4584,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "af0fcb47-4b98-4561-a6b2-9917d61f8cde",
+      "queryNumber": "9582165526",
+      "timestamp": "2026-10-22T12:55:50.349Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Khurshid Alam",
+        "truecallerName": "Blue Dart Boy Gur. pickup",
+        "fatherName": "md moqeem alam",
+        "mobile": "9582165526",
+        "altMobile": "7827519360",
+        "circle": "JIO DELHI",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "C/O Md Moqeem Alam, C - II 191 New Ashok Nagar, Vasundhra Enclave East Delhi, Delhi, 110096",
+        "totalRecords": 6
+      }
+    },
     {
       "id": "8e5b8932-5b82-4c67-8e86-3050fdc9aac0",
       "queryNumber": "8826486623",
@@ -6533,29 +6573,17 @@
         "address": "FLAT NO 3/C SHYAMJEE PALACE, SHASTRI NAGAR WEST NEAR JALARAM TEMPLE, NEAR JALARAM TEMPLE, BANK MORE DHANBAD DHANBAD, DHANBAD, DHANBAD, JHARKHAND, 826001",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "b9484330-cc51-4351-81b8-9d9494891071",
-      "queryNumber": "9734768202",
-      "timestamp": "2026-10-21T07:58:11.415Z",
-      "source": "bot",
-      "userId": 6363693254,
-      "userName": "Akash",
-      "resultSummary": {
-        "name": "Naidul Islam",
-        "truecallerName": "Lp",
-        "fatherName": "nurul islam miya",
-        "mobile": "9734768202",
-        "altMobile": "8145244260",
-        "circle": "JIO WB",
-        "idNumber": "942527381029",
-        "email": "Not found",
-        "address": "BARA Bara, BARA, bara bara, bara, birbhum, West Bengal, 731237",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "509ff53f-0bbc-4259-8c31-5f5d34358ee8",
+      "timestamp": "2026-10-22T12:55:50.349Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 9582165526 (Khurshid Alam)"
+    },
     {
       "id": "1b2fb628-d683-41f0-8ac6-181042d2ecdf",
       "timestamp": "2026-10-22T12:55:26.926Z",
@@ -7747,17 +7775,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "2549c287-8ae9-4034-b90d-d57b5631861b",
-      "timestamp": "2026-10-21T05:54:23.200Z",
-      "type": "LOOKUP",
-      "userId": 7478449082,
-      "userName": "Imran Shah 143",
-      "summary": "Looked up 7489258553 (Ram Niwas Miree)"
     }
   ],
-  "lastTelegramUpdateId": 168809714,
+  "lastTelegramUpdateId": 168809716,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
