@@ -326,16 +326,56 @@
       "premiumUntil": "2027-10-28T10:13:45.088Z",
       "lastPlanName": "1 YEAR PASS",
       "totalSpent": 10000003,
-      "dailyLookupsUsed": 0,
-      "totalLookups": 45,
+      "dailyLookupsUsed": 2,
+      "totalLookups": 47,
       "referralCode": "HEX667289",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-22T10:17:16.908Z",
+      "lastActiveAt": "2026-10-22T11:00:33.306Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "b2a239d5-0ef1-4d65-a93f-058b31966bc0",
+          "queryNumber": "7854080321",
+          "timestamp": "2026-10-22T11:00:34.720Z",
+          "source": "bot",
+          "userId": 6672896116,
+          "userName": "UHTKARSH",
+          "resultSummary": {
+            "name": "Belasini Nayak Saradhaapir",
+            "truecallerName": "Belasini Nayak Saradhaapir",
+            "fatherName": "Not found",
+            "mobile": "7854080321",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "8c3fbd87-ce5e-437c-b7aa-64aebc7086ec",
+          "queryNumber": "9934720819",
+          "timestamp": "2026-10-22T11:00:04.256Z",
+          "source": "bot",
+          "userId": 6672896116,
+          "userName": "UHTKARSH",
+          "resultSummary": {
+            "name": "SUNIL KUMAR",
+            "truecallerName": "Sunil Show Katihar",
+            "fatherName": "BHOLA SAH",
+            "mobile": "9934720819",
+            "altMobile": "Not found",
+            "circle": "VODA BHR&JHR",
+            "idNumber": "384964525516",
+            "email": "Not found",
+            "address": "S/O Bhola Sah, Vaishali bidupur, Vaishali ward 04 baranti Bishunpur Chak Lal Urf Baranti VAISHALI, AHMADPUR LAKHANI, VAISHALI, Bihar, 844502",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "9ce0469c-ae10-4973-a061-f16ad6883949",
           "queryNumber": "9661130399",
@@ -517,7 +557,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8248,
+      "lastBotMessageId": 8295,
       "lastBotMessageHasPhoto": false,
       "isAdminUnlocked": true,
       "lastLookupDate": "2026-10-22",
@@ -4030,6 +4070,46 @@
   },
   "globalHistory": [
     {
+      "id": "b2a239d5-0ef1-4d65-a93f-058b31966bc0",
+      "queryNumber": "7854080321",
+      "timestamp": "2026-10-22T11:00:34.720Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "Belasini Nayak Saradhaapir",
+        "truecallerName": "Belasini Nayak Saradhaapir",
+        "fatherName": "Not found",
+        "mobile": "7854080321",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "8c3fbd87-ce5e-437c-b7aa-64aebc7086ec",
+      "queryNumber": "9934720819",
+      "timestamp": "2026-10-22T11:00:04.256Z",
+      "source": "bot",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "resultSummary": {
+        "name": "SUNIL KUMAR",
+        "truecallerName": "Sunil Show Katihar",
+        "fatherName": "BHOLA SAH",
+        "mobile": "9934720819",
+        "altMobile": "Not found",
+        "circle": "VODA BHR&JHR",
+        "idNumber": "384964525516",
+        "email": "Not found",
+        "address": "S/O Bhola Sah, Vaishali bidupur, Vaishali ward 04 baranti Bishunpur Chak Lal Urf Baranti VAISHALI, AHMADPUR LAKHANI, VAISHALI, Bihar, 844502",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "e45f4181-8b5d-46da-bf6f-1bda6f7dd797",
       "queryNumber": "9166354948",
       "timestamp": "2026-10-22T10:36:24.092Z",
@@ -5980,49 +6060,25 @@
         "address": "Not found",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "0ef6886d-d3dd-4d0b-b536-0ba7773bbe94",
-      "queryNumber": "7872079155",
-      "timestamp": "2026-10-21T02:12:50.511Z",
-      "source": "bot",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "resultSummary": {
-        "name": "raju lingchom",
-        "truecallerName": "raju lingchom",
-        "fatherName": "Not found",
-        "mobile": "7872079155",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "9e40cad1-1934-408e-a712-974989f9cf1f",
-      "queryNumber": "9708398593",
-      "timestamp": "2026-10-21T01:28:15.431Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "PRAMILA DEVI",
-        "truecallerName": "nisha rajapakar",
-        "fatherName": "JAYVIR KUMAR",
-        "mobile": "9708398593",
-        "altMobile": "Not found",
-        "circle": "VODA BHR&JHR",
-        "idNumber": "365308179342",
-        "email": "Not found",
-        "address": "W/O Jayvir Kumar, W/O Jayvir Kumar ward no 02, Rajapakar kali mandir, Rajapakar Raja Pakar , RAJA PAKAR-VAISHALI, BR, 844124",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "2d84c8ae-ced3-454e-91d2-e77aee5f0df2",
+      "timestamp": "2026-10-22T11:00:34.720Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 7854080321 (Belasini Nayak Saradhaapir)"
+    },
+    {
+      "id": "f940d597-daa0-4c2e-abd4-06bd94244ef1",
+      "timestamp": "2026-10-22T11:00:04.256Z",
+      "type": "LOOKUP",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Looked up 9934720819 (SUNIL KUMAR)"
+    },
     {
       "id": "75d07b52-be13-4f0b-925f-d27e256f044b",
       "timestamp": "2026-10-22T10:36:24.092Z",
@@ -7206,25 +7262,9 @@
       "userId": 8904188905,
       "userName": "Arjun Sinhala Hacker",
       "summary": "Looked up 8859490711 (mahi bhadana)"
-    },
-    {
-      "id": "42e42e71-d361-49eb-8e61-bb769d8d001e",
-      "timestamp": "2026-10-21T02:32:35.551Z",
-      "type": "BOT_MESSAGE",
-      "userId": 8904188905,
-      "userName": "Arjun Sinhala Hacker",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "208acdf6-ca20-4cb0-b8ab-fb0af01ed448",
-      "timestamp": "2026-10-21T02:29:58.865Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809634,
+  "lastTelegramUpdateId": 168809636,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
