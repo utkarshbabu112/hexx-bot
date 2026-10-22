@@ -3824,6 +3824,49 @@
       "lastBotMessageId": 8400,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22"
+    },
+    "7390115532": {
+      "id": 7390115532,
+      "firstName": "Bernardo Yuri",
+      "username": "FpvbFaflROY",
+      "credits": 1,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX115532",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-22T17:21:01.207Z",
+      "lastActiveAt": "2026-10-22T17:22:18.679Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "eb9c6404-b7c0-42ef-819e-b0f286244387",
+          "queryNumber": "9988342597",
+          "timestamp": "2026-10-22T17:22:20.434Z",
+          "source": "bot",
+          "userId": 7390115532,
+          "userName": "Bernardo Yuri",
+          "resultSummary": {
+            "name": "AROON",
+            "truecallerName": "Pintu Singh",
+            "fatherName": "RAMAPATI",
+            "mobile": "9988342597",
+            "altMobile": "Not found",
+            "circle": "PUNJAB",
+            "idNumber": "368962424490",
+            "email": "Not found",
+            "address": "NA, H NO 3, STREET NO 5, OM MADICAL STORE, GIASPURA, LUDHIANA, LUDHIANA, PUNJAB, 141014",
+            "totalRecords": 2
+          }
+        }
+      ],
+      "lastBotMessageId": 8412,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-22"
     }
   },
   "orders": {
@@ -4811,6 +4854,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "eb9c6404-b7c0-42ef-819e-b0f286244387",
+      "queryNumber": "9988342597",
+      "timestamp": "2026-10-22T17:22:20.434Z",
+      "source": "bot",
+      "userId": 7390115532,
+      "userName": "Bernardo Yuri",
+      "resultSummary": {
+        "name": "AROON",
+        "truecallerName": "Pintu Singh",
+        "fatherName": "RAMAPATI",
+        "mobile": "9988342597",
+        "altMobile": "Not found",
+        "circle": "PUNJAB",
+        "idNumber": "368962424490",
+        "email": "Not found",
+        "address": "NA, H NO 3, STREET NO 5, OM MADICAL STORE, GIASPURA, LUDHIANA, LUDHIANA, PUNJAB, 141014",
+        "totalRecords": 2
+      }
+    },
     {
       "id": "3d4d5647-e530-44b8-b2e5-919582ec8f51",
       "queryNumber": "9857524296",
@@ -6782,29 +6845,25 @@
         "address": "Not found",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "3221d705-b0f4-4baf-b69c-a4529f8a058c",
-      "queryNumber": "8579075715",
-      "timestamp": "2026-10-21T10:47:26.000Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "VIJAY RAM",
-        "truecallerName": "Doctor Said Bihar",
-        "fatherName": "BINDESHWAR  RAM",
-        "mobile": "8579075715",
-        "altMobile": "9939255671",
-        "circle": "BIHAR VODAFONE",
-        "idNumber": "229153880870",
-        "email": "Not found",
-        "address": "S/O Bindeshwar Ram . alli pur dumri Bakhri Subain Bakhari Supayan Raja Pakar BAKHRI SUBAIN-VAISHALI BR 844504",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "7907f16a-e0f7-4588-a8d1-d886cecf6b8b",
+      "timestamp": "2026-10-22T17:22:20.434Z",
+      "type": "LOOKUP",
+      "userId": 7390115532,
+      "userName": "Bernardo Yuri",
+      "summary": "Looked up 9988342597 (AROON)"
+    },
+    {
+      "id": "b4aee752-8dac-4c21-8b2c-645b0e1ceec8",
+      "timestamp": "2026-10-22T17:21:01.602Z",
+      "type": "BOT_MESSAGE",
+      "userId": 7390115532,
+      "userName": "Bernardo Yuri",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "49dc7596-1a0e-43ab-8f34-47d373909e8f",
       "timestamp": "2026-10-22T16:42:07.934Z",
@@ -7988,25 +8047,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Looked up 7654129275 (Chandan Kumar)"
-    },
-    {
-      "id": "0a40ad47-b120-4a39-96e9-95b5e34dc6ad",
-      "timestamp": "2026-10-21T10:15:13.967Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 9883203978 (Jawahar Lal Rai)"
-    },
-    {
-      "id": "725aff37-976e-4c82-bd1c-e31705ca6692",
-      "timestamp": "2026-10-21T10:14:31.229Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 9279204096 (Not found)"
     }
   ],
-  "lastTelegramUpdateId": 168809755,
+  "lastTelegramUpdateId": 168809761,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
