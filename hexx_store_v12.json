@@ -620,15 +620,35 @@
       "premiumUntil": null,
       "totalSpent": 0,
       "dailyLookupsUsed": 1,
-      "totalLookups": 3,
+      "totalLookups": 4,
       "referralCode": "HEX554367",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-19T12:28:10.920Z",
-      "lastActiveAt": "2026-10-21T07:42:11.685Z",
+      "lastActiveAt": "2026-10-22T09:58:46.851Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "5b628f3f-fe0a-49f6-9033-d7cb0b9fcead",
+          "queryNumber": "8866779880",
+          "timestamp": "2026-10-22T09:58:47.844Z",
+          "source": "bot",
+          "userId": 6247554367,
+          "userName": "Divya",
+          "resultSummary": {
+            "name": "gelani Kuldeep rameshbhai",
+            "truecallerName": "Kano Gelani",
+            "fatherName": "Ramesh bhai",
+            "mobile": "8866779880",
+            "altMobile": "8320299402",
+            "circle": "JIO GUJARAT",
+            "idNumber": "697720939068",
+            "email": "Not found",
+            "address": "no 5 patel vistar, near shankar temple isvariya babra babra amreli Amreli, NA, isvariya, Amreli Amreli, NA, Gujarat, 365421",
+            "totalRecords": 3
+          }
+        },
         {
           "id": "9c5c930f-c735-4472-ac4c-b2238e1aa5a8",
           "queryNumber": "7872079155",
@@ -670,8 +690,8 @@
           }
         }
       ],
-      "lastLookupDate": "2026-10-21",
-      "lastBotMessageId": 7856,
+      "lastLookupDate": "2026-10-22",
+      "lastBotMessageId": 8234,
       "lastBotMessageHasPhoto": false,
       "dailyLimit": 1
     },
@@ -3737,6 +3757,26 @@
   },
   "globalHistory": [
     {
+      "id": "5b628f3f-fe0a-49f6-9033-d7cb0b9fcead",
+      "queryNumber": "8866779880",
+      "timestamp": "2026-10-22T09:58:47.844Z",
+      "source": "bot",
+      "userId": 6247554367,
+      "userName": "Divya",
+      "resultSummary": {
+        "name": "gelani Kuldeep rameshbhai",
+        "truecallerName": "Kano Gelani",
+        "fatherName": "Ramesh bhai",
+        "mobile": "8866779880",
+        "altMobile": "8320299402",
+        "circle": "JIO GUJARAT",
+        "idNumber": "697720939068",
+        "email": "Not found",
+        "address": "no 5 patel vistar, near shankar temple isvariya babra babra amreli Amreli, NA, isvariya, Amreli Amreli, NA, Gujarat, 365421",
+        "totalRecords": 3
+      }
+    },
+    {
       "id": "2a8afc2d-ac78-497e-b2c6-2215c9d54d8a",
       "queryNumber": "9999002202",
       "timestamp": "2026-10-22T09:38:36.514Z",
@@ -5707,29 +5747,17 @@
         "address": "Not found",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "738662fc-a5cc-4a71-8472-9bde0f5d4bf4",
-      "queryNumber": "9015317744",
-      "timestamp": "2026-10-20T15:47:04.945Z",
-      "source": "bot",
-      "userId": 8898442254,
-      "userName": "𝐄𝐑𝐑𝐎𝐑 | 𝐗𝐑 🍂",
-      "resultSummary": {
-        "name": "ALOKJAI",
-        "truecallerName": "ALOKJAI",
-        "fatherName": "Not found",
-        "mobile": "9015317744",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "8e3bfe16-58d8-440f-9334-d8f3e44db62b",
+      "timestamp": "2026-10-22T09:58:47.844Z",
+      "type": "LOOKUP",
+      "userId": 6247554367,
+      "userName": "Divya",
+      "summary": "Looked up 8866779880 (gelani Kuldeep rameshbhai)"
+    },
     {
       "id": "15436e96-cb74-4d03-9639-e78d6813bab1",
       "timestamp": "2026-10-22T09:38:36.514Z",
@@ -6921,17 +6949,9 @@
       "userId": 7183197265,
       "userName": "OG",
       "summary": "Looked up 7869930139 (Kaleem Shaha)"
-    },
-    {
-      "id": "a795682b-ff75-4469-9e15-134d038503aa",
-      "timestamp": "2026-10-20T16:25:55.586Z",
-      "type": "LOOKUP",
-      "userId": 7183197265,
-      "userName": "OG",
-      "summary": "Looked up 9303335775 (Karim Shah)"
     }
   ],
-  "lastTelegramUpdateId": 168809553,
+  "lastTelegramUpdateId": 168809554,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
