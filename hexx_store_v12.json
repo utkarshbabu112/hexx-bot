@@ -333,7 +333,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-22T09:19:41.788Z",
+      "lastActiveAt": "2026-10-22T09:24:07.462Z",
       "isBanned": false,
       "history": [
         {
@@ -536,7 +536,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8213,
+      "lastBotMessageId": 8215,
       "lastBotMessageHasPhoto": false,
       "isAdminUnlocked": true,
       "lastLookupDate": "2026-10-22",
@@ -6868,7 +6868,7 @@
       "summary": "Looked up 9876543210 (Dev Jyoti Roy)"
     }
   ],
-  "lastTelegramUpdateId": 168809538,
+  "lastTelegramUpdateId": 168809542,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
