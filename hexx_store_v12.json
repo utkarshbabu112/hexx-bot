@@ -3433,6 +3433,26 @@
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22",
       "dailyLimit": 2
+    },
+    "6001338045": {
+      "id": 6001338045,
+      "firstName": "⚡ 𝐊𝐫𝐢𝐬𝐡𝐮 ⚡",
+      "credits": 2,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 0,
+      "totalLookups": 0,
+      "referralCode": "HEX338045",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-22T12:37:02.870Z",
+      "lastActiveAt": "2026-10-22T12:37:02.870Z",
+      "isBanned": false,
+      "history": [],
+      "lastBotMessageId": 8344,
+      "lastBotMessageHasPhoto": false
     }
   },
   "orders": {
@@ -7614,7 +7634,7 @@
       "summary": "Looked up 8197580780 (Ashish Mishra)"
     }
   ],
-  "lastTelegramUpdateId": 168809696,
+  "lastTelegramUpdateId": 168809697,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
