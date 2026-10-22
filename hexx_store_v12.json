@@ -2414,16 +2414,36 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T09:57:14.832Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 18,
-      "totalLookups": 46,
+      "dailyLookupsUsed": 19,
+      "totalLookups": 47,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-22T13:41:42.603Z",
+      "lastActiveAt": "2026-10-22T14:47:35.751Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "0a812374-e892-4abf-84ba-d8d2f991f7ef",
+          "queryNumber": "8877084243",
+          "timestamp": "2026-10-22T14:47:37.672Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Shankar Prasad",
+            "truecallerName": "Sn Hzb Hotel",
+            "fatherName": "Sarau  Mahto",
+            "mobile": "8877084243",
+            "altMobile": "Not found",
+            "circle": "AIRTEL BHR&JHR",
+            "idNumber": "752669233878",
+            "email": "Not found",
+            "address": "Mangura Mangura, Hazaribag Kariatpur Ichak, Jharkhand, 825402",
+            "totalRecords": 2
+          }
+        },
         {
           "id": "6e4a8c17-ed32-4af0-af7b-64ccf2819921",
           "queryNumber": "9835246454",
@@ -2802,29 +2822,9 @@
             "address": "S/O Sudarshan Singh, 860, new area pahali gali, post-hazaribag ps-sadar hazaribag Hazaribag, near-shiv mandir, Hazaribagh, Jharkhand, 825301",
             "totalRecords": 3
           }
-        },
-        {
-          "id": "ed7928a2-7c91-41ee-b4e3-8525690323f0",
-          "queryNumber": "7352673751",
-          "timestamp": "2026-10-21T16:42:48.793Z",
-          "source": "bot",
-          "userId": 5316205408,
-          "userName": "Mukesh Kumar",
-          "resultSummary": {
-            "name": "CHANDRA DEO SINGH",
-            "truecallerName": "C D Singh",
-            "fatherName": "MOTI LAL Lal SINGH",
-            "mobile": "7352673751",
-            "altMobile": "9507367063",
-            "circle": "VODA BHR&JHR",
-            "idNumber": "541086561190",
-            "email": "Not found",
-            "address": "S/O Moti Lal Singh, S/O Moti Lal Singh, Matwari, Hazaribagh Barkagaon Ghandhi Maidan East, HAZARIBAG-HAZARIBAGH, JH, 825301",
-            "totalRecords": 3
-          }
         }
       ],
-      "lastBotMessageId": 8368,
+      "lastBotMessageId": 8380,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22",
       "lastPlanName": "7 DAYS PASS"
@@ -2864,7 +2864,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T10:33:48.708Z",
-      "lastActiveAt": "2026-10-22T08:51:11.009Z",
+      "lastActiveAt": "2026-10-22T14:48:29.251Z",
       "isBanned": false,
       "history": [
         {
@@ -4666,6 +4666,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "0a812374-e892-4abf-84ba-d8d2f991f7ef",
+      "queryNumber": "8877084243",
+      "timestamp": "2026-10-22T14:47:37.672Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Shankar Prasad",
+        "truecallerName": "Sn Hzb Hotel",
+        "fatherName": "Sarau  Mahto",
+        "mobile": "8877084243",
+        "altMobile": "Not found",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "752669233878",
+        "email": "Not found",
+        "address": "Mangura Mangura, Hazaribag Kariatpur Ichak, Jharkhand, 825402",
+        "totalRecords": 2
+      }
+    },
     {
       "id": "7e0629f2-4e79-4487-8c6c-34a75f1251ca",
       "queryNumber": "9263295352",
@@ -6637,28 +6657,17 @@
         "address": "2 Rail And Rode Serampore Sporting Hooghly Hooghly West Bengal 712202",
         "totalRecords": 2
       }
-    },
-    {
-      "id": "223666e3-6705-4f10-90b8-7a54c6f262f7",
-      "queryNumber": "9279204096",
-      "timestamp": "2026-10-21T10:14:31.229Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "Not found",
-        "fatherName": "Not found",
-        "mobile": "9279204096",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "7ddffe80-55ce-492b-850f-a3b1447bbff1",
+      "timestamp": "2026-10-22T14:47:37.672Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 8877084243 (Shankar Prasad)"
+    },
     {
       "id": "0d9f672a-9641-44c5-a2d7-4f2eb70d48a3",
       "timestamp": "2026-10-22T14:36:37.843Z",
@@ -7850,17 +7859,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Created Auto-QR Order HEXA3GI6116 (₹19 for 7 Days VIP)"
-    },
-    {
-      "id": "7a7645ac-9968-4ac9-8214-ac86150970ae",
-      "timestamp": "2026-10-21T09:40:59.782Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809728,
+  "lastTelegramUpdateId": 168809733,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
