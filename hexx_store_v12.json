@@ -3891,20 +3891,40 @@
     "8621457229": {
       "id": 8621457229,
       "firstName": "𝐑𝐎𝐋𝐄𝐗 💢",
-      "credits": 1,
+      "credits": 0,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
-      "dailyLookupsUsed": 1,
-      "totalLookups": 1,
+      "dailyLookupsUsed": 2,
+      "totalLookups": 2,
       "referralCode": "HEX457229",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-22T18:41:50.474Z",
-      "lastActiveAt": "2026-10-22T18:42:38.318Z",
+      "lastActiveAt": "2026-10-22T18:43:08.057Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "e3100c3a-9caf-4a92-97d8-1bd51f337424",
+          "queryNumber": "9583075444",
+          "timestamp": "2026-10-22T18:42:58.527Z",
+          "source": "bot",
+          "userId": 8621457229,
+          "userName": "𝐑𝐎𝐋𝐄𝐗 💢",
+          "resultSummary": {
+            "name": "Mamata Dhanpur",
+            "truecallerName": "Mamata Dhanpur",
+            "fatherName": "Not found",
+            "mobile": "9583075444",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "4244c8c3-f7e7-4048-be64-efb21fbe17c5",
           "queryNumber": "8766868504",
@@ -3926,7 +3946,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8430,
+      "lastBotMessageId": 8432,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22"
     }
@@ -4916,6 +4936,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "e3100c3a-9caf-4a92-97d8-1bd51f337424",
+      "queryNumber": "9583075444",
+      "timestamp": "2026-10-22T18:42:58.527Z",
+      "source": "bot",
+      "userId": 8621457229,
+      "userName": "𝐑𝐎𝐋𝐄𝐗 💢",
+      "resultSummary": {
+        "name": "Mamata Dhanpur",
+        "truecallerName": "Mamata Dhanpur",
+        "fatherName": "Not found",
+        "mobile": "9583075444",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "4244c8c3-f7e7-4048-be64-efb21fbe17c5",
       "queryNumber": "8766868504",
@@ -6887,29 +6927,17 @@
         "address": "20 mohiuddinpur garahi post garahi, NA, makundpur garahi, Vaishali Vaishali, NA, Bihar, 844504",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "63617e7b-56c4-47e1-a4b9-309504358ac7",
-      "queryNumber": "6201500908",
-      "timestamp": "2026-10-21T10:48:47.123Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "Ramanand Thakur",
-        "truecallerName": "Beauty Devi",
-        "fatherName": "baleshwar thakur",
-        "mobile": "6201500908",
-        "altMobile": "7493997356",
-        "circle": "BIHAR JIO",
-        "idNumber": "834019034015",
-        "email": "Not found",
-        "address": "s/o baleshwar thakur, Maheshwarpur, Baikunthpur Rajapakar, maheshwarpur baikunthpur rajapakar, raja pakar Raja Pakar, vaishali, Bihar, 844124",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "ddf09725-1ace-4423-8c28-bbb85eebfa47",
+      "timestamp": "2026-10-22T18:42:58.527Z",
+      "type": "LOOKUP",
+      "userId": 8621457229,
+      "userName": "𝐑𝐎𝐋𝐄𝐗 💢",
+      "summary": "Looked up 9583075444 (Mamata Dhanpur)"
+    },
     {
       "id": "30fcd312-32ef-48a0-910c-620c8371e7d2",
       "timestamp": "2026-10-22T18:42:11.911Z",
@@ -8101,17 +8129,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Looked up 9934848716 (Satya Prakash Singh)"
-    },
-    {
-      "id": "d6de90a3-258e-4078-b681-ca2bd018ffab",
-      "timestamp": "2026-10-21T10:30:55.667Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 8969824959 (Dilip Mishra)"
     }
   ],
-  "lastTelegramUpdateId": 168809778,
+  "lastTelegramUpdateId": 168809781,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
