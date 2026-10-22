@@ -3679,6 +3679,69 @@
       "lastBotMessageId": 8362,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22"
+    },
+    "8926917947": {
+      "id": 8926917947,
+      "firstName": "Kiyotaka",
+      "username": "Saurabh_Kumar_Tiwari_OG",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 2,
+      "totalLookups": 2,
+      "referralCode": "HEX917947",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-22T15:33:15.367Z",
+      "lastActiveAt": "2026-10-22T15:34:34.956Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "de62cdc5-5aee-49ed-8e1c-498c4da8d260",
+          "queryNumber": "8000796117",
+          "timestamp": "2026-10-22T15:34:12.044Z",
+          "source": "bot",
+          "userId": 8926917947,
+          "userName": "Kiyotaka",
+          "resultSummary": {
+            "name": "Jay Jayantibhai Patel",
+            "truecallerName": "vad nagar amul dilicious",
+            "fatherName": "Jayantibhai  Patel",
+            "mobile": "8000796117",
+            "altMobile": "8000796117",
+            "circle": "AIRTEL GUJARAT",
+            "idNumber": "929492514939",
+            "email": "Not found",
+            "address": "00 shrii nilkath timber mart sipor road mahesana Vadnagar",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "346f865d-d1ca-4fa7-9513-cddefa40b9bf",
+          "queryNumber": "9116092119",
+          "timestamp": "2026-10-22T15:33:41.477Z",
+          "source": "bot",
+          "userId": 8926917947,
+          "userName": "Kiyotaka",
+          "resultSummary": {
+            "name": "Anuradha",
+            "truecallerName": "Anuradha",
+            "fatherName": "Not found",
+            "mobile": "9116092119",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastBotMessageId": 8392,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-22"
     }
   },
   "orders": {
@@ -4666,6 +4729,46 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "de62cdc5-5aee-49ed-8e1c-498c4da8d260",
+      "queryNumber": "8000796117",
+      "timestamp": "2026-10-22T15:34:12.044Z",
+      "source": "bot",
+      "userId": 8926917947,
+      "userName": "Kiyotaka",
+      "resultSummary": {
+        "name": "Jay Jayantibhai Patel",
+        "truecallerName": "vad nagar amul dilicious",
+        "fatherName": "Jayantibhai  Patel",
+        "mobile": "8000796117",
+        "altMobile": "8000796117",
+        "circle": "AIRTEL GUJARAT",
+        "idNumber": "929492514939",
+        "email": "Not found",
+        "address": "00 shrii nilkath timber mart sipor road mahesana Vadnagar",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "346f865d-d1ca-4fa7-9513-cddefa40b9bf",
+      "queryNumber": "9116092119",
+      "timestamp": "2026-10-22T15:33:41.477Z",
+      "source": "bot",
+      "userId": 8926917947,
+      "userName": "Kiyotaka",
+      "resultSummary": {
+        "name": "Anuradha",
+        "truecallerName": "Anuradha",
+        "fatherName": "Not found",
+        "mobile": "9116092119",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "e737857f-e28a-4ffc-92b9-9d660448b267",
       "queryNumber": "7531823265",
@@ -6617,49 +6720,33 @@
         "address": "Not found",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "27b30a3f-38aa-4e27-8a53-65eb92ee8afc",
-      "queryNumber": "8969824959",
-      "timestamp": "2026-10-21T10:30:44.821Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "Dilip Mishra",
-        "truecallerName": "Dilip Mishra",
-        "fatherName": "Not found",
-        "mobile": "8969824959",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "05b662ec-32d9-48ac-bb86-1940b7bbf52b",
-      "queryNumber": "7654129275",
-      "timestamp": "2026-10-21T10:16:46.691Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "Chandan Kumar",
-        "truecallerName": "Chandan Ji Sonpur",
-        "fatherName": "Tripurari  Ray",
-        "mobile": "7654129275",
-        "altMobile": "7033229972",
-        "circle": "AIRTEL BHR&JHR",
-        "idNumber": "691437333065",
-        "email": "Not found",
-        "address": "., Panapur Gobrahi, mandir, balwakuari vaishali, Vaishali, vaishali, Bihar, 844102",
-        "totalRecords": 2
-      }
     }
   ],
   "logs": [
+    {
+      "id": "49fab2bf-1666-4883-b90e-6c04d1a3d828",
+      "timestamp": "2026-10-22T15:34:12.044Z",
+      "type": "LOOKUP",
+      "userId": 8926917947,
+      "userName": "Kiyotaka",
+      "summary": "Looked up 8000796117 (Jay Jayantibhai Patel)"
+    },
+    {
+      "id": "519a8a6b-99e2-4670-95e4-44b3c4bc9c44",
+      "timestamp": "2026-10-22T15:33:41.477Z",
+      "type": "LOOKUP",
+      "userId": 8926917947,
+      "userName": "Kiyotaka",
+      "summary": "Looked up 9116092119 (Anuradha)"
+    },
+    {
+      "id": "fd06e7c0-5251-48cd-8718-1360054063e3",
+      "timestamp": "2026-10-22T15:33:15.690Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8926917947,
+      "userName": "Kiyotaka",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "9e89d067-73e6-4691-a7aa-c4738852adf6",
       "timestamp": "2026-10-22T15:22:20.743Z",
@@ -7835,33 +7922,9 @@
       "userId": 5316205408,
       "userName": "Mukesh Kumar",
       "summary": "Created Auto-QR Order HEXSMLA5408 (₹19 for 7 Days VIP)"
-    },
-    {
-      "id": "ee5c7a6c-b7e9-48fc-8bb7-bf03bcaf73af",
-      "timestamp": "2026-10-21T09:51:40.588Z",
-      "type": "LOOKUP",
-      "userId": 5316205408,
-      "userName": "Mukesh Kumar",
-      "summary": "Looked up 8102144230 (Ful Kumari)"
-    },
-    {
-      "id": "36408ff5-95ae-46f8-bb0a-1f6346db2809",
-      "timestamp": "2026-10-21T09:50:47.541Z",
-      "type": "BOT_MESSAGE",
-      "userId": 5316205408,
-      "userName": "Mukesh Kumar",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "6fe4f9d5-36e4-40b2-923d-2cf57306b640",
-      "timestamp": "2026-10-21T09:43:41.576Z",
-      "type": "BOT_MESSAGE",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809737,
+  "lastTelegramUpdateId": 168809744,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
