@@ -333,7 +333,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-22T11:04:03.554Z",
+      "lastActiveAt": "2026-10-22T11:24:48.464Z",
       "isBanned": false,
       "history": [
         {
@@ -677,7 +677,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8307,
+      "lastBotMessageId": 8321,
       "lastBotMessageHasPhoto": false,
       "isAdminUnlocked": true,
       "lastLookupDate": "2026-10-22",
@@ -2656,7 +2656,7 @@
     "6976365330": {
       "id": 6976365330,
       "firstName": "User 5330",
-      "credits": 1,
+      "credits": 6,
       "isPremium": true,
       "premiumUntil": "2026-10-28T10:00:04.605Z",
       "totalSpent": 0,
@@ -2671,7 +2671,8 @@
       "isBanned": false,
       "history": [],
       "lastPlanName": "7 Days Admin VIP",
-      "lastLookupDate": "2026-10-21"
+      "lastLookupDate": "2026-10-22",
+      "dailyLimit": 6
     },
     "7228673447": {
       "id": 7228673447,
@@ -3219,6 +3220,48 @@
         }
       ],
       "lastBotMessageId": 8283,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-22"
+    },
+    "8377608529": {
+      "id": 8377608529,
+      "firstName": "❤️👍🤩",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 1,
+      "referralCode": "HEX608529",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-22T11:21:28.803Z",
+      "lastActiveAt": "2026-10-22T11:22:33.317Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "8510aa66-52f6-43ea-8265-8d91b0ebb26c",
+          "queryNumber": "8084808685",
+          "timestamp": "2026-10-22T11:22:00.441Z",
+          "source": "bot",
+          "userId": 8377608529,
+          "userName": "❤️👍🤩",
+          "resultSummary": {
+            "name": "Raushan Yadav",
+            "truecallerName": "Raushan Yadav",
+            "fatherName": "Not found",
+            "mobile": "8084808685",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastBotMessageId": 8317,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22"
     }
@@ -4208,6 +4251,26 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "8510aa66-52f6-43ea-8265-8d91b0ebb26c",
+      "queryNumber": "8084808685",
+      "timestamp": "2026-10-22T11:22:00.441Z",
+      "source": "bot",
+      "userId": 8377608529,
+      "userName": "❤️👍🤩",
+      "resultSummary": {
+        "name": "Raushan Yadav",
+        "truecallerName": "Raushan Yadav",
+        "fatherName": "Not found",
+        "mobile": "8084808685",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "63fabb4c-a00f-46f0-be57-b29082a0e5d1",
       "queryNumber": "8745970710",
@@ -6178,29 +6241,33 @@
         "address": "Polt no 08, Marat nagar, Marat nagar, Limbayat, SURAT, SURAT, Gujarat, 394210",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "6339555a-cbb8-4221-9168-93f73db6e729",
-      "queryNumber": "6200463559",
-      "timestamp": "2026-10-21T02:59:43.339Z",
-      "source": "bot",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "resultSummary": {
-        "name": "Kavita Priyadarshini",
-        "truecallerName": "deshesh kumar",
-        "fatherName": "Lokesh Kumar",
-        "mobile": "6200463559",
-        "altMobile": "8578019555",
-        "circle": "BIHAR JIO",
-        "idNumber": "297378727345",
-        "email": "Not found",
-        "address": "W/O Lokesh Kumar, Gali No-01 Motihari, Azad Nagar Balua Tal, Motihari Motihari East Champaran, Bihar, 845401",
-        "totalRecords": 2
-      }
     }
   ],
   "logs": [
+    {
+      "id": "fef4f483-29cd-4cc5-80d3-0624c9f1be1b",
+      "timestamp": "2026-10-22T11:22:39.383Z",
+      "type": "BOT_MESSAGE",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "b5cd5de5-e69b-4df7-8f7a-fe533ee450db",
+      "timestamp": "2026-10-22T11:22:00.441Z",
+      "type": "LOOKUP",
+      "userId": 8377608529,
+      "userName": "❤️👍🤩",
+      "summary": "Looked up 8084808685 (Raushan Yadav)"
+    },
+    {
+      "id": "14b3d43a-5133-4e7f-9175-e99eb10cec61",
+      "timestamp": "2026-10-22T11:21:36.362Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8377608529,
+      "userName": "❤️👍🤩",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "f9c3c3bd-5034-4a7c-9543-79b48a1f71d5",
       "timestamp": "2026-10-22T11:13:34.940Z",
@@ -7376,33 +7443,9 @@
       "userId": 8877490186,
       "userName": "Ghb",
       "summary": "Looked up 6202735641 (Rajkumar Mandal)"
-    },
-    {
-      "id": "f8dae1ab-4dce-4b9f-87b3-17e07a28e54e",
-      "timestamp": "2026-10-21T02:58:44.614Z",
-      "type": "LOOKUP",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "summary": "Looked up 9660346404 (narotam malav)"
-    },
-    {
-      "id": "cb552abf-9f14-4150-9ea4-2055252e57df",
-      "timestamp": "2026-10-21T02:57:45.927Z",
-      "type": "LOOKUP",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "summary": "Looked up 8757612394 (Renu Devi)"
-    },
-    {
-      "id": "a0c2ba6c-89fa-4d21-9245-a0669811b332",
-      "timestamp": "2026-10-21T02:57:31.316Z",
-      "type": "LOOKUP",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "summary": "Looked up 9274988185 (arsi raza)"
     }
   ],
-  "lastTelegramUpdateId": 168809649,
+  "lastTelegramUpdateId": 168809669,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
