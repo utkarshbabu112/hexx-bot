@@ -328,15 +328,35 @@
       "premiumUntil": null,
       "totalSpent": 0,
       "dailyLookupsUsed": 1,
-      "totalLookups": 1,
+      "totalLookups": 2,
       "referralCode": "HEX577549",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T04:06:33.877Z",
-      "lastActiveAt": "2026-10-21T04:06:51.806Z",
+      "lastActiveAt": "2026-10-22T16:38:43.061Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "2d2d2dba-c6a4-4c91-ad71-25991a175708",
+          "queryNumber": "8861680294",
+          "timestamp": "2026-10-22T16:37:42.106Z",
+          "source": "bot",
+          "userId": 1674577549,
+          "userName": "Shreeshank",
+          "resultSummary": {
+            "name": "Dhanapalan Subrahmanyam",
+            "truecallerName": "Badrinath",
+            "fatherName": "Subrahmanyam  Perunthurie",
+            "mobile": "8861680294",
+            "altMobile": "Not found",
+            "circle": "AIRTEL KARNATKA",
+            "idNumber": "689882201680",
+            "email": "Not found",
+            "address": "S/O: Subrahmanyam Perunthurie 272/1A bbmp no 790 21th cross 2nd A main vignan nagar Bangalore North New Thippasandra Bangalore North Bangalore Karnataka 560075",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "41a61295-93a1-4d9a-ae21-523aec4edebd",
           "queryNumber": "8197580780",
@@ -358,9 +378,9 @@
           }
         }
       ],
-      "lastBotMessageId": 7829,
+      "lastBotMessageId": 8402,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-21",
+      "lastLookupDate": "2026-10-22",
       "dailyLimit": 2
     },
     "6672896116": {
@@ -1726,21 +1746,41 @@
     },
     "8898442254": {
       "id": 8898442254,
-      "firstName": "𝐔𝐍𝐊𝐍𝐎𝐖𝐍 | 𝐗𝐑 ⚡",
-      "credits": 1,
+      "firstName": "𝐃\"𝐈𝐧𝐅𝐨𝐫𝐌𝐚𝐓𝐢𝐨𝐍.......... 🌪",
+      "credits": 0,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
-      "dailyLookupsUsed": 1,
-      "totalLookups": 4,
+      "dailyLookupsUsed": 2,
+      "totalLookups": 5,
       "referralCode": "HEX442254",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-20T15:47:03.102Z",
-      "lastActiveAt": "2026-10-22T10:36:36.417Z",
+      "lastActiveAt": "2026-10-22T16:42:05.800Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "3d4d5647-e530-44b8-b2e5-919582ec8f51",
+          "queryNumber": "9857524296",
+          "timestamp": "2026-10-22T16:42:07.934Z",
+          "source": "bot",
+          "userId": 8898442254,
+          "userName": "𝐃\"𝐈𝐧𝐅𝐨𝐫𝐌𝐚𝐓𝐢𝐨𝐍.......... 🌪",
+          "resultSummary": {
+            "name": "Sanjit Mondal",
+            "truecallerName": "C B Mishra Paonta B Mishra",
+            "fatherName": "Haran Mondal",
+            "mobile": "8513003632",
+            "altMobile": "9857524296",
+            "circle": "VI KOL & WB",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "., . Sonapukur, . North 24 Parganas, Sonapukur, NORTH 24 PARGANAS, North 24 Parganas, West Bengal, 743502",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "e45f4181-8b5d-46da-bf6f-1bda6f7dd797",
           "queryNumber": "9166354948",
@@ -1803,7 +1843,7 @@
         }
       ],
       "lastLookupDate": "2026-10-22",
-      "lastBotMessageId": 8289,
+      "lastBotMessageId": 8404,
       "lastBotMessageHasPhoto": false,
       "dailyLimit": 2
     },
@@ -4772,6 +4812,46 @@
   },
   "globalHistory": [
     {
+      "id": "3d4d5647-e530-44b8-b2e5-919582ec8f51",
+      "queryNumber": "9857524296",
+      "timestamp": "2026-10-22T16:42:07.934Z",
+      "source": "bot",
+      "userId": 8898442254,
+      "userName": "𝐃\"𝐈𝐧𝐅𝐨𝐫𝐌𝐚𝐓𝐢𝐨𝐍.......... 🌪",
+      "resultSummary": {
+        "name": "Sanjit Mondal",
+        "truecallerName": "C B Mishra Paonta B Mishra",
+        "fatherName": "Haran Mondal",
+        "mobile": "8513003632",
+        "altMobile": "9857524296",
+        "circle": "VI KOL & WB",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "., . Sonapukur, . North 24 Parganas, Sonapukur, NORTH 24 PARGANAS, North 24 Parganas, West Bengal, 743502",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "2d2d2dba-c6a4-4c91-ad71-25991a175708",
+      "queryNumber": "8861680294",
+      "timestamp": "2026-10-22T16:37:42.106Z",
+      "source": "bot",
+      "userId": 1674577549,
+      "userName": "Shreeshank",
+      "resultSummary": {
+        "name": "Dhanapalan Subrahmanyam",
+        "truecallerName": "Badrinath",
+        "fatherName": "Subrahmanyam  Perunthurie",
+        "mobile": "8861680294",
+        "altMobile": "Not found",
+        "circle": "AIRTEL KARNATKA",
+        "idNumber": "689882201680",
+        "email": "Not found",
+        "address": "S/O: Subrahmanyam Perunthurie 272/1A bbmp no 790 21th cross 2nd A main vignan nagar Bangalore North New Thippasandra Bangalore North Bangalore Karnataka 560075",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "677340f2-0641-4596-a70d-b01705995101",
       "queryNumber": "8544069006",
       "timestamp": "2026-10-22T16:26:30.428Z",
@@ -6722,49 +6802,25 @@
         "address": "S/O Bindeshwar Ram . alli pur dumri Bakhri Subain Bakhari Supayan Raja Pakar BAKHRI SUBAIN-VAISHALI BR 844504",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "a4f8447a-35e6-41da-a7ae-968b53422ea6",
-      "queryNumber": "9708070702",
-      "timestamp": "2026-10-21T10:46:39.049Z",
-      "source": "bot",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "resultSummary": {
-        "name": "Deepesh Kumar",
-        "truecallerName": "Deepak Bkp",
-        "fatherName": "Shankar Singh",
-        "mobile": "9708070702",
-        "altMobile": "Not found",
-        "circle": "AIRTEL BHR&JHR",
-        "idNumber": "515833191306",
-        "email": "Not found",
-        "address": "baikunthpur, Baikunthpur PO, NA, ward 05 Rampur Dilawar Raja Pakar, Vaishali, Vaishali, Bihar, 844124",
-        "totalRecords": 6
-      }
-    },
-    {
-      "id": "a3dcfa5d-124d-4a56-89e2-3ba9b004172b",
-      "queryNumber": "7722865930",
-      "timestamp": "2026-10-21T10:34:10.569Z",
-      "source": "bot",
-      "userId": 7228673447,
-      "userName": "Sameer",
-      "resultSummary": {
-        "name": "Aman Singh",
-        "truecallerName": "aman shekhpur",
-        "fatherName": "S/O Ataro",
-        "mobile": "7722865930",
-        "altMobile": "Not found",
-        "circle": "VI MP",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "S/O Ataro, ., . gram shekhupur post gharsondi, tahsil chinor Gwalior, gram shekhupur post gharsondi, BHIND, Gwalior, Madhya Pradesh, 475110",
-        "totalRecords": 2
-      }
     }
   ],
   "logs": [
+    {
+      "id": "49dc7596-1a0e-43ab-8f34-47d373909e8f",
+      "timestamp": "2026-10-22T16:42:07.934Z",
+      "type": "LOOKUP",
+      "userId": 8898442254,
+      "userName": "𝐃\"𝐈𝐧𝐅𝐨𝐫𝐌𝐚𝐓𝐢𝐨𝐍.......... 🌪",
+      "summary": "Looked up 9857524296 (Sanjit Mondal)"
+    },
+    {
+      "id": "783e54b1-4b70-44cd-900f-46220419008a",
+      "timestamp": "2026-10-22T16:37:42.106Z",
+      "type": "LOOKUP",
+      "userId": 1674577549,
+      "userName": "Shreeshank",
+      "summary": "Looked up 8861680294 (Dhanapalan Subrahmanyam)"
+    },
     {
       "id": "3844b011-9d93-4229-aacb-493a370d76e2",
       "timestamp": "2026-10-22T16:26:30.428Z",
@@ -7948,25 +8004,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Looked up 9279204096 (Not found)"
-    },
-    {
-      "id": "f704ff8e-2cb3-4d13-8590-e62a0c09d034",
-      "timestamp": "2026-10-21T10:14:02.313Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 8283033118 (AMARJEET KAUR)"
-    },
-    {
-      "id": "b8b0e47e-8ae0-4739-941d-86058a060c82",
-      "timestamp": "2026-10-21T10:09:15.748Z",
-      "type": "LOOKUP",
-      "userId": 5316205408,
-      "userName": "Mukesh Kumar",
-      "summary": "Looked up 9324426734 (Sanjiv Ranjan)"
     }
   ],
-  "lastTelegramUpdateId": 168809751,
+  "lastTelegramUpdateId": 168809755,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
