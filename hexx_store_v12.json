@@ -2318,16 +2318,35 @@
       "isPremium": true,
       "premiumUntil": "2026-10-28T09:57:14.832Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 12,
-      "totalLookups": 40,
+      "dailyLookupsUsed": 13,
+      "totalLookups": 41,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-22T10:23:51.253Z",
+      "lastActiveAt": "2026-10-22T11:13:33.334Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "63fabb4c-a00f-46f0-be57-b29082a0e5d1",
+          "queryNumber": "8745970710",
+          "timestamp": "2026-10-22T11:13:34.940Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Radha Kumari",
+            "fatherName": "Hari Ray",
+            "mobile": "8745970710",
+            "altMobile": "Not found",
+            "circle": "VI DELHI",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "F 357 Shakur Pur, Shakur Pur, North West Delhi NORTH WEST DELHI, DELHI, NORTH WEST DELHI, Delhi, 110034",
+            "totalRecords": 2
+          }
+        },
         {
           "id": "b7a49a26-8003-488d-81e9-dac84b2db47a",
           "queryNumber": "8789288824",
@@ -2629,7 +2648,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8259,
+      "lastBotMessageId": 8309,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22",
       "lastPlanName": "7 DAYS PASS"
@@ -4189,6 +4208,25 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "63fabb4c-a00f-46f0-be57-b29082a0e5d1",
+      "queryNumber": "8745970710",
+      "timestamp": "2026-10-22T11:13:34.940Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Radha Kumari",
+        "fatherName": "Hari Ray",
+        "mobile": "8745970710",
+        "altMobile": "Not found",
+        "circle": "VI DELHI",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "F 357 Shakur Pur, Shakur Pur, North West Delhi NORTH WEST DELHI, DELHI, NORTH WEST DELHI, Delhi, 110034",
+        "totalRecords": 2
+      }
+    },
     {
       "id": "b4856a09-71f8-43c4-b272-45bdf6d78aa8",
       "queryNumber": "7983323753",
@@ -6160,29 +6198,17 @@
         "address": "W/O Lokesh Kumar, Gali No-01 Motihari, Azad Nagar Balua Tal, Motihari Motihari East Champaran, Bihar, 845401",
         "totalRecords": 2
       }
-    },
-    {
-      "id": "368151bc-f73c-4c41-8b5d-3b7eb859e897",
-      "queryNumber": "6202735641",
-      "timestamp": "2026-10-21T02:59:13.807Z",
-      "source": "bot",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "resultSummary": {
-        "name": "Rajkumar Mandal",
-        "truecallerName": "banti mandal",
-        "fatherName": "Bhikhi Mandal",
-        "mobile": "6202735641",
-        "altMobile": "Not found",
-        "circle": "BIHAR JIO",
-        "idNumber": "752564856629",
-        "email": "Not found",
-        "address": "S/O Bhikhi Mandal, Keshwari, vill nagar keshwari po keshwari ps suriya, Nagar Keshwari Bagodar Giridih, Jharkhand, 825320",
-        "totalRecords": 3
-      }
     }
   ],
   "logs": [
+    {
+      "id": "f9c3c3bd-5034-4a7c-9543-79b48a1f71d5",
+      "timestamp": "2026-10-22T11:13:34.940Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 8745970710 (Radha Kumari)"
+    },
     {
       "id": "025528a8-312c-4261-a021-d371883a6261",
       "timestamp": "2026-10-22T11:02:52.396Z",
@@ -7374,17 +7400,9 @@
       "userId": 8877490186,
       "userName": "Ghb",
       "summary": "Looked up 9274988185 (arsi raza)"
-    },
-    {
-      "id": "22667a00-55e3-413f-a328-d70b1512ffed",
-      "timestamp": "2026-10-21T02:57:00.611Z",
-      "type": "LOOKUP",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "summary": "Looked up 7872079155 (raju lingchom)"
     }
   ],
-  "lastTelegramUpdateId": 168809648,
+  "lastTelegramUpdateId": 168809649,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
