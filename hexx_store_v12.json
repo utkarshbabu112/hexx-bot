@@ -18,8 +18,8 @@
     "gmailAppPassword": "ztxkbsoywmnuhthm",
     "autoVerifyPayment": true,
     "pollIntervalSeconds": 4,
-    "defaultTrialCredits": 1,
-    "dailyLookupLimit": 1,
+    "defaultTrialCredits": 2,
+    "dailyLookupLimit": 2,
     "referralBonusCredits": 2,
     "referralsForFreePremiumDay": 3,
     "freePremiumDaysReward": 1,
@@ -230,13 +230,13 @@
       "lastBotMessageId": 7681,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-20",
-      "dailyLimit": 1
+      "dailyLimit": 2
     },
     "1482397019": {
       "id": 1482397019,
       "firstName": "Jeet",
       "username": "Jeet1811",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -273,13 +273,14 @@
       ],
       "lastBotMessageId": 8328,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-22"
+      "lastLookupDate": "2026-10-22",
+      "dailyLimit": 2
     },
     "1545684588": {
       "id": 1545684588,
       "firstName": "Shyam",
       "username": "Shivam1063",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -316,12 +317,13 @@
       ],
       "lastLookupDate": "2026-10-21",
       "lastBotMessageId": 7973,
-      "lastBotMessageHasPhoto": false
+      "lastBotMessageHasPhoto": false,
+      "dailyLimit": 2
     },
     "1674577549": {
       "id": 1674577549,
       "firstName": "Shreeshank",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -358,7 +360,8 @@
       ],
       "lastBotMessageId": 7829,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-21"
+      "lastLookupDate": "2026-10-21",
+      "dailyLimit": 2
     },
     "6672896116": {
       "id": 6672896116,
@@ -376,7 +379,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-22T11:32:30.821Z",
+      "lastActiveAt": "2026-10-22T11:42:59.722Z",
       "isBanned": false,
       "history": [
         {
@@ -730,7 +733,7 @@
       "id": 7995520431,
       "firstName": "Vashu",
       "username": "Vashubhaiii",
-      "credits": 1,
+      "credits": 2,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 1,
@@ -747,7 +750,7 @@
       "lastBotMessageId": 7639,
       "lastBotMessageHasPhoto": true,
       "isAdminUnlocked": true,
-      "dailyLimit": 1,
+      "dailyLimit": 2,
       "lastLookupDate": "2026-10-21",
       "lastPlanName": "1 Day Pass"
     },
@@ -755,7 +758,7 @@
       "id": 7122271216,
       "firstName": "Vikash",
       "username": "V5Sai",
-      "credits": 1,
+      "credits": 2,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -793,13 +796,13 @@
       "lastLookupDate": "2026-10-21",
       "lastBotMessageId": 7080,
       "lastBotMessageHasPhoto": false,
-      "dailyLimit": 1
+      "dailyLimit": 2
     },
     "6247554367": {
       "id": 6247554367,
       "firstName": "Divya",
       "username": "Divyarani123a",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -877,7 +880,7 @@
       "lastLookupDate": "2026-10-22",
       "lastBotMessageId": 8234,
       "lastBotMessageHasPhoto": false,
-      "dailyLimit": 1
+      "dailyLimit": 2
     },
     "8877490186": {
       "id": 8877490186,
@@ -1025,7 +1028,7 @@
     "6027780529": {
       "id": 6027780529,
       "firstName": "TG",
-      "credits": 1,
+      "credits": 2,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -1041,13 +1044,13 @@
       "history": [],
       "lastBotMessageId": 7077,
       "lastBotMessageHasPhoto": true,
-      "dailyLimit": 1
+      "dailyLimit": 2
     },
     "7933477413": {
       "id": 7933477413,
       "firstName": "HUNTER",
       "username": "Huluman108",
-      "credits": 1,
+      "credits": 2,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -1063,12 +1066,12 @@
       "history": [],
       "lastBotMessageId": 7081,
       "lastBotMessageHasPhoto": true,
-      "dailyLimit": 1
+      "dailyLimit": 2
     },
     "8299737228": {
       "id": 8299737228,
       "firstName": "FREE",
-      "credits": 1,
+      "credits": 2,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -1084,13 +1087,13 @@
       "history": [],
       "lastBotMessageId": 7078,
       "lastBotMessageHasPhoto": true,
-      "dailyLimit": 1
+      "dailyLimit": 2
     },
     "pre_/admin": {
       "id": 968096444,
       "firstName": "@/admin",
       "username": "/admin",
-      "credits": 1,
+      "credits": 2,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -1104,12 +1107,12 @@
       "lastActiveAt": "2026-10-19T13:24:24.922Z",
       "isBanned": false,
       "history": [],
-      "dailyLimit": 1
+      "dailyLimit": 2
     },
     "8517814936": {
       "id": 8517814936,
       "firstName": "Anjali",
-      "credits": 1,
+      "credits": 2,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -1126,7 +1129,7 @@
       "lastBotMessageId": 7500,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-20",
-      "dailyLimit": 1
+      "dailyLimit": 2
     },
     "8900660455": {
       "id": 8900660455,
@@ -1188,13 +1191,13 @@
       "lastBotMessageId": 7513,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-20",
-      "dailyLimit": 1
+      "dailyLimit": 2
     },
     "6352747905": {
       "id": 6352747905,
       "firstName": ".",
       "username": "JustMeMan97",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -1231,7 +1234,7 @@
       "lastBotMessageId": 7626,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-20",
-      "dailyLimit": 1
+      "dailyLimit": 2
     },
     "8929566190": {
       "id": 8929566190,
@@ -1294,7 +1297,7 @@
       "lastBotMessageId": 7638,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-20",
-      "dailyLimit": 1
+      "dailyLimit": 2
     },
     "8447532330": {
       "id": 8447532330,
@@ -1357,7 +1360,7 @@
       "lastBotMessageId": 7647,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-20",
-      "dailyLimit": 1
+      "dailyLimit": 2
     },
     "8935237963": {
       "id": 8935237963,
@@ -1420,13 +1423,13 @@
       "lastBotMessageId": 7671,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-20",
-      "dailyLimit": 1
+      "dailyLimit": 2
     },
     "6415125910": {
       "id": 6415125910,
       "firstName": "𝐀𝐃𝐌𝐈𝐍 𝐁𝐀𝐁𝐔",
       "username": "online442756",
-      "credits": 1,
+      "credits": 2,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -1443,12 +1446,12 @@
       "lastBotMessageId": 7657,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-20",
-      "dailyLimit": 1
+      "dailyLimit": 2
     },
     "8675079758": {
       "id": 8675079758,
       "firstName": ".",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -1485,7 +1488,7 @@
       "lastBotMessageId": 7661,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-20",
-      "dailyLimit": 1
+      "dailyLimit": 2
     },
     "8499830773": {
       "id": 8499830773,
@@ -1548,13 +1551,13 @@
       "lastBotMessageId": 7669,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-20",
-      "dailyLimit": 1
+      "dailyLimit": 2
     },
     "8066965283": {
       "id": 8066965283,
       "firstName": "Tʀᴜsᴛᴇᴅ Sᴇʟʟᴇʀ",
       "username": "socialxym",
-      "credits": 1,
+      "credits": 2,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -1571,12 +1574,12 @@
       "lastBotMessageId": 7673,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-20",
-      "dailyLimit": 1
+      "dailyLimit": 2
     },
     "7639119817": {
       "id": 7639119817,
       "firstName": "Yadav ji",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -1613,7 +1616,7 @@
       ],
       "lastBotMessageId": 7835,
       "lastBotMessageHasPhoto": false,
-      "dailyLimit": 1,
+      "dailyLimit": 2,
       "lastLookupDate": "2026-10-21"
     },
     "7294896326": {
@@ -1677,12 +1680,12 @@
       "lastBotMessageId": 7717,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-20",
-      "dailyLimit": 1
+      "dailyLimit": 2
     },
     "8898442254": {
       "id": 8898442254,
       "firstName": "𝐔𝐍𝐊𝐍𝐎𝐖𝐍 | 𝐗𝐑 ⚡",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -1760,13 +1763,13 @@
       "lastLookupDate": "2026-10-22",
       "lastBotMessageId": 8289,
       "lastBotMessageHasPhoto": false,
-      "dailyLimit": 1
+      "dailyLimit": 2
     },
     "7183197265": {
       "id": 7183197265,
       "firstName": "OG",
       "username": "OGxMANSURI",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -1863,13 +1866,13 @@
       "lastBotMessageId": 8281,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22",
-      "dailyLimit": 1
+      "dailyLimit": 2
     },
     "6783862138": {
       "id": 6783862138,
       "firstName": "Rakesh",
       "username": "uttamshk",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -1907,7 +1910,7 @@
       "lastLookupDate": "2026-10-20",
       "lastBotMessageId": 7733,
       "lastBotMessageHasPhoto": false,
-      "dailyLimit": 1
+      "dailyLimit": 2
     },
     "8624451243": {
       "id": 8624451243,
@@ -1970,12 +1973,12 @@
       "lastBotMessageId": 7741,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-20",
-      "dailyLimit": 1
+      "dailyLimit": 2
     },
     "8684851606": {
       "id": 8684851606,
       "firstName": "🐣",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -2012,13 +2015,13 @@
       "lastBotMessageId": 7745,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-20",
-      "dailyLimit": 1
+      "dailyLimit": 2
     },
     "8722331048": {
       "id": 8722331048,
       "firstName": "L",
       "username": "cx1_a",
-      "credits": 1,
+      "credits": 2,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -2034,13 +2037,13 @@
       "history": [],
       "lastBotMessageId": 7747,
       "lastBotMessageHasPhoto": false,
-      "dailyLimit": 1
+      "dailyLimit": 2
     },
     "8873453593": {
       "id": 8873453593,
       "firstName": "Nikita",
       "username": "Niku0791",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -2078,13 +2081,13 @@
       "lastBotMessageId": 7751,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-21",
-      "dailyLimit": 1
+      "dailyLimit": 2
     },
     "8904188905": {
       "id": 8904188905,
       "firstName": "Arjun Sinhala Hacker",
       "username": "Worldwide_hacker80",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -2100,12 +2103,13 @@
       "history": [],
       "lastBotMessageId": 7787,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-21"
+      "lastLookupDate": "2026-10-21",
+      "dailyLimit": 2
     },
     "6502481272": {
       "id": 6502481272,
       "firstName": "Gamer",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -2162,13 +2166,14 @@
       ],
       "lastLookupDate": "2026-10-22",
       "lastBotMessageId": 8185,
-      "lastBotMessageHasPhoto": false
+      "lastBotMessageHasPhoto": false,
+      "dailyLimit": 2
     },
     "7253480289": {
       "id": 7253480289,
       "firstName": "꧁𖤍 𝐕𝐄𝐗𝐎𝐑 𖤍꧂ ❰ 𝐃𝚵𝐅𝚨𝐔𝐋𝐓𝚵𝐑𝐒 ❱",
       "username": "II_Vexor_II",
-      "credits": 1,
+      "credits": 2,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -2184,12 +2189,13 @@
       "history": [],
       "lastBotMessageId": 7961,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-21"
+      "lastLookupDate": "2026-10-21",
+      "dailyLimit": 2
     },
     "7478449082": {
       "id": 7478449082,
       "firstName": "Imran Shah 143",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -2245,13 +2251,14 @@
       ],
       "lastBotMessageId": 8287,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-22"
+      "lastLookupDate": "2026-10-22",
+      "dailyLimit": 2
     },
     "8472839897": {
       "id": 8472839897,
       "firstName": "MANJIT KUMAR",
       "username": "manjitchauhan8340",
-      "credits": 1,
+      "credits": 2,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -2266,12 +2273,13 @@
       "isBanned": false,
       "history": [],
       "lastBotMessageId": 7858,
-      "lastBotMessageHasPhoto": false
+      "lastBotMessageHasPhoto": false,
+      "dailyLimit": 2
     },
     "6363693254": {
       "id": 6363693254,
       "firstName": "Akash",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -2308,12 +2316,13 @@
       ],
       "lastBotMessageId": 7862,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-21"
+      "lastLookupDate": "2026-10-21",
+      "dailyLimit": 2
     },
     "7010424526": {
       "id": 7010424526,
       "firstName": "Xyz",
-      "credits": 1,
+      "credits": 2,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -2329,13 +2338,14 @@
       "history": [],
       "lastBotMessageId": 7866,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-21"
+      "lastLookupDate": "2026-10-21",
+      "dailyLimit": 2
     },
     "7516309870": {
       "id": 7516309870,
       "firstName": "🚩",
       "username": "ERROR_WXYZ",
-      "credits": 1,
+      "credits": 2,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -2351,7 +2361,8 @@
       "history": [],
       "lastBotMessageId": 7868,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-21"
+      "lastLookupDate": "2026-10-21",
+      "dailyLimit": 2
     },
     "5316205408": {
       "id": 5316205408,
@@ -2720,7 +2731,7 @@
     "7228673447": {
       "id": 7228673447,
       "firstName": "Sameer",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -2777,13 +2788,14 @@
       ],
       "lastBotMessageId": 8189,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-22"
+      "lastLookupDate": "2026-10-22",
+      "dailyLimit": 2
     },
     "8192309600": {
       "id": 8192309600,
       "firstName": "R",
       "username": "Joyknea10",
-      "credits": 1,
+      "credits": 2,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -2799,13 +2811,14 @@
       "history": [],
       "lastBotMessageId": 7991,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-21"
+      "lastLookupDate": "2026-10-21",
+      "dailyLimit": 2
     },
     "7954471110": {
       "id": 7954471110,
       "firstName": "Rakib",
       "username": "Rakib_khan_0035",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -2842,12 +2855,13 @@
       ],
       "lastBotMessageId": 8011,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-21"
+      "lastLookupDate": "2026-10-21",
+      "dailyLimit": 2
     },
     "8302423432": {
       "id": 8302423432,
       "firstName": "7896321450",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -2883,13 +2897,14 @@
       ],
       "lastBotMessageId": 8037,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-21"
+      "lastLookupDate": "2026-10-21",
+      "dailyLimit": 2
     },
     "5676886634": {
       "id": 5676886634,
       "firstName": "Дикий!",
       "username": "Savage_010101",
-      "credits": 1,
+      "credits": 2,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -2905,13 +2920,14 @@
       "history": [],
       "lastBotMessageId": 8051,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-21"
+      "lastLookupDate": "2026-10-21",
+      "dailyLimit": 2
     },
     "8908045884": {
       "id": 8908045884,
       "firstName": "Robin",
       "username": "Robinjohnson01",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -2948,12 +2964,13 @@
       ],
       "lastBotMessageId": 8055,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-21"
+      "lastLookupDate": "2026-10-21",
+      "dailyLimit": 2
     },
     "8885212528": {
       "id": 8885212528,
       "firstName": ".",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -2989,12 +3006,13 @@
       ],
       "lastBotMessageId": 8059,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-21"
+      "lastLookupDate": "2026-10-21",
+      "dailyLimit": 2
     },
     "8619902396": {
       "id": 8619902396,
       "firstName": ".",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -3030,13 +3048,14 @@
       ],
       "lastBotMessageId": 8063,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-21"
+      "lastLookupDate": "2026-10-21",
+      "dailyLimit": 2
     },
     "6882227007": {
       "id": 6882227007,
       "firstName": "??",
       "username": "Kidzee_46",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -3073,12 +3092,13 @@
       ],
       "lastBotMessageId": 8199,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-22"
+      "lastLookupDate": "2026-10-22",
+      "dailyLimit": 2
     },
     "7686795312": {
       "id": 7686795312,
       "firstName": "Faseeh",
-      "credits": 1,
+      "credits": 2,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -3094,12 +3114,13 @@
       "history": [],
       "lastBotMessageId": 8224,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-22"
+      "lastLookupDate": "2026-10-22",
+      "dailyLimit": 2
     },
     "8715357942": {
       "id": 8715357942,
       "firstName": "Yashmit",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -3136,13 +3157,14 @@
       ],
       "lastBotMessageId": 8232,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-22"
+      "lastLookupDate": "2026-10-22",
+      "dailyLimit": 2
     },
     "7597469257": {
       "id": 7597469257,
       "firstName": "BIOFULLYY",
       "username": "Conixion",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -3179,12 +3201,13 @@
       ],
       "lastBotMessageId": 8291,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-22"
+      "lastLookupDate": "2026-10-22",
+      "dailyLimit": 2
     },
     "8678125218": {
       "id": 8678125218,
       "firstName": "Fih",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -3221,13 +3244,14 @@
       ],
       "lastBotMessageId": 8273,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-22"
+      "lastLookupDate": "2026-10-22",
+      "dailyLimit": 2
     },
     "7456375776": {
       "id": 7456375776,
       "firstName": "X⁴",
       "username": "Macareena",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
@@ -3264,7 +3288,8 @@
       ],
       "lastBotMessageId": 8283,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-22"
+      "lastLookupDate": "2026-10-22",
+      "dailyLimit": 2
     },
     "8377608529": {
       "id": 8377608529,
@@ -3407,7 +3432,7 @@
       "lastBotMessageId": 8340,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22",
-      "dailyLimit": 6
+      "dailyLimit": 2
     }
   },
   "orders": {
@@ -7589,7 +7614,7 @@
       "summary": "Looked up 8197580780 (Ashish Mishra)"
     }
   ],
-  "lastTelegramUpdateId": 168809692,
+  "lastTelegramUpdateId": 168809696,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
