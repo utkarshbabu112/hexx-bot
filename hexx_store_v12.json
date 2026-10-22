@@ -2727,10 +2727,31 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-22T09:32:22.025Z",
-      "lastActiveAt": "2026-10-22T09:32:22.025Z",
+      "lastActiveAt": "2026-10-22T09:33:53.251Z",
       "isBanned": false,
       "history": [],
-      "lastBotMessageId": 8218,
+      "lastBotMessageId": 8224,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-22"
+    },
+    "8715357942": {
+      "id": 8715357942,
+      "firstName": "Yashmit",
+      "credits": 1,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 0,
+      "totalLookups": 0,
+      "referralCode": "HEX357942",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-22T09:37:47.635Z",
+      "lastActiveAt": "2026-10-22T09:37:47.635Z",
+      "isBanned": false,
+      "history": [],
+      "lastBotMessageId": 8226,
       "lastBotMessageHasPhoto": false
     }
   },
@@ -5688,6 +5709,22 @@
   ],
   "logs": [
     {
+      "id": "4cc60d5e-8ed8-45b3-a039-aab6aacdabe7",
+      "timestamp": "2026-10-22T09:37:47.963Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8715357942,
+      "userName": "Yashmit",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "dcb9dde6-b092-4550-804d-14f4f713dc23",
+      "timestamp": "2026-10-22T09:33:37.970Z",
+      "type": "BOT_MESSAGE",
+      "userId": 7686795312,
+      "userName": "Faseeh",
+      "summary": "Started bot (/start)"
+    },
+    {
       "id": "93c89b18-0861-4bec-9889-6a2e7f53e2b2",
       "timestamp": "2026-10-22T09:32:22.330Z",
       "type": "BOT_MESSAGE",
@@ -6870,25 +6907,9 @@
       "userId": 7183197265,
       "userName": "OG",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "bd603ec2-98ed-4e06-ad84-749909772c51",
-      "timestamp": "2026-10-20T15:47:17.357Z",
-      "type": "LOOKUP",
-      "userId": 8898442254,
-      "userName": "𝐄𝐑𝐑𝐎𝐑 | 𝐗𝐑 🍂",
-      "summary": "Looked up 9015317744 (ALOKJAI)"
-    },
-    {
-      "id": "396b9e32-1900-42e5-b592-c1ae510f74ad",
-      "timestamp": "2026-10-20T15:47:04.945Z",
-      "type": "LOOKUP",
-      "userId": 8898442254,
-      "userName": "𝐄𝐑𝐑𝐎𝐑 | 𝐗𝐑 🍂",
-      "summary": "Looked up 9015317744 (ALOKJAI)"
     }
   ],
-  "lastTelegramUpdateId": 168809543,
+  "lastTelegramUpdateId": 168809549,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
