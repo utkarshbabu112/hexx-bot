@@ -3453,6 +3453,48 @@
       "history": [],
       "lastBotMessageId": 8344,
       "lastBotMessageHasPhoto": false
+    },
+    "8243843837": {
+      "id": 8243843837,
+      "firstName": "MAVERICK",
+      "username": "Maverikse",
+      "credits": 0,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 2,
+      "totalLookups": 2,
+      "referralCode": "HEX843837",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-22T12:41:06.159Z",
+      "lastActiveAt": "2026-10-22T12:43:16.805Z",
+      "isBanned": false,
+      "history": [
+        {
+          "id": "3d41d44b-3518-4827-82e5-5ccf85cb8871",
+          "queryNumber": "9217796173",
+          "timestamp": "2026-10-22T12:43:03.036Z",
+          "source": "bot",
+          "userId": 8243843837,
+          "userName": "MAVERICK",
+          "resultSummary": {
+            "name": "Not found",
+            "fatherName": "Not found",
+            "mobile": "9217796173",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        }
+      ],
+      "lastBotMessageId": 8350,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-22"
     }
   },
   "orders": {
@@ -4440,6 +4482,45 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "3d41d44b-3518-4827-82e5-5ccf85cb8871",
+      "queryNumber": "9217796173",
+      "timestamp": "2026-10-22T12:43:03.036Z",
+      "source": "bot",
+      "userId": 8243843837,
+      "userName": "MAVERICK",
+      "resultSummary": {
+        "name": "Not found",
+        "fatherName": "Not found",
+        "mobile": "9217796173",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "0617eab3-0614-4fb9-b0e1-c21aba266674",
+      "queryNumber": "9711559505",
+      "timestamp": "2026-10-22T12:41:23.015Z",
+      "source": "bot",
+      "userId": 8243843837,
+      "userName": "MAVERICK",
+      "resultSummary": {
+        "name": "MR. CHAND BABU",
+        "truecallerName": "Chan Sir Maths Teacher",
+        "fatherName": "Dinesh Kumar",
+        "mobile": "9711559505",
+        "altMobile": "8076988172",
+        "circle": "VODA UPE",
+        "idNumber": "533210011054",
+        "email": "Not found",
+        "address": "1/10, MODAHA DAKSHINNEAR RAILWAY CROSSING, Near Railway crossing, KHOJANPURFAIZABAD, FAIZABAD, UTTAR PRADESH, 224001",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "3ffb5540-0cd9-477e-aab0-eb97385cb138",
       "queryNumber": "6206372425",
@@ -6390,49 +6471,33 @@
         "address": "S/O Prahlad Singh, House N0 2 Block G , GAli N0 9, Sangam vihar New Delhi , South DelhiSouth Delhi, Delhi, 110062",
         "totalRecords": 4
       }
-    },
-    {
-      "id": "824bd8be-717f-4e95-92ea-720d11401678",
-      "queryNumber": "9328110488",
-      "timestamp": "2026-10-21T04:38:33.161Z",
-      "source": "bot",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "resultSummary": {
-        "name": "Gamit Ashwinbhai Shantabhai",
-        "truecallerName": "yohan bhai",
-        "fatherName": "Gamit Shantabhai",
-        "mobile": "9328110488",
-        "altMobile": "9725223708",
-        "circle": "JIO GUJARAT",
-        "idNumber": "379236291799",
-        "email": "Not found",
-        "address": "S/O Gamit Shantabhai, Gopalpura, NA, Parsi Faliyu TaSongadh, Gopalpura Songadh Tapi, NA, Gujarat, 394365",
-        "totalRecords": 3
-      }
-    },
-    {
-      "id": "c6fb439d-625d-4de6-be21-a627a807094e",
-      "queryNumber": "7872079155",
-      "timestamp": "2026-10-21T04:37:25.553Z",
-      "source": "bot",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "resultSummary": {
-        "name": "raju lingchom",
-        "truecallerName": "raju lingchom",
-        "fatherName": "Not found",
-        "mobile": "7872079155",
-        "altMobile": "Not found",
-        "circle": "India",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Not found",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "56ecb495-8109-49c6-a04f-05989e203874",
+      "timestamp": "2026-10-22T12:43:03.036Z",
+      "type": "LOOKUP",
+      "userId": 8243843837,
+      "userName": "MAVERICK",
+      "summary": "Looked up 9217796173 (Not found)"
+    },
+    {
+      "id": "49809dfb-4d79-467f-a932-2a5855093629",
+      "timestamp": "2026-10-22T12:41:23.015Z",
+      "type": "LOOKUP",
+      "userId": 8243843837,
+      "userName": "MAVERICK",
+      "summary": "Looked up 9711559505 (MR. CHAND BABU)"
+    },
+    {
+      "id": "57437c9e-fe30-4997-bc3f-6f9711fb6c7f",
+      "timestamp": "2026-10-22T12:41:06.460Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8243843837,
+      "userName": "MAVERICK",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "fa81af5e-ebd0-4269-8588-a5bd45b28c04",
       "timestamp": "2026-10-22T11:30:48.019Z",
@@ -7608,33 +7673,9 @@
       "userId": 7639119817,
       "userName": "Yadav ji",
       "summary": "Looked up 9213175217 (Ankit Sagar)"
-    },
-    {
-      "id": "7023bdb3-9956-46e5-8ac2-b8826ab77c54",
-      "timestamp": "2026-10-21T04:38:33.161Z",
-      "type": "LOOKUP",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "summary": "Looked up 9328110488 (Gamit Ashwinbhai Shantabhai)"
-    },
-    {
-      "id": "7b44477d-56dd-4cf3-acad-67ab86f47d72",
-      "timestamp": "2026-10-21T04:37:25.553Z",
-      "type": "LOOKUP",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "summary": "Looked up 7872079155 (raju lingchom)"
-    },
-    {
-      "id": "380e85cb-53d2-4db5-978e-36299a9f0919",
-      "timestamp": "2026-10-21T04:06:53.635Z",
-      "type": "LOOKUP",
-      "userId": 1674577549,
-      "userName": "Shreeshank",
-      "summary": "Looked up 8197580780 (Ashish Mishra)"
     }
   ],
-  "lastTelegramUpdateId": 168809697,
+  "lastTelegramUpdateId": 168809708,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
