@@ -847,15 +847,35 @@
       "premiumUntil": null,
       "totalSpent": 0,
       "dailyLookupsUsed": 1,
-      "totalLookups": 4,
+      "totalLookups": 5,
       "referralCode": "HEX554367",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-19T12:28:10.920Z",
-      "lastActiveAt": "2026-10-22T09:58:46.851Z",
+      "lastActiveAt": "2026-10-23T01:13:11.474Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "5b7e9f8f-41f8-45e0-a83b-832d0649a4ad",
+          "queryNumber": "8780896087",
+          "timestamp": "2026-10-23T01:13:13.012Z",
+          "source": "bot",
+          "userId": 6247554367,
+          "userName": "Divya",
+          "resultSummary": {
+            "name": "Solanki Mitaben Jagdishbhai",
+            "truecallerName": "komal ben 2",
+            "fatherName": "Jagdish bhai",
+            "mobile": "8780896087",
+            "altMobile": "8849840812",
+            "circle": "JIO GUJARAT",
+            "idNumber": "525558129772",
+            "email": "Not found",
+            "address": "48, Omkar Society-2 Katargam, Singanpore Gam, Katargam, Surat City Surat City, Surat, Gujarat, 395004",
+            "totalRecords": 2
+          }
+        },
         {
           "id": "5b628f3f-fe0a-49f6-9033-d7cb0b9fcead",
           "queryNumber": "8866779880",
@@ -917,8 +937,8 @@
           }
         }
       ],
-      "lastLookupDate": "2026-10-22",
-      "lastBotMessageId": 8234,
+      "lastLookupDate": "2026-10-23",
+      "lastBotMessageId": 8470,
       "lastBotMessageHasPhoto": false,
       "dailyLimit": 2
     },
@@ -5126,6 +5146,26 @@
   },
   "globalHistory": [
     {
+      "id": "5b7e9f8f-41f8-45e0-a83b-832d0649a4ad",
+      "queryNumber": "8780896087",
+      "timestamp": "2026-10-23T01:13:13.012Z",
+      "source": "bot",
+      "userId": 6247554367,
+      "userName": "Divya",
+      "resultSummary": {
+        "name": "Solanki Mitaben Jagdishbhai",
+        "truecallerName": "komal ben 2",
+        "fatherName": "Jagdish bhai",
+        "mobile": "8780896087",
+        "altMobile": "8849840812",
+        "circle": "JIO GUJARAT",
+        "idNumber": "525558129772",
+        "email": "Not found",
+        "address": "48, Omkar Society-2 Katargam, Singanpore Gam, Katargam, Surat City Surat City, Surat, Gujarat, 395004",
+        "totalRecords": 2
+      }
+    },
+    {
       "id": "7c9078e2-1266-4a3b-b14a-86559e3ab2dd",
       "queryNumber": "8171731789",
       "timestamp": "2026-10-22T23:41:52.956Z",
@@ -7096,29 +7136,25 @@
         "address": "mangartilaiya, NA, thana pirtand post atki mangartilaia, Giridih Giridh, NA, Jharkhand, 825108",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "6c2e49ed-a9fa-4790-8bdf-042d0d816114",
-      "queryNumber": "7667233954",
-      "timestamp": "2026-10-21T12:01:39.410Z",
-      "source": "bot",
-      "userId": 5316205408,
-      "userName": "Mukesh Kumar",
-      "resultSummary": {
-        "name": "Anshu Kumar Pandey",
-        "truecallerName": "🏥 Shivansh Clinic 🏥",
-        "fatherName": "Rajesh Kumar Pandey",
-        "mobile": "7667233954",
-        "altMobile": "8228831512",
-        "circle": "JIO BHR&JHR",
-        "idNumber": "221084754855",
-        "email": "Not found",
-        "address": "S/O Rajesh Kumar Pandey, 212, kallu chowk road1 Hazaribagh, kallu chowk noora, Hazaribag Barkagaon, Hazaribagh, Jharkhand, 825301",
-        "totalRecords": 2
-      }
     }
   ],
   "logs": [
+    {
+      "id": "7b1c986e-8312-41de-843f-3d5c4ed33236",
+      "timestamp": "2026-10-23T01:13:13.012Z",
+      "type": "LOOKUP",
+      "userId": 6247554367,
+      "userName": "Divya",
+      "summary": "Looked up 8780896087 (Solanki Mitaben Jagdishbhai)"
+    },
+    {
+      "id": "d5d38d90-810a-4749-a9eb-84b3235f753f",
+      "timestamp": "2026-10-23T01:13:07.653Z",
+      "type": "BOT_MESSAGE",
+      "userId": 6247554367,
+      "userName": "Divya",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "cee22207-c631-449b-bd36-9b4d99ed9328",
       "timestamp": "2026-10-23T00:24:55.521Z",
@@ -8302,25 +8338,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "bd07bd51-6e8b-44f6-850a-4cba768bd56c",
-      "timestamp": "2026-10-21T11:15:49.045Z",
-      "type": "LOOKUP",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "summary": "Looked up 8690323482 (Vikram Laxman Vaishnav)"
-    },
-    {
-      "id": "376cf0ff-bbaf-4a0d-bfc6-ebf788f807ce",
-      "timestamp": "2026-10-21T10:51:54.455Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 9661130399 (Jawahar Lal Roy)"
     }
   ],
-  "lastTelegramUpdateId": 168809814,
+  "lastTelegramUpdateId": 168809816,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
