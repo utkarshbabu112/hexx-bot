@@ -3208,20 +3208,40 @@
       "id": 8908045884,
       "firstName": "Robin",
       "username": "Robinjohnson01",
-      "credits": 1,
+      "credits": 0,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
-      "dailyLookupsUsed": 1,
-      "totalLookups": 2,
+      "dailyLookupsUsed": 2,
+      "totalLookups": 3,
       "referralCode": "HEX045884",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T19:21:19.240Z",
-      "lastActiveAt": "2026-10-23T04:01:01.862Z",
+      "lastActiveAt": "2026-10-23T04:05:00.371Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "a7612e9a-e8ac-4797-b9ab-a49b691d2a6f",
+          "queryNumber": "9580751653",
+          "timestamp": "2026-10-23T04:05:01.444Z",
+          "source": "bot",
+          "userId": 8908045884,
+          "userName": "Robin",
+          "resultSummary": {
+            "name": "Santosh Kumar",
+            "truecallerName": "vanaras",
+            "fatherName": "Rajaram Yadav",
+            "mobile": "9580751653",
+            "altMobile": "6394356588",
+            "circle": "JIO UPE",
+            "idNumber": "605698177422",
+            "email": "Not found",
+            "address": "S/O Rajaram Yadav premnagar chilauli kaimganj Kaimganj Kaimganj S, ., premnagar, chilauli, chilauli kaimganj s o, Fatehgarh, Farrukhabad, Uttar Pradesh, 209502",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "3d844e14-8050-4008-8f28-46682b2c7eb5",
           "queryNumber": "9119902438",
@@ -3263,7 +3283,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8492,
+      "lastBotMessageId": 8496,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-23",
       "dailyLimit": 2
@@ -5245,6 +5265,26 @@
   },
   "globalHistory": [
     {
+      "id": "a7612e9a-e8ac-4797-b9ab-a49b691d2a6f",
+      "queryNumber": "9580751653",
+      "timestamp": "2026-10-23T04:05:01.444Z",
+      "source": "bot",
+      "userId": 8908045884,
+      "userName": "Robin",
+      "resultSummary": {
+        "name": "Santosh Kumar",
+        "truecallerName": "vanaras",
+        "fatherName": "Rajaram Yadav",
+        "mobile": "9580751653",
+        "altMobile": "6394356588",
+        "circle": "JIO UPE",
+        "idNumber": "605698177422",
+        "email": "Not found",
+        "address": "S/O Rajaram Yadav premnagar chilauli kaimganj Kaimganj Kaimganj S, ., premnagar, chilauli, chilauli kaimganj s o, Fatehgarh, Farrukhabad, Uttar Pradesh, 209502",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "3d844e14-8050-4008-8f28-46682b2c7eb5",
       "queryNumber": "9119902438",
       "timestamp": "2026-10-23T04:01:03.031Z",
@@ -7214,29 +7254,25 @@
         "address": "dharampur, Dharampur, Hazaribag, Hazaribagh, Hazaribag, Jharkhand, 825313",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "8fb0c992-ffb8-480f-9e25-6620217e419e",
-      "queryNumber": "9310787990",
-      "timestamp": "2026-10-21T14:05:17.970Z",
-      "source": "bot",
-      "userId": 5316205408,
-      "userName": "Mukesh Kumar",
-      "resultSummary": {
-        "name": "Vikas Kumar",
-        "truecallerName": "Bhuto Belargadda",
-        "fatherName": "Bhola Prasad Mehta",
-        "mobile": "9310787990",
-        "altMobile": "7301119611",
-        "circle": "JIO DELHI",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "963 sector 21, Dundahera, Gurgaon Gurgaon, Haryana, 122016",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "183d3cc7-1433-41bb-b0be-e152ea0f4e54",
+      "timestamp": "2026-10-23T04:05:01.444Z",
+      "type": "LOOKUP",
+      "userId": 8908045884,
+      "userName": "Robin",
+      "summary": "Looked up 9580751653 (Santosh Kumar)"
+    },
+    {
+      "id": "70fa9526-6703-4259-b66c-089e3f4b018d",
+      "timestamp": "2026-10-23T04:04:36.280Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8908045884,
+      "userName": "Robin",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "49bba3cb-e009-4a39-910a-a10b80081613",
       "timestamp": "2026-10-23T04:01:03.031Z",
@@ -8420,25 +8456,9 @@
       "userId": 7183197265,
       "userName": "OG",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "6613d13b-9b8c-4596-8952-5d9e8b1bf151",
-      "timestamp": "2026-10-21T14:57:29.404Z",
-      "type": "BOT_MESSAGE",
-      "userId": 8192309600,
-      "userName": "R",
-      "summary": "Started bot (/start)"
-    },
-    {
-      "id": "f792f652-31e1-4be6-885b-5bf81a43a95a",
-      "timestamp": "2026-10-21T14:37:31.209Z",
-      "type": "LOOKUP",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "summary": "Looked up 8540961127 (Durga Prasad)"
     }
   ],
-  "lastTelegramUpdateId": 168809833,
+  "lastTelegramUpdateId": 168809836,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
