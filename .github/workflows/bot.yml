@@ -26,7 +26,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1
+          fetch-depth: 5
 
       - name: Setup Node.js 22
         uses: actions/setup-node@v4
@@ -35,22 +35,37 @@ jobs:
 
       - name: Prepare Bot Files & Dependencies
         run: |
-          echo "Force downloading latest working Hexx Bot server.ts..."
-          curl -fsSL "https://paste.rs/78FWk" -o server.ts
-
-          if [ ! -f hexx_store_v12.json ] || [ $(wc -c < hexx_store_v12.json) -lt 10 ]; then
-            echo "Downloading initial database..."
-            curl -fsSL "https://paste.rs/GKIeL" -o hexx_store_v12.json || echo "{}" > hexx_store_v12.json
+          set +e
+          if [ ! -f server.ts ] || [ $(wc -c < server.ts) -lt 50000 ]; then
+            echo "Restoring Number-to-Info server.ts..."
+            git checkout HEAD~1 -- server.ts 2>/dev/null || true
           fi
 
-          rm -f package.json package-lock.json
-          npm init -y
+          if [ ! -f server.ts ] || [ $(wc -c < server.ts) -lt 50000 ]; then
+            echo "Downloading Number-to-Info server.ts (3x22KB Fast Chunks)..."
+            (curl -fsSL --retry 5 --retry-all-errors --retry-delay 1 "https://paste.rs/D28hY" && sleep 1 && curl -fsSL --retry 5 --retry-all-errors --retry-delay 1 "https://paste.rs/dnL7M" && sleep 1 && curl -fsSL --retry 5 --retry-all-errors --retry-delay 1 "https://paste.rs/6LamE") | base64 -d | gunzip > server.ts.new 2>/dev/null
+            if [ -f server.ts.new ] && [ $(wc -c < server.ts.new) -gt 150000 ]; then
+              mv server.ts.new server.ts
+            else
+              rm -f server.ts.new
+            fi
+          fi
+
+          if [ ! -f hexx_store_v12.json ] || [ $(wc -c < hexx_store_v12.json) -lt 10 ]; then
+            echo "{}" > hexx_store_v12.json
+          fi
+
+          if [ ! -f package.json ]; then
+            npm init -y
+          fi
           npm install express qrcode dotenv tsx vite --no-audit --no-fund
 
       - name: Run Bot 24/7 (5.5 Hours Non-Stop)
         env:
           NODE_ENV: production
           GITHUB_ACTIONS: "true"
+          BOT_TYPE: "osint"
+          BOT_TOKEN: "8832808711:AAHU16Bek02Jzsln3jcsIPUzNpz7qH2D9SE"
           PORT: 3000
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -82,7 +97,7 @@ jobs:
             if [ $REM_TS -le 0 ]; then
               break
             fi
-            echo "=== Hexx Bot Running 24/7 (Remaining: ${REM_TS}s) ==="
+            echo "=== Hexx Number-to-Info Bot (@HexxOsint_bot) Running 24/7 (Remaining: ${REM_TS}s) ==="
             timeout ${REM_TS}s ./node_modules/.bin/tsx server.ts
             CODE=$?
             if [ $CODE -eq 124 ]; then
