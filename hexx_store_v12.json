@@ -173,18 +173,18 @@
     "994758970": {
       "id": 994758970,
       "firstName": "DEEPAK SINGH",
-      "credits": 0,
+      "credits": 2,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
-      "dailyLookupsUsed": 2,
+      "dailyLookupsUsed": 0,
       "totalLookups": 2,
       "referralCode": "HEX758970",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-20T14:03:36.555Z",
-      "lastActiveAt": "2026-10-20T14:04:56.363Z",
+      "lastActiveAt": "2026-10-23T05:23:18.067Z",
       "isBanned": false,
       "history": [
         {
@@ -227,9 +227,9 @@
           }
         }
       ],
-      "lastBotMessageId": 7681,
+      "lastBotMessageId": 8512,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-20",
+      "lastLookupDate": "2026-10-23",
       "dailyLimit": 2
     },
     "1482397019": {
@@ -2589,20 +2589,60 @@
       "id": 5316205408,
       "firstName": "Mukesh Kumar",
       "username": "mukesh_lawyer",
-      "credits": 1,
+      "credits": 2,
       "isPremium": true,
       "premiumUntil": "2026-10-28T09:57:14.832Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 21,
-      "totalLookups": 49,
+      "dailyLookupsUsed": 2,
+      "totalLookups": 51,
       "referralCode": "HEX205408",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T09:50:47.189Z",
-      "lastActiveAt": "2026-10-22T15:52:18.390Z",
+      "lastActiveAt": "2026-10-23T05:19:17.146Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "853c69f4-4d7c-43eb-9301-b827b61c5343",
+          "queryNumber": "9661035965",
+          "timestamp": "2026-10-23T05:19:18.973Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Anil Kumar",
+            "truecallerName": "Anil Kumar Baksar",
+            "fatherName": "Harihar  Singh",
+            "mobile": "9661035965",
+            "altMobile": "Not found",
+            "circle": "AIRTEL BHR&JHR",
+            "idNumber": "855705472023",
+            "email": "Not found",
+            "address": "Village Turkchakia, Barka Nuawan, Buxar Pulia, Bihar, 802102",
+            "totalRecords": 3
+          }
+        },
+        {
+          "id": "ed1b84e6-c3a8-4abf-881c-ac7b2b289e73",
+          "queryNumber": "9798506157",
+          "timestamp": "2026-10-23T05:18:44.138Z",
+          "source": "bot",
+          "userId": 5316205408,
+          "userName": "Mukesh Kumar",
+          "resultSummary": {
+            "name": "Sumanti Devi",
+            "truecallerName": "Mami",
+            "fatherName": "Anil Kumar",
+            "mobile": "9798506157",
+            "altMobile": "9661035965",
+            "circle": "BIHAR JIO",
+            "idNumber": "970430180390",
+            "email": "Not found",
+            "address": "W/O Anil Kumar, Buxar Jail, TURK CHAKIYA, Buxar Barhampur, Buxar, Bihar, 802102",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "d0622b11-8fa0-440a-b534-dfdf59320919",
           "queryNumber": "9334324778",
@@ -2961,51 +3001,11 @@
             "address": "S/O Yadu Veer Prasad, Behind Patel Chhatrawash, PO- Gosa Murram Kala, Ramgarh , Jharkhand, 829122",
             "totalRecords": 4
           }
-        },
-        {
-          "id": "f7b2592d-5e67-4c2d-b959-29955c78b1a6",
-          "queryNumber": "8271040235",
-          "timestamp": "2026-10-22T08:53:54.630Z",
-          "source": "bot",
-          "userId": 5316205408,
-          "userName": "Mukesh Kumar",
-          "resultSummary": {
-            "name": "Mukesh Kumar",
-            "truecallerName": "Mukesh Bharti",
-            "fatherName": "Anirudh Prasad",
-            "mobile": "8271040235",
-            "altMobile": "Not found",
-            "circle": "AIRTEL BHR&JHR",
-            "idNumber": "Not found",
-            "email": "Not found",
-            "address": "Anirudh Prasad, Gandhi Maidan East, Matwari, Hazaribag, Hazaribagh, Jharkhand, 825301",
-            "totalRecords": 6
-          }
-        },
-        {
-          "id": "27d6b8c8-3cee-4ec2-997b-da02a9c960ae",
-          "queryNumber": "9852105070",
-          "timestamp": "2026-10-22T08:53:07.861Z",
-          "source": "bot",
-          "userId": 5316205408,
-          "userName": "Mukesh Kumar",
-          "resultSummary": {
-            "name": "Kamla Devi",
-            "truecallerName": "RTI Activist",
-            "fatherName": "Surendra Das",
-            "mobile": "8084388322",
-            "altMobile": "9852105070",
-            "circle": "JIO BHR&JHR",
-            "idNumber": "643673805053",
-            "email": "Not found",
-            "address": "W/O Surendra Das, Aurugerua, Aunru Hunterganj, Chatra, Jharkhand, 825401",
-            "totalRecords": 2
-          }
         }
       ],
-      "lastBotMessageId": 8394,
+      "lastBotMessageId": 8510,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-22",
+      "lastLookupDate": "2026-10-23",
       "lastPlanName": "7 DAYS PASS"
     },
     "6976365330": {
@@ -5305,6 +5305,46 @@
   },
   "globalHistory": [
     {
+      "id": "853c69f4-4d7c-43eb-9301-b827b61c5343",
+      "queryNumber": "9661035965",
+      "timestamp": "2026-10-23T05:19:18.973Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Anil Kumar",
+        "truecallerName": "Anil Kumar Baksar",
+        "fatherName": "Harihar  Singh",
+        "mobile": "9661035965",
+        "altMobile": "Not found",
+        "circle": "AIRTEL BHR&JHR",
+        "idNumber": "855705472023",
+        "email": "Not found",
+        "address": "Village Turkchakia, Barka Nuawan, Buxar Pulia, Bihar, 802102",
+        "totalRecords": 3
+      }
+    },
+    {
+      "id": "ed1b84e6-c3a8-4abf-881c-ac7b2b289e73",
+      "queryNumber": "9798506157",
+      "timestamp": "2026-10-23T05:18:44.138Z",
+      "source": "bot",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "resultSummary": {
+        "name": "Sumanti Devi",
+        "truecallerName": "Mami",
+        "fatherName": "Anil Kumar",
+        "mobile": "9798506157",
+        "altMobile": "9661035965",
+        "circle": "BIHAR JIO",
+        "idNumber": "970430180390",
+        "email": "Not found",
+        "address": "W/O Anil Kumar, Buxar Jail, TURK CHAKIYA, Buxar Barhampur, Buxar, Bihar, 802102",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "4c21608c-096e-4228-97e8-8c813a37850c",
       "queryNumber": "7827058066",
       "timestamp": "2026-10-23T05:00:53.097Z",
@@ -7254,49 +7294,33 @@
         "address": "Not found",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "5bcce63b-a037-4653-8871-caec632bb8da",
-      "queryNumber": "7503045011",
-      "timestamp": "2026-10-21T16:20:21.339Z",
-      "source": "bot",
-      "userId": 5316205408,
-      "userName": "Mukesh Kumar",
-      "resultSummary": {
-        "name": "MR. SHIV PUJAN PRASAD",
-        "truecallerName": "Shiv Ias",
-        "fatherName": "Krishna",
-        "mobile": "7503045011",
-        "altMobile": "8929381185",
-        "circle": "Delhi Voda",
-        "idNumber": "399934622429",
-        "email": "Not found",
-        "address": "C/O , A-223 Nehru Bihar Timarpur , A-223 Nehru Vihar , Nehru ViharNORTH DELHI , DELHI , NORTH DELHI , Delhi , 110054",
-        "totalRecords": 5
-      }
-    },
-    {
-      "id": "a4dd729a-911f-481f-b716-165e46ca3ce7",
-      "queryNumber": "8271040235",
-      "timestamp": "2026-10-21T16:18:07.001Z",
-      "source": "bot",
-      "userId": 5316205408,
-      "userName": "Mukesh Kumar",
-      "resultSummary": {
-        "name": "Mukesh Kumar",
-        "truecallerName": "Mukesh Bharti",
-        "fatherName": "Anirudh Prasad",
-        "mobile": "8271040235",
-        "altMobile": "Not found",
-        "circle": "AIRTEL BHR&JHR",
-        "idNumber": "Not found",
-        "email": "Not found",
-        "address": "Anirudh Prasad, Gandhi Maidan East, Matwari, Hazaribag, Hazaribagh, Jharkhand, 825301",
-        "totalRecords": 6
-      }
     }
   ],
   "logs": [
+    {
+      "id": "1e456fa2-793c-4727-9709-0d369b077ca6",
+      "timestamp": "2026-10-23T05:23:16.230Z",
+      "type": "BOT_MESSAGE",
+      "userId": 994758970,
+      "userName": "DEEPAK SINGH",
+      "summary": "Started bot (/start)"
+    },
+    {
+      "id": "8ea77de9-a1e6-41d9-9990-80f624432ceb",
+      "timestamp": "2026-10-23T05:19:18.973Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 9661035965 (Anil Kumar)"
+    },
+    {
+      "id": "68ba625f-575f-4f65-9129-f099a42e71ea",
+      "timestamp": "2026-10-23T05:18:44.138Z",
+      "type": "LOOKUP",
+      "userId": 5316205408,
+      "userName": "Mukesh Kumar",
+      "summary": "Looked up 9798506157 (Sumanti Devi)"
+    },
     {
       "id": "f6514adb-05da-4ac3-b892-f9a476415b1c",
       "timestamp": "2026-10-23T05:00:53.098Z",
@@ -8472,33 +8496,9 @@
       "userId": 7954471110,
       "userName": "Rakib",
       "summary": "Started bot (/start)"
-    },
-    {
-      "id": "dbbe89cf-3b41-4261-87d9-169783711ecb",
-      "timestamp": "2026-10-21T16:25:34.279Z",
-      "type": "LOOKUP",
-      "userId": 5316205408,
-      "userName": "Mukesh Kumar",
-      "summary": "Looked up 9304173260 (Ritesh Shah)"
-    },
-    {
-      "id": "9f164ea9-52e0-4266-8350-f0d92b43782a",
-      "timestamp": "2026-10-21T16:22:50.385Z",
-      "type": "LOOKUP",
-      "userId": 5316205408,
-      "userName": "Mukesh Kumar",
-      "summary": "Looked up 9006912539 (Nourin Parween)"
-    },
-    {
-      "id": "32a3a4df-376b-4016-97cf-ddaea1f6b0a8",
-      "timestamp": "2026-10-21T16:22:21.891Z",
-      "type": "LOOKUP",
-      "userId": 5316205408,
-      "userName": "Mukesh Kumar",
-      "summary": "Looked up 8652651450 (Kda Plstr Aniruddh)"
     }
   ],
-  "lastTelegramUpdateId": 168809843,
+  "lastTelegramUpdateId": 168809847,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
