@@ -1004,20 +1004,40 @@
     "8877490186": {
       "id": 8877490186,
       "firstName": "Ghb",
-      "credits": 0,
+      "credits": 1,
       "isPremium": true,
       "premiumUntil": "2026-10-28T02:51:11.808Z",
       "totalSpent": 19,
-      "dailyLookupsUsed": 17,
-      "totalLookups": 19,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 20,
       "referralCode": "HEX490186",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-19T12:28:10.921Z",
-      "lastActiveAt": "2026-10-21T14:37:30.212Z",
+      "lastActiveAt": "2026-10-23T03:10:04.912Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "13c0a4b5-70d0-4f18-9620-b62ffb313a55",
+          "queryNumber": "7701975525",
+          "timestamp": "2026-10-23T03:10:06.323Z",
+          "source": "bot",
+          "userId": 8877490186,
+          "userName": "Ghb",
+          "resultSummary": {
+            "name": "Ashwiny Kumar Dubey",
+            "truecallerName": "Ashwiny Kumar Dubey",
+            "fatherName": "Pradip Dubey",
+            "mobile": "7701975525",
+            "altMobile": "8860305449",
+            "circle": "JIO DELHI",
+            "idNumber": "738190685514",
+            "email": "ashwinydubey41@gmail.com",
+            "address": "f 72, shakur pur Delhi, Delhi North North West, Delhi, 110034",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "ad224574-cf5f-43f3-9080-98fe84fee6df",
           "queryNumber": "8540961127",
@@ -1138,8 +1158,8 @@
           }
         }
       ],
-      "lastLookupDate": "2026-10-21",
-      "lastBotMessageId": 7981,
+      "lastLookupDate": "2026-10-23",
+      "lastBotMessageId": 8488,
       "lastBotMessageHasPhoto": false,
       "dailyLimit": 1,
       "lastPlanName": "7 DAYS PASS"
@@ -5205,6 +5225,26 @@
   },
   "globalHistory": [
     {
+      "id": "13c0a4b5-70d0-4f18-9620-b62ffb313a55",
+      "queryNumber": "7701975525",
+      "timestamp": "2026-10-23T03:10:06.323Z",
+      "source": "bot",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "resultSummary": {
+        "name": "Ashwiny Kumar Dubey",
+        "truecallerName": "Ashwiny Kumar Dubey",
+        "fatherName": "Pradip Dubey",
+        "mobile": "7701975525",
+        "altMobile": "8860305449",
+        "circle": "JIO DELHI",
+        "idNumber": "738190685514",
+        "email": "ashwinydubey41@gmail.com",
+        "address": "f 72, shakur pur Delhi, Delhi North North West, Delhi, 110034",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "84d47dbc-3a10-4d2e-8666-d58ab8de9bd3",
       "queryNumber": "8347533687",
       "timestamp": "2026-10-23T01:50:01.338Z",
@@ -7174,29 +7214,25 @@
         "address": "S/O Birendra Kumar Sinha, 93, BANGALI COLONY, SARDAR CHOWK, po- hazaribag ps- sadar hazaribag, Hazaribag, Hazaribagh, Jharkhand, 825301",
         "totalRecords": 2
       }
-    },
-    {
-      "id": "6978d54f-a45d-4a96-8fb9-cd6994df9878",
-      "queryNumber": "8340670839",
-      "timestamp": "2026-10-21T12:23:33.822Z",
-      "source": "bot",
-      "userId": 1545684588,
-      "userName": "Shyam",
-      "resultSummary": {
-        "name": "Upendra Kumar",
-        "truecallerName": "Upender Kumar",
-        "fatherName": "Ramdas Mahto",
-        "mobile": "8340670839",
-        "altMobile": "8539807970",
-        "circle": "BIHAR JIO",
-        "idNumber": "312986052698",
-        "email": "Not found",
-        "address": "S/O Ramdas Mahto, Village - Mahsar Post - Bhadaus, Ps Sheikhpura, Mahsar Sheikhpura, Bihar, 811107",
-        "totalRecords": 2
-      }
     }
   ],
   "logs": [
+    {
+      "id": "4d8cfcec-1656-47d5-a11c-d5f504ffa0ff",
+      "timestamp": "2026-10-23T03:10:06.323Z",
+      "type": "LOOKUP",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "summary": "Looked up 7701975525 (Ashwiny Kumar Dubey)"
+    },
+    {
+      "id": "933bcae9-5af5-439b-ba21-179f8c31e525",
+      "timestamp": "2026-10-23T03:09:36.790Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8877490186,
+      "userName": "Ghb",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "3b90d4d1-3312-4e89-995c-9c5aa258453f",
       "timestamp": "2026-10-23T01:57:02.170Z",
@@ -8380,25 +8416,9 @@
       "userId": 5316205408,
       "userName": "Mukesh Kumar",
       "summary": "Looked up 9310787990 (Vikas Kumar)"
-    },
-    {
-      "id": "94334210-48f7-4dfc-92f0-e5467b648590",
-      "timestamp": "2026-10-21T14:00:27.034Z",
-      "type": "LOOKUP",
-      "userId": 5316205408,
-      "userName": "Mukesh Kumar",
-      "summary": "Looked up 9508930360 (Bineet Pushkar)"
-    },
-    {
-      "id": "7f830117-8336-4437-8deb-e9817f518d76",
-      "timestamp": "2026-10-21T12:23:33.822Z",
-      "type": "LOOKUP",
-      "userId": 1545684588,
-      "userName": "Shyam",
-      "summary": "Looked up 8340670839 (Upendra Kumar)"
     }
   ],
-  "lastTelegramUpdateId": 168809828,
+  "lastTelegramUpdateId": 168809830,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
