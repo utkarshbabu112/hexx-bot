@@ -3908,15 +3908,55 @@
       "premiumUntil": null,
       "totalSpent": 0,
       "dailyLookupsUsed": 2,
-      "totalLookups": 2,
+      "totalLookups": 4,
       "referralCode": "HEX917947",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-22T15:33:15.367Z",
-      "lastActiveAt": "2026-10-23T04:13:24.545Z",
+      "lastActiveAt": "2026-10-23T04:14:42.907Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "607ef2d9-be74-473d-bd26-595e09d9646b",
+          "queryNumber": "9116092119",
+          "timestamp": "2026-10-23T04:14:05.681Z",
+          "source": "bot",
+          "userId": 8926917947,
+          "userName": "Kiyotaka",
+          "resultSummary": {
+            "name": "junnu bhai",
+            "truecallerName": "junnu bhai",
+            "fatherName": "Not found",
+            "mobile": "9116092119",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
+        {
+          "id": "2de83e05-094f-4c5d-b6dd-a0315c082582",
+          "queryNumber": "9555486378",
+          "timestamp": "2026-10-23T04:13:39.747Z",
+          "source": "bot",
+          "userId": 8926917947,
+          "userName": "Kiyotaka",
+          "resultSummary": {
+            "name": "Satya Narayan Singh",
+            "truecallerName": "aps p sanjana",
+            "fatherName": "Bhuneshwar Singh",
+            "mobile": "9555486378",
+            "altMobile": "7696791294",
+            "circle": "JIO UPE",
+            "idNumber": "625356580194",
+            "email": "Not found",
+            "address": "323, Sulem sarai, Bhola ka pura, Sadar, Allahabad, Allahabad, Uttar Pradesh, 211011",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "de62cdc5-5aee-49ed-8e1c-498c4da8d260",
           "queryNumber": "8000796117",
@@ -3936,31 +3976,11 @@
             "address": "00 shrii nilkath timber mart sipor road mahesana Vadnagar",
             "totalRecords": 1
           }
-        },
-        {
-          "id": "346f865d-d1ca-4fa7-9513-cddefa40b9bf",
-          "queryNumber": "9116092119",
-          "timestamp": "2026-10-22T15:33:41.477Z",
-          "source": "bot",
-          "userId": 8926917947,
-          "userName": "Kiyotaka",
-          "resultSummary": {
-            "name": "Anuradha",
-            "truecallerName": "Anuradha",
-            "fatherName": "Not found",
-            "mobile": "9116092119",
-            "altMobile": "Not found",
-            "circle": "India",
-            "idNumber": "Not found",
-            "email": "Not found",
-            "address": "Not found",
-            "totalRecords": 1
-          }
         }
       ],
-      "lastBotMessageId": 8498,
+      "lastBotMessageId": 8504,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-22"
+      "lastLookupDate": "2026-10-23"
     },
     "8181360834": {
       "id": 8181360834,
@@ -5264,6 +5284,46 @@
     }
   },
   "globalHistory": [
+    {
+      "id": "607ef2d9-be74-473d-bd26-595e09d9646b",
+      "queryNumber": "9116092119",
+      "timestamp": "2026-10-23T04:14:05.681Z",
+      "source": "bot",
+      "userId": 8926917947,
+      "userName": "Kiyotaka",
+      "resultSummary": {
+        "name": "junnu bhai",
+        "truecallerName": "junnu bhai",
+        "fatherName": "Not found",
+        "mobile": "9116092119",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
+      "id": "2de83e05-094f-4c5d-b6dd-a0315c082582",
+      "queryNumber": "9555486378",
+      "timestamp": "2026-10-23T04:13:39.747Z",
+      "source": "bot",
+      "userId": 8926917947,
+      "userName": "Kiyotaka",
+      "resultSummary": {
+        "name": "Satya Narayan Singh",
+        "truecallerName": "aps p sanjana",
+        "fatherName": "Bhuneshwar Singh",
+        "mobile": "9555486378",
+        "altMobile": "7696791294",
+        "circle": "JIO UPE",
+        "idNumber": "625356580194",
+        "email": "Not found",
+        "address": "323, Sulem sarai, Bhola ka pura, Sadar, Allahabad, Allahabad, Uttar Pradesh, 211011",
+        "totalRecords": 1
+      }
+    },
     {
       "id": "a7612e9a-e8ac-4797-b9ab-a49b691d2a6f",
       "queryNumber": "9580751653",
@@ -7214,49 +7274,25 @@
         "address": "54, Dadi Kala, Barkagaon Chepa Kalan, Hazaribagh Chepakala Barkagaon, Jharkhand, 825311",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "ad224574-cf5f-43f3-9080-98fe84fee6df",
-      "queryNumber": "8540961127",
-      "timestamp": "2026-10-21T14:37:31.209Z",
-      "source": "bot",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "resultSummary": {
-        "name": "Durga Prasad",
-        "truecallerName": "Govind Cf",
-        "fatherName": "Rohan Prasad",
-        "mobile": "8540961127",
-        "altMobile": "Not found",
-        "circle": "AIRTEL BHR&JHR",
-        "idNumber": "991129356738",
-        "email": "Not found",
-        "address": "Hosir paschimi Post-Hosir, vill-Naiya toli, Hasir Gomia, Bokaro, Bokaro, Jharkhand, 829111",
-        "totalRecords": 1
-      }
-    },
-    {
-      "id": "ed8d787b-ff67-4747-aece-0e8460cd5b1a",
-      "queryNumber": "8409428230",
-      "timestamp": "2026-10-21T14:29:58.568Z",
-      "source": "bot",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "resultSummary": {
-        "name": "Deepak Saw",
-        "truecallerName": "Vikash Saw",
-        "fatherName": "Nandkishor Saw",
-        "mobile": "8409428230",
-        "altMobile": "Not found",
-        "circle": "AIRTEL BHR&JHR",
-        "idNumber": "414627595713",
-        "email": "Not found",
-        "address": "dharampur, Dharampur, Hazaribag, Hazaribagh, Hazaribag, Jharkhand, 825313",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "a8bb9777-226d-4937-9f43-1e896c402188",
+      "timestamp": "2026-10-23T04:14:05.681Z",
+      "type": "LOOKUP",
+      "userId": 8926917947,
+      "userName": "Kiyotaka",
+      "summary": "Looked up 9116092119 (junnu bhai)"
+    },
+    {
+      "id": "5dd1bdc5-5ff0-487c-b601-a4b28630b179",
+      "timestamp": "2026-10-23T04:13:39.747Z",
+      "type": "LOOKUP",
+      "userId": 8926917947,
+      "userName": "Kiyotaka",
+      "summary": "Looked up 9555486378 (Satya Narayan Singh)"
+    },
     {
       "id": "56ba1780-4eaa-4beb-a92e-0402edb0d32b",
       "timestamp": "2026-10-23T04:13:24.840Z",
@@ -8440,25 +8476,9 @@
       "userId": 5316205408,
       "userName": "Mukesh Kumar",
       "summary": "Looked up 7503045011 (MR. SHIV PUJAN PRASAD)"
-    },
-    {
-      "id": "41134ddd-453c-4867-89ae-4254af57a664",
-      "timestamp": "2026-10-21T16:18:07.001Z",
-      "type": "LOOKUP",
-      "userId": 5316205408,
-      "userName": "Mukesh Kumar",
-      "summary": "Looked up 8271040235 (Mukesh Kumar)"
-    },
-    {
-      "id": "524c22a1-4a8c-409b-86db-038a3d0d18fd",
-      "timestamp": "2026-10-21T16:17:38.399Z",
-      "type": "LOOKUP",
-      "userId": 5316205408,
-      "userName": "Mukesh Kumar",
-      "summary": "Looked up 8084191742 (Md Rabbani)"
     }
   ],
-  "lastTelegramUpdateId": 168809837,
+  "lastTelegramUpdateId": 168809840,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
