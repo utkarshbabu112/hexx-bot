@@ -3213,15 +3213,35 @@
       "premiumUntil": null,
       "totalSpent": 0,
       "dailyLookupsUsed": 1,
-      "totalLookups": 1,
+      "totalLookups": 2,
       "referralCode": "HEX045884",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-21T19:21:19.240Z",
-      "lastActiveAt": "2026-10-21T19:21:59.116Z",
+      "lastActiveAt": "2026-10-23T04:01:01.862Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "3d844e14-8050-4008-8f28-46682b2c7eb5",
+          "queryNumber": "9119902438",
+          "timestamp": "2026-10-23T04:01:03.031Z",
+          "source": "bot",
+          "userId": 8908045884,
+          "userName": "Robin",
+          "resultSummary": {
+            "name": "saraswati  satokshi 11",
+            "truecallerName": "saraswati  satokshi 11",
+            "fatherName": "Not found",
+            "mobile": "9119902438",
+            "altMobile": "Not found",
+            "circle": "India",
+            "idNumber": "Not found",
+            "email": "Not found",
+            "address": "Not found",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "b439fb6b-896e-4076-a8a0-cf65b2e195ec",
           "queryNumber": "7068217386",
@@ -3243,9 +3263,9 @@
           }
         }
       ],
-      "lastBotMessageId": 8055,
+      "lastBotMessageId": 8492,
       "lastBotMessageHasPhoto": false,
-      "lastLookupDate": "2026-10-21",
+      "lastLookupDate": "2026-10-23",
       "dailyLimit": 2
     },
     "8885212528": {
@@ -5225,6 +5245,26 @@
   },
   "globalHistory": [
     {
+      "id": "3d844e14-8050-4008-8f28-46682b2c7eb5",
+      "queryNumber": "9119902438",
+      "timestamp": "2026-10-23T04:01:03.031Z",
+      "source": "bot",
+      "userId": 8908045884,
+      "userName": "Robin",
+      "resultSummary": {
+        "name": "saraswati  satokshi 11",
+        "truecallerName": "saraswati  satokshi 11",
+        "fatherName": "Not found",
+        "mobile": "9119902438",
+        "altMobile": "Not found",
+        "circle": "India",
+        "idNumber": "Not found",
+        "email": "Not found",
+        "address": "Not found",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "13c0a4b5-70d0-4f18-9620-b62ffb313a55",
       "queryNumber": "7701975525",
       "timestamp": "2026-10-23T03:10:06.323Z",
@@ -7194,29 +7234,25 @@
         "address": "963 sector 21, Dundahera, Gurgaon Gurgaon, Haryana, 122016",
         "totalRecords": 1
       }
-    },
-    {
-      "id": "e1af320a-a505-41bb-ac92-0f3a1b74279a",
-      "queryNumber": "9508930360",
-      "timestamp": "2026-10-21T14:00:27.034Z",
-      "source": "bot",
-      "userId": 5316205408,
-      "userName": "Mukesh Kumar",
-      "resultSummary": {
-        "name": "Bineet Pushkar",
-        "truecallerName": "Anirudh Kr Singha 1",
-        "fatherName": "Birendra Kumar Sinha",
-        "mobile": "9508930360",
-        "altMobile": "Not found",
-        "circle": "BIHAR JIO",
-        "idNumber": "715760680986",
-        "email": "Not found",
-        "address": "S/O Birendra Kumar Sinha, 93, BANGALI COLONY, SARDAR CHOWK, po- hazaribag ps- sadar hazaribag, Hazaribag, Hazaribagh, Jharkhand, 825301",
-        "totalRecords": 2
-      }
     }
   ],
   "logs": [
+    {
+      "id": "49bba3cb-e009-4a39-910a-a10b80081613",
+      "timestamp": "2026-10-23T04:01:03.031Z",
+      "type": "LOOKUP",
+      "userId": 8908045884,
+      "userName": "Robin",
+      "summary": "Looked up 9119902438 (saraswati  satokshi 11)"
+    },
+    {
+      "id": "32b2258c-a5e7-472a-bfe7-678bbd8ec940",
+      "timestamp": "2026-10-23T04:00:48.742Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8908045884,
+      "userName": "Robin",
+      "summary": "Started bot (/start)"
+    },
     {
       "id": "4d8cfcec-1656-47d5-a11c-d5f504ffa0ff",
       "timestamp": "2026-10-23T03:10:06.323Z",
@@ -8400,25 +8436,9 @@
       "userId": 8877490186,
       "userName": "Ghb",
       "summary": "Looked up 8540961127 (Durga Prasad)"
-    },
-    {
-      "id": "df0c25b0-74a3-41f7-b20a-2a08412fe99e",
-      "timestamp": "2026-10-21T14:29:58.568Z",
-      "type": "LOOKUP",
-      "userId": 8877490186,
-      "userName": "Ghb",
-      "summary": "Looked up 8409428230 (Deepak Saw)"
-    },
-    {
-      "id": "15d3148f-6724-4704-879d-9bd4035406a9",
-      "timestamp": "2026-10-21T14:05:17.970Z",
-      "type": "LOOKUP",
-      "userId": 5316205408,
-      "userName": "Mukesh Kumar",
-      "summary": "Looked up 9310787990 (Vikas Kumar)"
     }
   ],
-  "lastTelegramUpdateId": 168809830,
+  "lastTelegramUpdateId": 168809833,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
