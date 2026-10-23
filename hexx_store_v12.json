@@ -419,7 +419,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-18T12:06:02.540Z",
-      "lastActiveAt": "2026-10-23T01:44:03.450Z",
+      "lastActiveAt": "2026-10-23T01:57:15.828Z",
       "isBanned": false,
       "history": [
         {
@@ -802,7 +802,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8478,
+      "lastBotMessageId": 8484,
       "lastBotMessageHasPhoto": false,
       "isAdminUnlocked": true,
       "lastLookupDate": "2026-10-23",
@@ -7198,6 +7198,14 @@
   ],
   "logs": [
     {
+      "id": "3b90d4d1-3312-4e89-995c-9c5aa258453f",
+      "timestamp": "2026-10-23T01:57:02.170Z",
+      "type": "BOT_MESSAGE",
+      "userId": 6672896116,
+      "userName": "UHTKARSH",
+      "summary": "Started bot (/start)"
+    },
+    {
       "id": "780e41a6-f8a6-42bb-9b3d-285bcb16e261",
       "timestamp": "2026-10-23T01:50:01.338Z",
       "type": "LOOKUP",
@@ -8388,17 +8396,9 @@
       "userId": 1545684588,
       "userName": "Shyam",
       "summary": "Looked up 8340670839 (Upendra Kumar)"
-    },
-    {
-      "id": "932d590f-a536-4a48-9e17-cd3366006233",
-      "timestamp": "2026-10-21T12:03:35.917Z",
-      "type": "LOOKUP",
-      "userId": 5316205408,
-      "userName": "Mukesh Kumar",
-      "summary": "Looked up 9110099737 (Sanjiv Ranjan)"
     }
   ],
-  "lastTelegramUpdateId": 168809822,
+  "lastTelegramUpdateId": 168809827,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
