@@ -1189,20 +1189,40 @@
       "id": 7933477413,
       "firstName": "HUNTER",
       "username": "Huluman108",
-      "credits": 0,
+      "credits": 1,
       "isPremium": false,
       "premiumUntil": null,
       "totalSpent": 0,
-      "dailyLookupsUsed": 2,
-      "totalLookups": 2,
+      "dailyLookupsUsed": 1,
+      "totalLookups": 3,
       "referralCode": "HEX477413",
       "referredBy": null,
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-19T12:28:10.924Z",
-      "lastActiveAt": "2026-10-22T15:06:09.486Z",
+      "lastActiveAt": "2026-10-23T05:00:51.824Z",
       "isBanned": false,
       "history": [
+        {
+          "id": "4c21608c-096e-4228-97e8-8c813a37850c",
+          "queryNumber": "7827058066",
+          "timestamp": "2026-10-23T05:00:53.097Z",
+          "source": "bot",
+          "userId": 7933477413,
+          "userName": "HUNTER",
+          "resultSummary": {
+            "name": "DHRUV KUMAR",
+            "truecallerName": "Ansh",
+            "fatherName": "MAHADEV PANDIT",
+            "mobile": "7827058066",
+            "altMobile": "8810694334",
+            "circle": "JIO DELHI",
+            "idNumber": "854853475075",
+            "email": "Not found",
+            "address": "10, MANDOLI ROAD, NA, SHAHADARA, Delhi East North East, NA, Delhi, 110093",
+            "totalRecords": 1
+          }
+        },
         {
           "id": "7e0629f2-4e79-4487-8c6c-34a75f1251ca",
           "queryNumber": "9263295352",
@@ -1244,10 +1264,10 @@
           }
         }
       ],
-      "lastBotMessageId": 8382,
+      "lastBotMessageId": 8506,
       "lastBotMessageHasPhoto": false,
       "dailyLimit": 2,
-      "lastLookupDate": "2026-10-22"
+      "lastLookupDate": "2026-10-23"
     },
     "8299737228": {
       "id": 8299737228,
@@ -5285,6 +5305,26 @@
   },
   "globalHistory": [
     {
+      "id": "4c21608c-096e-4228-97e8-8c813a37850c",
+      "queryNumber": "7827058066",
+      "timestamp": "2026-10-23T05:00:53.097Z",
+      "source": "bot",
+      "userId": 7933477413,
+      "userName": "HUNTER",
+      "resultSummary": {
+        "name": "DHRUV KUMAR",
+        "truecallerName": "Ansh",
+        "fatherName": "MAHADEV PANDIT",
+        "mobile": "7827058066",
+        "altMobile": "8810694334",
+        "circle": "JIO DELHI",
+        "idNumber": "854853475075",
+        "email": "Not found",
+        "address": "10, MANDOLI ROAD, NA, SHAHADARA, Delhi East North East, NA, Delhi, 110093",
+        "totalRecords": 1
+      }
+    },
+    {
       "id": "607ef2d9-be74-473d-bd26-595e09d9646b",
       "queryNumber": "9116092119",
       "timestamp": "2026-10-23T04:14:05.681Z",
@@ -7254,29 +7294,17 @@
         "address": "Anirudh Prasad, Gandhi Maidan East, Matwari, Hazaribag, Hazaribagh, Jharkhand, 825301",
         "totalRecords": 6
       }
-    },
-    {
-      "id": "3cf90bbc-f691-43bd-9b8a-b9758da0b8e5",
-      "queryNumber": "8084191742",
-      "timestamp": "2026-10-21T16:17:38.399Z",
-      "source": "bot",
-      "userId": 5316205408,
-      "userName": "Mukesh Kumar",
-      "resultSummary": {
-        "name": "Md Rabbani",
-        "truecallerName": "MD Rabbani",
-        "fatherName": "Ismail  Miyan",
-        "mobile": "8084191742",
-        "altMobile": "Not found",
-        "circle": "AIRTEL BHR&JHR",
-        "idNumber": "703726404384",
-        "email": "Not found",
-        "address": "54, Dadi Kala, Barkagaon Chepa Kalan, Hazaribagh Chepakala Barkagaon, Jharkhand, 825311",
-        "totalRecords": 1
-      }
     }
   ],
   "logs": [
+    {
+      "id": "f6514adb-05da-4ac3-b892-f9a476415b1c",
+      "timestamp": "2026-10-23T05:00:53.098Z",
+      "type": "LOOKUP",
+      "userId": 7933477413,
+      "userName": "HUNTER",
+      "summary": "Looked up 7827058066 (DHRUV KUMAR)"
+    },
     {
       "id": "a8bb9777-226d-4937-9f43-1e896c402188",
       "timestamp": "2026-10-23T04:14:05.681Z",
@@ -8468,17 +8496,9 @@
       "userId": 5316205408,
       "userName": "Mukesh Kumar",
       "summary": "Looked up 8652651450 (Kda Plstr Aniruddh)"
-    },
-    {
-      "id": "acd7dde7-3ed4-4616-aedc-bfa9427a1003",
-      "timestamp": "2026-10-21T16:20:21.339Z",
-      "type": "LOOKUP",
-      "userId": 5316205408,
-      "userName": "Mukesh Kumar",
-      "summary": "Looked up 7503045011 (MR. SHIV PUJAN PRASAD)"
     }
   ],
-  "lastTelegramUpdateId": 168809840,
+  "lastTelegramUpdateId": 168809843,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
