@@ -3914,7 +3914,7 @@
       "referralCount": 0,
       "referralCreditsEarned": 0,
       "joinedAt": "2026-10-22T15:33:15.367Z",
-      "lastActiveAt": "2026-10-22T15:34:34.956Z",
+      "lastActiveAt": "2026-10-23T04:13:24.545Z",
       "isBanned": false,
       "history": [
         {
@@ -3958,7 +3958,7 @@
           }
         }
       ],
-      "lastBotMessageId": 8392,
+      "lastBotMessageId": 8498,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22"
     },
@@ -7258,6 +7258,14 @@
   ],
   "logs": [
     {
+      "id": "56ba1780-4eaa-4beb-a92e-0402edb0d32b",
+      "timestamp": "2026-10-23T04:13:24.840Z",
+      "type": "BOT_MESSAGE",
+      "userId": 8926917947,
+      "userName": "Kiyotaka",
+      "summary": "Started bot (/start)"
+    },
+    {
       "id": "183d3cc7-1433-41bb-b0be-e152ea0f4e54",
       "timestamp": "2026-10-23T04:05:01.444Z",
       "type": "LOOKUP",
@@ -8448,17 +8456,9 @@
       "userId": 5316205408,
       "userName": "Mukesh Kumar",
       "summary": "Looked up 8084191742 (Md Rabbani)"
-    },
-    {
-      "id": "7da8cb84-aaf6-4952-a614-0d137bc21c34",
-      "timestamp": "2026-10-21T15:55:32.466Z",
-      "type": "BOT_MESSAGE",
-      "userId": 7183197265,
-      "userName": "OG",
-      "summary": "Started bot (/start)"
     }
   ],
-  "lastTelegramUpdateId": 168809836,
+  "lastTelegramUpdateId": 168809837,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
