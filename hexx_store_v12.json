@@ -4116,6 +4116,28 @@
       "lastBotMessageId": 8458,
       "lastBotMessageHasPhoto": false,
       "lastLookupDate": "2026-10-22"
+    },
+    "7830820261": {
+      "id": 7830820261,
+      "firstName": "Ace",
+      "username": "SpikeArc",
+      "credits": 2,
+      "isPremium": false,
+      "premiumUntil": null,
+      "totalSpent": 0,
+      "dailyLookupsUsed": 0,
+      "totalLookups": 0,
+      "referralCode": "HEX820261",
+      "referredBy": null,
+      "referralCount": 0,
+      "referralCreditsEarned": 0,
+      "joinedAt": "2026-10-23T00:24:55.227Z",
+      "lastActiveAt": "2026-10-23T00:26:07.267Z",
+      "isBanned": false,
+      "history": [],
+      "lastBotMessageId": 8466,
+      "lastBotMessageHasPhoto": false,
+      "lastLookupDate": "2026-10-23"
     }
   },
   "orders": {
@@ -7098,6 +7120,14 @@
   ],
   "logs": [
     {
+      "id": "cee22207-c631-449b-bd36-9b4d99ed9328",
+      "timestamp": "2026-10-23T00:24:55.521Z",
+      "type": "BOT_MESSAGE",
+      "userId": 7830820261,
+      "userName": "Ace",
+      "summary": "Started bot (/start)"
+    },
+    {
       "id": "c7edcf1a-eef2-4982-84a6-416b060e43b6",
       "timestamp": "2026-10-22T23:41:52.956Z",
       "type": "LOOKUP",
@@ -8288,17 +8318,9 @@
       "userId": 6672896116,
       "userName": "UHTKARSH",
       "summary": "Looked up 9661130399 (Jawahar Lal Roy)"
-    },
-    {
-      "id": "e0044edc-80b4-41d0-bf18-eeeefe9c09f9",
-      "timestamp": "2026-10-21T10:51:16.109Z",
-      "type": "LOOKUP",
-      "userId": 6672896116,
-      "userName": "UHTKARSH",
-      "summary": "Looked up 8521755516 (Deepak Kumar)"
     }
   ],
-  "lastTelegramUpdateId": 168809808,
+  "lastTelegramUpdateId": 168809814,
   "usedEmailIds": [
     "gmail_628",
     "gmail_629",
